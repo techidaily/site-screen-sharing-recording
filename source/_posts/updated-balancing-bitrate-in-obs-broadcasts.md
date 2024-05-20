@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Balancing Bitrate in OBS Broadcasts"
-date: 2024-05-18T06:30:39.102Z
-updated: 2024-05-19T06:30:39.102Z
+date: 2024-05-19T21:05:48.651Z
+updated: 2024-05-20T21:05:48.651Z
 tags: 
   - screen-recording
   - ai video
@@ -300,4 +300,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-iphone-xs-max-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock Apple iPhone XS Max When We Dont Have Apple ID or Password?</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/updated-in-2024-beginners-guide-to-making-audio-integrated-movies-without-costs/"><u>Updated In 2024, Beginners Guide to Making Audio-Integrated Movies Without Costs</u></a></li>
 </ul></div>
+
 

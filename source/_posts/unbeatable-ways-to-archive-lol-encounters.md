@@ -506,3 +506,4 @@ League of Legends is a high-end game and you cannot let recording in the backgro
 <li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-ken-burns-effect-tutorial-for-final-cut-pro-tips-tricks-and-best-practices/"><u>New The Ultimate Ken Burns Effect Tutorial for Final Cut Pro Tips, Tricks, and Best Practices</u></a></li>
 </ul></div>
 
+

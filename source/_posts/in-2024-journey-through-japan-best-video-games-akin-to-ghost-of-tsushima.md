@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Journey Through Japan  Best Video Games Akin to Ghost of Tsushima\""
-date: 2024-05-18T06:46:32.782Z
-updated: 2024-05-19T06:46:32.782Z
+date: 2024-05-19T21:06:24.329Z
+updated: 2024-05-20T21:06:24.329Z
 tags: 
   - screen-recording
   - ai video
@@ -634,4 +634,5 @@ Follow @Ollie Mattison
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-play-40c-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Play 40C.</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/new-convert-video-to-photo-a-step-by-step-guide-with-10-best-tools/"><u>New Convert Video to Photo A Step-by-Step Guide with 10 Best Tools</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Adjusting OBS Encoding Settings"
-date: 2024-05-18T06:53:30.474Z
-updated: 2024-05-19T06:53:30.474Z
+date: 2024-05-19T21:06:39.566Z
+updated: 2024-05-20T21:06:39.566Z
 tags: 
   - screen-recording
   - ai video
@@ -316,4 +316,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-apple-iphone-13-pro-max-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and Apple iPhone 13 Pro Max</u></a></li>
 <li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-oppo-a1-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Oppo A1 5G? Fix Now | Dr.fone</u></a></li>
 </ul></div>
+
 

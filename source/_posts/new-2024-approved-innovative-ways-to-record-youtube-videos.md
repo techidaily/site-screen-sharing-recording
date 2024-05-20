@@ -726,3 +726,4 @@ Depending on the device you are using, you have to follow the specific method on
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-make-glitch-effect-with-filmora/"><u>New In 2024, How to Make Glitch Effect with Filmora</u></a></li>
 </ul></div>
 
+

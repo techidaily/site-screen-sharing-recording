@@ -1,7 +1,7 @@
 ---
 title: "[New] A Deep Dive Into Fraps Recording Capabilities"
-date: 2024-05-18T06:49:19.341Z
-updated: 2024-05-19T06:49:19.341Z
+date: 2024-05-19T21:06:30.492Z
+updated: 2024-05-20T21:06:30.492Z
 tags: 
   - screen-recording
   - ai video
@@ -336,4 +336,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-infinix-smart-7-hd-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Infinix Smart 7 HD</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-vivo-v29e-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Vivo V29e Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

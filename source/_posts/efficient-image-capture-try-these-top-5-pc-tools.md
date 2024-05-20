@@ -506,3 +506,4 @@ For macOS 10.12 or later
 <li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-cinematic-storytelling-with-final-cut-pro-x-tips-and-techniques/"><u>Updated In 2024, Cinematic Storytelling with Final Cut Pro X Tips and Techniques</u></a></li>
 </ul></div>
 
+

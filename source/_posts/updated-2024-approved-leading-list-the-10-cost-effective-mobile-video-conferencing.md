@@ -766,3 +766,4 @@ Follow @Richard Bennett
 <li><a href="https://sound-tweaking.techidaily.com/new-all-about-the-wave-editor-essential-features-user-experiences-and-learning-modules/"><u>New All About the Wave Editor Essential Features, User Experiences, and Learning Modules</u></a></li>
 </ul></div>
 
+

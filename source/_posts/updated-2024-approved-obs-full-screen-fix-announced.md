@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Obs Full-Screen Fix Announced\""
-date: 2024-05-18T06:45:13.745Z
-updated: 2024-05-19T06:45:13.745Z
+date: 2024-05-19T21:06:21.292Z
+updated: 2024-05-20T21:06:21.292Z
 tags: 
   - screen-recording
   - ai video
@@ -280,4 +280,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-itel-p40plus-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Itel P40+ Photos  An Easy Method Explained.</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-plus-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s Plus To Android? | Dr.fone</u></a></li>
 </ul></div>
+
 

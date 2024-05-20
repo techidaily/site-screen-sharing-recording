@@ -564,3 +564,4 @@ If you are facing FBX recorder not working issue or you are not satisfied with t
 <li><a href="https://video-ai-editor.techidaily.com/new-in-2024-from-basic-to-brilliant-adding-fcp-x-effects-in-3-easy-steps/"><u>New In 2024, From Basic to Brilliant Adding FCP X Effects in 3 Easy Steps</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Video Recording Titans  OBS Studio vs Fraps Face-Off\""
-date: 2024-05-18T06:47:29.827Z
-updated: 2024-05-19T06:47:29.827Z
+date: 2024-05-19T21:06:26.254Z
+updated: 2024-05-20T21:06:26.254Z
 tags: 
   - screen-recording
   - ai video
@@ -280,4 +280,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://ai-topics.techidaily.com/new-in-2024-what-is-an-ai-video-maker/"><u>New In 2024, What Is an AI Video Maker?</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/updated-mac-alternatives-to-windows-movie-maker-top-picks-for-2024/"><u>Updated Mac Alternatives to Windows Movie Maker Top Picks for 2024</u></a></li>
 </ul></div>
+
 

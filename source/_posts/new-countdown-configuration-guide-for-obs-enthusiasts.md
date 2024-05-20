@@ -1,7 +1,7 @@
 ---
 title: "[New] Countdown Configuration Guide for OBS Enthusiasts"
-date: 2024-05-18T06:37:28.466Z
-updated: 2024-05-19T06:37:28.466Z
+date: 2024-05-19T21:06:03.729Z
+updated: 2024-05-20T21:06:03.729Z
 tags: 
   - screen-recording
   - ai video
@@ -270,4 +270,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-oppo-a78-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Oppo A78 to Other Android devices | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Realme GT Neo 5 SE? | Dr.fone</u></a></li>
 </ul></div>
+
 

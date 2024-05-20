@@ -465,3 +465,4 @@ Even though PlayStation 3 is not the latest gaming console and there is no built
 <li><a href="https://ai-editing-video.techidaily.com/new-discover-how-you-can-use-vectorscope-to-adjust-luminance-color-grading-and-more-in-your-video-editing-projects/"><u>New Discover How You Can Use Vectorscope to Adjust Luminance, Color Grading, and More in Your Video Editing Projects</u></a></li>
 </ul></div>
 
+

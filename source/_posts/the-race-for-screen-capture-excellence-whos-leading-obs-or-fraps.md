@@ -1,7 +1,7 @@
 ---
 title: "\"The Race for Screen Capture Excellence  Who's Leading? – OBS or Fraps\""
-date: 2024-05-18T06:32:46.139Z
-updated: 2024-05-19T06:32:46.139Z
+date: 2024-05-19T21:05:53.253Z
+updated: 2024-05-20T21:05:53.253Z
 tags: 
   - screen-recording
   - ai video
@@ -275,4 +275,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-audio-spectrum-architectures-curating-the-leading-8-templates-for-dynamic-video-soundscapes/"><u>Updated 2024 Approved Audio Spectrum Architectures Curating the Leading 8 Templates for Dynamic Video Soundscapes</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/new-in-2024-beyond-gopro-studio-top-picks-for-editing-your-adventure-videos/"><u>New In 2024, Beyond GoPro Studio Top Picks for Editing Your Adventure Videos</u></a></li>
 </ul></div>
+
 

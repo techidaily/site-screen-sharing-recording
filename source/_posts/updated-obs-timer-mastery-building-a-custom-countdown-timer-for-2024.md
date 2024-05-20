@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] OBS Timer Mastery  Building a Custom Countdown Timer for 2024\""
-date: 2024-05-18T06:46:25.733Z
-updated: 2024-05-19T06:46:25.733Z
+date: 2024-05-19T21:06:24.081Z
+updated: 2024-05-20T21:06:24.081Z
 tags: 
   - screen-recording
   - ai video
@@ -266,4 +266,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Poco F5 5G | Dr.fone</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-clear-sound-solution-removing-vocals-and-boosting-your-videos-impact/"><u>New In 2024, The Clear Sound Solution Removing Vocals and Boosting Your Videos Impact</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Innovative Use of Plugins for Skype Call Capture in OBS for 2024"
-date: 2024-05-18T06:53:18.708Z
-updated: 2024-05-19T06:53:18.708Z
+date: 2024-05-19T21:06:39.147Z
+updated: 2024-05-20T21:06:39.147Z
 tags: 
   - screen-recording
   - ai video
@@ -332,4 +332,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://video-content-creator.techidaily.com/new-optimize-your-rig-premiere-pro-system-requirements-and-setup-guide/"><u>New Optimize Your Rig Premiere Pro System Requirements and Setup Guide</u></a></li>
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-samsung-galaxy-s24plus-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Samsung Galaxy S24+</u></a></li>
 </ul></div>
+
 

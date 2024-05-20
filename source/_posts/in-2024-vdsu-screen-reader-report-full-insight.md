@@ -339,3 +339,4 @@ There may be a lot of other similar applications like VSDC on the internet out t
 <li><a href="https://audio-shaping.techidaily.com/building-a-gradual-audio-fade-out-feature-in-multimedia-projects/"><u>Building a Gradual Audio Fade-Out Feature in Multimedia Projects</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Urban Escapades  Top 10 Games Akin to GTA V\""
-date: 2024-05-18T06:32:43.458Z
-updated: 2024-05-19T06:32:43.458Z
+date: 2024-05-19T21:05:53.156Z
+updated: 2024-05-20T21:05:53.156Z
 tags: 
   - screen-recording
   - ai video
@@ -886,4 +886,5 @@ So, this was our list of 10 best games like GTA 5\. We tried our best to keep th
 <li><a href="https://ai-editing-video.techidaily.com/how-to-create-a-glitch-text-effect-in-2024/"><u>How to Create a Glitch Text Effect, In 2024</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-iphone-12-mini-by-drfone-ios/"><u>How to Fix Locked Apple ID on iPhone 12 mini</u></a></li>
 </ul></div>
+
 

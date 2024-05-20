@@ -763,3 +763,4 @@ Professional or catchy looking screen recordings are the icing on the pie for bl
 <li><a href="https://techidaily.com/three-solutions-to-hard-reset-itel-a05s-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Itel A05s? | Dr.fone</u></a></li>
 </ul></div>
 
+

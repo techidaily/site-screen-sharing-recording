@@ -330,3 +330,4 @@ For macOS 10.12 or later
 <li><a href="https://smart-video-editing.techidaily.com/new-in-2024-smooth-cuts-ahead-3-ways-to-add-transitions-in-fcp/"><u>New In 2024, Smooth Cuts Ahead 3 Ways to Add Transitions in FCP</u></a></li>
 </ul></div>
 
+

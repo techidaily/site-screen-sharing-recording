@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Essential Tips for Capturing Evening Portraits"
-date: 2024-05-18T06:40:28.391Z
-updated: 2024-05-19T06:40:28.391Z
+date: 2024-05-19T21:06:09.962Z
+updated: 2024-05-20T21:06:09.962Z
 tags: 
   - screen-recording
   - ai video
@@ -164,4 +164,5 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-art-of-cinematic-editing-a-final-cut-pro-x-tutorial/"><u>New 2024 Approved The Art of Cinematic Editing A Final Cut Pro X Tutorial</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/2024-approved-best-auto-music-mixer-for-mac/"><u>2024 Approved Best Auto Music Mixer for Mac</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Enrich Video Narrative with Slow Motion on iPhone"
-date: 2024-05-18T06:54:39.877Z
-updated: 2024-05-19T06:54:39.877Z
+date: 2024-05-19T21:06:41.904Z
+updated: 2024-05-20T21:06:41.904Z
 tags: 
   - screen-recording
   - ai video
@@ -541,4 +541,5 @@ iPhone offers various easy-to-use and creative tools and apps for producing inno
 <li><a href="https://ai-vdieo-software.techidaily.com/new-free-filmora-13-download-edit-videos-like-a-pro/"><u>New Free Filmora 13 Download Edit Videos Like a Pro</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/add-a-touch-of-pro-best-bokeh-effect-apps-for-iphone-and-android/"><u>Add a Touch of Pro Best Bokeh Effect Apps for iPhone and Android</u></a></li>
 </ul></div>
+
 

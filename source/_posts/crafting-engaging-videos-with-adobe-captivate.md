@@ -1,7 +1,7 @@
 ---
 title: "Crafting Engaging Videos with Adobe Captivate"
-date: 2024-05-18T06:41:53.376Z
-updated: 2024-05-19T06:41:53.376Z
+date: 2024-05-19T21:06:12.865Z
+updated: 2024-05-20T21:06:12.865Z
 tags: 
   - screen-recording
   - ai video
@@ -420,4 +420,5 @@ Follow @Max Wales
 <li><a href="https://phone-solutions.techidaily.com/filter-not-working-error-in-excel-2023-fix-2024-stellar-by-stellar-guide/"><u>Filter Not Working Error in Excel 2023 Fix 2024 | Stellar</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-sign-dot-file-by-digital-signature-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .dot file by digital signature</u></a></li>
 </ul></div>
+
 

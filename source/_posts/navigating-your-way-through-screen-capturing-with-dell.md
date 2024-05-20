@@ -240,3 +240,4 @@ We have stated all the different ways to record the screen of your Dell laptop. 
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-infinix-smart-7-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Infinix Smart 7 Screen to PC Using WiFi | Dr.fone</u></a></li>
 </ul></div>
 
+

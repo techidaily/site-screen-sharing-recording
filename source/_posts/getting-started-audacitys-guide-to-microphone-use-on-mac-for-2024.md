@@ -1,7 +1,7 @@
 ---
 title: "\"Getting Started  Audacity's Guide to Microphone Use on Mac for 2024\""
-date: 2024-05-18T06:36:40.570Z
-updated: 2024-05-19T06:36:40.570Z
+date: 2024-05-19T21:06:01.610Z
+updated: 2024-05-20T21:06:01.610Z
 tags: 
   - screen-recording
   - ai video
@@ -271,4 +271,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-oppo-reno-10-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Oppo Reno 10 5G Is Unlocked</u></a></li>
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-vivo-y36-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Vivo Y36</u></a></li>
 </ul></div>
+
 

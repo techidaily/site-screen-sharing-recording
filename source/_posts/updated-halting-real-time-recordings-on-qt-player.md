@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Halting Real-Time Recordings on QT Player\""
-date: 2024-05-18T06:36:53.224Z
-updated: 2024-05-19T06:36:53.224Z
+date: 2024-05-19T21:06:02.094Z
+updated: 2024-05-20T21:06:02.094Z
 tags: 
   - screen-recording
   - ai video
@@ -428,4 +428,5 @@ QuickTime Player is the ideal application on Mac for playing audio and video. It
 <li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-motorola-defy-2-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Motorola Defy 2 | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-13-pro-max-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone 13 Pro Max to Excel CSV & vCard Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

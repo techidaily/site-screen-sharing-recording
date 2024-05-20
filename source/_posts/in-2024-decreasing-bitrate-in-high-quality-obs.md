@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Decreasing Bitrate in High-Quality OBS\""
-date: 2024-05-18T06:50:19.220Z
-updated: 2024-05-19T06:50:19.220Z
+date: 2024-05-19T21:06:32.717Z
+updated: 2024-05-20T21:06:32.717Z
 tags: 
   - screen-recording
   - ai video
@@ -277,4 +277,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Tecno Phantom V Fold? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-hot-40-bootloader-easily-by-drfone-android/"><u>How to Unlock Infinix Hot 40 Bootloader Easily</u></a></li>
 </ul></div>
+
 

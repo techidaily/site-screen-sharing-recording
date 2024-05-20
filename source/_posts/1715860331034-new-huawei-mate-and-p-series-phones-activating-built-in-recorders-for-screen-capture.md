@@ -389,3 +389,4 @@ Follow @Max Wales
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-infinix-by-fonelab-android-recover-data/"><u>The way to get back lost data from Infinix</u></a></li>
 </ul></div>
 
+

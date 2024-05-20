@@ -1,7 +1,7 @@
 ---
 title: "[New] Superior Screen Capture for Ubuntu Users"
-date: 2024-05-18T06:43:17.669Z
-updated: 2024-05-19T06:43:17.669Z
+date: 2024-05-19T21:06:15.760Z
+updated: 2024-05-20T21:06:15.760Z
 tags: 
   - screen-recording
   - ai video
@@ -724,4 +724,5 @@ Assuming you at any point need to record your screen on Ubuntu Linux, there are 
 <li><a href="https://sound-optimizing.techidaily.com/updated-the-ultimate-guide-to-implementing-audio-keyframes-using-adobe-premiere-pro-for-mac-users/"><u>Updated The Ultimate Guide to Implementing Audio Keyframes Using Adobe Premiere Pro for Mac Users</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-motorola-edge-40-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Motorola Edge 40? Fixed | Dr.fone</u></a></li>
 </ul></div>
+
 

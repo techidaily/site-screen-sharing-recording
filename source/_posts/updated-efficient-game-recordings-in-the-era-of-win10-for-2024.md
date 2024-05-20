@@ -419,3 +419,4 @@ We have answered your question on how to record gameplay on PC Windows 10\. You 
 <li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-lava-yuva-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Lava Yuva 2 Pro | Dr.fone</u></a></li>
 </ul></div>
 
+

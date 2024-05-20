@@ -466,3 +466,4 @@ If you are a Mac user, QuickTime player screen recording with audio is available
 <li><a href="https://audio-shaping.techidaily.com/new-3-budget-friendly-ways-to-seamlessly-add-soundtracks-to-your-videos/"><u>New 3 Budget-Friendly Ways to Seamlessly Add Soundtracks to Your Videos</u></a></li>
 </ul></div>
 
+

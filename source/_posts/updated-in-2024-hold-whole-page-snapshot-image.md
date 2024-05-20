@@ -532,3 +532,4 @@ Follow @Max Wales
 <li><a href="https://animation-videos.techidaily.com/new-everything-you-need-to-know-about-becoming-a-motion-graphic-designer/"><u>New Everything You Need to Know About Becoming a Motion Graphic Designer</u></a></li>
 </ul></div>
 
+

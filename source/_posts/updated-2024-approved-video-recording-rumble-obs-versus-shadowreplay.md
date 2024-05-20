@@ -258,3 +258,4 @@ If you want to record high-end games, ShadowPlay is ideal as it does not affect 
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-motion-text-effects-for-your-video/"><u>New How to Create Motion Text Effects for Your Video?</u></a></li>
 </ul></div>
 
+

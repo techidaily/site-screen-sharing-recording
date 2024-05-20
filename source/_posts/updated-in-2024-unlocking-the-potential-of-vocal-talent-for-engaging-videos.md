@@ -418,3 +418,4 @@ Recording voice over for videos is no more a magic. We have illustrated all the 
 <li><a href="https://smart-video-creator.techidaily.com/cant-use-subtitle-edit-on-mac-discover-these-awesome-alternatives/"><u>Cant Use Subtitle Edit on Mac? Discover These Awesome Alternatives</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Seamlessly Integrate the Ken Burns Effect Into Camtasia"
-date: 2024-05-18T06:53:12.795Z
-updated: 2024-05-19T06:53:12.795Z
+date: 2024-05-19T21:06:38.971Z
+updated: 2024-05-20T21:06:38.971Z
 tags: 
   - screen-recording
   - ai video
@@ -337,4 +337,5 @@ Follow @Max Wales
 <li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-on-apple-iphone-6-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password On Apple iPhone 6</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Realme C33 2023 | Dr.fone</u></a></li>
 </ul></div>
+
 

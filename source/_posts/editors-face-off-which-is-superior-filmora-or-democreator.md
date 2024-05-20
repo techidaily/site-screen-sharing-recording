@@ -261,3 +261,4 @@ Follow @Max Wales
 <li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Oppo A2? | Dr.fone</u></a></li>
 </ul></div>
 
+

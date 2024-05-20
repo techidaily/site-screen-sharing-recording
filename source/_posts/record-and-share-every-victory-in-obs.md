@@ -1,7 +1,7 @@
 ---
 title: "Record & Share Every Victory in OBS"
-date: 2024-05-18T06:34:30.371Z
-updated: 2024-05-19T06:34:30.371Z
+date: 2024-05-19T21:05:56.834Z
+updated: 2024-05-20T21:05:56.834Z
 tags: 
   - screen-recording
   - ai video
@@ -392,4 +392,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://sound-optimizing.techidaily.com/updated-from-silence-to-symphony-the-complete-process-of-adding-music-to-kinemaster-for-2024/"><u>Updated From Silence to Symphony The Complete Process of Adding Music to KineMaster for 2024</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/2024-approved-mastering-vocaroo-a-comprehensive-guide-for-voice-capture-techniques/"><u>2024 Approved Mastering Vocaroo A Comprehensive Guide for Voice Capture Techniques</u></a></li>
 </ul></div>
+
 

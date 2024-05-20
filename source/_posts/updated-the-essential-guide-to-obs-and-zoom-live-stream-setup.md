@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Essential Guide to OBS and Zoom Live Stream Setup"
-date: 2024-05-18T06:38:47.861Z
-updated: 2024-05-19T06:38:47.861Z
+date: 2024-05-19T21:06:06.303Z
+updated: 2024-05-20T21:06:06.303Z
 tags: 
   - screen-recording
   - ai video
@@ -424,4 +424,5 @@ OBS enables recording into several video formats. But the major reason why you m
 <li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-on-your-iphone-se-2020-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock on your iPhone SE (2020) and iPad?</u></a></li>
 <li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Infinix Smart 8 Plus? | Dr.fone</u></a></li>
 </ul></div>
+
 

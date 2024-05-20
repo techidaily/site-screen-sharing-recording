@@ -619,3 +619,4 @@ Follow @Richard Bennett
 <li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-tecno-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Tecno</u></a></li>
 </ul></div>
 
+

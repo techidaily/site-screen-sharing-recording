@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  OBS High Encoding - How to Fix\""
-date: 2024-05-18T06:52:46.522Z
-updated: 2024-05-19T06:52:46.522Z
+date: 2024-05-19T21:06:38.126Z
+updated: 2024-05-20T21:06:38.126Z
 tags: 
   - screen-recording
   - ai video
@@ -294,4 +294,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-poco-x6-pro-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Poco X6 Pro Isnt Compatible | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-infinix-note-30-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Infinix Note 30 5G Devices</u></a></li>
 </ul></div>
+
 

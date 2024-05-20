@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering Video Quality in OBS"
-date: 2024-05-18T06:46:04.635Z
-updated: 2024-05-19T06:46:04.635Z
+date: 2024-05-19T21:06:23.368Z
+updated: 2024-05-20T21:06:23.368Z
 tags: 
   - screen-recording
   - ai video
@@ -266,4 +266,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://video-ai-editor.techidaily.com/new-master-flv-video-editing-on-windows-8-tips-and-tricks-for-2024/"><u>New Master FLV Video Editing on Windows 8 Tips and Tricks for 2024</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6s-plus-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6s Plus To Android? | Dr.fone</u></a></li>
 </ul></div>
+
 

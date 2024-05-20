@@ -1,7 +1,7 @@
 ---
 title: "[Updated] IShowU Audio Capture Review"
-date: 2024-05-18T06:41:41.020Z
-updated: 2024-05-19T06:41:41.020Z
+date: 2024-05-19T21:06:12.458Z
+updated: 2024-05-20T21:06:12.458Z
 tags: 
   - screen-recording
   - ai video
@@ -418,4 +418,5 @@ Apple has now disabled the function of capturing internal and desktop sound in a
 <li><a href="https://audio-shaping.techidaily.com/the-art-of-leveraging-tension-evoking-soundtracks-in-cinematic-compositions/"><u>The Art of Leveraging Tension-Evoking Soundtracks in Cinematic Compositions</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Nokia C110 | Dr.fone</u></a></li>
 </ul></div>
+
 

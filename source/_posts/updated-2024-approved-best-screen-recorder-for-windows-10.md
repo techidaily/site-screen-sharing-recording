@@ -1025,3 +1025,4 @@ By reading this passage, you must know how easy could be to capture and record y
 <li><a href="https://ai-video-editing.techidaily.com/create-dynamic-text-animation-in-filmora/"><u>Create Dynamic Text Animation in Filmora</u></a></li>
 </ul></div>
 
+

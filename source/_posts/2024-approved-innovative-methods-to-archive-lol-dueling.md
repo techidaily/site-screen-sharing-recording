@@ -500,3 +500,4 @@ League of Legends is a high-end game and you cannot let recording in the backgro
 <li><a href="https://screen-mirror.techidaily.com/a-guide-infinix-smart-8-hd-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Infinix Smart 8 HD Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 </ul></div>
 
+

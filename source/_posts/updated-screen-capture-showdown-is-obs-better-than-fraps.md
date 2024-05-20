@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Screen Capture Showdown  Is OBS Better Than Fraps?\""
-date: 2024-05-18T06:30:09.086Z
-updated: 2024-05-19T06:30:09.086Z
+date: 2024-05-19T21:05:47.145Z
+updated: 2024-05-20T21:05:47.145Z
 tags: 
   - screen-recording
   - ai video
@@ -249,4 +249,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-pinnacletrack-audio-editor-comprehensive-mp3-tagging-capabilities-for-windows-and-mac/"><u>Updated 2024 Approved PinnacleTrack Audio Editor Comprehensive MP3 Tagging Capabilities for Windows & Mac</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-convert-youtube-videos-to-mp4-with-ease-best-tools/"><u>New 2024 Approved Convert YouTube Videos to MP4 with Ease Best Tools</u></a></li>
 </ul></div>
+
 

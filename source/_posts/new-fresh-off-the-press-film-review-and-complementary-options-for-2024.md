@@ -604,3 +604,4 @@ With Debut Video Capture, the video quality is good and the way that working wit
 <li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-itel-p40-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Itel P40 Quickly | Dr.fone</u></a></li>
 </ul></div>
 
+

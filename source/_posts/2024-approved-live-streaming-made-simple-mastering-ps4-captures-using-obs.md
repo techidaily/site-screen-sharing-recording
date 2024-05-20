@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Live Streaming Made Simple  Mastering PS4 Captures Using OBS\""
-date: 2024-05-18T06:40:45.333Z
-updated: 2024-05-19T06:40:45.333Z
+date: 2024-05-19T21:06:10.554Z
+updated: 2024-05-20T21:06:10.554Z
 tags: 
   - screen-recording
   - ai video
@@ -361,4 +361,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://techidaily.com/best-fixes-for-xiaomi-redmi-13c-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Xiaomi Redmi 13C 5G Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-a1-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on A1 5G</u></a></li>
 </ul></div>
+
 

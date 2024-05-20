@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, DigitalDiary Pro  Rich Windows/Mac Screen Capture\""
-date: 2024-05-18T06:33:17.660Z
-updated: 2024-05-19T06:33:17.660Z
+date: 2024-05-19T21:05:54.308Z
+updated: 2024-05-20T21:05:54.308Z
 tags: 
   - screen-recording
   - ai video
@@ -1239,4 +1239,5 @@ Follow @Max Wales
 <li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-building-a-gradual-audio-fade-out-feature-in-multimedia-projects/"><u>Updated 2024 Approved Building a Gradual Audio Fade-Out Feature in Multimedia Projects</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/updated-from-zero-to-hero-creating-a-countdown-timer-in-fcpx-for-2024/"><u>Updated From Zero to Hero Creating a Countdown Timer in FCPX for 2024</u></a></li>
 </ul></div>
+
 

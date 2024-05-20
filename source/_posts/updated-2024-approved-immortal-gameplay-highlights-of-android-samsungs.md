@@ -538,3 +538,4 @@ Follow @Max Wales
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-edge-40-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Edge 40 to Samsung Phone | Dr.fone</u></a></li>
 </ul></div>
 
+

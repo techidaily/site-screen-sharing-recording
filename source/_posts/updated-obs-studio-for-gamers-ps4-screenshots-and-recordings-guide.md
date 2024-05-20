@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] OBS Studio for Gamers  PS4 Screenshots & Recordings Guide\""
-date: 2024-05-18T06:44:17.765Z
-updated: 2024-05-19T06:44:17.765Z
+date: 2024-05-19T21:06:18.204Z
+updated: 2024-05-20T21:06:18.204Z
 tags: 
   - screen-recording
   - ai video
@@ -355,4 +355,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-whatsapp-status-pro-top-apps-for-eye-catching-content/"><u>2024 Approved WhatsApp Status Pro Top Apps for Eye-Catching Content</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-mastering-sonic-transformation-a-list-of-top-5-audio-alteration-software/"><u>Updated In 2024, Mastering Sonic Transformation A List of Top 5 Audio Alteration Software</u></a></li>
 </ul></div>
+
 

@@ -410,3 +410,4 @@ QuickTime Player is the ideal application on Mac for playing audio and video. It
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nokia-g42-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nokia G42 5G to Other Android Devices? | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -202,3 +202,4 @@ The easiest way to record the screen on your Android device is by using the inbu
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-max-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro Max to other iPhone 11 devices? | Dr.fone</u></a></li>
 </ul></div>
 
+

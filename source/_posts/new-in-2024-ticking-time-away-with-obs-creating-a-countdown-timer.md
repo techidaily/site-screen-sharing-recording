@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Ticking Time Away with OBS  Creating a Countdown Timer\""
-date: 2024-05-18T06:44:11.831Z
-updated: 2024-05-19T06:44:11.831Z
+date: 2024-05-19T21:06:17.675Z
+updated: 2024-05-20T21:06:17.675Z
 tags: 
   - screen-recording
   - ai video
@@ -257,4 +257,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://ai-video-tools.techidaily.com/updated-if-you-want-to-use-quicktime-player-to-speed-up-your-videos-you-must-know-the-proper-steps-and-details-read-this-guide-to-learn-about-essential-tips/"><u>Updated If You Want to Use QuickTime Player to Speed up Your Videos, You Must Know the Proper Steps and Details. Read This Guide to Learn About Essential Tips to Follow While Speeding up a Video on QuickTime Player for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-learn-to-merge-clips-in-davinci-resolve-simple-steps/"><u>New Learn to Merge Clips in DaVinci Resolve Simple Steps</u></a></li>
 </ul></div>
+
 

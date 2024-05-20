@@ -1,7 +1,7 @@
 ---
 title: "Simplified Guide to Using Virtual Whiteboards in Zoom Platforms"
-date: 2024-05-18T06:37:12.688Z
-updated: 2024-05-19T06:37:12.688Z
+date: 2024-05-19T21:06:03.172Z
+updated: 2024-05-20T21:06:03.172Z
 tags: 
   - screen-recording
   - ai video
@@ -565,4 +565,5 @@ Follow @Richard Bennett
 <li><a href="https://sound-tweaking.techidaily.com/in-2024-how-to-use-audacity-for-podcasts/"><u>In 2024, How to Use Audacity for Podcasts</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-vivo-t2-pro-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Vivo T2 Pro 5G Without Them Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

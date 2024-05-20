@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Complete Guide to Understanding OBS Screen Capture\""
-date: 2024-05-18T06:34:01.041Z
-updated: 2024-05-19T06:34:01.041Z
+date: 2024-05-19T21:05:55.809Z
+updated: 2024-05-20T21:05:55.809Z
 tags: 
   - screen-recording
   - ai video
@@ -508,4 +508,5 @@ OBS is a splendid application to make web-based recordings happen and stream cat
 <li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-oppo-a56s-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Oppo A56s 5G</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/new-2024-approved-premiere-pro-transition-essentials-top-10-plugins-you-need/"><u>New 2024 Approved Premiere Pro Transition Essentials Top 10 Plugins You Need</u></a></li>
 </ul></div>
+
 

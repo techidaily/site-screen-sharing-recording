@@ -1035,3 +1035,4 @@ After reading this article you must have been awarded of the top alternatives to
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-track-and-blur-faces-in-premiere-pro/"><u>Updated How To Track and Blur Faces in Premiere Pro</u></a></li>
 </ul></div>
 
+

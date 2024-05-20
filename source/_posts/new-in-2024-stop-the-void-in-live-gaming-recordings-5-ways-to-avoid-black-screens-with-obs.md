@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Stop the Void in Live Gaming Recordings  5 Ways to Avoid Black Screens with OBS\""
-date: 2024-05-18T06:45:44.245Z
-updated: 2024-05-19T06:45:44.245Z
+date: 2024-05-19T21:06:22.394Z
+updated: 2024-05-20T21:06:22.394Z
 tags: 
   - screen-recording
   - ai video
@@ -248,4 +248,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-glitch-video-editors-for-mobile-devices/"><u>2024 Approved Best Glitch Video Editors for Mobile Devices</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-oppo-reno-8t-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Oppo Reno 8T via a USB Cable | Dr.fone</u></a></li>
 </ul></div>
+
 

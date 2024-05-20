@@ -1,7 +1,7 @@
 ---
 title: "[New] The Essential Audacity Manual for Mac Audio Capture"
-date: 2024-05-18T06:49:52.808Z
-updated: 2024-05-19T06:49:52.808Z
+date: 2024-05-19T21:06:31.740Z
+updated: 2024-05-20T21:06:31.740Z
 tags: 
   - screen-recording
   - ai video
@@ -277,4 +277,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-how-to-add-subtitlescaptions-in-final-cut-pro-x/"><u>Updated In 2024, How to Add Subtitles/Captions in Final Cut Pro X?</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-your-samsung-galaxy-s23-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Samsung Galaxy S23 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

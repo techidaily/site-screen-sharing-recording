@@ -563,3 +563,4 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-top-tips-for-camtasia-freeze-frame/"><u>Updated 2024 Approved Top Tips for Camtasia Freeze-Frame</u></a></li>
 </ul></div>
 
+

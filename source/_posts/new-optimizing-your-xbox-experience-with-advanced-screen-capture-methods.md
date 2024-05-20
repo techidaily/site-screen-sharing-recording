@@ -598,3 +598,4 @@ Hopefully, you have understood how to record screen with Xbox game bar directly.
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-oneplus-ace-2-pro-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked OnePlus Ace 2 Pro Phone</u></a></li>
 </ul></div>
 
+

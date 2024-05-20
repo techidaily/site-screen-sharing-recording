@@ -1,7 +1,7 @@
 ---
 title: "The Art of Capturing Sound via Mac"
-date: 2024-05-18T06:37:41.219Z
-updated: 2024-05-19T06:37:41.219Z
+date: 2024-05-19T21:06:04.135Z
+updated: 2024-05-20T21:06:04.135Z
 tags: 
   - screen-recording
   - ai video
@@ -432,4 +432,5 @@ Sound Studio is believed to be one of the most successful and popular audio reco
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-huawei-nova-y71-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Huawei Nova Y71.</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-splitting-audio-from-a-video-in-sony-vegas-step-by-step/"><u>2024 Approved Splitting Audio From a Video in Sony Vegas Step by Step</u></a></li>
 </ul></div>
+
 

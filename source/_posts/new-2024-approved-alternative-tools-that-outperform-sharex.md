@@ -253,3 +253,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://voice-adjusting.techidaily.com/audacity-on-ubuntu-step-by-step-tutorials-for-seamless-setup-upgrade-and-cleanup/"><u>Audacity on Ubuntu Step-by-Step Tutorials for Seamless Setup, Upgrade & Cleanup</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering the Art of High-Quality Video Production in OBS\""
-date: 2024-05-18T06:41:39.947Z
-updated: 2024-05-19T06:41:39.947Z
+date: 2024-05-19T21:06:12.416Z
+updated: 2024-05-20T21:06:12.416Z
 tags: 
   - screen-recording
   - ai video
@@ -574,4 +574,5 @@ Open Broadcaster Program, also known as OBS, is a free open-source software for 
 <li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/5-tools-to-create-a-time-lapse-video-online/"><u>5 Tools to Create a Time-Lapse Video Online</u></a></li>
 </ul></div>
+
 

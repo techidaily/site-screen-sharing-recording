@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Streamlining Multi-Camera Setup with OBS for 2024\""
-date: 2024-05-18T06:37:20.851Z
-updated: 2024-05-19T06:37:20.851Z
+date: 2024-05-19T21:06:03.478Z
+updated: 2024-05-20T21:06:03.478Z
 tags: 
   - screen-recording
   - ai video
@@ -302,4 +302,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to trade pokemon go from far away On Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/solutions-to-repair-corrupt-excel-file-2023-by-stellar-guide/"><u>Solutions to Repair Corrupt Excel File 2023</u></a></li>
 </ul></div>
+
 

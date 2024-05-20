@@ -1,7 +1,7 @@
 ---
 title: "Seamlessly Integrate the Ken Burns Effect Into Camtasia for 2024"
-date: 2024-05-18T06:55:14.069Z
-updated: 2024-05-19T06:55:14.069Z
+date: 2024-05-19T21:06:43.419Z
+updated: 2024-05-20T21:06:43.419Z
 tags: 
   - screen-recording
   - ai video
@@ -376,4 +376,5 @@ Follow @Max Wales
 <li><a href="https://ai-video-apps.techidaily.com/updated-install-lumafusion-on-macbook-proair-or-find-suitable-alternatives-for-2024/"><u>Updated Install Lumafusion on MacBook Pro/Air or Find Suitable Alternatives for 2024</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-gionee-is-unlocked-by-drfone-android/"><u>How To Check if Your Gionee Is Unlocked</u></a></li>
 </ul></div>
+
 

@@ -1235,3 +1235,4 @@ Follow @Max Wales
 <li><a href="https://animation-videos.techidaily.com/new-in-2024-the-10-most-adorable-aesthetic-cartoon-characters-of-all-time/"><u>New In 2024, The 10 Most Adorable Aesthetic Cartoon Characters of All Time</u></a></li>
 </ul></div>
 
+

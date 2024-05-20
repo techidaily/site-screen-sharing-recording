@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Warrior's Path  A List of Intense Fighting Games\""
-date: 2024-05-18T06:29:41.110Z
-updated: 2024-05-19T06:29:41.110Z
+date: 2024-05-19T21:05:46.204Z
+updated: 2024-05-20T21:05:46.204Z
 tags: 
   - screen-recording
   - ai video
@@ -319,4 +319,5 @@ Follow @Richard Bennett
 <li><a href="https://review-topics.techidaily.com/identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-in-windows-7-by-drivereasy-guide/"><u>Identify missing or malfunctioning your drivers with Windows Device Manager in Windows 7</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-2-methods-to-crop-video-in-vlc/"><u>New 2 Methods to Crop Video in VLC</u></a></li>
 </ul></div>
+
 

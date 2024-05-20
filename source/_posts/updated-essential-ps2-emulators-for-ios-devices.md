@@ -522,3 +522,4 @@ For macOS 10.12 or later
 <li><a href="https://phone-solutions.techidaily.com/how-to-downgrade-iphone-11-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 11 to an Older iOS Version? | Dr.fone</u></a></li>
 </ul></div>
 
+

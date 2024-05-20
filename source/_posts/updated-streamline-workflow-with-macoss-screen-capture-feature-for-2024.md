@@ -1118,3 +1118,4 @@ To record video on Mac, you need a screen recorder. There are free and premium r
 <li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-magic-6-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Magic 6</u></a></li>
 </ul></div>
 
+

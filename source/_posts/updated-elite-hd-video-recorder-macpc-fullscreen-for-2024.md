@@ -421,3 +421,4 @@ In order to record the full screen of your computer, you will need a screen reco
 <li><a href="https://smart-video-creator.techidaily.com/new-smooth-operator-removing-camera-shake-in-after-effects/"><u>New Smooth Operator Removing Camera Shake in After Effects</u></a></li>
 </ul></div>
 
+

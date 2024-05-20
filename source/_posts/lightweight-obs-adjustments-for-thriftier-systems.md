@@ -1,7 +1,7 @@
 ---
 title: "Lightweight OBS Adjustments for Thriftier Systems"
-date: 2024-05-18T06:47:45.798Z
-updated: 2024-05-19T06:47:45.798Z
+date: 2024-05-19T21:06:26.807Z
+updated: 2024-05-20T21:06:26.807Z
 tags: 
   - screen-recording
   - ai video
@@ -231,4 +231,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-infinix-smart-8-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Infinix Smart 8</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-vivo-v29-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Vivo V29 Device</u></a></li>
 </ul></div>
+
 

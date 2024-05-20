@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, The Cryptographer's Guide to Masked Recordings"
-date: 2024-05-18T06:46:16.255Z
-updated: 2024-05-19T06:46:16.255Z
+date: 2024-05-19T21:06:23.732Z
+updated: 2024-05-20T21:06:23.732Z
 tags: 
   - screen-recording
   - ai video
@@ -552,4 +552,5 @@ Follow @Max Wales
 <li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-g54-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Motorola G54 5G | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Samsung Galaxy S23+? | Dr.fone</u></a></li>
 </ul></div>
+
 

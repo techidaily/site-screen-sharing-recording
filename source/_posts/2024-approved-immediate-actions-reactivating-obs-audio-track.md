@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Immediate Actions  Reactivating OBS Audio Track\""
-date: 2024-05-18T06:39:43.359Z
-updated: 2024-05-19T06:39:43.359Z
+date: 2024-05-19T21:06:08.530Z
+updated: 2024-05-20T21:06:08.530Z
 tags: 
   - screen-recording
   - ai video
@@ -571,4 +571,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-sifting-through-options-a-comprehensive-guide-to-flac-converters/"><u>Updated 2024 Approved Sifting Through Options A Comprehensive Guide to FLAC Converters</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/new-get-started-with-jaycut-a-beginners-guide-to-free-online-video-editing-for-2024/"><u>New Get Started with Jaycut A Beginners Guide to Free Online Video Editing for 2024</u></a></li>
 </ul></div>
+
 

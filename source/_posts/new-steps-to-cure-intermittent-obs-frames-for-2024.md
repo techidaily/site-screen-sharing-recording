@@ -1,7 +1,7 @@
 ---
 title: "[New] Steps to Cure Intermittent OBS Frames for 2024"
-date: 2024-05-18T06:37:20.579Z
-updated: 2024-05-19T06:37:20.579Z
+date: 2024-05-19T21:06:03.468Z
+updated: 2024-05-20T21:06:03.468Z
 tags: 
   - screen-recording
   - ai video
@@ -608,4 +608,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-iphone-6s-by-drfone-ios/"><u>How to jailbreak iCloud locked iPhone 6s</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-iphone-xs-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your iPhone XS From Your Apple ID</u></a></li>
 </ul></div>
+
 

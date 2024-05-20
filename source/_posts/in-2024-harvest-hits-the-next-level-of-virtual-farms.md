@@ -311,3 +311,4 @@ Follow @Richard Bennett
 <li><a href="https://smart-video-creator.techidaily.com/2024-approved-mp4-file-editing-on-mavericks-a-step-by-step-tutorial/"><u>2024 Approved MP4 File Editing on Mavericks A Step-by-Step Tutorial</u></a></li>
 </ul></div>
 
+

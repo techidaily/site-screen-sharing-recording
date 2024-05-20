@@ -1,7 +1,7 @@
 ---
 title: "Sync Zoom Meeting Times Across Mobile & Desktop Calendars"
-date: 2024-05-18T06:28:30.132Z
-updated: 2024-05-19T06:28:30.132Z
+date: 2024-05-19T21:05:43.811Z
+updated: 2024-05-20T21:05:43.811Z
 tags: 
   - screen-recording
   - ai video
@@ -374,4 +374,5 @@ Follow @Richard Bennett
 <li><a href="https://voice-adjusting.techidaily.com/2024-approved-effective-3-ways-to-convert-a-podcast-to-mp3/"><u>2024 Approved Effective 3 Ways to Convert a Podcast to MP3</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-8-plus-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone 8 Plus Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
 </ul></div>
+
 

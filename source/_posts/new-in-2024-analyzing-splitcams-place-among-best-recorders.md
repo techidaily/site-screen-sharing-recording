@@ -206,3 +206,4 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-xiaomi-redmi-13c-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Xiaomi Redmi 13C password or pattern lock</u></a></li>
 </ul></div>
 
+

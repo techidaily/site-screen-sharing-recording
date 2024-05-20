@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Planning & Recording Meetings in Slack + Filmora"
-date: 2024-05-18T06:37:26.840Z
-updated: 2024-05-19T06:37:26.840Z
+date: 2024-05-19T21:06:03.677Z
+updated: 2024-05-20T21:06:03.677Z
 tags: 
   - screen-recording
   - ai video
@@ -519,4 +519,5 @@ Follow @Shanoon Cox
 <li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-remove-tiktok-watermarks-in-seconds-best-online-methods/"><u>Updated 2024 Approved Remove TikTok Watermarks in Seconds Best Online Methods</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/2024-approved-ubuntus-video-editing-powerhouses-top-10-free-tools/"><u>2024 Approved Ubuntus Video Editing Powerhouses Top 10 Free Tools</u></a></li>
 </ul></div>
+
 

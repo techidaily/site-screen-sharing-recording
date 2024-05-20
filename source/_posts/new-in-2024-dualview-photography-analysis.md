@@ -246,3 +246,4 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-split-screen-video-makers-the-ultimate-guide-for-ios-and-android-users/"><u>Updated 2024 Approved Split Screen Video Makers The Ultimate Guide for iOS and Android Users</u></a></li>
 </ul></div>
 
+

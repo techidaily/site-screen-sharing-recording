@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Dive Into Camtasia’s Ken Burns Feature-Rich Tutorial\""
-date: 2024-05-18T06:29:38.409Z
-updated: 2024-05-19T06:29:38.409Z
+date: 2024-05-19T21:05:46.125Z
+updated: 2024-05-20T21:05:46.125Z
 tags: 
   - screen-recording
   - ai video
@@ -354,4 +354,5 @@ Follow @Max Wales
 <li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-vivo-t2-5g-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Vivo T2 5G</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/updated-using-compressor-in-fcpx-tips-tricks-and-best-practices/"><u>Updated Using Compressor in FCPX Tips, Tricks, and Best Practices</u></a></li>
 </ul></div>
+
 

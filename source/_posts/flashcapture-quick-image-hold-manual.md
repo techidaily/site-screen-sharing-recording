@@ -1,7 +1,7 @@
 ---
 title: "\"FlashCapture  Quick Image Hold Manual\""
-date: 2024-05-18T06:30:05.588Z
-updated: 2024-05-19T06:30:05.588Z
+date: 2024-05-19T21:05:47.003Z
+updated: 2024-05-20T21:05:47.003Z
 tags: 
   - screen-recording
   - ai video
@@ -409,4 +409,5 @@ QuickTime Player is the ideal application on Mac for playing audio and video. It
 <li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-audio-wizards-handbook-navigating-complex-editing-tasks-with-sony-vegas-pro/"><u>New In 2024, The Audio Wizards Handbook Navigating Complex Editing Tasks with Sony Vegas Pro</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/2024-approved-top-10-ai-subtitle-translators-for-content-creators/"><u>2024 Approved Top 10 AI Subtitle Translators for Content Creators</u></a></li>
 </ul></div>
+
 

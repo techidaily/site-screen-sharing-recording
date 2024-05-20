@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mi 11 Tech Specs Unveiled with Advanced Screen Capture\""
-date: 2024-05-18T06:44:00.516Z
-updated: 2024-05-19T06:44:00.516Z
+date: 2024-05-19T21:06:17.273Z
+updated: 2024-05-20T21:06:17.273Z
 tags: 
   - screen-recording
   - ai video
@@ -577,4 +577,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-find-n3-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Find N3 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-add-fade-in-windows-video-editor-for-2024/"><u>New Add Fade in Windows Video Editor for 2024</u></a></li>
 </ul></div>
+
 

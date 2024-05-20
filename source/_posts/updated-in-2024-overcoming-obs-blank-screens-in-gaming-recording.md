@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Overcoming OBS Blank Screens in Gaming Recording"
-date: 2024-05-18T06:45:14.284Z
-updated: 2024-05-19T06:45:14.284Z
+date: 2024-05-19T21:06:21.313Z
+updated: 2024-05-20T21:06:21.313Z
 tags: 
   - screen-recording
   - ai video
@@ -295,4 +295,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-15-plus-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On iPhone 15 Plus</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-samsung-galaxy-a24-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Samsung Galaxy A24 without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -496,3 +496,4 @@ If you love to play on Steam platform and you want to record your Steam gameplay
 <li><a href="https://smart-video-creator.techidaily.com/new-the-best-of-fcp-top-10-movies-edited-with-final-cut-pro/"><u>New The Best of FCP Top 10 Movies Edited with Final Cut Pro</u></a></li>
 </ul></div>
 
+

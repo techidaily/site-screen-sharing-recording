@@ -1,7 +1,7 @@
 ---
 title: "Masterful Use of Digital Boards in Web Meetings Across Apple/Android & Laptops"
-date: 2024-05-18T06:48:16.296Z
-updated: 2024-05-19T06:48:16.296Z
+date: 2024-05-19T21:06:28.324Z
+updated: 2024-05-20T21:06:28.324Z
 tags: 
   - screen-recording
   - ai video
@@ -587,4 +587,5 @@ Follow @Richard Bennett
 <li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-samsung-galaxy-f15-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Samsung Galaxy F15 5G Without Them Knowing? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/how-to-add-camera-shake-to-video-in-adobe-after-effects/"><u>How to Add Camera Shake to Video in Adobe After Effects</u></a></li>
 </ul></div>
+
 

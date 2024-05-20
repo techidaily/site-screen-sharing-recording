@@ -1,7 +1,7 @@
 ---
 title: "Fade In Fade Out Videos in 4 Easy Ways"
-date: 2024-05-18T06:50:16.802Z
-updated: 2024-05-19T06:50:16.802Z
+date: 2024-05-19T21:06:32.593Z
+updated: 2024-05-20T21:06:32.593Z
 tags: 
   - screen-recording
   - ai video
@@ -490,4 +490,5 @@ Follow @Max Wales
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-enhance-your-footage-color-correction-in-final-cut-pro-2023/"><u>Updated Enhance Your Footage Color Correction in Final Cut Pro 2023</u></a></li>
 <li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-asus-rog-phone-8-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Asus ROG Phone 8</u></a></li>
 </ul></div>
+
 

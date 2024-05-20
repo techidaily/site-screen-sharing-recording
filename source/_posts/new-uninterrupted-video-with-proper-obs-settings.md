@@ -1,7 +1,7 @@
 ---
 title: "[New] Uninterrupted Video with Proper OBS Settings"
-date: 2024-05-18T06:32:52.089Z
-updated: 2024-05-19T06:32:52.089Z
+date: 2024-05-19T21:05:53.438Z
+updated: 2024-05-20T21:05:53.438Z
 tags: 
   - screen-recording
   - ai video
@@ -564,4 +564,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Google Pixel Fold | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Honor X9b | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -238,3 +238,4 @@ If you want to record high-end games, ShadowPlay is ideal as it does not affect 
 <li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-itel-a60s-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Itel A60s | Dr.fone</u></a></li>
 </ul></div>
 
+

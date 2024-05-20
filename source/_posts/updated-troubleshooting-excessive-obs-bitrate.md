@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Troubleshooting Excessive OBS Bitrate"
-date: 2024-05-18T06:38:14.792Z
-updated: 2024-05-19T06:38:14.792Z
+date: 2024-05-19T21:06:05.241Z
+updated: 2024-05-20T21:06:05.241Z
 tags: 
   - screen-recording
   - ai video
@@ -272,4 +272,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-14-plus-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone 14 Plus Keeps Asking for Outlook Password</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/the-ultimate-list-of-8-mobile-audio-workstations-for-enhanced-producing-for-2024/"><u>The Ultimate List of 8 Mobile Audio Workstations for Enhanced Producing for 2024</u></a></li>
 </ul></div>
+
 

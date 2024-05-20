@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Fixing the Full-Screen Freeze in OBS\""
-date: 2024-05-18T06:42:17.858Z
-updated: 2024-05-19T06:42:17.858Z
+date: 2024-05-19T21:06:13.928Z
+updated: 2024-05-20T21:06:13.928Z
 tags: 
   - screen-recording
   - ai video
@@ -262,4 +262,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-vivo-y200e-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Vivo Y200e 5G is off? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-learn-fcpx-like-a-pro-essential-guides-and-channels/"><u>New 2024 Approved Learn FCPX Like a Pro Essential Guides and Channels</u></a></li>
 </ul></div>
+
 

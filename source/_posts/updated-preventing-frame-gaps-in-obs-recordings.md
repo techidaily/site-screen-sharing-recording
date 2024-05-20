@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Preventing Frame Gaps in OBS Recordings"
-date: 2024-05-18T06:42:12.469Z
-updated: 2024-05-19T06:42:12.469Z
+date: 2024-05-19T21:06:13.747Z
+updated: 2024-05-20T21:06:13.747Z
 tags: 
   - screen-recording
   - ai video
@@ -583,4 +583,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://sound-tweaking.techidaily.com/updated-top-4-ringtone-cuuter-to-use-for-2024/"><u>Updated Top 4 Ringtone Cuuter to Use for 2024</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/new-best-free-imovie-equivalent-for-windows-11-and-10-pcs-for-2024/"><u>New Best Free iMovie Equivalent for Windows 11 and 10 PCs for 2024</u></a></li>
 </ul></div>
+
 

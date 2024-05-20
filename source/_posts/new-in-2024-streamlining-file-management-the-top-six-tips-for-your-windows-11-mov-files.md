@@ -681,3 +681,4 @@ You can record MOV file on Windows as well as Mac when you have the recorder tha
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-infinix-hot-30-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Infinix Hot 30 5G to iPod | Dr.fone</u></a></li>
 </ul></div>
 
+

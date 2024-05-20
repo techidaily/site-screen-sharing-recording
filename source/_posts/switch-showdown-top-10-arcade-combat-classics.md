@@ -1,7 +1,7 @@
 ---
 title: "\"Switch Showdown  Top 10 Arcade Combat Classics\""
-date: 2024-05-18T06:35:45.530Z
-updated: 2024-05-19T06:35:45.530Z
+date: 2024-05-19T21:05:59.814Z
+updated: 2024-05-20T21:05:59.814Z
 tags: 
   - screen-recording
   - ai video
@@ -773,4 +773,5 @@ For macOS 10.12 or later
 <li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-free-and-affordable-video-editing-software/"><u>New 2024 Approved Free and Affordable Video Editing Software</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/new-contemporary-techniques-for-crafting-effective-audio-echoes/"><u>New Contemporary Techniques for Crafting Effective Audio Echoes</u></a></li>
 </ul></div>
+
 

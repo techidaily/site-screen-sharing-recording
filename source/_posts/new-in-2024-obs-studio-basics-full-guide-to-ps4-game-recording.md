@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Obs Studio Basics - Full Guide to PS4 Game Recording\""
-date: 2024-05-18T06:52:46.254Z
-updated: 2024-05-19T06:52:46.254Z
+date: 2024-05-19T21:06:38.114Z
+updated: 2024-05-20T21:06:38.114Z
 tags: 
   - screen-recording
   - ai video
@@ -356,4 +356,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://ai-video-apps.techidaily.com/new-dual-display-video-editing-top-free-online-and-offline-apps-for-2024/"><u>New Dual-Display Video Editing Top Free Online and Offline Apps for 2024</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/updated-step-by-step-getting-audacity-running-on-your-ubuntu-system-for-2024/"><u>Updated Step-by-Step Getting Audacity Running on Your Ubuntu System for 2024</u></a></li>
 </ul></div>
+
 

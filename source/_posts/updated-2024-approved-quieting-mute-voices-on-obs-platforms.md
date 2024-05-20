@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Quieting Mute Voices on OBS Platforms\""
-date: 2024-05-18T06:38:35.487Z
-updated: 2024-05-19T06:38:35.487Z
+date: 2024-05-19T21:06:05.896Z
+updated: 2024-05-20T21:06:05.896Z
 tags: 
   - screen-recording
   - ai video
@@ -558,4 +558,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-sourcing-widespread-echoes-of-despair-soundscapes/"><u>Updated 2024 Approved Sourcing Widespread Echoes of Despair Soundscapes</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-phone-friendly-design-the-importance-of-aspect-ratio-considerations/"><u>Updated 2024 Approved Phone-Friendly Design The Importance of Aspect Ratio Considerations</u></a></li>
 </ul></div>
+
 

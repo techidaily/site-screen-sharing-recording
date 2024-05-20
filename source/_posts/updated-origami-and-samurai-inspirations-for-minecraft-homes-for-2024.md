@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Origami & Samurai Inspirations for Minecraft Homes for 2024"
-date: 2024-05-18T06:43:22.258Z
-updated: 2024-05-19T06:43:22.258Z
+date: 2024-05-19T21:06:15.919Z
+updated: 2024-05-20T21:06:15.919Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ Follow @Ollie Mattison
 <li><a href="https://video-ai-editor.techidaily.com/in-2024-a-step-by-step-guide-to-creating-stunning-stop-motion-videos-on-instagram/"><u>In 2024, A Step-by-Step Guide to Creating Stunning Stop Motion Videos on Instagram</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/new-from-clash-to-harmony-mastering-color-matching-in-final-cut-pro-for-2024/"><u>New From Clash to Harmony Mastering Color Matching in Final Cut Pro for 2024</u></a></li>
 </ul></div>
+
 

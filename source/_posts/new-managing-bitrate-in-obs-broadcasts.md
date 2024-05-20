@@ -1,7 +1,7 @@
 ---
 title: "[New] Managing Bitrate in OBS Broadcasts"
-date: 2024-05-18T06:37:14.868Z
-updated: 2024-05-19T06:37:14.868Z
+date: 2024-05-19T21:06:03.254Z
+updated: 2024-05-20T21:06:03.254Z
 tags: 
   - screen-recording
   - ai video
@@ -259,4 +259,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-lava-blaze-curve-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Lava Blaze Curve 5G FRP?</u></a></li>
 <li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Oppo Reno 11F 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

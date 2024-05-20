@@ -1,7 +1,7 @@
 ---
 title: "[New] Tips for Documenting Virtual Meetings"
-date: 2024-05-18T06:35:35.550Z
-updated: 2024-05-19T06:35:35.550Z
+date: 2024-05-19T21:05:59.496Z
+updated: 2024-05-20T21:05:59.496Z
 tags: 
   - screen-recording
   - ai video
@@ -408,4 +408,5 @@ With the advancement in technology, we are entering into a digital revolution. Y
 <li><a href="https://ai-video-apps.techidaily.com/new-get-the-right-fit-best-aspect-ratio-calculators-for-images-and-videos-for-2024/"><u>New Get the Right Fit Best Aspect Ratio Calculators for Images and Videos for 2024</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/new-in-2024-the-ultimate-checklist-for-picking-a-trustworthy-youtube-to-mp3-converter/"><u>New In 2024, The Ultimate Checklist for Picking a Trustworthy YouTube to MP3 Converter</u></a></li>
 </ul></div>
+
 

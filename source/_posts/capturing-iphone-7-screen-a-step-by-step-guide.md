@@ -1,7 +1,7 @@
 ---
 title: "\"Capturing iPhone 7 Screen  A Step-by-Step Guide\""
-date: 2024-05-18T06:45:32.342Z
-updated: 2024-05-19T06:45:32.342Z
+date: 2024-05-19T21:06:21.952Z
+updated: 2024-05-20T21:06:21.952Z
 tags: 
   - screen-recording
   - ai video
@@ -399,4 +399,5 @@ Follow @Shanoon Cox
 <li><a href="https://techidaily.com/some-mp4-won-t-play-on-my-u23-pro-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my U23 Pro</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/2024-approved-how-to-get-twitter-video-dimensions-and-aspect-ratios/"><u>2024 Approved How to Get Twitter Video Dimensions and Aspect Ratios</u></a></li>
 </ul></div>
+
 

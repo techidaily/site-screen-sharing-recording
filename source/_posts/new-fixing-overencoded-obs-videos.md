@@ -1,7 +1,7 @@
 ---
 title: "[New] Fixing Overencoded OBS Videos"
-date: 2024-05-18T06:30:04.781Z
-updated: 2024-05-19T06:30:04.781Z
+date: 2024-05-19T21:05:46.975Z
+updated: 2024-05-20T21:05:46.975Z
 tags: 
   - screen-recording
   - ai video
@@ -253,4 +253,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://screen-mirror.techidaily.com/how-huawei-p60-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Huawei P60 Mirror Screen to PC? | Dr.fone</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/updated-in-2024-embark-on-a-complimentary-audacity-adventure-capturing-every-note/"><u>Updated In 2024, Embark on a Complimentary Audacity Adventure Capturing Every Note</u></a></li>
 </ul></div>
+
 

@@ -430,3 +430,4 @@ Follow @Shanoon Cox
 <li><a href="https://smart-video-editing.techidaily.com/new-pixel-perfect-how-to-calculate-the-ideal-screen-ratio/"><u>New Pixel Perfect How to Calculate the Ideal Screen Ratio</u></a></li>
 </ul></div>
 
+

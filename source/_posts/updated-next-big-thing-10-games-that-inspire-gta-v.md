@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Next Big Thing  10 Games That Inspire GTA V\""
-date: 2024-05-18T06:41:01.173Z
-updated: 2024-05-19T06:41:01.173Z
+date: 2024-05-19T21:06:11.066Z
+updated: 2024-05-20T21:06:11.066Z
 tags: 
   - screen-recording
   - ai video
@@ -869,4 +869,5 @@ So, this was our list of 10 best games like GTA 5\. We tried our best to keep th
 <li><a href="https://smart-video-creator.techidaily.com/new-in-2024-yosemite-video-editing-mastery-advanced-techniques-for-mac-users/"><u>New In 2024, Yosemite Video Editing Mastery Advanced Techniques for Mac Users</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-fcpx-mastery-top-tutorials-and-resources/"><u>In 2024, FCPX Mastery Top Tutorials and Resources</u></a></li>
 </ul></div>
+
 

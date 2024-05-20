@@ -798,3 +798,4 @@ This article highlights the various methods that can be used to record pc sound 
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-samsung-galaxy-xcover-6-pro-tactical-edition-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Samsung Galaxy XCover 6 Pro Tactical Edition Without Power Button | Dr.fone</u></a></li>
 </ul></div>
 
+

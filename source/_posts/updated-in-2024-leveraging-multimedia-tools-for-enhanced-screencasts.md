@@ -451,3 +451,4 @@ Follow @Max Wales
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-y100a-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo Y100A Without Power Button | Dr.fone</u></a></li>
 </ul></div>
 
+

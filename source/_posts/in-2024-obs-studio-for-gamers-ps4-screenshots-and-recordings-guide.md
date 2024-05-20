@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, OBS Studio for Gamers  PS4 Screenshots & Recordings Guide\""
-date: 2024-05-18T06:43:16.588Z
-updated: 2024-05-19T06:43:16.588Z
+date: 2024-05-19T21:06:15.725Z
+updated: 2024-05-20T21:06:15.725Z
 tags: 
   - screen-recording
   - ai video
@@ -387,4 +387,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-nokia-c210-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Nokia C210 | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Converting Your Cellphone to a DIY Video Recorder"
-date: 2024-05-18T06:36:18.218Z
-updated: 2024-05-19T06:36:18.218Z
+date: 2024-05-19T21:06:00.896Z
+updated: 2024-05-20T21:06:00.896Z
 tags: 
   - screen-recording
   - ai video
@@ -620,4 +620,5 @@ Follow @Max Wales
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-ditch-premiere-rush-top-alternative-video-editing-software/"><u>2024 Approved Ditch Premiere Rush Top Alternative Video Editing Software</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/new-2024-approved-free-to-edit-top-open-source-video-editors/"><u>New 2024 Approved Free to Edit Top Open-Source Video Editors</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Transmit Live Camera Feed Using VLC Media Player"
-date: 2024-05-18T06:33:05.535Z
-updated: 2024-05-19T06:33:05.535Z
+date: 2024-05-19T21:05:53.863Z
+updated: 2024-05-20T21:05:53.863Z
 tags: 
   - screen-recording
   - ai video
@@ -539,4 +539,5 @@ In this article, we have provided some software to record the video from the web
 <li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-6s-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From Apple iPhone 6s</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/new-the-complete-strategy-for-embedding-music-into-imovie-footage-for-2024/"><u>New The Complete Strategy for Embedding Music Into iMovie Footage for 2024</u></a></li>
 </ul></div>
+
 

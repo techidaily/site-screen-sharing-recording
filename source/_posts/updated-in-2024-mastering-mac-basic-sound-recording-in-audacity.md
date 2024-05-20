@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Mastering Mac  Basic Sound Recording in Audacity\""
-date: 2024-05-18T06:44:24.558Z
-updated: 2024-05-19T06:44:24.558Z
+date: 2024-05-19T21:06:18.402Z
+updated: 2024-05-20T21:06:18.402Z
 tags: 
   - screen-recording
   - ai video
@@ -283,4 +283,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://audio-editing.techidaily.com/new-2024-approved-digital-audio-tutorial-removing-drum-beats-from-your-songs-with-ease/"><u>New 2024 Approved Digital Audio Tutorial Removing Drum Beats From Your Songs with Ease</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On HTC U23 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

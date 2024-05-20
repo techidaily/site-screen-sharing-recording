@@ -1,7 +1,7 @@
 ---
 title: "[New] Set Up Your First Google Meet & Plan It"
-date: 2024-05-18T06:31:36.507Z
-updated: 2024-05-19T06:31:36.507Z
+date: 2024-05-19T21:05:50.572Z
+updated: 2024-05-20T21:05:50.572Z
 tags: 
   - screen-recording
   - ai video
@@ -663,4 +663,5 @@ You can share links of the meetings you have created, join with links, schedule 
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-vivo-x-flip-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Vivo X Flip Phone</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/updated-in-2024-the-must-know-elements-for-mastering-with-twistedwave-editor/"><u>Updated In 2024, The Must-Know Elements for Mastering with TwistedWave Editor</u></a></li>
 </ul></div>
+
 

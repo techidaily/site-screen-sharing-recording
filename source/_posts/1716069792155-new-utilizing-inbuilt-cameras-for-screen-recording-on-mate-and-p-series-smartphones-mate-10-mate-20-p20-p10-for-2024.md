@@ -1,7 +1,7 @@
 ---
 title: "[New] Utilizing Inbuilt Cameras for Screen Recording on Mate and P Series Smartphones (Mate 10, Mate 20; P20, P10). For 2024"
-date: 2024-05-18T06:35:58.761Z
-updated: 2024-05-19T06:35:58.761Z
+date: 2024-05-19T21:06:00.284Z
+updated: 2024-05-20T21:06:00.284Z
 tags: 
   - screen-recording
   - ai video
@@ -403,4 +403,5 @@ Follow @Max Wales
 <li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-infinix-note-30-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Infinix Note 30 Pro FRP Bypass</u></a></li>
 <li><a href="https://techidaily.com/undelete-lost-music-from-infinix-hot-40-by-fonelab-android-recover-music/"><u>Undelete lost music from Infinix Hot 40</u></a></li>
 </ul></div>
+
 

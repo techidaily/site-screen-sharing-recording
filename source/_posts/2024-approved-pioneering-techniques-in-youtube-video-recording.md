@@ -729,3 +729,4 @@ Depending on the device you are using, you have to follow the specific method on
 <li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-honor-70-lite-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Honor 70 Lite 5G</u></a></li>
 </ul></div>
 
+

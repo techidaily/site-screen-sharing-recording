@@ -537,3 +537,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-8-best-lyric-video-templates-for-after-effects/"><u>New 2024 Approved 8 Best Lyric Video Templates for After Effects</u></a></li>
 </ul></div>
 
+

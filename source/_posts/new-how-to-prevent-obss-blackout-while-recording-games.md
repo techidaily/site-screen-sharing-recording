@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Prevent OBS's Blackout While Recording Games"
-date: 2024-05-18T06:49:01.142Z
-updated: 2024-05-19T06:49:01.142Z
+date: 2024-05-19T21:06:29.883Z
+updated: 2024-05-20T21:06:29.883Z
 tags: 
   - screen-recording
   - ai video
@@ -271,4 +271,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://ai-video-editing.techidaily.com/best-dark-moody-luts-during-editing/"><u>Best Dark Moody LUTs During Editing</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/endless-playback-top-free-video-loopers-for-windows-and-mac-for-2024/"><u>Endless Playback Top Free Video Loopers for Windows and Mac for 2024</u></a></li>
 </ul></div>
+
 

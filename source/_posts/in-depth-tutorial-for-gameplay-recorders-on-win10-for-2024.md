@@ -400,3 +400,4 @@ We have answered your question on how to record gameplay on PC Windows 10\. You 
 <li><a href="https://smart-video-creator.techidaily.com/click-worthy-thumbnails-a-guide-to-youtube-image-sizes-and-best-practices/"><u>Click-Worthy Thumbnails A Guide to YouTube Image Sizes and Best Practices</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "Quieting Background Sounds in Media Capture (Free & Paid)"
-date: 2024-05-18T06:30:36.908Z
-updated: 2024-05-19T06:30:36.908Z
+date: 2024-05-19T21:05:48.596Z
+updated: 2024-05-20T21:05:48.596Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Follow @Max Wales
 <li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-se-2022-location-by-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone SE (2022) Location by Number | Dr.fone</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/integrating-audio-into-your-powerpoint-slides-on-pcs-and-macs-for-2024/"><u>Integrating Audio Into Your PowerPoint Slides on PCs & Macs for 2024</u></a></li>
 </ul></div>
+
 

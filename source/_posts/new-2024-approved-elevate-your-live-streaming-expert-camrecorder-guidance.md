@@ -566,3 +566,4 @@ If you are thinking about uploading your gameplay on online platforms, you have 
 <li><a href="https://phone-solutions.techidaily.com/can-t-view-hevc-h-265-content-on-galaxy-xcover-7-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on Galaxy XCover 7</u></a></li>
 </ul></div>
 
+

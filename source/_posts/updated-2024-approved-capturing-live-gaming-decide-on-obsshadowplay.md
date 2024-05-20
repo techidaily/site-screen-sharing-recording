@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Capturing Live Gaming - Decide on OBS/ShadowPlay\""
-date: 2024-05-18T06:43:50.003Z
-updated: 2024-05-19T06:43:50.003Z
+date: 2024-05-19T21:06:16.899Z
+updated: 2024-05-20T21:06:16.899Z
 tags: 
   - screen-recording
   - ai video
@@ -257,4 +257,5 @@ If you want to record high-end games, ShadowPlay is ideal as it does not affect 
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-capture-the-love-a-simple-guide-to-creating-a-valentines-day-video-montage/"><u>Updated 2024 Approved Capture the Love A Simple Guide to Creating a Valentines Day Video Montage</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/in-2024-3-best-effects-to-appear-on-camera/"><u>In 2024, 3 Best Effects to Appear on Camera</u></a></li>
 </ul></div>
+
 

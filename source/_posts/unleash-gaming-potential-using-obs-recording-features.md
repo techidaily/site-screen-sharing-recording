@@ -1,7 +1,7 @@
 ---
 title: "\"Unleash Gaming Potential - Using OBS Recording Features\""
-date: 2024-05-18T06:44:48.427Z
-updated: 2024-05-19T06:44:48.427Z
+date: 2024-05-19T21:06:20.337Z
+updated: 2024-05-20T21:06:20.337Z
 tags: 
   - screen-recording
   - ai video
@@ -406,4 +406,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Nubia Z50S Pro | Dr.fone</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/new-2024-approved-the-producers-playbook-discovering-premium-sound-effects-for-your-podcast-creations/"><u>New 2024 Approved The Producers Playbook Discovering Premium Sound Effects for Your Podcast Creations</u></a></li>
 </ul></div>
+
 

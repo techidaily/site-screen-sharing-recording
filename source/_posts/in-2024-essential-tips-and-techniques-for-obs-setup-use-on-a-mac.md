@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Essential Tips & Techniques for OBS Setup, Use, on a Mac"
-date: 2024-05-18T06:35:27.475Z
-updated: 2024-05-19T06:35:27.475Z
+date: 2024-05-19T21:05:59.219Z
+updated: 2024-05-20T21:05:59.219Z
 tags: 
   - screen-recording
   - ai video
@@ -338,4 +338,5 @@ Unlike OBS, which only offers a few recording options, Filmora includes all of t
 <li><a href="https://ai-video-editing.techidaily.com/new-the-best-jump-cut-editing-tricks-make-your-videos-snappy/"><u>New The Best Jump Cut Editing Tricks Make Your Videos Snappy!</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/new-where-can-i-find-crowd-cheering-effect-for-2024/"><u>New Where Can I Find Crowd Cheering Effect for 2024</u></a></li>
 </ul></div>
+
 

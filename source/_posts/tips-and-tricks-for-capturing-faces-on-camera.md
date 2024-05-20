@@ -1,7 +1,7 @@
 ---
 title: "Tips and Tricks for Capturing Faces on Camera"
-date: 2024-05-18T06:36:41.378Z
-updated: 2024-05-19T06:36:41.378Z
+date: 2024-05-19T21:06:01.647Z
+updated: 2024-05-20T21:06:01.647Z
 tags: 
   - screen-recording
   - ai video
@@ -1217,4 +1217,5 @@ If your interest is to make quality videos with your face and screens and as wel
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y02t-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y02T PIN Code/Pattern Lock/Password</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-7-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 7 | Dr.fone</u></a></li>
 </ul></div>
+
 

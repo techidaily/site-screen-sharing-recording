@@ -861,3 +861,4 @@ Follow @Ollie Mattison
 <li><a href="https://video-creation-software.techidaily.com/new-in-2024-get-ready-set-go-adding-a-countdown-timer-in-fcpx-in-just-3-steps/"><u>New In 2024, Get Ready, Set, Go! Adding a Countdown Timer in FCPX in Just 3 Steps</u></a></li>
 </ul></div>
 
+

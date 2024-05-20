@@ -1,7 +1,7 @@
 ---
 title: "\"QuickCapture  Stop & Save Screenshot Command\""
-date: 2024-05-18T06:34:47.103Z
-updated: 2024-05-19T06:34:47.103Z
+date: 2024-05-19T21:05:57.521Z
+updated: 2024-05-20T21:05:57.521Z
 tags: 
   - screen-recording
   - ai video
@@ -429,4 +429,5 @@ QuickTime Player is the ideal application on Mac for playing audio and video. It
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oneplus-ace-2-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from OnePlus Ace 2 Pro to iPhone XS/11 | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Infinix Smart 8 HD | Dr.fone</u></a></li>
 </ul></div>
+
 

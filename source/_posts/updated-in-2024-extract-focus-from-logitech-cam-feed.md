@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Extract Focus From Logitech Cam Feed"
-date: 2024-05-18T06:41:05.481Z
-updated: 2024-05-19T06:41:05.481Z
+date: 2024-05-19T21:06:11.203Z
+updated: 2024-05-20T21:06:11.203Z
 tags: 
   - screen-recording
   - ai video
@@ -506,4 +506,5 @@ Follow @Max Wales
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Motorola G54 5G | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-15-pro-max-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your iPhone 15 Pro Max When You Forget the Passcode? | Dr.fone</u></a></li>
 </ul></div>
+
 

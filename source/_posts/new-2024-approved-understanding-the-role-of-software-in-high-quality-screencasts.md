@@ -420,3 +420,4 @@ Follow @Max Wales
 <li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-vivo-y100i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Vivo Y100i | Dr.fone</u></a></li>
 </ul></div>
 
+

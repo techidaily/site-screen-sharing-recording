@@ -1121,3 +1121,4 @@ To record video on Mac, you need a screen recorder. There are free and premium r
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-correct-lens-distortion-with-filmora/"><u>New How to Correct Lens Distortion With Filmora</u></a></li>
 </ul></div>
 
+

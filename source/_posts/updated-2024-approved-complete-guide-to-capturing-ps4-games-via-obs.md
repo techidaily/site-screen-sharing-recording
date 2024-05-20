@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Complete Guide to Capturing PS4 Games via OBS\""
-date: 2024-05-18T06:51:36.783Z
-updated: 2024-05-19T06:51:36.783Z
+date: 2024-05-19T21:06:35.441Z
+updated: 2024-05-20T21:06:35.441Z
 tags: 
   - screen-recording
   - ai video
@@ -388,4 +388,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Infinix Smart 8 | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-vivo-y200-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Vivo Y200 | Dr.fone</u></a></li>
 </ul></div>
+
 

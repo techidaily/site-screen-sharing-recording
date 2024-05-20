@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Compact OBS Setup for Underpriced PCs"
-date: 2024-05-18T06:53:59.050Z
-updated: 2024-05-19T06:53:59.050Z
+date: 2024-05-19T21:06:40.539Z
+updated: 2024-05-20T21:06:40.539Z
 tags: 
   - screen-recording
   - ai video
@@ -226,4 +226,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-best-8-educational-video-websites-for-teachers/"><u>Updated 2024 Approved Best 8 Educational Video Websites for Teachers</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-civi-3-disney-100th-anniversary-edition-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Civi 3 Disney 100th Anniversary Edition</u></a></li>
 </ul></div>
+
 

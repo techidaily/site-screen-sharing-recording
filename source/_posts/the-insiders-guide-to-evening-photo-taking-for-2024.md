@@ -175,3 +175,4 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://techidaily.com/how-to-reset-apple-iphone-xs-max-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone XS Max to Factory Settings? | Dr.fone</u></a></li>
 </ul></div>
 
+

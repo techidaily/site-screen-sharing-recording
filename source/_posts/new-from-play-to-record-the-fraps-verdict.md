@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Play to Record  The Fraps Verdict\""
-date: 2024-05-18T06:30:35.290Z
-updated: 2024-05-19T06:30:35.290Z
+date: 2024-05-19T21:05:48.536Z
+updated: 2024-05-20T21:05:48.536Z
 tags: 
   - screen-recording
   - ai video
@@ -352,4 +352,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://audio-editing.techidaily.com/updated-mastering-audio-manipulation-adjusting-speed-and-tone-over-the-internet/"><u>Updated Mastering Audio Manipulation Adjusting Speed & Tone Over the Internet</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/updated-the-ultimate-list-best-royalty-free-laughter-soundtracks-for-your-videos/"><u>Updated The Ultimate List Best Royalty-Free Laughter Soundtracks for Your Videos</u></a></li>
 </ul></div>
+
 

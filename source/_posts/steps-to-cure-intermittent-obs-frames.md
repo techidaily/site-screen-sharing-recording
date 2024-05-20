@@ -1,7 +1,7 @@
 ---
 title: "Steps to Cure Intermittent OBS Frames"
-date: 2024-05-18T06:28:44.609Z
-updated: 2024-05-19T06:28:44.609Z
+date: 2024-05-19T21:05:44.309Z
+updated: 2024-05-20T21:05:44.309Z
 tags: 
   - screen-recording
   - ai video
@@ -559,4 +559,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://sound-tweaking.techidaily.com/three-easy-paths-to-turning-your-podcast-into-an-mp3-audio-file/"><u>Three Easy Paths to Turning Your Podcast Into an MP3 Audio File</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-nokia-c210-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Nokia C210 Screen to PC Using WiFi | Dr.fone</u></a></li>
 </ul></div>
+
 

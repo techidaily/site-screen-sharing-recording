@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Full Screen in Obs, No More Worry\""
-date: 2024-05-18T06:30:29.257Z
-updated: 2024-05-19T06:30:29.257Z
+date: 2024-05-19T21:05:48.329Z
+updated: 2024-05-20T21:05:48.329Z
 tags: 
   - screen-recording
   - ai video
@@ -292,4 +292,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-xiaomi-redmi-note-12-proplus-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Xiaomi Redmi Note 12 Pro+ 5G Phone and Remove Locked Screen</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/updated-edit-like-a-pro-best-gopro-video-editing-software-besides-gopro-studio-for-2024/"><u>Updated Edit Like a Pro Best GoPro Video Editing Software (Besides GoPro Studio) for 2024</u></a></li>
 </ul></div>
+
 

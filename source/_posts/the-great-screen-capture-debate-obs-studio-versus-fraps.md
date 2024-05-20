@@ -1,7 +1,7 @@
 ---
 title: "\"The Great Screen Capture Debate  OBS Studio Versus Fraps\""
-date: 2024-05-18T06:37:26.296Z
-updated: 2024-05-19T06:37:26.296Z
+date: 2024-05-19T21:06:03.669Z
+updated: 2024-05-20T21:06:03.669Z
 tags: 
   - screen-recording
   - ai video
@@ -262,4 +262,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-nokia-c300-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Nokia C300? | Dr.fone</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/2024-approved-resize-images-with-precision/"><u>2024 Approved Resize Images with Precision</u></a></li>
 </ul></div>
+
 

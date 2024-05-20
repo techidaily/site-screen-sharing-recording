@@ -542,3 +542,4 @@ Screen recording is in the limelight in the present era. There are various pract
 <li><a href="https://techidaily.com/how-to-easily-hard-reset-my-infinix-smart-7-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Infinix Smart 7 | Dr.fone</u></a></li>
 </ul></div>
 
+

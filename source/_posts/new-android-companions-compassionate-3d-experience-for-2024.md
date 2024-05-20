@@ -1176,3 +1176,4 @@ Follow @Ollie Mattison
 <li><a href="https://video-creation-software.techidaily.com/new-resize-with-confidence-a-comprehensive-guide-to-image-ratios/"><u>New Resize with Confidence A Comprehensive Guide to Image Ratios</u></a></li>
 </ul></div>
 
+

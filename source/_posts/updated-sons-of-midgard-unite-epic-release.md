@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Sons of Midgard Unite! Epic Release"
-date: 2024-05-18T06:54:01.195Z
-updated: 2024-05-19T06:54:01.195Z
+date: 2024-05-19T21:06:40.595Z
+updated: 2024-05-20T21:06:40.595Z
 tags: 
   - screen-recording
   - ai video
@@ -297,4 +297,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://smart-video-creator.techidaily.com/new-in-2024-fcpx-xml-essentials-unlocking-the-power-of-xml/"><u>New In 2024, FCPX XML Essentials Unlocking the Power of XML</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/in-2024-top-10-cartoonization-apps-for-mobile-devices/"><u>In 2024, Top 10 Cartoonization Apps for Mobile Devices</u></a></li>
 </ul></div>
+
 

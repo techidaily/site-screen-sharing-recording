@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Use Zoom Breakout Rooms"
-date: 2024-05-18T06:42:56.077Z
-updated: 2024-05-19T06:42:56.077Z
+date: 2024-05-19T21:06:15.067Z
+updated: 2024-05-20T21:06:15.067Z
 tags: 
   - screen-recording
   - ai video
@@ -551,4 +551,5 @@ Follow @Richard Bennett
 <li><a href="https://audio-editing.techidaily.com/2024-approved-the-ultimate-checklist-for-virtual-vigilance-safeguarding-during-online-interactions/"><u>2024 Approved The Ultimate Checklist for Virtual Vigilance Safeguarding During Online Interactions</u></a></li>
 <li><a href="https://iphone-location.techidaily.com/in-2024-hide-location-on-apple-iphone-8-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Hide location on Apple iPhone 8 and Android without others knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -632,3 +632,4 @@ Follow @Max Wales
 <li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-itel-p40plus-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Itel P40+ Phone</u></a></li>
 </ul></div>
 
+

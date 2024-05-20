@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  How to Record Audio with Audacity on Mac?\""
-date: 2024-05-18T06:29:25.461Z
-updated: 2024-05-19T06:29:25.461Z
+date: 2024-05-19T21:05:45.724Z
+updated: 2024-05-20T21:05:45.724Z
 tags: 
   - screen-recording
   - ai video
@@ -270,4 +270,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-vivo-y02t-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo Y02T Phone</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-master-video-editing-on-mac-vn-video-editor-and-its-competitors/"><u>Updated 2024 Approved Master Video Editing on Mac VN Video Editor and Its Competitors</u></a></li>
 </ul></div>
+
 

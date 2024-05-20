@@ -474,3 +474,4 @@ Alternatively, if you have specific needs for on-screen recordings, such as the 
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-itel-a60-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Itel A60.</u></a></li>
 </ul></div>
 
+

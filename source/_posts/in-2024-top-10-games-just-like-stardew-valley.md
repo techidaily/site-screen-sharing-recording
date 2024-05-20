@@ -298,3 +298,4 @@ Follow @Richard Bennett
 <li><a href="https://video-content-creator.techidaily.com/updated-unlock-cinematic-storytelling-how-to-apply-the-ken-burns-effect-in-final-cut-pro/"><u>Updated Unlock Cinematic Storytelling How to Apply the Ken Burns Effect in Final Cut Pro</u></a></li>
 </ul></div>
 
+

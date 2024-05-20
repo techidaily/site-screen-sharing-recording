@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Rescuing Muted Voices During OBS Sessions"
-date: 2024-05-18T06:40:53.649Z
-updated: 2024-05-19T06:40:53.649Z
+date: 2024-05-19T21:06:10.834Z
+updated: 2024-05-20T21:06:10.834Z
 tags: 
   - screen-recording
   - ai video
@@ -579,4 +579,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-free-video-loop-creator-top-software-for-windows-and-mac-users/"><u>Updated 2024 Approved Free Video Loop Creator Top Software for Windows and Mac Users</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/new-in-2024-blur-out-distractions-free-online-photo-background-editors/"><u>New In 2024, Blur Out Distractions Free Online Photo Background Editors</u></a></li>
 </ul></div>
+
 

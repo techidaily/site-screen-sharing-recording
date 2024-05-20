@@ -808,3 +808,4 @@ Follow @Richard Bennett
 <li><a href="https://video-ai-editor.techidaily.com/transform-your-images-a-beginners-guide-to-the-ken-burns-effect/"><u>Transform Your Images A Beginners Guide to the Ken Burns Effect</u></a></li>
 </ul></div>
 
+

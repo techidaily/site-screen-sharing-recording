@@ -292,3 +292,4 @@ Yes. Google Translate is a free speech to text service available for Windows, iO
 <li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-xiaomi-redmi-note-12-pro-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Xiaomi Redmi Note 12 Pro 5G to Your PC/Mac | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Epic Martial Arts Arcade Classics Revisited\""
-date: 2024-05-18T06:38:05.879Z
-updated: 2024-05-19T06:38:05.879Z
+date: 2024-05-19T21:06:04.938Z
+updated: 2024-05-20T21:06:04.938Z
 tags: 
   - screen-recording
   - ai video
@@ -256,4 +256,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-video-apps.techidaily.com/new-unleash-your-inner-comedian-top-video-dubbing-software-for-2024/"><u>New Unleash Your Inner Comedian Top Video Dubbing Software for 2024</u></a></li>
 <li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Apple iPhone 11 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

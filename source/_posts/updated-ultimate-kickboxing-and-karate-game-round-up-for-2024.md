@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Ultimate Kickboxing & Karate Game Round-Up for 2024\""
-date: 2024-05-18T06:29:33.303Z
-updated: 2024-05-19T06:29:33.303Z
+date: 2024-05-19T21:05:45.950Z
+updated: 2024-05-20T21:05:45.950Z
 tags: 
   - screen-recording
   - ai video
@@ -313,4 +313,5 @@ Follow @Richard Bennett
 <li><a href="https://video-content-creator.techidaily.com/new-image-proportion-perfection-a-detailed-tutorial-on-calculating-ratios-for-2024/"><u>New Image Proportion Perfection A Detailed Tutorial on Calculating Ratios for 2024</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-realme-note-50-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Realme Note 50?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Skype Meetings  Windows/OS X Record for 2024\""
-date: 2024-05-18T06:50:20.028Z
-updated: 2024-05-19T06:50:20.028Z
+date: 2024-05-19T21:06:32.744Z
+updated: 2024-05-20T21:06:32.744Z
 tags: 
   - screen-recording
   - ai video
@@ -597,4 +597,5 @@ Follow @Max Wales
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-aspect-ratio-editing-made-easy-10-top-tools/"><u>In 2024, Aspect Ratio Editing Made Easy 10 Top Tools</u></a></li>
 <li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oneplus-12r-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your OnePlus 12R | Dr.fone</u></a></li>
 </ul></div>
+
 

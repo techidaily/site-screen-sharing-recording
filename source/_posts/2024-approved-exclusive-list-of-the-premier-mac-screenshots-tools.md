@@ -1137,3 +1137,4 @@ To record video on Mac, you need a screen recorder. There are free and premium r
 <li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-the-complete-guide-to-muting-unwanted-audio-layers-in-audacity/"><u>New 2024 Approved The Complete Guide to Muting Unwanted Audio Layers in Audacity</u></a></li>
 </ul></div>
 
+

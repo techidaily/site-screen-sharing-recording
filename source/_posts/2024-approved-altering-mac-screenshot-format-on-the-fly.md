@@ -445,3 +445,4 @@ Follow @Max Wales
 <li><a href="https://video-content-creator.techidaily.com/updated-video-brightness-correction-best-tools-for-perfect-lighting/"><u>Updated Video Brightness Correction Best Tools for Perfect Lighting</u></a></li>
 </ul></div>
 
+

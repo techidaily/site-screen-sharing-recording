@@ -1,7 +1,7 @@
 ---
 title: "From Downloading, Setting Up, to Using OBS Effectively on macOS"
-date: 2024-05-18T06:37:53.438Z
-updated: 2024-05-19T06:37:53.438Z
+date: 2024-05-19T21:06:04.545Z
+updated: 2024-05-20T21:06:04.545Z
 tags: 
   - screen-recording
   - ai video
@@ -324,4 +324,5 @@ Unlike OBS, which only offers a few recording options, Filmora includes all of t
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Nokia 150 (2023)? | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-discover-the-power-of-video-editing-microsofts-guide-for-windows-users/"><u>In 2024, Discover the Power of Video Editing Microsofts Guide for Windows Users</u></a></li>
 </ul></div>
+
 

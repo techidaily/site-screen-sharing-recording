@@ -303,3 +303,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://phone-solutions.techidaily.com/does-motorola-defy-2-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Motorola Defy 2 support AVCHD video?</u></a></li>
 </ul></div>
 
+

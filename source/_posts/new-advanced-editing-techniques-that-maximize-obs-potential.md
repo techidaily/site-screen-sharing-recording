@@ -1,7 +1,7 @@
 ---
 title: "[New] Advanced Editing Techniques That Maximize OBS Potential"
-date: 2024-05-18T06:48:01.757Z
-updated: 2024-05-19T06:48:01.757Z
+date: 2024-05-19T21:06:27.440Z
+updated: 2024-05-20T21:06:27.440Z
 tags: 
   - screen-recording
   - ai video
@@ -570,4 +570,5 @@ Open Broadcaster Program, also known as OBS, is a free open-source software for 
 <li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-6-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On Apple iPhone 6</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-on-iphone-13-mini-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working On iPhone 13 mini</u></a></li>
 </ul></div>
+
 

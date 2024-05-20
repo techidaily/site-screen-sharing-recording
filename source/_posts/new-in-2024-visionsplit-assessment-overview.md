@@ -211,3 +211,4 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://techidaily.com/different-methods-for-resetting-itel-a70-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Itel A70 Phones with Screen Locked and Not | Dr.fone</u></a></li>
 </ul></div>
 
+

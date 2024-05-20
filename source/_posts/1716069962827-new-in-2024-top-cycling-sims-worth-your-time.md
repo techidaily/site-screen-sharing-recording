@@ -618,3 +618,4 @@ Follow @Ollie Mattison
 <li><a href="https://smart-video-editing.techidaily.com/new-from-widescreen-to-square-the-impact-of-aspect-ratio-on-your-youtube-video-style-for-2024/"><u>New From Widescreen to Square The Impact of Aspect Ratio on Your YouTube Video Style for 2024</u></a></li>
 </ul></div>
 
+

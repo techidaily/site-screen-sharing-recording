@@ -437,3 +437,4 @@ Follow @Max Wales
 <li><a href="https://smart-video-editing.techidaily.com/updated-make-the-most-of-your-mobile-audience-resizing-videos-for-vertical-playback/"><u>Updated Make the Most of Your Mobile Audience Resizing Videos for Vertical Playback</u></a></li>
 </ul></div>
 
+

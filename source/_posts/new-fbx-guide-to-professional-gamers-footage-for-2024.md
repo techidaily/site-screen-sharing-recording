@@ -524,3 +524,4 @@ If you are looking for a screen recorder that is specifically designed to captur
 <li><a href="https://howto.techidaily.com/what-to-do-when-infinix-smart-7-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Infinix Smart 7 Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 
+

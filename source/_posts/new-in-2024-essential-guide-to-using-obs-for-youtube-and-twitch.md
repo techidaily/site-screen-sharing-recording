@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Essential Guide to Using OBS for YouTube & Twitch"
-date: 2024-05-18T06:29:26.827Z
-updated: 2024-05-19T06:29:26.827Z
+date: 2024-05-19T21:05:45.754Z
+updated: 2024-05-20T21:05:45.754Z
 tags: 
   - screen-recording
   - ai video
@@ -164,4 +164,5 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-honor-magic-5-pro-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Honor Magic 5 Pro</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-14-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock on iPhone 14</u></a></li>
 </ul></div>
+
 

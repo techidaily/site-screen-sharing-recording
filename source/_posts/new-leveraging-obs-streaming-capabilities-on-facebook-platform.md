@@ -1,7 +1,7 @@
 ---
 title: "[New] Leveraging OBS Streaming Capabilities on Facebook Platform"
-date: 2024-05-18T06:42:40.183Z
-updated: 2024-05-19T06:42:40.183Z
+date: 2024-05-19T21:06:14.615Z
+updated: 2024-05-20T21:06:14.615Z
 tags: 
   - screen-recording
   - ai video
@@ -353,4 +353,5 @@ Facebook Live provides an exciting and entertaining opportunity to connect with 
 <li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-vivo-y02t-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Vivo Y02T Phone | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-here-are-some-of-the-best-free-and-paid-split-screen-video-editors-and-makers-that-you-can-use-online-and-offline-for-2024/"><u>New Here Are some of the Best Free and Paid Split-Screen Video Editors and Makers that You Can Use Online and Offline for 2024</u></a></li>
 </ul></div>
+
 

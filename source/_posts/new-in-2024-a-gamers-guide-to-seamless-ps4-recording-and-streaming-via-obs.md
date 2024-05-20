@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, A Gamer's Guide to Seamless PS4 Recording and Streaming via OBS"
-date: 2024-05-18T06:44:37.343Z
-updated: 2024-05-19T06:44:37.343Z
+date: 2024-05-19T21:06:19.836Z
+updated: 2024-05-20T21:06:19.836Z
 tags: 
   - screen-recording
   - ai video
@@ -371,4 +371,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-find-the-best-luts-for-lightroom/"><u>Updated In 2024, Find The Best LUTs for Lightroom</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-xiaomi-redmi-12-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Xiaomi Redmi 12 5G</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Full PS4 Capture Tutorial Using OBS for 2024"
-date: 2024-05-18T06:50:27.304Z
-updated: 2024-05-19T06:50:27.304Z
+date: 2024-05-19T21:06:33.255Z
+updated: 2024-05-20T21:06:33.255Z
 tags: 
   - screen-recording
   - ai video
@@ -379,4 +379,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-itel-p40plus-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Itel P40+ and Browser | Dr.fone</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/new-in-2024-discovering-the-6-best-call-voice-boosters-on-both-android-and-iphone-devices/"><u>New In 2024, Discovering the 6 Best Call Voice Boosters on Both Android and iPhone Devices</u></a></li>
 </ul></div>
+
 

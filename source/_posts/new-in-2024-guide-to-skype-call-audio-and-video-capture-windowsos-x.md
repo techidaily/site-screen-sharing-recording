@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Guide to Skype Call Audio & Video Capture Windows/OS X"
-date: 2024-05-18T06:32:25.599Z
-updated: 2024-05-19T06:32:25.599Z
+date: 2024-05-19T21:05:52.213Z
+updated: 2024-05-20T21:05:52.213Z
 tags: 
   - screen-recording
   - ai video
@@ -623,4 +623,5 @@ Follow @Max Wales
 <li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-tecno-spark-20-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Tecno Spark 20 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-hot-40-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Hot 40 to New Android? | Dr.fone</u></a></li>
 </ul></div>
+
 

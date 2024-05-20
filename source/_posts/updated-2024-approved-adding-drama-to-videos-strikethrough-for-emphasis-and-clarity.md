@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Adding Drama to Videos  Strikethrough for Emphasis and Clarity\""
-date: 2024-05-18T06:34:06.953Z
-updated: 2024-05-19T06:34:06.953Z
+date: 2024-05-19T21:05:56.019Z
+updated: 2024-05-20T21:05:56.019Z
 tags: 
   - screen-recording
   - ai video
@@ -515,4 +515,5 @@ Follow @Max Wales
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-final-cut-pro-how-to-download-and-install-it/"><u>Updated 2024 Approved Final Cut Pro - How to Download and Install It?</u></a></li>
 </ul></div>
+
 

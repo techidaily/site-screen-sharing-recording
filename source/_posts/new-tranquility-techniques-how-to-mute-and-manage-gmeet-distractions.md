@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Tranquility Techniques  How to Mute and Manage GMeet Distractions\""
-date: 2024-05-18T06:34:05.343Z
-updated: 2024-05-19T06:34:05.343Z
+date: 2024-05-19T21:05:55.957Z
+updated: 2024-05-20T21:05:55.957Z
 tags: 
   - screen-recording
   - ai video
@@ -685,4 +685,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-leveraging-the-vectorscope-for-better-color-correction-in-premiere-pro/"><u>2024 Approved Leveraging the Vectorscope for Better Color Correction in Premiere Pro</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-unlocking-cloud-stop-motion-essential-features-tips-and-alternatives/"><u>New 2024 Approved Unlocking Cloud Stop Motion Essential Features, Tips, and Alternatives</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Live Gaming Shows  Set Up with OBS for 2024\""
-date: 2024-05-18T06:36:09.061Z
-updated: 2024-05-19T06:36:09.061Z
+date: 2024-05-19T21:06:00.608Z
+updated: 2024-05-20T21:06:00.608Z
 tags: 
   - screen-recording
   - ai video
@@ -381,4 +381,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://techidaily.com/undeleted-lost-videos-from-gt-5-pro-by-fonelab-android-recover-video/"><u>Undeleted lost videos from GT 5 Pro</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-google-pixel-8-pro-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Google Pixel 8 Pro Data? | Dr.fone</u></a></li>
 </ul></div>
+
 

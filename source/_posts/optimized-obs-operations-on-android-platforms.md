@@ -1,7 +1,7 @@
 ---
 title: "Optimized OBS Operations on Android Platforms"
-date: 2024-05-18T06:36:54.577Z
-updated: 2024-05-19T06:36:54.577Z
+date: 2024-05-19T21:06:02.150Z
+updated: 2024-05-20T21:06:02.150Z
 tags: 
   - screen-recording
   - ai video
@@ -554,4 +554,5 @@ OBS Studio is a popular application among gamers, professional trainers, and int
 <li><a href="https://smart-video-creator.techidaily.com/replace-windows-movie-maker-on-your-mac-with-these-top-5-apps-for-2024/"><u>Replace Windows Movie Maker on Your Mac with These Top 5 Apps for 2024</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-editing-videos-in-mavericks-tips-tricks-and-techniques-for-2024/"><u>Updated Editing Videos in Mavericks Tips, Tricks, and Techniques for 2024</u></a></li>
 </ul></div>
+
 

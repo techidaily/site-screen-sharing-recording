@@ -442,3 +442,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-from-widescreen-to-vertical-the-easiest-way-to-resize-social-media-videos-for-2024/"><u>Updated From Widescreen to Vertical The Easiest Way to Resize Social Media Videos for 2024</u></a></li>
 </ul></div>
 
+

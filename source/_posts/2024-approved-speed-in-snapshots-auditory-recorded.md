@@ -477,3 +477,4 @@ If you are a Mac user, QuickTime player screen recording with audio is available
 <li><a href="https://easy-unlock-android.techidaily.com/lock-your-honor-magic-6-pro-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Honor Magic 6 Pro Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
 </ul></div>
 
+

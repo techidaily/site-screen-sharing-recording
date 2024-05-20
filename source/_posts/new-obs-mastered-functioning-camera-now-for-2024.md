@@ -1,7 +1,7 @@
 ---
 title: "\"[New] OBS Mastered  Functioning Camera Now for 2024\""
-date: 2024-05-18T06:32:12.004Z
-updated: 2024-05-19T06:32:12.004Z
+date: 2024-05-19T21:05:51.722Z
+updated: 2024-05-20T21:05:51.722Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://fix-guide.techidaily.com/itel-a60s-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel A60s Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/new-5-best-free-mov-video-joiners/"><u>New 5 Best Free MOV Video Joiners</u></a></li>
 </ul></div>
+
 

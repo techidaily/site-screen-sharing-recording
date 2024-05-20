@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Lightweight OBS Adjustments for Thriftier Systems\""
-date: 2024-05-18T06:41:56.865Z
-updated: 2024-05-19T06:41:56.865Z
+date: 2024-05-19T21:06:13.262Z
+updated: 2024-05-20T21:06:13.262Z
 tags: 
   - screen-recording
   - ai video
@@ -268,4 +268,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-new-to-video-editing-here-are-the-best-software-options/"><u>Updated 2024 Approved New to Video Editing? Here Are the Best Software Options</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/top-5-best-tools-to-convert-text-to-audio-online-for-free/"><u>Top 5 Best Tools to Convert Text to Audio Online for Free</u></a></li>
 </ul></div>
+
 

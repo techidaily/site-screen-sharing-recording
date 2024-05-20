@@ -1263,3 +1263,4 @@ If your interest is to make quality videos with your face and screens and as wel
 <li><a href="https://fix-guide.techidaily.com/huawei-nova-y71-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Huawei Nova Y71 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Recording Your Games in HD  PS4 & OBS Studio Guide\""
-date: 2024-05-18T06:53:04.342Z
-updated: 2024-05-19T06:53:04.342Z
+date: 2024-05-19T21:06:38.715Z
+updated: 2024-05-20T21:06:38.715Z
 tags: 
   - screen-recording
   - ai video
@@ -380,4 +380,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://smart-video-creator.techidaily.com/new-top-picks-for-simple-video-editing-tools-for-2024/"><u>New Top Picks for Simple Video Editing Tools for 2024</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-poco-c51-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Poco C51 Phone that is Locked?</u></a></li>
 </ul></div>
+
 

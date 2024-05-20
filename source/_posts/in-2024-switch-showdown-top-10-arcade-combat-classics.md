@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Switch Showdown  Top 10 Arcade Combat Classics\""
-date: 2024-05-18T06:45:24.788Z
-updated: 2024-05-19T06:45:24.788Z
+date: 2024-05-19T21:06:21.717Z
+updated: 2024-05-20T21:06:21.717Z
 tags: 
   - screen-recording
   - ai video
@@ -801,4 +801,5 @@ For macOS 10.12 or later
 <li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-infinix-smart-7-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Infinix Smart 7 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Itel P55 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Quick Mac  Mastering Screen Recording via Shortcuts\""
-date: 2024-05-18T06:43:43.557Z
-updated: 2024-05-19T06:43:43.557Z
+date: 2024-05-19T21:06:16.656Z
+updated: 2024-05-20T21:06:16.656Z
 tags: 
   - screen-recording
   - ai video
@@ -437,4 +437,5 @@ A screen recorder is an instrument that catches content on your Mac screen and s
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-use-gimp-green-screen/"><u>Updated In 2024, How to Use GIMP GREEN SCREEN</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-14-pro-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone 14 Pro to iPhone Including iPhone 15 | Dr.fone</u></a></li>
 </ul></div>
+
 

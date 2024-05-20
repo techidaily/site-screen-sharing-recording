@@ -1,7 +1,7 @@
 ---
 title: "OBS Meets ShadowCast for 2024"
-date: 2024-05-18T06:33:04.461Z
-updated: 2024-05-19T06:33:04.461Z
+date: 2024-05-19T21:05:53.827Z
+updated: 2024-05-20T21:05:53.827Z
 tags: 
   - screen-recording
   - ai video
@@ -231,4 +231,5 @@ If you want to record high-end games, ShadowPlay is ideal as it does not affect 
 <li><a href="https://video-creation-software.techidaily.com/the-simple-way-to-adjust-video-ratio-for-any-screen-for-2024/"><u>The Simple Way to Adjust Video Ratio for Any Screen for 2024</u></a></li>
 <li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-honor-magic5-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Honor Magic5 Ultimate | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Adjusting Low-Bit Rate Settings (OBS)\""
-date: 2024-05-18T06:54:01.999Z
-updated: 2024-05-19T06:54:01.999Z
+date: 2024-05-19T21:06:40.620Z
+updated: 2024-05-20T21:06:40.620Z
 tags: 
   - screen-recording
   - ai video
@@ -317,4 +317,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://audio-shaping.techidaily.com/new-evaluating-acoustic-experts-a-comprehensive-listening-guide-for-2024/"><u>New Evaluating Acoustic Experts A Comprehensive Listening Guide for 2024</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-14-to-pc-via-usb-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 14 to PC via USB? | Dr.fone</u></a></li>
 </ul></div>
+
 

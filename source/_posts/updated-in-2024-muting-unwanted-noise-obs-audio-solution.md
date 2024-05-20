@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Muting Unwanted Noise  OBS Audio Solution\""
-date: 2024-05-18T06:43:21.987Z
-updated: 2024-05-19T06:43:21.987Z
+date: 2024-05-19T21:06:15.909Z
+updated: 2024-05-20T21:06:15.909Z
 tags: 
   - screen-recording
   - ai video
@@ -571,4 +571,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://ai-voice-clone.techidaily.com/in-2024-best-5-tiktok-voice-generators-you-should-try/"><u>In 2024, Best 5 TikTok Voice Generators You Should Try</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-a-brief-review-of-capcut-translate-with-alternative/"><u>Updated 2024 Approved A Brief Review of CapCut Translate With Alternative</u></a></li>
 </ul></div>
+
 

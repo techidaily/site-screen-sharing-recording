@@ -476,3 +476,4 @@ Hopefully, you have understood how to record WhatsApp video call on your device.
 <li><a href="https://techidaily.com/complete-tutorial-for-samsung-galaxy-xcover-6-pro-tactical-edition-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Samsung Galaxy XCover 6 Pro Tactical Edition Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 
+

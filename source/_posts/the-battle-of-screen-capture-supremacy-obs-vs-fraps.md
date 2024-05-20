@@ -1,7 +1,7 @@
 ---
 title: "\"The Battle of Screen Capture Supremacy  OBS vs Fraps\""
-date: 2024-05-18T06:31:16.503Z
-updated: 2024-05-19T06:31:16.503Z
+date: 2024-05-19T21:05:49.891Z
+updated: 2024-05-20T21:05:49.891Z
 tags: 
   - screen-recording
   - ai video
@@ -266,4 +266,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://ai-editing-video.techidaily.com/are-you-looking-for-top-ai-video-recognition-software-to-choose-from-please-stay-on-this-article-as-we-look-at-the-current-top-ai-based-video-tools/"><u>Are You Looking for Top AI Video Recognition Software to Choose From? Please Stay on This Article as We Look at the Current Top AI-Based Video Tools</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 14 to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

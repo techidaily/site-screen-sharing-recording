@@ -1,7 +1,7 @@
 ---
 title: "[New] Audacity Audio Basics for New Mac Users for 2024"
-date: 2024-05-18T06:33:21.168Z
-updated: 2024-05-19T06:33:21.168Z
+date: 2024-05-19T21:05:54.452Z
+updated: 2024-05-20T21:05:54.452Z
 tags: 
   - screen-recording
   - ai video
@@ -263,4 +263,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://video-creation-software.techidaily.com/updated-in-2024-why-this-mp3-converter-windows-tutorial-stands-out-from-the-rest/"><u>Updated In 2024, Why This Mp3 Converter Windows Tutorial Stands Out From the Rest</u></a></li>
 <li><a href="https://howto.techidaily.com/authentication-error-occurred-on-vivo-y28-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Vivo Y28 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

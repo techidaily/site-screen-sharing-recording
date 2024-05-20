@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Restoring Missing Sounds in OBS Recordings for 2024"
-date: 2024-05-18T06:29:14.851Z
-updated: 2024-05-19T06:29:14.851Z
+date: 2024-05-19T21:05:45.359Z
+updated: 2024-05-20T21:05:45.359Z
 tags: 
   - screen-recording
   - ai video
@@ -537,4 +537,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-realme-10t-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Realme 10T 5G for Parents | Dr.fone</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/updated-innovative-editing-in-final-cut-pro-combining-clear-waveform-visuals-with-animated-sound-sequences-for-2024/"><u>Updated Innovative Editing in Final Cut Pro Combining Clear Waveform Visuals with Animated Sound Sequences for 2024</u></a></li>
 </ul></div>
+
 

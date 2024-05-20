@@ -1,7 +1,7 @@
 ---
 title: "[Updated] A Guide to Elevating Your OBS Video Projects"
-date: 2024-05-18T06:29:21.649Z
-updated: 2024-05-19T06:29:21.649Z
+date: 2024-05-19T21:05:45.608Z
+updated: 2024-05-20T21:05:45.608Z
 tags: 
   - screen-recording
   - ai video
@@ -519,4 +519,5 @@ Open Broadcaster Program, also known as OBS, is a free open-source software for 
 <li><a href="https://ios-location-track.techidaily.com/solutions-to-spy-on-apple-iphone-8-plus-with-and-without-jailbreak-drfone-by-drfone-virtual-ios/"><u>Solutions to Spy on Apple iPhone 8 Plus with and without jailbreak | Dr.fone</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/2024-approved-the-ultimate-final-cut-pro-saving-cheat-sheet/"><u>2024 Approved The Ultimate Final Cut Pro Saving Cheat Sheet</u></a></li>
 </ul></div>
+
 

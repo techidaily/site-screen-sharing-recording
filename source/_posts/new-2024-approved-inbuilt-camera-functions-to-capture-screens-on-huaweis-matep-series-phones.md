@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Inbuilt Camera Functions to Capture Screens on Huawei's Mate/P Series Phones\""
-date: 2024-05-18T06:28:55.614Z
-updated: 2024-05-19T06:28:55.614Z
+date: 2024-05-19T21:05:44.687Z
+updated: 2024-05-20T21:05:44.687Z
 tags: 
   - screen-recording
   - ai video
@@ -420,4 +420,5 @@ Follow @Max Wales
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Honor Play 8T | Dr.fone</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/in-2024-10-essential-marketing-podcasts-for-navigating-social-networking-landscapes/"><u>In 2024, 10 Essential Marketing Podcasts for Navigating Social Networking Landscapes</u></a></li>
 </ul></div>
+
 

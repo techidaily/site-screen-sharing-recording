@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Comprehensive Tutorial  Adding Timer Functionality to OBS\""
-date: 2024-05-18T06:42:39.646Z
-updated: 2024-05-19T06:42:39.646Z
+date: 2024-05-19T21:06:14.595Z
+updated: 2024-05-20T21:06:14.595Z
 tags: 
   - screen-recording
   - ai video
@@ -270,4 +270,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-iphone-8-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or iPhone 8 from iCloud</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-best-5-tiktok-voice-generators-you-should-try/"><u>New In 2024, Best 5 TikTok Voice Generators You Should Try</u></a></li>
 </ul></div>
+
 

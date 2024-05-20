@@ -496,3 +496,4 @@ Filmora provides you with an easy and intuitive interface allowing you to record
 <li><a href="https://ai-editing-video.techidaily.com/if-you-are-a-beginner-and-want-to-familiarise-yourself-with-steps-and-terms-used-in-video-editing-in-this-article-we-will-go-through-the-steps-you-will-need/"><u>If You Are a Beginner and Want to Familiarise Yourself with Steps and Terms Used in Video Editing, in This Article, We Will Go Through the Steps You Will Need to Cut Your Video File in Adobe Premiere Pro and Wondershare Filmora</u></a></li>
 </ul></div>
 
+

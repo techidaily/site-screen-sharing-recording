@@ -964,3 +964,4 @@ To record online teaching all you have to do is install one of the applications 
 <li><a href="https://animation-videos.techidaily.com/in-2024-how-to-make-gif-instagram/"><u>In 2024, How to Make GIF Instagram</u></a></li>
 </ul></div>
 
+

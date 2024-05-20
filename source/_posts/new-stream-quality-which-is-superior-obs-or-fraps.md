@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Stream Quality  Which Is Superior, OBS or Fraps?\""
-date: 2024-05-18T06:35:19.391Z
-updated: 2024-05-19T06:35:19.391Z
+date: 2024-05-19T21:05:58.936Z
+updated: 2024-05-20T21:05:58.936Z
 tags: 
   - screen-recording
   - ai video
@@ -266,4 +266,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://voice-adjusting.techidaily.com/new-top-10-windows-compatible-speech-recognition-tools/"><u>New Top 10 Windows-Compatible Speech Recognition Tools</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Gionee F3 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

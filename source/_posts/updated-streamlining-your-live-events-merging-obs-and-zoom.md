@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Streamlining Your Live Events  Merging OBS and Zoom\""
-date: 2024-05-18T06:52:36.555Z
-updated: 2024-05-19T06:52:36.555Z
+date: 2024-05-19T21:06:37.537Z
+updated: 2024-05-20T21:06:37.537Z
 tags: 
   - screen-recording
   - ai video
@@ -442,4 +442,5 @@ OBS enables recording into several video formats. But the major reason why you m
 <li><a href="https://ai-video-tools.techidaily.com/updated-take-fcp-for-a-spin-90-day-free-trial-no-credit-card-needed/"><u>Updated Take FCP for a Spin 90-Day Free Trial, No Credit Card Needed</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/new-tiktok-aspect-ratio-explained-tips-and-tricks-success/"><u>New TikTok Aspect Ratio Explained Tips and Tricks Success</u></a></li>
 </ul></div>
+
 

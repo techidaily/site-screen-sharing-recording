@@ -1,7 +1,7 @@
 ---
 title: "\"[New] IPhone Slow-Motion Camera Video for 2024\""
-date: 2024-05-18T06:45:40.696Z
-updated: 2024-05-19T06:45:40.696Z
+date: 2024-05-19T21:06:22.234Z
+updated: 2024-05-20T21:06:22.234Z
 tags: 
   - screen-recording
   - ai video
@@ -564,4 +564,5 @@ iPhone offers various easy-to-use and creative tools and apps for producing inno
 <li><a href="https://video-content-creator.techidaily.com/top-video-editing-software-for-windows-11-free-and-premium-options-for-2024/"><u>Top Video Editing Software for Windows 11 Free and Premium Options for 2024</u></a></li>
 <li><a href="https://techidaily.com/hard-resetting-an-samsung-galaxy-z-fold-5-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Samsung Galaxy Z Fold 5 Device Made Easy | Dr.fone</u></a></li>
 </ul></div>
+
 

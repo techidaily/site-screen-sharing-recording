@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Quick Capture  Audiovisual Screen Shot\""
-date: 2024-05-18T06:34:42.517Z
-updated: 2024-05-19T06:34:42.517Z
+date: 2024-05-19T21:05:57.334Z
+updated: 2024-05-20T21:05:57.334Z
 tags: 
   - screen-recording
   - ai video
@@ -465,4 +465,5 @@ If you are a Mac user, QuickTime player screen recording with audio is available
 <li><a href="https://video-content-creator.techidaily.com/new-in-2024-color-matching-mastery-a-step-by-step-guide-for-powerdirector-users/"><u>New In 2024, Color Matching Mastery A Step-by-Step Guide for PowerDirector Users</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-blender-a-video-editor-for-all-professor/"><u>Updated In 2024, Blender - A Video Editor for All Professor</u></a></li>
 </ul></div>
+
 

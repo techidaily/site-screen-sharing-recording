@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Rogelikes Past, Present, & Emerging Futures"
-date: 2024-05-18T06:40:39.150Z
-updated: 2024-05-19T06:40:39.150Z
+date: 2024-05-19T21:06:10.302Z
+updated: 2024-05-20T21:06:10.302Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ Follow @Ollie Mattison
 <li><a href="https://techidaily.com/hard-resetting-an-meizu-21-pro-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Meizu 21 Pro Device Made Easy | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-find-x7-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo Find X7 by Phone Number | Dr.fone</u></a></li>
 </ul></div>
+
 

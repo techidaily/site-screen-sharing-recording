@@ -591,3 +591,4 @@ You can agree with me that this screen catch application has a decent portion of
 <li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-huawei-nova-y71-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Huawei Nova Y71 Quickly | Dr.fone</u></a></li>
 </ul></div>
 
+

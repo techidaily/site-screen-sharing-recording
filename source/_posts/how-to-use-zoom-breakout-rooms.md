@@ -1,7 +1,7 @@
 ---
 title: "How to Use Zoom Breakout Rooms"
-date: 2024-05-18T06:43:13.080Z
-updated: 2024-05-19T06:43:13.080Z
+date: 2024-05-19T21:06:15.614Z
+updated: 2024-05-20T21:06:15.614Z
 tags: 
   - screen-recording
   - ai video
@@ -514,4 +514,5 @@ Follow @Richard Bennett
 <li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/three-solutions-to-hard-reset-oneplus-nord-n30-se-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset OnePlus Nord N30 SE? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Capturing Screens with Internal Recorder on Mate 10/20 & P Series (P20, P10) Smartphones\""
-date: 2024-05-18T06:54:47.333Z
-updated: 2024-05-19T06:54:47.333Z
+date: 2024-05-19T21:06:42.156Z
+updated: 2024-05-20T21:06:42.156Z
 tags: 
   - screen-recording
   - ai video
@@ -439,4 +439,5 @@ Follow @Max Wales
 <li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Samsung Galaxy A15 5G | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-vivo-y100-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Vivo Y100 5G</u></a></li>
 </ul></div>
+
 

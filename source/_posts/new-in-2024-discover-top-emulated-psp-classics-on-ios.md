@@ -422,3 +422,4 @@ For macOS 10.12 or later
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-xs-max-to-other-iphone-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone XS Max to Other iPhone? | Dr.fone</u></a></li>
 </ul></div>
 
+

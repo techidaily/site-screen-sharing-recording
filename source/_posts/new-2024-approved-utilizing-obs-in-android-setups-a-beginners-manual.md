@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Utilizing OBS in Android Setups  A Beginner's Manual\""
-date: 2024-05-18T06:29:49.688Z
-updated: 2024-05-19T06:29:49.688Z
+date: 2024-05-19T21:05:46.522Z
+updated: 2024-05-20T21:05:46.522Z
 tags: 
   - screen-recording
   - ai video
@@ -515,4 +515,5 @@ OBS Studio is a popular application among gamers, professional trainers, and int
 <li><a href="https://ai-editing-video.techidaily.com/how-to-zoom-in-and-out-on-mac/"><u>How to Zoom In and Out on Mac</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/updated-free-video-editing-without-watermarks-8-best-trimmers-for-2024/"><u>Updated Free Video Editing without Watermarks 8 Best Trimmers for 2024</u></a></li>
 </ul></div>
+
 

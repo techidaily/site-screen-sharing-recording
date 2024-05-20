@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Restoring Functionality in OBS Capture Device"
-date: 2024-05-18T06:55:19.136Z
-updated: 2024-05-19T06:55:19.136Z
+date: 2024-05-19T21:06:43.582Z
+updated: 2024-05-20T21:06:43.582Z
 tags: 
   - screen-recording
   - ai video
@@ -311,4 +311,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Realme 11 5G | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-samsung-galaxy-m54-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy M54 5G</u></a></li>
 </ul></div>
+
 

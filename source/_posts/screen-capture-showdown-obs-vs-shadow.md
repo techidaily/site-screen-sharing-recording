@@ -1,7 +1,7 @@
 ---
 title: "\"Screen Capture Showdown  OBS vs Shadow\""
-date: 2024-05-18T06:38:42.479Z
-updated: 2024-05-19T06:38:42.479Z
+date: 2024-05-19T21:06:06.129Z
+updated: 2024-05-20T21:06:06.129Z
 tags: 
   - screen-recording
   - ai video
@@ -240,4 +240,5 @@ If you want to record high-end games, ShadowPlay is ideal as it does not affect 
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-iphone-8-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 8 Keeps Asking for Outlook Password | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y78plus-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y78+ to Other Android Devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

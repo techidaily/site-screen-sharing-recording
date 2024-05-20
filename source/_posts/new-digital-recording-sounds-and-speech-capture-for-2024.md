@@ -772,3 +772,4 @@ This article highlights the various methods that can be used to record pc sound 
 <li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-xiaomi-redmi-note-12-pro-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Xiaomi Redmi Note 12 Pro 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 </ul></div>
 
+

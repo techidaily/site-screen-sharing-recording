@@ -274,3 +274,4 @@ Follow @Max Wales
 <li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-tecno-pop-8-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Tecno Pop 8 Pattern Lock Screen</u></a></li>
 </ul></div>
 
+

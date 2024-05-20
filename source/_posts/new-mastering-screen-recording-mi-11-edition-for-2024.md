@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Screen Recording  Mi 11 Edition for 2024\""
-date: 2024-05-18T06:42:03.050Z
-updated: 2024-05-19T06:42:03.050Z
+date: 2024-05-19T21:06:13.460Z
+updated: 2024-05-20T21:06:13.460Z
 tags: 
   - screen-recording
   - ai video
@@ -573,4 +573,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-realme-c51-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Realme C51</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/how-to-track-a-lost-apple-iphone-6-for-free-drfone-by-drfone-virtual-ios/"><u>How to Track a Lost Apple iPhone 6 for Free? | Dr.fone</u></a></li>
 </ul></div>
+
 

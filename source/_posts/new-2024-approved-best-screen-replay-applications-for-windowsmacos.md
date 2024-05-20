@@ -405,3 +405,4 @@ In order to record the full screen of your computer, you will need a screen reco
 <li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-itel-a60-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Itel A60 Phone Using PC | Dr.fone</u></a></li>
 </ul></div>
 
+

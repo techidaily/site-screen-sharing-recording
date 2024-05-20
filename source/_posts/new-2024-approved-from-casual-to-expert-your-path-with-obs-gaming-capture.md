@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  From Casual to Expert  Your Path with OBS Gaming Capture\""
-date: 2024-05-18T06:42:18.128Z
-updated: 2024-05-19T06:42:18.128Z
+date: 2024-05-19T21:06:13.931Z
+updated: 2024-05-20T21:06:13.931Z
 tags: 
   - screen-recording
   - ai video
@@ -394,4 +394,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://techidaily.com/repair-corrupt-pdf-v10-files-on-my-mac-using-tool-stellar-by-stellar-guide/"><u>Repair corrupt PDF v1.0 files on my Mac using tool | Stellar</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-mac-users-install-lumafusion-or-discover-its-top-competitors/"><u>2024 Approved Mac Users Install Lumafusion or Discover Its Top Competitors</u></a></li>
 </ul></div>
+
 

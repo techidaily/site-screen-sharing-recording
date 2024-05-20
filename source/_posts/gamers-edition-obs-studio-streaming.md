@@ -1,7 +1,7 @@
 ---
 title: "\"Gamers' Edition  OBS Studio Streaming\""
-date: 2024-05-18T06:44:15.882Z
-updated: 2024-05-19T06:44:15.882Z
+date: 2024-05-19T21:06:17.805Z
+updated: 2024-05-20T21:06:17.805Z
 tags: 
   - screen-recording
   - ai video
@@ -397,4 +397,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-7-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Infinix Smart 7 Phone Pattern Lock without Factory Reset</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-nokia-c12-plus-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Nokia C12 Plus | Dr.fone</u></a></li>
 </ul></div>
+
 

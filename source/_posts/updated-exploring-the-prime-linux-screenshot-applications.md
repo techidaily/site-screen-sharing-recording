@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Exploring the Prime Linux Screenshot Applications"
-date: 2024-05-18T06:33:13.879Z
-updated: 2024-05-19T06:33:13.879Z
+date: 2024-05-19T21:05:54.178Z
+updated: 2024-05-20T21:05:54.178Z
 tags: 
   - screen-recording
   - ai video
@@ -573,4 +573,5 @@ Follow @Liza Brown
 <li><a href="https://screen-mirror.techidaily.com/how-can-htc-u23mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can HTC U23Mirror Share to PC? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/solutions-to-repair-corrupt-excel-file-2000-stellar-by-stellar-guide/"><u>Solutions to Repair Corrupt Excel File 2000 | Stellar</u></a></li>
 </ul></div>
+
 

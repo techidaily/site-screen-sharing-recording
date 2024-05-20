@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Revitalizing a Frozen OBS Video Source Feed"
-date: 2024-05-18T06:37:43.655Z
-updated: 2024-05-19T06:37:43.655Z
+date: 2024-05-19T21:06:04.221Z
+updated: 2024-05-20T21:06:04.221Z
 tags: 
   - screen-recording
   - ai video
@@ -258,4 +258,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://blog-min.techidaily.com/how-to-find-lost-iphone-12-pro-backup-files-on-windows-pc-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to find lost iPhone 12 Pro Backup files on Windows PC? | Stellar</u></a></li>
 <li><a href="https://ai-topics.techidaily.com/updated-the-best-text-to-audio-converters-of-all-times/"><u>Updated The Best Text-to-Audio Converters of All Times</u></a></li>
 </ul></div>
+
 

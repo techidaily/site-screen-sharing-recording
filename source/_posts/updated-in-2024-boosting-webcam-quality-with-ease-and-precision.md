@@ -467,3 +467,4 @@ Follow @Max Wales
 <li><a href="https://animation-videos.techidaily.com/new-how-to-make-your-gif-on-whatsapp-in-simple-ways/"><u>New How to Make Your GIF on WhatsApp in Simple Ways</u></a></li>
 </ul></div>
 
+

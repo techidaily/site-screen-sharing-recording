@@ -1120,3 +1120,4 @@ To record video on Mac, you need a screen recorder. There are free and premium r
 <li><a href="https://audio-shaping.techidaily.com/in-2024-tremors-and-rumbles-a-compendium-of-colossal-sound-effects/"><u>In 2024, Tremors and Rumbles A Compendium of Colossal Sound Effects</u></a></li>
 </ul></div>
 
+

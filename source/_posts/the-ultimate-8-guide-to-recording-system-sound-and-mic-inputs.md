@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate 8 Guide to Recording System Sound & Mic Inputs"
-date: 2024-05-18T06:39:41.746Z
-updated: 2024-05-19T06:39:41.746Z
+date: 2024-05-19T21:06:08.458Z
+updated: 2024-05-20T21:06:08.458Z
 tags: 
   - screen-recording
   - ai video
@@ -798,4 +798,5 @@ This article highlights the various methods that can be used to record pc sound 
 <li><a href="https://ai-driven-video-production.techidaily.com/gopro-video-editing-made-easy-a-step-by-step-guide-for-beginners-for-2024/"><u>GoPro Video Editing Made Easy A Step-by-Step Guide for Beginners for 2024</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Tecno Pova 5 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

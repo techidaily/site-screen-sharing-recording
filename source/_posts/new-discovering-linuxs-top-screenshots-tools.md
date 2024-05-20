@@ -596,3 +596,4 @@ Follow @Liza Brown
 <li><a href="https://animation-videos.techidaily.com/new-handy-tip-from-adobe-animate-rigging-tutorial-for-all-learners/"><u>New Handy Tip From Adobe Animate Rigging Tutorial for All Learners</u></a></li>
 </ul></div>
 
+

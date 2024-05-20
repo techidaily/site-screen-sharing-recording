@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Windows/Mac Meeting Record - Skype Guide\""
-date: 2024-05-18T06:33:49.957Z
-updated: 2024-05-19T06:33:49.957Z
+date: 2024-05-19T21:05:55.443Z
+updated: 2024-05-20T21:05:55.443Z
 tags: 
   - screen-recording
   - ai video
@@ -621,4 +621,5 @@ Follow @Max Wales
 <li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-vivo-v30-lite-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo V30 Lite 5G to Protect Your Individual Information</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-oppo-a38-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Oppo A38? | Dr.fone</u></a></li>
 </ul></div>
+
 

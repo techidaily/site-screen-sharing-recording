@@ -667,3 +667,4 @@ Follow @Richard Bennett
 <li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Nokia C12 Plus? | Dr.fone</u></a></li>
 </ul></div>
 
+

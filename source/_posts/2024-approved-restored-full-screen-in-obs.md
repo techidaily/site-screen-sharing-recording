@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Restored  Full Screen in OBS\""
-date: 2024-05-18T06:47:17.747Z
-updated: 2024-05-19T06:47:17.747Z
+date: 2024-05-19T21:06:25.855Z
+updated: 2024-05-20T21:06:25.855Z
 tags: 
   - screen-recording
   - ai video
@@ -279,4 +279,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://change-location.techidaily.com/how-to-deal-with-the-motorola-moto-g13-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Motorola Moto G13 Screen Black But Still Works? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-vivo-v29e-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Vivo V29e | Dr.fone</u></a></li>
 </ul></div>
+
 

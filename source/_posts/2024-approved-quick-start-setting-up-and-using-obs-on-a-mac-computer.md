@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick Start  Setting Up and Using OBS on a Mac Computer\""
-date: 2024-05-18T06:47:36.026Z
-updated: 2024-05-19T06:47:36.026Z
+date: 2024-05-19T21:06:26.458Z
+updated: 2024-05-20T21:06:26.458Z
 tags: 
   - screen-recording
   - ai video
@@ -358,4 +358,5 @@ Unlike OBS, which only offers a few recording options, Filmora includes all of t
 <li><a href="https://voice-adjusting.techidaily.com/new-in-2024-audiovisual-voice-changer-breakthroughs-new-product-showcases-critical-appraisals-and-substitutes/"><u>New In 2024, Audiovisual Voice Changer Breakthroughs New Product Showcases, Critical Appraisals, and Substitutes</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-infinix-note-30i-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Infinix Note 30i Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 </ul></div>
+
 

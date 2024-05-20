@@ -1,7 +1,7 @@
 ---
 title: "\"Illuminate Your Gaming Recordings  Avoid Black Screens with OBS\""
-date: 2024-05-18T06:51:45.425Z
-updated: 2024-05-19T06:51:45.425Z
+date: 2024-05-19T21:06:35.721Z
+updated: 2024-05-20T21:06:35.721Z
 tags: 
   - screen-recording
   - ai video
@@ -259,4 +259,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://ai-voice-clone.techidaily.com/new-best-4-ways-of-instagram-video-promotion-for-2024/"><u>New Best 4 Ways of Instagram Video Promotion for 2024</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Huawei Nova Y71 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Solutions for Restarting Frozen OBS Fullscreen for 2024"
-date: 2024-05-18T06:38:27.693Z
-updated: 2024-05-19T06:38:27.693Z
+date: 2024-05-19T21:06:05.671Z
+updated: 2024-05-20T21:06:05.671Z
 tags: 
   - screen-recording
   - ai video
@@ -291,4 +291,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://iphone-transfer.techidaily.com/effortless-ways-to-transfer-data-from-your-apple-iphone-12-pro-max-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Effortless Ways to Transfer Data from Your Apple iPhone 12 Pro Max to iPhone 15 | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

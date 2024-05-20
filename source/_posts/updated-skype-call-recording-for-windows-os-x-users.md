@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Skype Call Recording for Windows, OS X Users"
-date: 2024-05-18T06:31:36.782Z
-updated: 2024-05-19T06:31:36.782Z
+date: 2024-05-19T21:05:50.581Z
+updated: 2024-05-20T21:05:50.581Z
 tags: 
   - screen-recording
   - ai video
@@ -618,4 +618,5 @@ Follow @Max Wales
 <li><a href="https://techidaily.com/things-you-dont-know-about-vivo-s18-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo S18 Pro Reset Code | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-mini-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 mini Passcode Screen? | Dr.fone</u></a></li>
 </ul></div>
+
 

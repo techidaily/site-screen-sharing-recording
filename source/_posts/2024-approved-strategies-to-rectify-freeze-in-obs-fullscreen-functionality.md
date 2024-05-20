@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Strategies to Rectify Freeze in OBS Fullscreen Functionality\""
-date: 2024-05-18T06:29:23.823Z
-updated: 2024-05-19T06:29:23.823Z
+date: 2024-05-19T21:05:45.667Z
+updated: 2024-05-20T21:05:45.667Z
 tags: 
   - screen-recording
   - ai video
@@ -302,4 +302,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://ios-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>What Pokémon Evolve with A Dawn Stone For Apple iPhone XS? | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-the-ultimate-cheat-sheet-mastering-facebook-video-aspect-ratios/"><u>In 2024, The Ultimate Cheat Sheet Mastering Facebook Video Aspect Ratios</u></a></li>
 </ul></div>
+
 

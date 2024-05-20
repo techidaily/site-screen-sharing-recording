@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Roguelike Vs. Roguelite  Debates and History Explained With Game Examples\""
-date: 2024-05-18T06:49:46.055Z
-updated: 2024-05-19T06:49:46.055Z
+date: 2024-05-19T21:06:31.458Z
+updated: 2024-05-20T21:06:31.458Z
 tags: 
   - screen-recording
   - ai video
@@ -335,4 +335,5 @@ Follow @Ollie Mattison
 <li><a href="https://video-content-creator.techidaily.com/new-in-2024-best-free-imovie-equivalent-for-windows-11-and-10-pcs/"><u>New In 2024, Best Free iMovie Equivalent for Windows 11 and 10 PCs</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-vivo-s18-pro-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Vivo S18 Pro?</u></a></li>
 </ul></div>
+
 

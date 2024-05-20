@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, PS4 Broadcasting Basics with a Focus on OBS Integration"
-date: 2024-05-18T06:34:25.522Z
-updated: 2024-05-19T06:34:25.522Z
+date: 2024-05-19T21:05:56.649Z
+updated: 2024-05-20T21:05:56.649Z
 tags: 
   - screen-recording
   - ai video
@@ -368,4 +368,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://audio-shaping.techidaily.com/updated-in-2024-the-essential-guide-to-achieving-professional-level-audio-on-your-own-setup/"><u>Updated In 2024, The Essential Guide to Achieving Professional-Level Audio on Your Own Setup</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-iphone-6-plus-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From iPhone 6 Plus</u></a></li>
 </ul></div>
+
 

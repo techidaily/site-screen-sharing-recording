@@ -677,3 +677,4 @@ Follow @Max Wales
 <li><a href="https://ai-video-editing.techidaily.com/here-we-will-investigate-ai-based-video-interview-how-it-is-being-used-and-how-to-master-an-artificial-intelligence-video-interview-act/"><u>Here We Will Investigate AI-Based Video Interview, How It Is Being Used, and How to Master an Artificial Intelligence Video Interview Act</u></a></li>
 </ul></div>
 
+

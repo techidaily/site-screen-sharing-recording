@@ -382,3 +382,4 @@ A screen recorder is an instrument that catches content on your Mac screen and s
 <li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-itel-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Itel A05s | Dr.fone</u></a></li>
 </ul></div>
 
+

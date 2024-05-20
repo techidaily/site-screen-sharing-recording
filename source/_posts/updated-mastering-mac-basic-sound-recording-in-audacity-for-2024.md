@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Mac  Basic Sound Recording in Audacity for 2024\""
-date: 2024-05-18T06:45:13.475Z
-updated: 2024-05-19T06:45:13.475Z
+date: 2024-05-19T21:06:21.285Z
+updated: 2024-05-20T21:06:21.285Z
 tags: 
   - screen-recording
   - ai video
@@ -263,4 +263,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://audio-shaping.techidaily.com/top-4-ringtone-cuuter-to-use/"><u>Top 4 Ringtone Cuuter to Use</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-apple-iphone-8-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From Apple iPhone 8? How to Fix it?</u></a></li>
 </ul></div>
+
 

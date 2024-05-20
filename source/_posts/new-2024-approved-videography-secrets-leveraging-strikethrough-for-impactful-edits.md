@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Videography Secrets  Leveraging Strikethrough for Impactful Edits\""
-date: 2024-05-18T06:53:55.032Z
-updated: 2024-05-19T06:53:55.032Z
+date: 2024-05-19T21:06:40.384Z
+updated: 2024-05-20T21:06:40.384Z
 tags: 
   - screen-recording
   - ai video
@@ -508,4 +508,5 @@ Follow @Max Wales
 <li><a href="https://smart-video-editing.techidaily.com/new-in-2024-get-ready-for-video-editing-premiere-pro-system-requirements-explained/"><u>New In 2024, Get Ready for Video Editing Premiere Pro System Requirements Explained</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-plus-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s Plus to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

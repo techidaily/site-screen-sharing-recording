@@ -1,7 +1,7 @@
 ---
 title: "\"[New] OBS Rescue  Cameras Are Back Up\""
-date: 2024-05-18T06:38:57.280Z
-updated: 2024-05-19T06:38:57.280Z
+date: 2024-05-19T21:06:06.625Z
+updated: 2024-05-20T21:06:06.625Z
 tags: 
   - screen-recording
   - ai video
@@ -281,4 +281,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://video-ai-editor.techidaily.com/the-ultimate-fcpx-plugin-collection-top-10-picks-for-video-editors/"><u>The Ultimate FCPX Plugin Collection Top 10 Picks for Video Editors</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-best-video-editing-software-for-effortless-reframing/"><u>Updated 2024 Approved Best Video Editing Software for Effortless Reframing</u></a></li>
 </ul></div>
+
 

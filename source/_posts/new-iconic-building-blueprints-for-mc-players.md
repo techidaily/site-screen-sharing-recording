@@ -1,7 +1,7 @@
 ---
 title: "[New] Iconic Building Blueprints for MC Players"
-date: 2024-05-18T06:31:03.290Z
-updated: 2024-05-19T06:31:03.290Z
+date: 2024-05-19T21:05:49.430Z
+updated: 2024-05-20T21:05:49.430Z
 tags: 
   - screen-recording
   - ai video
@@ -327,4 +327,5 @@ Follow @Shanoon Cox
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-lava-yuva-2-pro-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Lava Yuva 2 Pro Partly Screen Unresponsive | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/1713951345476-this-article-discusses-what-is-blender-video-editor-how-to-download-install-and-use-it-and-its-key-features-it-further-discusses-its-alternative-for-editing/"><u>This Article Discusses What Is Blender Video Editor, How to Download, Install and Use It, and Its Key Features. It Further Discusses Its Alternative for Editing Your Videos and More. Check Out Now for 2024</u></a></li>
 </ul></div>
+
 

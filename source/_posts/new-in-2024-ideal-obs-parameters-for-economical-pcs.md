@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Ideal OBS Parameters for Economical PCs"
-date: 2024-05-18T06:35:10.516Z
-updated: 2024-05-19T06:35:10.516Z
+date: 2024-05-19T21:05:58.638Z
+updated: 2024-05-20T21:05:58.638Z
 tags: 
   - screen-recording
   - ai video
@@ -282,4 +282,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://ai-live-streaming.techidaily.com/new-a-guide-on-starting-private-live-streams-on-youtube-for-2024/"><u>New A Guide on Starting Private Live Streams on YouTube for 2024</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/updated-no-cost-high-reward-top-10-free-online-video-quality-enhancement-tools/"><u>Updated No Cost, High Reward Top 10 Free Online Video Quality Enhancement Tools</u></a></li>
 </ul></div>
+
 

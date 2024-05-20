@@ -693,3 +693,4 @@ Follow @Liza Brown
 <li><a href="https://ai-editing-video.techidaily.com/new-add-a-miniature-effect-on-your-video-for-filmy-looks-to-add-this-effect-read-the-complete-guide-and-make-your-video-cinematic-by-wondershare-filmora/"><u>New Add a Miniature Effect on Your Video for Filmy Looks. To Add This Effect, Read the Complete Guide and Make Your Video Cinematic by Wondershare Filmora</u></a></li>
 </ul></div>
 
+
