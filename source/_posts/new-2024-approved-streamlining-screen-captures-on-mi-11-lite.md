@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Streamlining Screen Captures on Mi 11 Lite\""
-date: 2024-05-19T21:06:01.188Z
-updated: 2024-05-20T21:06:01.188Z
+date: 2024-06-09T06:16:05.884Z
+updated: 2024-06-10T06:16:05.884Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Streamlining Screen Captures on Mi 11 Lite\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Streamlining Screen Captures on Mi 11 Lite\""
 keywords: "Mi11 Snap Efficiency,Lite Mi11 Shots Save,Quick MI11 Capture,Streamlined Mi11 Screen,LightMi11 ScreenSave,Optimized Mi11 Photographs,SpeedCapture Mi11 Pro"
-thumbnail: https://www.lifewire.com/thmb/7wWwLeV8KAaB-XqPIbKe8lIgaY4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/reddit-app-for-andoird-652f6fcd646245e9807afbac25a072ee.jpg
+thumbnail: https://thmb.techidaily.com/ca9ebd9e5568d283ff74716c5b52278ddfb01bff412fbb14fb93882fc8d1dc09.jpg
 ---
 
 ## Streamlining Screen Captures on Mi 11 Lite

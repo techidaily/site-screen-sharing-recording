@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  The Ultimate List of Sandbox Treasures\""
-date: 2024-05-18T07:28:59.022Z
-updated: 2024-05-19T07:28:59.022Z
+date: 2024-06-09T06:16:04.554Z
+updated: 2024-06-10T06:16:04.554Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: The Ultimate List of Sandbox Treasures\""
 excerpt: "\"This Article Describes [New] 2024 Approved: The Ultimate List of Sandbox Treasures\""
 keywords: "Sandbox Finds Compilation,Top Sandbox Items,Sandbox Collection Guide,Essential Sandbox Goodies,Sandbox Rarity List,Riches in Sandbox World,Prime Sandbox Treasures"
-thumbnail: https://www.lifewire.com/thmb/kq2_pYjL3lBcvd_iWUGjf8TYdhc=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-PS5-PlayStation-5-Gaming-Console-7-1434c073922c4bf59bca47a33013a6dd.jpg
+thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d937373bba78e772659986e3.jpg
 ---
 
 ## The Ultimate List of Sandbox Treasures

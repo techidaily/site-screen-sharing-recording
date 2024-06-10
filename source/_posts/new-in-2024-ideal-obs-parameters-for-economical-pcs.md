@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Ideal OBS Parameters for Economical PCs"
-date: 2024-05-19T21:05:58.638Z
-updated: 2024-05-20T21:05:58.638Z
+date: 2024-06-09T06:16:08.479Z
+updated: 2024-06-10T06:16:08.479Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, Ideal OBS Parameters for Economical PCs"
 excerpt: "This Article Describes [New] In 2024, Ideal OBS Parameters for Economical PCs"
 keywords: "\"Economy PC Optimization,Eco-Friendly PC Settings,Cost-Effective BIOS Tweaks,Budget-Friendly OBS Parameters,Low-Cost PC Performance,Affordable Computer Enhancement,Value-Driven System Adjustments\""
-thumbnail: https://www.lifewire.com/thmb/x14UrRTf3--IfQ99R_ewwR4TwWY=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-104288650-cd3f369f8ead449f94d1a1ce6f55c9de.jpg
+thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006aaa80a48dab2ef20ecc47cd.jpg
 ---
 
 ## Ideal OBS Parameters for Economical PCs

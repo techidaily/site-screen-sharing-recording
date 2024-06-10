@@ -1,7 +1,7 @@
 ---
 title: "Tips for Uninterrupted OBS Video Playback"
-date: 2024-05-19T21:06:40.905Z
-updated: 2024-05-20T21:06:40.905Z
+date: 2024-06-09T06:16:10.782Z
+updated: 2024-06-10T06:16:10.782Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Tips for Uninterrupted OBS Video Playback"
 excerpt: "This Article Describes Tips for Uninterrupted OBS Video Playback"
 keywords: "\"OBS Stream Smoothly,No Lag OBS Recording,Optimal OBS Performance,Stable OBS Playback,Interruption-Free OBS Video,Enhance OBS Efficiency,Secure OBS Live Stream\""
-thumbnail: https://www.lifewire.com/thmb/7xkPKaI2xi5sTbIeFjMPxaWn7Gc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apple-tvos_a-star-is-born_060319-b01aea7d8a1949609359d8d96b1a22e0.jpg
+thumbnail: https://thmb.techidaily.com/3a8d29dc752129bc6cecd890184a07ba60927370b95afc8af67003c49b108b72.jpg
 ---
 
 ## Tips for Uninterrupted OBS Video Playback

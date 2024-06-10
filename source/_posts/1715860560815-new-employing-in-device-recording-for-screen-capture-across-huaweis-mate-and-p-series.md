@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Employing In-Device Recording for Screen Capture Across Huawei’s Mate and P Series.\""
-date: 2024-05-18T07:16:10.589Z
-updated: 2024-05-19T07:16:10.589Z
+date: 2024-06-09T06:16:11.561Z
+updated: 2024-06-10T06:16:11.561Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Employing In-Device Recording for Screen Capture Across Huawei’s Mate and P Series.\""
 excerpt: "\"This Article Describes [New] Employing In-Device Recording for Screen Capture Across Huawei’s Mate and P Series.\""
 keywords: "\"Huawei Mate Screen Capture,P Series In-Device Recording,Huawei P Series Recording,In-Device Screen Capture Huawei,Huawei Device Screen Record,Mate Series Camera Screen,In-Device Video Capturing Mate/P Series\""
-thumbnail: https://www.lifewire.com/thmb/u__p9PWL3Uvoj7yKh73LTAz8p1I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphonedefaultalerttone-15a2b7bd66de41878765af23bd0d6c6f.png
+thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb44504b07d25f967a878becd.png
 ---
 
 ## Employing In-Device Recording for Screen Capture Across Huawei’s Mate and P Series

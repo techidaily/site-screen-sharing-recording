@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  EyeChrome Studio  Direct OS Screencap\""
-date: 2024-05-19T21:05:53.940Z
-updated: 2024-05-20T21:05:53.940Z
+date: 2024-06-09T06:16:05.439Z
+updated: 2024-06-10T06:16:05.439Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: EyeChrome Studio: Direct OS Screencap\""
 excerpt: "\"This Article Describes [New] 2024 Approved: EyeChrome Studio: Direct OS Screencap\""
 keywords: "EyeChrome Studioscape,Direct OS Screencast,OS Screenshot Studio,EyeChrome CaptureOS,OSScreen Recording,Chrome EyeScreencap,EyeChrome OS ScreenCapture"
-thumbnail: https://www.lifewire.com/thmb/vyzcJX9d4xPRDFBKmvNTGXpael0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-944229620-9cff560054804b72a431e9492c7445b4.jpg
+thumbnail: https://thmb.techidaily.com/e271cbb6eb6a65ff2648f6dddd1fc0c078a843660eba98a715724fa951b431ee.jpg
 ---
 
 ## EyeChrome Studio: Direct OS Screencap

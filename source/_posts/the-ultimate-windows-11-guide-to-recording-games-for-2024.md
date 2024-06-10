@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Windows 11 Guide to Recording Games for 2024"
-date: 2024-05-18T07:14:32.486Z
-updated: 2024-05-19T07:14:32.486Z
+date: 2024-06-09T06:16:08.991Z
+updated: 2024-06-10T06:16:08.991Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes The Ultimate Windows 11 Guide to Recording Games for 2024"
 excerpt: "This Article Describes The Ultimate Windows 11 Guide to Recording Games for 2024"
 keywords: "Win11 Game Record,Windows Recording Tips,GamRec Windows Guide,Win11 Gaming Capture,DirectX Game Record,Windows 11 Screen Casting,Ultimate Win11 Gameplay Save"
-thumbnail: https://www.lifewire.com/thmb/qNtT0Vit1jn8RftUFX6Xcsv5x4o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-best-texting-apps-for-android-tablets-in-2023-a5a6329d6b744167acf0a02f6a413ff2.jpg
+thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee45db635b3f848c5daefbda2.jpg
 ---
 
 ## The Ultimate Windows 11 Guide to Recording Games

@@ -1,7 +1,7 @@
 ---
 title: "\"Exploring 8 Premium Open-Source Videoconferencing Platforms for 2024\""
-date: 2024-05-19T21:08:30.839Z
-updated: 2024-05-20T21:08:30.839Z
+date: 2024-06-09T06:16:06.546Z
+updated: 2024-06-10T06:16:06.546Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Exploring 8 Premium Open-Source Videoconferencing Platforms for 2024\""
 excerpt: "\"This Article Describes Exploring 8 Premium Open-Source Videoconferencing Platforms for 2024\""
 keywords: "\"Free Video Tools,Top Open-Source Cams,Best Free Conferencing,Premium Cam Software,Open Source Video Tech,Free Video Platforms,Leading Open Video Systems\""
-thumbnail: https://www.lifewire.com/thmb/85rwStNr21lvFIjCfmY8ErdogYI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wimbledonlivestream-c22d5eefbf8f40e9b25ba4cab1734ece.jpg
+thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c12bd8c02f2b01f747786c25.jpg
 ---
 
 ## Exploring 8 Premium Open-Source Videoconferencing Platforms

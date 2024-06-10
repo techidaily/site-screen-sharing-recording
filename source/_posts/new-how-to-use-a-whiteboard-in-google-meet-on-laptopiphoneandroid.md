@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Use a Whiteboard in Google Meet on Laptop/iPhone/Android"
-date: 2024-05-18T07:03:16.836Z
-updated: 2024-05-19T07:03:16.836Z
+date: 2024-06-09T06:16:08.066Z
+updated: 2024-06-10T06:16:08.066Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] How to Use a Whiteboard in Google Meet on Laptop/iPhone/Android"
 excerpt: "This Article Describes [New] How to Use a Whiteboard in Google Meet on Laptop/iPhone/Android"
 keywords: "Google Meet Whiteboard Tips,Laptop Use Google Meet,Mobile Screen Sharing,Android Meet Boarding,IPhone Google Meeting,Portable Board Display,Mobile Chrome Room"
-thumbnail: https://www.lifewire.com/thmb/cLzdzaXCHQmL2C9Qufq6ZiO1gSQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-642250032-010d3026f565420eac9ac098bced6278.jpg
+thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b59cc59254c5cb25869dff46a.jpg
 ---
 
 ## How to Use a Whiteboard in Google Meet on Laptop/iPhone/Android

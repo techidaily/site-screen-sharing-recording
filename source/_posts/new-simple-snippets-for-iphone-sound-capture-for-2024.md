@@ -1,7 +1,7 @@
 ---
 title: "[New] Simple Snippets for iPhone Sound Capture for 2024"
-date: 2024-05-18T07:02:03.504Z
-updated: 2024-05-19T07:02:03.504Z
+date: 2024-06-09T06:16:12.626Z
+updated: 2024-06-10T06:16:12.626Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Simple Snippets for iPhone Sound Capture for 2024"
 excerpt: "This Article Describes [New] Simple Snippets for iPhone Sound Capture for 2024"
 keywords: "IPhone Sound Capture Tips,Snappy Audio iPhone,Simple iPhone Recording,Quick iPhone Audio Capture,Easy iPhone Microphone Use,IPhone Sound Snips Guide,Basic iPhone Voice Recorder"
-thumbnail: https://www.lifewire.com/thmb/ZDnyMd5y1TI-4l8Th58f2C_oJzA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/F8conferencelogo-7ec4475dc6624114aea076c2611df199.jpg
+thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb0b1ed4fef37387dcca189b5.jpg
 ---
 
 ## Simple Snippets for iPhone Sound Capture

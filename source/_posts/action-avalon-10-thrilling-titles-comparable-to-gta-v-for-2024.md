@@ -1,7 +1,7 @@
 ---
 title: "\"Action Avalon  10 Thrilling Titles Comparable To GTA V for 2024\""
-date: 2024-05-18T07:21:57.164Z
-updated: 2024-05-19T07:21:57.164Z
+date: 2024-06-09T06:16:10.236Z
+updated: 2024-06-10T06:16:10.236Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Action Avalon: 10 Thrilling Titles Comparable To GTA V for 2024\""
 excerpt: "\"This Article Describes Action Avalon: 10 Thrilling Titles Comparable To GTA V for 2024\""
 keywords: "\"Avalon GTA V Compare,Thriller Games Like GTA,Action Vs. GTA Tales,GTA V Rivals & Adventures,High-Fast Game Titles,Epic Action Games,Thrillers Beyond GTA\""
-thumbnail: https://www.lifewire.com/thmb/EPDzjUiegMEW3vQpFQEPlf_7s2U=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1135364530-dec5678c0c2c427ba18ae21452ff6326.jpg
+thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd85f95b1f8c43ff4375091ae.jpg
 ---
 
 ## Action Avalon: 10 Thrilling Titles Comparable To GTA V

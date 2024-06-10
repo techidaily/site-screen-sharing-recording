@@ -1,7 +1,7 @@
 ---
 title: "\"Adding Timers  Utilizing OBS for Countdown Features\""
-date: 2024-05-19T21:07:19.296Z
-updated: 2024-05-20T21:07:19.296Z
+date: 2024-06-09T06:16:08.131Z
+updated: 2024-06-10T06:16:08.131Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Adding Timers: Utilizing OBS for Countdown Features\""
 excerpt: "\"This Article Describes Adding Timers: Utilizing OBS for Countdown Features\""
 keywords: "Win11 Gaming Record,Recording Feature Tailor,Custom Games Windows,Save Game Window 11,Enhance Playback Windows,Optimized Game Capture,PC Gaming Saves Ease"
-thumbnail: https://www.lifewire.com/thmb/ouXJb0p8iu69MptAZaPa-CTAUMg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/relaxing-while-getting-his-studies-done-495857099-5a1ed8c5ec2f640037e369f4.jpg
+thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5b8df6a84d93cf668a943550.jpg
 ---
 
 ## Adding Timers: Utilizing OBS for Countdown Features

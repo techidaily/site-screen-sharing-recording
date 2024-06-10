@@ -1,7 +1,7 @@
 ---
 title: "\"Overcoming Quietness  Fixes for Silent OBS Streams for 2024\""
-date: 2024-05-18T07:04:33.423Z
-updated: 2024-05-19T07:04:33.423Z
+date: 2024-06-09T06:16:04.705Z
+updated: 2024-06-10T06:16:04.705Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Overcoming Quietness: Fixes for Silent OBS Streams for 2024\""
 excerpt: "\"This Article Describes Overcoming Quietness: Fixes for Silent OBS Streams for 2024\""
 keywords: "\"Telecomm Teleconference,Business Conference Call,Efficient Teleconferencing,Teleconferencing Strategy,Cost-Effective Telecomm,Virtual Meeting Plans,Professional Telecomming\""
-thumbnail: https://www.lifewire.com/thmb/asCAao3Tfs8ZxVZumyLz52-mVek=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-increase-internet-speed-5181475-b6fd84098c634a04a6934302184c5b1b.jpg
+thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc10a8c5dcc535bfa16bc60ba0.jpg
 ---
 
 ## Overcoming Quietness: Fixes for Silent OBS Streams

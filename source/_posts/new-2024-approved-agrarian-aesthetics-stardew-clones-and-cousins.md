@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Agrarian Aesthetics  Stardew Clones and Cousins\""
-date: 2024-05-18T07:04:35.820Z
-updated: 2024-05-19T07:04:35.820Z
+date: 2024-06-09T06:16:14.981Z
+updated: 2024-06-10T06:16:14.981Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Agrarian Aesthetics: Stardew Clones and Cousins\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Agrarian Aesthetics: Stardew Clones and Cousins\""
 keywords: "Agrarian Art,Farming Aesthetic,Harvest Designs,Field Beauty,Rural Creativity,Agriculture Style,Countryside Chic"
-thumbnail: https://www.lifewire.com/thmb/1giCJ_GI0g5IPS2wzD1NWNQqoBs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-see-who-shared-your-tiktok-5271091-8fc5445938ed433d830a2b5275079c62.jpg
+thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad7a99594a73a26d6b57f4450.jpg
 ---
 
 ## Agrarian Aesthetics: Stardew Clones and Cousins

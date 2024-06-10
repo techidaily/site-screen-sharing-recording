@@ -1,7 +1,7 @@
 ---
 title: "Innovating with OBS Studio on Android Systems"
-date: 2024-05-18T07:24:30.377Z
-updated: 2024-05-19T07:24:30.377Z
+date: 2024-06-09T06:16:15.529Z
+updated: 2024-06-10T06:16:15.529Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Innovating with OBS Studio on Android Systems"
 excerpt: "This Article Describes Innovating with OBS Studio on Android Systems"
 keywords: "\"OBS Studio Android Innovation,OBS Android Streaming Tech,Live OBS on Mobile Devices,OBS Android Broadcasting,OBS for Android Development,Advanced OBS Android Tools,Next-Gen OBS Studio for Android\""
-thumbnail: https://www.lifewire.com/thmb/Lt7EML2RrB2kJWs-oE5VbZxnlNo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-kids-movies-on-disney-plus-june-2023-5112564-37245acf2e6840ba8319f0e13985e04a.jpg
+thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec05c10e1ad65882453b11db44.jpg
 ---
 
 ## Innovating with OBS Studio on Android Systems
