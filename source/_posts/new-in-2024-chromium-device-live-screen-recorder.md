@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Chromium Device Live Screen Recorder"
-date: 2024-05-19T21:06:20.578Z
-updated: 2024-05-20T21:06:20.578Z
+date: 2024-06-18T07:07:08.538Z
+updated: 2024-06-19T07:07:08.538Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, Chromium Device Live Screen Recorder"
 excerpt: "This Article Describes [New] In 2024, Chromium Device Live Screen Recorder"
 keywords: "\"Chromium Screen Recorder,Live Screen Capture,Chrome Live Recording,Video Device Screencasting,Webcam Real-Time Capture,Device Screen Streaming,Live Webcam Feed\""
-thumbnail: https://www.lifewire.com/thmb/U3vDiQ7GsjPng-Yja5bpNwc079s=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-527847020-5b9edc17c9e77c0050ff9045.jpg
+thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5e7d77e30ca04d5bf449b804.jpg
 ---
 
 ## Chromium Device Live Screen Recorder
@@ -93,7 +93,7 @@ Another amazing Google extension for screen recording that is used widely is Nim
 
 Once you are done with the installation settings, now you can click on the Nimbus icon from the top. The Nimbus GUI will show up with a variety of options. Let's stick with screen recording for now. Click on screen recording as shown. A new settings window will appear. You can enable mic, select webcam recording, watermark addition, etc from here. Once you are done with settings click to start recording. Select “entire screen” in the newly popped windows. Finally, click share, and bingo your recording will start. To stop the recording click stop sharing as shown in the figure below.
 
-##### [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Filmora Screen Recorder
 
 Record computer screen and webcam
 

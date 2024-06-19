@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Transmit Live Camera Feed Using VLC Media Player"
-date: 2024-05-19T21:05:53.863Z
-updated: 2024-05-20T21:05:53.863Z
+date: 2024-06-18T07:07:10.263Z
+updated: 2024-06-19T07:07:10.263Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Transmit Live Camera Feed Using VLC Media Player"
 excerpt: "This Article Describes [Updated] Transmit Live Camera Feed Using VLC Media Player"
 keywords: "\"VLC Stream Cam Video,Real-Time VLC Viewing,VLC Camera Broadcast,Live VLC Screen Sharing,VLC Remote Display,Direct VLC Feed Cast,VLC Webcam Transmission\""
-thumbnail: https://www.lifewire.com/thmb/KrjxcoVkV9vT3cQ3C-URm7mlpcM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-917461864-7141ebd3ec944ce6a431b8d485cc9cdb.jpg
+thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed46c02973b8fefdc10e6507c.jpg
 ---
 
 ## Transmit Live Camera Feed Using VLC Media Player

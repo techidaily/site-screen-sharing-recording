@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Utilizing In-Device Recording on Huawei Mate Series Phones (Mate 10, Mate 20) & P Series (P20, P10)\""
-date: 2024-05-18T07:09:24.654Z
-updated: 2024-05-19T07:09:24.654Z
+date: 2024-06-18T07:07:07.284Z
+updated: 2024-06-19T07:07:07.284Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Utilizing In-Device Recording on Huawei Mate Series Phones (Mate 10, Mate 20) & P Series (P20, P10)\""
 excerpt: "\"This Article Describes [Updated] Utilizing In-Device Recording on Huawei Mate Series Phones (Mate 10, Mate 20) & P Series (P20, P10)\""
 keywords: "\"Mate 10+ Recording,P20 Device Capture,Huawei Mate Series Audio,P10 In-Device Record,Huawei Mate Video Capture,Huawei P Series Sound,Mate 20/P20 Live Stream\""
-thumbnail: https://www.lifewire.com/thmb/u__p9PWL3Uvoj7yKh73LTAz8p1I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphonedefaultalerttone-15a2b7bd66de41878765af23bd0d6c6f.png
+thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb44504b07d25f967a878becd.png
 ---
 
 ## Utilizing In-Device Recording on Huawei Mate Series Phones (Mate 10, Mate 20) & P Series (P20, P10)

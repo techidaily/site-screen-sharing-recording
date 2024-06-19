@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Obs Studio for PS4  Step-by-Step Screen Capture for 2024\""
-date: 2024-05-18T07:10:40.150Z
-updated: 2024-05-19T07:10:40.150Z
+date: 2024-06-18T07:07:09.547Z
+updated: 2024-06-19T07:07:09.547Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Obs Studio for PS4: Step-by-Step Screen Capture for 2024\""
 excerpt: "\"This Article Describes [Updated] Obs Studio for PS4: Step-by-Step Screen Capture for 2024\""
 keywords: "\"PS4 Screen Capture Obs,PS4 Obs Studio Guide,Live Streaming PS4,Obs Studio Recording,PS4 Video Tutorials,Step-by-Step PS4 Screenshots,PS4 Gameplay Capture\""
-thumbnail: https://www.lifewire.com/thmb/QSOkVMBCO__10c9yExi2xlfXUGg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-626970032-497800518dac4d6cafa0dc19b953f1ff.jpg
+thumbnail: https://thmb.techidaily.com/5996397f505d52b0f60ffe77c36fd8859621590a57dd0707f44eeaa06c560dbc.jpg
 ---
 
 ## Obs Studio for PS4: Step-by-Step Screen Capture

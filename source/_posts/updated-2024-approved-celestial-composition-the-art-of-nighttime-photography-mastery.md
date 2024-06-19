@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Celestial Composition  The Art of Nighttime Photography Mastery\""
-date: 2024-05-18T06:57:56.923Z
-updated: 2024-05-19T06:57:56.923Z
+date: 2024-06-18T07:07:08.230Z
+updated: 2024-06-19T07:07:08.230Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Celestial Composition: The Art of Nighttime Photography Mastery\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Celestial Composition: The Art of Nighttime Photography Mastery\""
 keywords: "\"Live Photo Techniques,PHOTO in Real Time,Real-Time Capture Skills,Google Meet Picture Tips,Immediate Snapshot Hacks,Photography on Video Call,Moment Mastery Online\""
-thumbnail: https://www.lifewire.com/thmb/q3inw24-h4v92CyIU7_fxjPM1JU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tiktok-messages-889fef4cdfac41babb84770288f32cf2.jpg
+thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a3dc9eccb9055a4b28f7166a.jpg
 ---
 
 ## Celestial Composition: The Art of Nighttime Photography Mastery

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Correcting Time Jumps  Fixing OBS Studio Problems\""
-date: 2024-05-19T21:06:10.052Z
-updated: 2024-05-20T21:06:10.052Z
+date: 2024-06-18T07:07:05.737Z
+updated: 2024-06-19T07:07:05.737Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Correcting Time Jumps: Fixing OBS Studio Problems\""
 excerpt: "\"This Article Describes [New] Correcting Time Jumps: Fixing OBS Studio Problems\""
 keywords: "\"OBS Studio Glitch Fix,Timeline Smoothness,Live Stream Correction,Sync Error Resolution,Jump-Free Video Editing,Real-Time Broadcast Patch,Obs Time Repair Tools\""
-thumbnail: https://www.lifewire.com/thmb/dpIy1Vb0m2YNL1LlGPZga8opYUc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungtvhomepage-58f0d708245a4140bb4bbad8ea0cfc26.jpg
+thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e09d897a36274e3de6aadbd39.jpg
 ---
 
 ## Correcting Time Jumps: Fixing OBS Studio Problems

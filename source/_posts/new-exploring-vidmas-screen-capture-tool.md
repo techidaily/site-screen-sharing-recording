@@ -1,7 +1,7 @@
 ---
 title: "[New] Exploring Vidma's Screen Capture Tool"
-date: 2024-05-18T07:11:30.595Z
-updated: 2024-05-19T07:11:30.595Z
+date: 2024-06-18T07:07:13.600Z
+updated: 2024-06-19T07:07:13.600Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Exploring Vidma's Screen Capture Tool"
 excerpt: "This Article Describes [New] Exploring Vidma's Screen Capture Tool"
 keywords: "Vidma Capture Tool,Screen Grab with Vidma,Vidma Screen Recording,Vidma Screenshot,Video Capture Using Vidma,Vidma Video Snapshot,Vidma Image Capture"
-thumbnail: https://www.lifewire.com/thmb/8ROImJcMy0nz5unlY1bdTJLi7tk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dns-wordcloud-lifewire-2-0c92c02113cb4832870891ac0e13ccbc.png
+thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de65b71eab7da2ab3371e3a0f.png
 ---
 
 ## Exploring Vidma's Screen Capture Tool

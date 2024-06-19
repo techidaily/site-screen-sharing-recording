@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Real-Time Screen Replay on Chrome PCs\""
-date: 2024-05-18T06:58:53.163Z
-updated: 2024-05-19T06:58:53.163Z
+date: 2024-06-18T07:07:12.189Z
+updated: 2024-06-19T07:07:12.189Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, Real-Time Screen Replay on Chrome PCs\""
 excerpt: "\"This Article Describes [Updated] In 2024, Real-Time Screen Replay on Chrome PCs\""
 keywords: "\"Chrome Screencasting,Live PC Video Playback,Real-Time PC Capture,Webcam Streaming PC,Chrome Replay Feature,Instant PC Recording,On-the-Fly PC Screencast\""
-thumbnail: https://www.lifewire.com/thmb/iVAserBnC6bUM-CQ2W6IX-_Wms0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-watch-taylor-swift-movies-in-order-a8e26851d3d94bf183a144766801c16c.jpg
+thumbnail: https://thmb.techidaily.com/e05f2d33f2fefb8dc7c06028c76750542668dde0166f66e5a57d5c818d2809aa.jpg
 ---
 
 ## Real-Time Screen Replay on Chrome PCs
@@ -93,7 +93,7 @@ Another amazing Google extension for screen recording that is used widely is Nim
 
 Once you are done with the installation settings, now you can click on the Nimbus icon from the top. The Nimbus GUI will show up with a variety of options. Let's stick with screen recording for now. Click on screen recording as shown. A new settings window will appear. You can enable mic, select webcam recording, watermark addition, etc from here. Once you are done with settings click to start recording. Select “entire screen” in the newly popped windows. Finally, click share, and bingo your recording will start. To stop the recording click stop sharing as shown in the figure below.
 
-##### [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Filmora Screen Recorder
 
 Record computer screen and webcam
 

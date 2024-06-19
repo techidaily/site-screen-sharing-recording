@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Expert Tips for PS4 Screen Recordings with OBS\""
-date: 2024-05-18T07:13:39.963Z
-updated: 2024-05-19T07:13:39.963Z
+date: 2024-06-18T07:07:06.883Z
+updated: 2024-06-19T07:07:06.883Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Expert Tips for PS4 Screen Recordings with OBS\""
 excerpt: "\"This Article Describes 2024 Approved: Expert Tips for PS4 Screen Recordings with OBS\""
 keywords: "PS4 Screen Capture Guide,OBS PS4 Recording Steps,Optimal Settings OBS PS4,Pro Tips OBS Recordings,OBS PS4 Performance Boost,Easy PS4 OBS Screenshots,Improve PS4 Video Capture"
-thumbnail: https://www.lifewire.com/thmb/TKoUz7zi8lw5cyOA93bOwDLfNYs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the_room-56cc7f225f9b5879cc590941.png
+thumbnail: https://thmb.techidaily.com/468b7a50fb837089e10cec38dd44fa01aaab4078b704b313fd2f69558ac117bb.png
 ---
 
 ## Expert Tips for PS4 Screen Recordings with OBS
