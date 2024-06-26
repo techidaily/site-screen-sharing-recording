@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Symphony Silhouette  Audio Studio Mac\""
-date: 2024-05-19T21:06:14.685Z
-updated: 2024-05-20T21:06:14.685Z
+date: 2024-06-25T23:18:41.438Z
+updated: 2024-06-26T23:18:41.438Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Symphony Silhouette: Audio Studio Mac\""
 excerpt: "\"This Article Describes [New] Symphony Silhouette: Audio Studio Mac\""
 keywords: "Symphony Music Pro,Mac Studio Sound,Symphony Mixing Mac,Silhouette Audio Studio,Mac Audio Production,Silhouette Music Suite,Professional Symphony Mac"
-thumbnail: https://www.lifewire.com/thmb/qiktAkdIlSu9VsdFjM1R46-msZU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/editing-5c8a53d446e0fb0001336621.png
+thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281721c2dd1a2340c4240b4f62.png
 ---
 
 ## Symphony Silhouette: Audio Studio Mac

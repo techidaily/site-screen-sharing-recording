@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Screen Recording Face-Off  OBS Studio Vs Fraps Comparison\""
-date: 2024-05-18T07:17:23.612Z
-updated: 2024-05-19T07:17:23.612Z
+date: 2024-06-25T23:18:45.259Z
+updated: 2024-06-26T23:18:45.259Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Screen Recording Face-Off: OBS Studio Vs Fraps Comparison\""
 excerpt: "\"This Article Describes 2024 Approved: Screen Recording Face-Off: OBS Studio Vs Fraps Comparison\""
 keywords: "\"OBS vs Fraps (OBS Studio),Screen Capture Duel,Face-Off Recording Tools,OBS Studio Analysis,Fraps VS OBS Comparison,Streaming Software Showdown,Video Capture Race\""
-thumbnail: https://www.lifewire.com/thmb/OhMYY4yKeVVtP9XO0SmqFIVtLJg=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dualsenseedge-749ef030e3c84376926d817913be924b.jpg
+thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e70815a31f4f65d2f9ea9ded629.jpg
 ---
 
 ## Screen Recording Face-Off: OBS Studio Vs Fraps Comparison

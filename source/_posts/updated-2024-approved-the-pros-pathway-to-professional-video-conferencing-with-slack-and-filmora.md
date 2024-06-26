@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  The Pro's Pathway to Professional Video Conferencing with Slack & Filmora\""
-date: 2024-05-19T21:06:17.102Z
-updated: 2024-05-20T21:06:17.102Z
+date: 2024-06-25T23:18:37.646Z
+updated: 2024-06-26T23:18:37.646Z
 tags: 
   - screen-recording
   - ai video
@@ -12,14 +12,12 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: The Pro's Pathway to Professional Video Conferencing with Slack & Filmora\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: The Pro's Pathway to Professional Video Conferencing with Slack & Filmora\""
 keywords: "Prof Video Conferencing,Slack Video Solutions,Filmora Video Meetings,Pro Video Collaboration,Advanced Video Calling,Professional Video Chat,Expert Video Teams"
-thumbnail: https://www.lifewire.com/thmb/7xkPKaI2xi5sTbIeFjMPxaWn7Gc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apple-tvos_a-star-is-born_060319-b01aea7d8a1949609359d8d96b1a22e0.jpg
+thumbnail: https://thmb.techidaily.com/3a8d29dc752129bc6cecd890184a07ba60927370b95afc8af67003c49b108b72.jpg
 ---
 
 ## The Pro's Pathway to Professional Video Conferencing with Slack & Filmora
 
-# How to Schedule and Record a Meeting on Slack-Wondershare Filmora
-
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+# How to Schedule and Record a Meeting on Slack-Wondershare Filmora ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
 

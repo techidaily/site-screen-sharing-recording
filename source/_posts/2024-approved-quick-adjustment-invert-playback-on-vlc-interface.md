@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick Adjustment  Invert Playback on VLC Interface\""
-date: 2024-05-18T07:32:10.383Z
-updated: 2024-05-19T07:32:10.383Z
+date: 2024-06-25T23:18:38.130Z
+updated: 2024-06-26T23:18:38.130Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Quick Adjustment: Invert Playback on VLC Interface\""
 excerpt: "\"This Article Describes 2024 Approved: Quick Adjustment: Invert Playback on VLC Interface\""
 keywords: "Quick VLC Replay,VLC Playback Flip,VLC Reverse Video,Invert VLC Sync,Fast VLC Editing,VLC Audio Reverse,Replay Switch VLC"
-thumbnail: https://www.lifewire.com/thmb/Upemm_83fheu5JnASUVL9rXiGqw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheOscarsStatue-33f6c30d7ffd4694a4dd1d1113de57f5.jpg
+thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6f572fe9945c7d91985d72b7.jpg
 ---
 
 ## Quick Adjustment: Invert Playback on VLC Interface
@@ -29,7 +29,7 @@ Part 3. [How to Make the Rotation Permanent](#part3)
 
 Part 4. [Alternative Way to Rotate Videos Permanently](#part4)
 
-##### [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Filmora Video Editor
 
 Rotate, crop, split videos easily.
 
@@ -165,7 +165,7 @@ Part 3. [How to Make the Rotation Permanent](#part3)
 
 Part 4. [Alternative Way to Rotate Videos Permanently](#part4)
 
-##### [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Filmora Video Editor
 
 Rotate, crop, split videos easily.
 
@@ -301,7 +301,7 @@ Part 3. [How to Make the Rotation Permanent](#part3)
 
 Part 4. [Alternative Way to Rotate Videos Permanently](#part4)
 
-##### [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Filmora Video Editor
 
 Rotate, crop, split videos easily.
 
@@ -437,7 +437,7 @@ Part 3. [How to Make the Rotation Permanent](#part3)
 
 Part 4. [Alternative Way to Rotate Videos Permanently](#part4)
 
-##### [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Filmora Video Editor
 
 Rotate, crop, split videos easily.
 

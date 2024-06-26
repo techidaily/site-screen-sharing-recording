@@ -1,7 +1,7 @@
 ---
 title: "[New] Advanced Mac Video Logger for 2024"
-date: 2024-05-19T21:06:39.053Z
-updated: 2024-05-20T21:06:39.053Z
+date: 2024-06-25T23:18:34.354Z
+updated: 2024-06-26T23:18:34.354Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Advanced Mac Video Logger for 2024"
 excerpt: "This Article Describes [New] Advanced Mac Video Logger for 2024"
 keywords: "LogMacVidRecording,ProMacVideoLogger,HighResMacCapture,MacVideoTracker,MacLogMediaFiles,UltimateMacCapture,EliteMacMediaLogger"
-thumbnail: https://www.lifewire.com/thmb/wnN-qVO61jMEVKBE1HStiKTk2xY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lg-channels-guide-1800-x-0f720f6afeb842c299c88baa42f3bd88.jpg
+thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b5686d5a4ad72e83eea7dc08de2.jpg
 ---
 
 ## Advanced Mac Video Logger

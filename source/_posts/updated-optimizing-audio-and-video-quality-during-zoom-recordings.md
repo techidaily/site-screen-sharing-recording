@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Optimizing Audio & Video Quality During Zoom Recordings"
-date: 2024-05-19T21:06:00.931Z
-updated: 2024-05-20T21:06:00.931Z
+date: 2024-06-25T23:18:43.640Z
+updated: 2024-06-26T23:18:43.640Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Optimizing Audio & Video Quality During Zoom Recordings"
 excerpt: "This Article Describes [Updated] Optimizing Audio & Video Quality During Zoom Recordings"
 keywords: "\"Zoom Video Clarity,Optimal A/V Zoom,High-Quality Zoom Recording,Zoom Audio Enhancement,Zoom HD Quality,Zoom Sound Amplification,Zoom Streaming A/V\""
-thumbnail: https://www.lifewire.com/thmb/medNi2-ezQAi4chkGlIzs91_k0o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Watch-Ultra-2-23e8ec3e4ee04c6e98c9d654a35f59ec.jpg
+thumbnail: https://thmb.techidaily.com/ced37c54f6280b48c4cccd59bb3d4e6e75cf48a369ed52226c792a6ec4885ea2.jpg
 ---
 
 ## Optimizing Audio & Video Quality During Zoom Recordings

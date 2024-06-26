@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  NVIDIA Screen Recorder - Record Games with Ease\""
-date: 2024-05-18T07:06:59.987Z
-updated: 2024-05-19T07:06:59.987Z
+date: 2024-06-25T23:18:48.112Z
+updated: 2024-06-26T23:18:48.112Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: NVIDIA Screen Recorder - Record Games with Ease\""
 excerpt: "\"This Article Describes 2024 Approved: NVIDIA Screen Recorder - Record Games with Ease\""
 keywords: "Nvidia Gaming Recording,Game Video Capture (NVIDIA),Easy Game Screen Recording,NVidia Record Play,Quick Game to Video (NVIDIA),Streaming Games (NVIDIA),Save Gameplay Footage (NVIDIA)"
-thumbnail: https://www.lifewire.com/thmb/BEu1dTImTgj-gj19IMN4njOxWDE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/set-top-dvr-1130767-f2aa7f11e3d2442b966d53b8aa2d25fd.png
+thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f7257579ffa960f9e7a085032e4b04.png
 ---
 
 ## NVIDIA Screen Recorder - Record Games with Ease

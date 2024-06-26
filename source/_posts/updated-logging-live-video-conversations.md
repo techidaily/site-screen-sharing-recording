@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Logging Live Video Conversations"
-date: 2024-05-19T21:06:40.009Z
-updated: 2024-05-20T21:06:40.009Z
+date: 2024-06-25T23:18:45.484Z
+updated: 2024-06-26T23:18:45.484Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Logging Live Video Conversations"
 excerpt: "This Article Describes [Updated] Logging Live Video Conversations"
 keywords: "\"Live Logging Streams,Real-Time Video Transcripts,In-House Broadcast Monitoring,Immediate Video Convocation Analysis,Direct Video Session Recordings,Continuous Video Discussion Notes,Instant Video Chat Summaries\""
-thumbnail: https://www.lifewire.com/thmb/vwXY4ZVwcerLrMyrYuIV0bJij5Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-logo-dbc6703838ab40ffac436f7f360b79f7.png
+thumbnail: https://thmb.techidaily.com/c225407e5eb523ea35626965d7952f3e8eff461a435028604a3c634507f598f5.png
 ---
 
 ## Logging Live Video Conversations

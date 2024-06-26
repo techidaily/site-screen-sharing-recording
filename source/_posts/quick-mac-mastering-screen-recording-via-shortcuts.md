@@ -1,7 +1,7 @@
 ---
 title: "\"Quick Mac  Mastering Screen Recording via Shortcuts\""
-date: 2024-05-19T21:06:16.656Z
-updated: 2024-05-20T21:06:16.656Z
+date: 2024-06-25T23:18:34.850Z
+updated: 2024-06-26T23:18:34.850Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Quick Mac: Mastering Screen Recording via Shortcuts\""
 excerpt: "\"This Article Describes Quick Mac: Mastering Screen Recording via Shortcuts\""
 keywords: "Quick Mac Screen Rec.,Master Screen Capture,Shortcut Mac Recording,Mac Screen Record Tricks,Efficient Mac Recording,Fast Mac Rec. Techniques,Mac Capture Hacks Short"
-thumbnail: https://www.lifewire.com/thmb/-k7XQuYCtDIqaSG0zopRVuv3liM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-unveils-new-products-at-its-annual-unpacked-event-1200186175-0a17180ae84e47f488f43d3afbb7daa6.jpg
+thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f296003a4995fda9891371fd.jpg
 ---
 
 ## Quick Mac: Mastering Screen Recording via Shortcuts

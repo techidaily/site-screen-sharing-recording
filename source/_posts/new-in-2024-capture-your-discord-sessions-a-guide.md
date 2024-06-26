@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Capture Your Discord Sessions  A Guide\""
-date: 2024-05-18T07:22:16.713Z
-updated: 2024-05-19T07:22:16.713Z
+date: 2024-06-25T23:18:47.909Z
+updated: 2024-06-26T23:18:47.909Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Capture Your Discord Sessions: A Guide\""
 excerpt: "\"This Article Describes [New] In 2024, Capture Your Discord Sessions: A Guide\""
 keywords: "\"Discord Session Recording Tips,Save Discord Chats Easily,Capture Discord Live Gaming,Guides for Discord Sessions,Stream Your Discord Gameplay,DiscoRecord: Essentials Guide,Keeping Track of Discord Events\""
-thumbnail: https://www.lifewire.com/thmb/XJmgdRFoTR4wOTi2HR5hRG_j3aA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ArtificalIntelligenceChatbotConcept-c0e491e36fae46ef84b670334af5095f.jpg
+thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5a87dc01f6fa89f4e4093f9a.jpg
 ---
 
 ## Capture Your Discord Sessions: A Guide

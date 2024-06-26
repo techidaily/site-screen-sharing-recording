@@ -1,7 +1,7 @@
 ---
 title: "[New] Full PS4 Capture Tutorial Using OBS for 2024"
-date: 2024-05-19T21:06:33.255Z
-updated: 2024-05-20T21:06:33.255Z
+date: 2024-06-25T23:18:37.198Z
+updated: 2024-06-26T23:18:37.198Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Full PS4 Capture Tutorial Using OBS for 2024"
 excerpt: "This Article Describes [New] Full PS4 Capture Tutorial Using OBS for 2024"
 keywords: "\"PS4 OBS Guide,OBS Full Game Recording,OBS PS4 Tutorial,Capturing Games OBS-PS4,PS4 Broadcasting with OBS,Learn OBS for PS4,Ultimate OBS PS4 Tips\""
-thumbnail: https://www.lifewire.com/thmb/td12YpTj-yP7iyxYOnjHj9dHoA4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/streamfreesportsonline-5b1994178023b900364a81e5.jpg
+thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f71196cdaae4af6176a3b33bf.jpg
 ---
 
 ## Full PS4 Capture Tutorial Using OBS

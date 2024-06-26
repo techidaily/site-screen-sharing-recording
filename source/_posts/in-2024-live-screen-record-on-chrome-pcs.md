@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Live Screen Record on Chrome PCs"
-date: 2024-05-19T21:06:24.861Z
-updated: 2024-05-20T21:06:24.861Z
+date: 2024-06-25T23:18:44.412Z
+updated: 2024-06-26T23:18:44.412Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, Live Screen Record on Chrome PCs"
 excerpt: "This Article Describes In 2024, Live Screen Record on Chrome PCs"
 keywords: "\"Chromecast Screen Recorder,Chrome Live Screencast,Chrome Screencasting Pro,Quick Chrome Recording,Chrome Webcam Capture,Real-Time Chrome Record,PC Chrome Screen Save\""
-thumbnail: https://www.lifewire.com/thmb/q2YzogdKG5J-JDQw9ed7I5Iu49A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/full-frame-shot-of-speakers-1138109687-33289baddc314b44ae87abc2fc8060cd-e7bccad6d81244509ed97ddf557f89e4.jpg
+thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90367153732b7b65655c151cd.jpg
 ---
 
 ## Live Screen Record on Chrome PCs
@@ -93,7 +93,7 @@ Another amazing Google extension for screen recording that is used widely is Nim
 
 Once you are done with the installation settings, now you can click on the Nimbus icon from the top. The Nimbus GUI will show up with a variety of options. Let's stick with screen recording for now. Click on screen recording as shown. A new settings window will appear. You can enable mic, select webcam recording, watermark addition, etc from here. Once you are done with settings click to start recording. Select “entire screen” in the newly popped windows. Finally, click share, and bingo your recording will start. To stop the recording click stop sharing as shown in the figure below.
 
-##### [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Filmora Screen Recorder
 
 Record computer screen and webcam
 

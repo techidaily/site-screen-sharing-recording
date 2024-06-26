@@ -1,7 +1,7 @@
 ---
 title: "[New] ProCam HD Series for Surveillance"
-date: 2024-05-18T07:16:48.908Z
-updated: 2024-05-19T07:16:48.908Z
+date: 2024-06-25T23:18:42.432Z
+updated: 2024-06-26T23:18:42.432Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] ProCam HD Series for Surveillance"
 excerpt: "This Article Describes [New] ProCam HD Series for Surveillance"
 keywords: "\"HD Survillance Cams,HD ProSurveillanceSeries,HD SecurityHD CamSeries,ProfessionalHD Surveillance,High-Definition SurveillanceCameras,HDProCamMonitoringTools,HD SurveillanceHighQuality\""
-thumbnail: https://www.lifewire.com/thmb/d3vhzprgAOfQkZJVlCom44MR-q8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6-best-parental-control-apps-of-2019-featured-c5b50932ab9c4c0fbc0757665e46b6b2.jpg
+thumbnail: https://thmb.techidaily.com/6125c16091ce0e7f3e660bdf2f814f5a9cf410ddebad9670bd4cad45f7263474.jpg
 ---
 
 ## ProCam HD Series for Surveillance
