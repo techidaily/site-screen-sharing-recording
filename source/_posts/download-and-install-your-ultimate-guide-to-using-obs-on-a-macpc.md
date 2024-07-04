@@ -1,7 +1,7 @@
 ---
 title: "\"Download & Install  Your Ultimate Guide to Using OBS on a MacPC\""
-date: 2024-05-19T21:06:00.799Z
-updated: 2024-05-20T21:06:00.799Z
+date: 2024-07-03T23:12:18.774Z
+updated: 2024-07-04T23:12:18.774Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Download & Install: Your Ultimate Guide to Using OBS on a MacPC\""
 excerpt: "\"This Article Describes Download & Install: Your Ultimate Guide to Using OBS on a MacPC\""
 keywords: "OBS for MacInstall,MacPC OBS Guide,Free OBS MacTool,OBS Setup MacPC,MacOBS Installation,Ultimate OBS MacUse,Learn OBS MacPC"
-thumbnail: https://www.lifewire.com/thmb/yPXnCagYB7bKT7uol-AGPozLSS0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Air-5-e11857a8d117450e9e09d770e300a872.jpg
+thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068cc6322414a1134e31c0876a0.jpg
 ---
 
 ## Download & Install: Your Ultimate Guide to Using OBS on a MacPC

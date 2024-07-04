@@ -1,7 +1,7 @@
 ---
 title: "\"Expert-Level Workshop  Programming Timer Functions for OBS Productions for 2024\""
-date: 2024-05-18T07:12:45.002Z
-updated: 2024-05-19T07:12:45.002Z
+date: 2024-07-03T23:12:17.703Z
+updated: 2024-07-04T23:12:17.703Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Expert-Level Workshop: Programming Timer Functions for OBS Productions for 2024\""
 excerpt: "\"This Article Describes Expert-Level Workshop: Programming Timer Functions for OBS Productions for 2024\""
 keywords: "\"PS2 iOS Emulators,Top iOS Gaming,IOS Gameplay Tools,Sony PS2 Virtual Play,High-Fidelity PS2 Emulate,Android for PS2 Games,Emulating PS2 Titles\""
-thumbnail: https://www.lifewire.com/thmb/UtN0GE8QhLupWXrar0DikfJdamQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cq5dam.web.1280.1280-3-5c2a5dc746e0fb0001d115f0.jpeg
+thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325695bb2b5c751424b8cb1104.jpeg
 ---
 
 ## Expert-Level Workshop: Programming Timer Functions for OBS Productions

@@ -1,7 +1,7 @@
 ---
 title: "[New] Captured Discourse Inspection"
-date: 2024-05-18T07:17:20.422Z
-updated: 2024-05-19T07:17:20.422Z
+date: 2024-07-03T23:12:15.933Z
+updated: 2024-07-04T23:12:15.933Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Captured Discourse Inspection"
 excerpt: "This Article Describes [New] Captured Discourse Inspection"
 keywords: "Inspect Discourse Capture,Discourse Analysis Tools,Discourse Evaluation,Speech Content Examination,Communication Breakdown Identification,Dialogue Quality Assessment,Interaction Understanding Check"
-thumbnail: https://www.lifewire.com/thmb/cgUXvRRGmHncjkXVnnc2mDDxd-k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AnneParkShedloskytvOS-2d4178dd6b7d46a08c34ab8b750fe23e.jpg
+thumbnail: https://thmb.techidaily.com/1a0a225965c2ce4acfd77f7b81b0abb5e4b211b4f6a739d5a50d45eaa5fd443d.jpg
 ---
 
 ## Captured Discourse Inspection

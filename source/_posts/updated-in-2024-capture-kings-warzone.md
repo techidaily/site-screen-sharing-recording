@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Capture Kings Warzone"
-date: 2024-05-18T06:59:53.075Z
-updated: 2024-05-19T06:59:53.075Z
+date: 2024-07-03T23:12:16.475Z
+updated: 2024-07-04T23:12:16.475Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, Capture Kings Warzone"
 excerpt: "This Article Describes [Updated] In 2024, Capture Kings Warzone"
 keywords: "Warzone Captures,KO Battle Videos,Kingdoms Warspeak,Battlefield Highlights,Warzone Champions,Royal Skirmish Footage,Kings Arena Engagements"
-thumbnail: https://www.lifewire.com/thmb/EAqZr-HjkZo5i0jwoEEUqZxRCpc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1437209125-b47ae60035f248e2b01b781f50f919c1.jpg
+thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c2584c8d35c887e62fae8bb62c7.jpg
 ---
 
 ## Capture Kings Warzone

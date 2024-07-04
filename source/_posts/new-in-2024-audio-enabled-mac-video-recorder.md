@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Audio-Enabled Mac Video Recorder\""
-date: 2024-05-19T21:06:04.290Z
-updated: 2024-05-20T21:06:04.290Z
+date: 2024-07-03T23:12:16.007Z
+updated: 2024-07-04T23:12:16.007Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Audio-Enabled Mac Video Recorder\""
 excerpt: "\"This Article Describes [New] In 2024, Audio-Enabled Mac Video Recorder\""
 keywords: "Mac Audio Record,Mac Sound Capture,Digital Mac Recorder,Mac Video Audiotape,Audio Mac Camcorder,Mac Audiophone Camera,Mac Hearing Device Recorder"
-thumbnail: https://www.lifewire.com/thmb/ifJDA6ScbZuUR7Omss65zhVMxok=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-155159821-8881bead1d894a0b95bca3c3e288ff54.jpg
+thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6244e3ee7a3676c38fda1900.jpg
 ---
 
 ## Audio-Enabled Mac Video Recorder

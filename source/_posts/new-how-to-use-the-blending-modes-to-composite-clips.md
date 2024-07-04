@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Use The Blending Modes To Composite Clips"
-date: 2024-06-25T23:18:40.403Z
-updated: 2024-06-26T23:18:40.403Z
+date: 2024-07-03T23:12:20.862Z
+updated: 2024-07-04T23:12:20.862Z
 tags: 
   - screen-recording
   - ai video
@@ -17,7 +17,8 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ## Essential Guide to Compositing Using Blending Modes
 
-# How to Use The Blending Modes To Composite Clips ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+# How to Use The Blending Modes To Composite Clips
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
 

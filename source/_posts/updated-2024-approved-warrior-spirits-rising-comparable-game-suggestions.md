@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Warrior Spirits Rising  Comparable Game Suggestions\""
-date: 2024-05-18T07:13:54.945Z
-updated: 2024-05-19T07:13:54.945Z
+date: 2024-07-03T23:12:20.346Z
+updated: 2024-07-04T23:12:20.346Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Warrior Spirits Rising: Comparable Game Suggestions\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Warrior Spirits Rising: Comparable Game Suggestions\""
 keywords: "Warrior Games Comparison,Spirit Rising Gaming Guide,Rise Spirits Game Ideas,Warrior Adventures Recommendations,Spiritful Warriors Playlists,Rising Spirits Gaming Tips,Warrior Compare Games List"
-thumbnail: https://www.lifewire.com/thmb/OhMYY4yKeVVtP9XO0SmqFIVtLJg=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dualsenseedge-749ef030e3c84376926d817913be924b.jpg
+thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e70815a31f4f65d2f9ea9ded629.jpg
 ---
 
 ## Warrior Spirits Rising: Comparable Game Suggestions
@@ -37,7 +37,7 @@ Journey of a samurai to stop the Mongol invasion of Japan on its own. There are 
 
 #### 1\. Horizon Zero Dawn
 
-**_Platform:_** [_PlayStation 4_](https://www.playstation.com/en-us/games/horizon-zero-dawn/)_,_ [_PC_](https://store.steampowered.com/app/1151640/Horizon%5FZero%5FDawn%5FComplete%5FEdition/)
+**_Platform:_** [_PlayStation 4_](https://www.playstation.com/en-us/games/horizon-zero-dawn/) _,_ [_PC_](https://store.steampowered.com/app/1151640/Horizon%5FZero%5FDawn%5FComplete%5FEdition/)
 
 **_Price:_** _$19.99_
 
@@ -47,7 +47,7 @@ Horizon Zero Dawn was released before Ghost of Tsushima. It covers the story of 
 
 #### 2\. Sekiro: Shadows Die Twice
 
-**_Platform:_**[_PC_](https://store.steampowered.com/agecheck/app/814380/)_,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0002-CUSA12047%5F00-SEKIROGAME000001/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
+**_Platform:_**[_PC_](https://store.steampowered.com/agecheck/app/814380/) _,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0002-CUSA12047%5F00-SEKIROGAME000001/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
 
 **_Price:_** _$31.99 - $59.99_
 
@@ -57,7 +57,7 @@ If you have played the Ghost of Tsushima and like it so much, you will definitel
 
 #### 3\. Assassin's Creed Valhalla
 
-**_Platform:_**[_PC_](https://store.ubi.com/us/game/?lang=en%5FUS&pid=5e849c6c5cdf9a21c0b4e731&dwvar%5F5e849c6c5cdf9a21c0b4e731%5FPlatform=pcdl&edition=Standard%20Edition&source=detail)_,_ [_PlayStation_](https://store.playstation.com/en-us/concept/10000237/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
+**_Platform:_**[_PC_](https://store.ubi.com/us/game/?lang=en%5FUS&pid=5e849c6c5cdf9a21c0b4e731&dwvar%5F5e849c6c5cdf9a21c0b4e731%5FPlatform=pcdl&edition=Standard%20Edition&source=detail) _,_ [_PlayStation_](https://store.playstation.com/en-us/concept/10000237/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
 
 **_Price:_** _$59.99_
 
@@ -67,7 +67,7 @@ If you are looking for a game like Ghost of Tsushima, this game is a must-try ga
 
 #### 4\. Yakuza 0
 
-**_Platform:_**[_PC_](https://store.steampowered.com/app/638970/Yakuza%5F0/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/yakuza-0/9npp17lhj3mk?activetab=pivot:overviewtab)_,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0177-CUSA05070%5F00-YAKUZA0AMERICA00/)
+**_Platform:_**[_PC_](https://store.steampowered.com/app/638970/Yakuza%5F0/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/yakuza-0/9npp17lhj3mk?activetab=pivot:overviewtab) _,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0177-CUSA05070%5F00-YAKUZA0AMERICA00/)
 
 **_Price:_** _$19.99 - $21.99_
 
@@ -77,7 +77,7 @@ Yakuza is an open-world Single-Player and Multi-Player action-adventure game. Th
 
 #### 5\. For Honor
 
-**_Platform:_**[_PC_](https://store.steampowered.com/app/812140/Assassins%5FCreed%5FOdyssey/)_,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0001-CUSA09311%5F00-GAME000000000000/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
+**_Platform:_**[_PC_](https://store.steampowered.com/app/812140/Assassins%5FCreed%5FOdyssey/) _,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0001-CUSA09311%5F00-GAME000000000000/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
 
 **_Price:_** _$43.99 - $59.99_
 
@@ -87,7 +87,7 @@ Since it is released, "For Honor" has become one of the most liked games. They h
 
 #### 6\. Judgment
 
-**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP0177-PPSA02739%5F00-JUDGMENTRYUGAENG/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/judgment/9n1r83ckgzjp?activetab=pivot:overviewtab)
+**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP0177-PPSA02739%5F00-JUDGMENTRYUGAENG/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/judgment/9n1r83ckgzjp?activetab=pivot:overviewtab)
 
 **_Price:_** _$39.99_
 
@@ -97,7 +97,7 @@ Judgment is a single-player action video game. Meet Takayuki Yagami, a private d
 
 #### 7\. The Witcher 3: Wild Hunt
 
-**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP4497-CUSA05725%5F00-00000000000GOTY5/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/the-witcher-3-wild-hunt/br765873cqjd?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/292030/The%5FWitcher%5F3%5FWild%5FHunt/)_,_ [_Nintendo Switch_](https://www.nintendo.com/games/detail/the-witcher-3-wild-hunt-complete-edition-switch/)
+**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP4497-CUSA05725%5F00-00000000000GOTY5/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/the-witcher-3-wild-hunt/br765873cqjd?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/292030/The%5FWitcher%5F3%5FWild%5FHunt/) _,_ [_Nintendo Switch_](https://www.nintendo.com/games/detail/the-witcher-3-wild-hunt-complete-edition-switch/)
 
 **_Price:_** _$39.99 - $59.99_
 
@@ -107,7 +107,7 @@ The Witcher is one of the best games like Ghost of Tsushima because of the amazi
 
 #### 8\. Star Wars Jedi: Fallen Order
 
-**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP0006-PPSA02198%5F00-RESPAWNSWBIRDDOG/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/star-wars-jedi-fallen-order/C2CSDTSCBZ0C?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/1172380/STAR%5FWARS%5FJedi%5FFallen%5FOrder/)
+**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP0006-PPSA02198%5F00-RESPAWNSWBIRDDOG/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/star-wars-jedi-fallen-order/C2CSDTSCBZ0C?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/1172380/STAR%5FWARS%5FJedi%5FFallen%5FOrder/)
 
 **_Price:_** _$39.99_
 
@@ -117,7 +117,7 @@ Are you ready to face and fight with the huge and powerful galactic Empire? This
 
 #### 9\. Middle-earth: Shadow of War
 
-**_Platform:_**[_PlayStation_](https://www.playstation.com/en-us/games/middle-earth-shadow-of-war/)_,_ [_Xbox_](https://www.microsoft.com/en-US/p/middle-earth-shadow-of-war/9pdv8fkwp3b4?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/356190/Middleearth%5FShadow%5Fof%5FWar/)
+**_Platform:_**[_PlayStation_](https://www.playstation.com/en-us/games/middle-earth-shadow-of-war/) _,_ [_Xbox_](https://www.microsoft.com/en-US/p/middle-earth-shadow-of-war/9pdv8fkwp3b4?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/356190/Middleearth%5FShadow%5Fof%5FWar/)
 
 **_Price:_** _$29.99 - $49.99_
 
@@ -165,7 +165,7 @@ Journey of a samurai to stop the Mongol invasion of Japan on its own. There are 
 
 #### 1\. Horizon Zero Dawn
 
-**_Platform:_** [_PlayStation 4_](https://www.playstation.com/en-us/games/horizon-zero-dawn/)_,_ [_PC_](https://store.steampowered.com/app/1151640/Horizon%5FZero%5FDawn%5FComplete%5FEdition/)
+**_Platform:_** [_PlayStation 4_](https://www.playstation.com/en-us/games/horizon-zero-dawn/) _,_ [_PC_](https://store.steampowered.com/app/1151640/Horizon%5FZero%5FDawn%5FComplete%5FEdition/)
 
 **_Price:_** _$19.99_
 
@@ -175,7 +175,7 @@ Horizon Zero Dawn was released before Ghost of Tsushima. It covers the story of 
 
 #### 2\. Sekiro: Shadows Die Twice
 
-**_Platform:_**[_PC_](https://store.steampowered.com/agecheck/app/814380/)_,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0002-CUSA12047%5F00-SEKIROGAME000001/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
+**_Platform:_**[_PC_](https://store.steampowered.com/agecheck/app/814380/) _,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0002-CUSA12047%5F00-SEKIROGAME000001/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
 
 **_Price:_** _$31.99 - $59.99_
 
@@ -185,7 +185,7 @@ If you have played the Ghost of Tsushima and like it so much, you will definitel
 
 #### 3\. Assassin's Creed Valhalla
 
-**_Platform:_**[_PC_](https://store.ubi.com/us/game/?lang=en%5FUS&pid=5e849c6c5cdf9a21c0b4e731&dwvar%5F5e849c6c5cdf9a21c0b4e731%5FPlatform=pcdl&edition=Standard%20Edition&source=detail)_,_ [_PlayStation_](https://store.playstation.com/en-us/concept/10000237/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
+**_Platform:_**[_PC_](https://store.ubi.com/us/game/?lang=en%5FUS&pid=5e849c6c5cdf9a21c0b4e731&dwvar%5F5e849c6c5cdf9a21c0b4e731%5FPlatform=pcdl&edition=Standard%20Edition&source=detail) _,_ [_PlayStation_](https://store.playstation.com/en-us/concept/10000237/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
 
 **_Price:_** _$59.99_
 
@@ -195,7 +195,7 @@ If you are looking for a game like Ghost of Tsushima, this game is a must-try ga
 
 #### 4\. Yakuza 0
 
-**_Platform:_**[_PC_](https://store.steampowered.com/app/638970/Yakuza%5F0/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/yakuza-0/9npp17lhj3mk?activetab=pivot:overviewtab)_,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0177-CUSA05070%5F00-YAKUZA0AMERICA00/)
+**_Platform:_**[_PC_](https://store.steampowered.com/app/638970/Yakuza%5F0/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/yakuza-0/9npp17lhj3mk?activetab=pivot:overviewtab) _,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0177-CUSA05070%5F00-YAKUZA0AMERICA00/)
 
 **_Price:_** _$19.99 - $21.99_
 
@@ -205,7 +205,7 @@ Yakuza is an open-world Single-Player and Multi-Player action-adventure game. Th
 
 #### 5\. For Honor
 
-**_Platform:_**[_PC_](https://store.steampowered.com/app/812140/Assassins%5FCreed%5FOdyssey/)_,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0001-CUSA09311%5F00-GAME000000000000/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
+**_Platform:_**[_PC_](https://store.steampowered.com/app/812140/Assassins%5FCreed%5FOdyssey/) _,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0001-CUSA09311%5F00-GAME000000000000/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
 
 **_Price:_** _$43.99 - $59.99_
 
@@ -215,7 +215,7 @@ Since it is released, "For Honor" has become one of the most liked games. They h
 
 #### 6\. Judgment
 
-**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP0177-PPSA02739%5F00-JUDGMENTRYUGAENG/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/judgment/9n1r83ckgzjp?activetab=pivot:overviewtab)
+**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP0177-PPSA02739%5F00-JUDGMENTRYUGAENG/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/judgment/9n1r83ckgzjp?activetab=pivot:overviewtab)
 
 **_Price:_** _$39.99_
 
@@ -225,7 +225,7 @@ Judgment is a single-player action video game. Meet Takayuki Yagami, a private d
 
 #### 7\. The Witcher 3: Wild Hunt
 
-**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP4497-CUSA05725%5F00-00000000000GOTY5/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/the-witcher-3-wild-hunt/br765873cqjd?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/292030/The%5FWitcher%5F3%5FWild%5FHunt/)_,_ [_Nintendo Switch_](https://www.nintendo.com/games/detail/the-witcher-3-wild-hunt-complete-edition-switch/)
+**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP4497-CUSA05725%5F00-00000000000GOTY5/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/the-witcher-3-wild-hunt/br765873cqjd?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/292030/The%5FWitcher%5F3%5FWild%5FHunt/) _,_ [_Nintendo Switch_](https://www.nintendo.com/games/detail/the-witcher-3-wild-hunt-complete-edition-switch/)
 
 **_Price:_** _$39.99 - $59.99_
 
@@ -235,7 +235,7 @@ The Witcher is one of the best games like Ghost of Tsushima because of the amazi
 
 #### 8\. Star Wars Jedi: Fallen Order
 
-**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP0006-PPSA02198%5F00-RESPAWNSWBIRDDOG/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/star-wars-jedi-fallen-order/C2CSDTSCBZ0C?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/1172380/STAR%5FWARS%5FJedi%5FFallen%5FOrder/)
+**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP0006-PPSA02198%5F00-RESPAWNSWBIRDDOG/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/star-wars-jedi-fallen-order/C2CSDTSCBZ0C?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/1172380/STAR%5FWARS%5FJedi%5FFallen%5FOrder/)
 
 **_Price:_** _$39.99_
 
@@ -245,7 +245,7 @@ Are you ready to face and fight with the huge and powerful galactic Empire? This
 
 #### 9\. Middle-earth: Shadow of War
 
-**_Platform:_**[_PlayStation_](https://www.playstation.com/en-us/games/middle-earth-shadow-of-war/)_,_ [_Xbox_](https://www.microsoft.com/en-US/p/middle-earth-shadow-of-war/9pdv8fkwp3b4?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/356190/Middleearth%5FShadow%5Fof%5FWar/)
+**_Platform:_**[_PlayStation_](https://www.playstation.com/en-us/games/middle-earth-shadow-of-war/) _,_ [_Xbox_](https://www.microsoft.com/en-US/p/middle-earth-shadow-of-war/9pdv8fkwp3b4?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/356190/Middleearth%5FShadow%5Fof%5FWar/)
 
 **_Price:_** _$29.99 - $49.99_
 
@@ -293,7 +293,7 @@ Journey of a samurai to stop the Mongol invasion of Japan on its own. There are 
 
 #### 1\. Horizon Zero Dawn
 
-**_Platform:_** [_PlayStation 4_](https://www.playstation.com/en-us/games/horizon-zero-dawn/)_,_ [_PC_](https://store.steampowered.com/app/1151640/Horizon%5FZero%5FDawn%5FComplete%5FEdition/)
+**_Platform:_** [_PlayStation 4_](https://www.playstation.com/en-us/games/horizon-zero-dawn/) _,_ [_PC_](https://store.steampowered.com/app/1151640/Horizon%5FZero%5FDawn%5FComplete%5FEdition/)
 
 **_Price:_** _$19.99_
 
@@ -303,7 +303,7 @@ Horizon Zero Dawn was released before Ghost of Tsushima. It covers the story of 
 
 #### 2\. Sekiro: Shadows Die Twice
 
-**_Platform:_**[_PC_](https://store.steampowered.com/agecheck/app/814380/)_,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0002-CUSA12047%5F00-SEKIROGAME000001/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
+**_Platform:_**[_PC_](https://store.steampowered.com/agecheck/app/814380/) _,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0002-CUSA12047%5F00-SEKIROGAME000001/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
 
 **_Price:_** _$31.99 - $59.99_
 
@@ -313,7 +313,7 @@ If you have played the Ghost of Tsushima and like it so much, you will definitel
 
 #### 3\. Assassin's Creed Valhalla
 
-**_Platform:_**[_PC_](https://store.ubi.com/us/game/?lang=en%5FUS&pid=5e849c6c5cdf9a21c0b4e731&dwvar%5F5e849c6c5cdf9a21c0b4e731%5FPlatform=pcdl&edition=Standard%20Edition&source=detail)_,_ [_PlayStation_](https://store.playstation.com/en-us/concept/10000237/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
+**_Platform:_**[_PC_](https://store.ubi.com/us/game/?lang=en%5FUS&pid=5e849c6c5cdf9a21c0b4e731&dwvar%5F5e849c6c5cdf9a21c0b4e731%5FPlatform=pcdl&edition=Standard%20Edition&source=detail) _,_ [_PlayStation_](https://store.playstation.com/en-us/concept/10000237/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
 
 **_Price:_** _$59.99_
 
@@ -323,7 +323,7 @@ If you are looking for a game like Ghost of Tsushima, this game is a must-try ga
 
 #### 4\. Yakuza 0
 
-**_Platform:_**[_PC_](https://store.steampowered.com/app/638970/Yakuza%5F0/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/yakuza-0/9npp17lhj3mk?activetab=pivot:overviewtab)_,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0177-CUSA05070%5F00-YAKUZA0AMERICA00/)
+**_Platform:_**[_PC_](https://store.steampowered.com/app/638970/Yakuza%5F0/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/yakuza-0/9npp17lhj3mk?activetab=pivot:overviewtab) _,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0177-CUSA05070%5F00-YAKUZA0AMERICA00/)
 
 **_Price:_** _$19.99 - $21.99_
 
@@ -333,7 +333,7 @@ Yakuza is an open-world Single-Player and Multi-Player action-adventure game. Th
 
 #### 5\. For Honor
 
-**_Platform:_**[_PC_](https://store.steampowered.com/app/812140/Assassins%5FCreed%5FOdyssey/)_,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0001-CUSA09311%5F00-GAME000000000000/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
+**_Platform:_**[_PC_](https://store.steampowered.com/app/812140/Assassins%5FCreed%5FOdyssey/) _,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0001-CUSA09311%5F00-GAME000000000000/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
 
 **_Price:_** _$43.99 - $59.99_
 
@@ -343,7 +343,7 @@ Since it is released, "For Honor" has become one of the most liked games. They h
 
 #### 6\. Judgment
 
-**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP0177-PPSA02739%5F00-JUDGMENTRYUGAENG/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/judgment/9n1r83ckgzjp?activetab=pivot:overviewtab)
+**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP0177-PPSA02739%5F00-JUDGMENTRYUGAENG/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/judgment/9n1r83ckgzjp?activetab=pivot:overviewtab)
 
 **_Price:_** _$39.99_
 
@@ -353,7 +353,7 @@ Judgment is a single-player action video game. Meet Takayuki Yagami, a private d
 
 #### 7\. The Witcher 3: Wild Hunt
 
-**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP4497-CUSA05725%5F00-00000000000GOTY5/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/the-witcher-3-wild-hunt/br765873cqjd?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/292030/The%5FWitcher%5F3%5FWild%5FHunt/)_,_ [_Nintendo Switch_](https://www.nintendo.com/games/detail/the-witcher-3-wild-hunt-complete-edition-switch/)
+**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP4497-CUSA05725%5F00-00000000000GOTY5/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/the-witcher-3-wild-hunt/br765873cqjd?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/292030/The%5FWitcher%5F3%5FWild%5FHunt/) _,_ [_Nintendo Switch_](https://www.nintendo.com/games/detail/the-witcher-3-wild-hunt-complete-edition-switch/)
 
 **_Price:_** _$39.99 - $59.99_
 
@@ -363,7 +363,7 @@ The Witcher is one of the best games like Ghost of Tsushima because of the amazi
 
 #### 8\. Star Wars Jedi: Fallen Order
 
-**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP0006-PPSA02198%5F00-RESPAWNSWBIRDDOG/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/star-wars-jedi-fallen-order/C2CSDTSCBZ0C?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/1172380/STAR%5FWARS%5FJedi%5FFallen%5FOrder/)
+**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP0006-PPSA02198%5F00-RESPAWNSWBIRDDOG/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/star-wars-jedi-fallen-order/C2CSDTSCBZ0C?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/1172380/STAR%5FWARS%5FJedi%5FFallen%5FOrder/)
 
 **_Price:_** _$39.99_
 
@@ -373,7 +373,7 @@ Are you ready to face and fight with the huge and powerful galactic Empire? This
 
 #### 9\. Middle-earth: Shadow of War
 
-**_Platform:_**[_PlayStation_](https://www.playstation.com/en-us/games/middle-earth-shadow-of-war/)_,_ [_Xbox_](https://www.microsoft.com/en-US/p/middle-earth-shadow-of-war/9pdv8fkwp3b4?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/356190/Middleearth%5FShadow%5Fof%5FWar/)
+**_Platform:_**[_PlayStation_](https://www.playstation.com/en-us/games/middle-earth-shadow-of-war/) _,_ [_Xbox_](https://www.microsoft.com/en-US/p/middle-earth-shadow-of-war/9pdv8fkwp3b4?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/356190/Middleearth%5FShadow%5Fof%5FWar/)
 
 **_Price:_** _$29.99 - $49.99_
 
@@ -421,7 +421,7 @@ Journey of a samurai to stop the Mongol invasion of Japan on its own. There are 
 
 #### 1\. Horizon Zero Dawn
 
-**_Platform:_** [_PlayStation 4_](https://www.playstation.com/en-us/games/horizon-zero-dawn/)_,_ [_PC_](https://store.steampowered.com/app/1151640/Horizon%5FZero%5FDawn%5FComplete%5FEdition/)
+**_Platform:_** [_PlayStation 4_](https://www.playstation.com/en-us/games/horizon-zero-dawn/) _,_ [_PC_](https://store.steampowered.com/app/1151640/Horizon%5FZero%5FDawn%5FComplete%5FEdition/)
 
 **_Price:_** _$19.99_
 
@@ -431,7 +431,7 @@ Horizon Zero Dawn was released before Ghost of Tsushima. It covers the story of 
 
 #### 2\. Sekiro: Shadows Die Twice
 
-**_Platform:_**[_PC_](https://store.steampowered.com/agecheck/app/814380/)_,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0002-CUSA12047%5F00-SEKIROGAME000001/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
+**_Platform:_**[_PC_](https://store.steampowered.com/agecheck/app/814380/) _,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0002-CUSA12047%5F00-SEKIROGAME000001/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
 
 **_Price:_** _$31.99 - $59.99_
 
@@ -441,7 +441,7 @@ If you have played the Ghost of Tsushima and like it so much, you will definitel
 
 #### 3\. Assassin's Creed Valhalla
 
-**_Platform:_**[_PC_](https://store.ubi.com/us/game/?lang=en%5FUS&pid=5e849c6c5cdf9a21c0b4e731&dwvar%5F5e849c6c5cdf9a21c0b4e731%5FPlatform=pcdl&edition=Standard%20Edition&source=detail)_,_ [_PlayStation_](https://store.playstation.com/en-us/concept/10000237/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
+**_Platform:_**[_PC_](https://store.ubi.com/us/game/?lang=en%5FUS&pid=5e849c6c5cdf9a21c0b4e731&dwvar%5F5e849c6c5cdf9a21c0b4e731%5FPlatform=pcdl&edition=Standard%20Edition&source=detail) _,_ [_PlayStation_](https://store.playstation.com/en-us/concept/10000237/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
 
 **_Price:_** _$59.99_
 
@@ -451,7 +451,7 @@ If you are looking for a game like Ghost of Tsushima, this game is a must-try ga
 
 #### 4\. Yakuza 0
 
-**_Platform:_**[_PC_](https://store.steampowered.com/app/638970/Yakuza%5F0/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/yakuza-0/9npp17lhj3mk?activetab=pivot:overviewtab)_,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0177-CUSA05070%5F00-YAKUZA0AMERICA00/)
+**_Platform:_**[_PC_](https://store.steampowered.com/app/638970/Yakuza%5F0/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/yakuza-0/9npp17lhj3mk?activetab=pivot:overviewtab) _,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0177-CUSA05070%5F00-YAKUZA0AMERICA00/)
 
 **_Price:_** _$19.99 - $21.99_
 
@@ -461,7 +461,7 @@ Yakuza is an open-world Single-Player and Multi-Player action-adventure game. Th
 
 #### 5\. For Honor
 
-**_Platform:_**[_PC_](https://store.steampowered.com/app/812140/Assassins%5FCreed%5FOdyssey/)_,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0001-CUSA09311%5F00-GAME000000000000/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
+**_Platform:_**[_PC_](https://store.steampowered.com/app/812140/Assassins%5FCreed%5FOdyssey/) _,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0001-CUSA09311%5F00-GAME000000000000/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
 
 **_Price:_** _$43.99 - $59.99_
 
@@ -471,7 +471,7 @@ Since it is released, "For Honor" has become one of the most liked games. They h
 
 #### 6\. Judgment
 
-**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP0177-PPSA02739%5F00-JUDGMENTRYUGAENG/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/judgment/9n1r83ckgzjp?activetab=pivot:overviewtab)
+**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP0177-PPSA02739%5F00-JUDGMENTRYUGAENG/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/judgment/9n1r83ckgzjp?activetab=pivot:overviewtab)
 
 **_Price:_** _$39.99_
 
@@ -481,7 +481,7 @@ Judgment is a single-player action video game. Meet Takayuki Yagami, a private d
 
 #### 7\. The Witcher 3: Wild Hunt
 
-**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP4497-CUSA05725%5F00-00000000000GOTY5/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/the-witcher-3-wild-hunt/br765873cqjd?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/292030/The%5FWitcher%5F3%5FWild%5FHunt/)_,_ [_Nintendo Switch_](https://www.nintendo.com/games/detail/the-witcher-3-wild-hunt-complete-edition-switch/)
+**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP4497-CUSA05725%5F00-00000000000GOTY5/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/the-witcher-3-wild-hunt/br765873cqjd?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/292030/The%5FWitcher%5F3%5FWild%5FHunt/) _,_ [_Nintendo Switch_](https://www.nintendo.com/games/detail/the-witcher-3-wild-hunt-complete-edition-switch/)
 
 **_Price:_** _$39.99 - $59.99_
 
@@ -491,7 +491,7 @@ The Witcher is one of the best games like Ghost of Tsushima because of the amazi
 
 #### 8\. Star Wars Jedi: Fallen Order
 
-**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP0006-PPSA02198%5F00-RESPAWNSWBIRDDOG/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/star-wars-jedi-fallen-order/C2CSDTSCBZ0C?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/1172380/STAR%5FWARS%5FJedi%5FFallen%5FOrder/)
+**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP0006-PPSA02198%5F00-RESPAWNSWBIRDDOG/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/star-wars-jedi-fallen-order/C2CSDTSCBZ0C?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/1172380/STAR%5FWARS%5FJedi%5FFallen%5FOrder/)
 
 **_Price:_** _$39.99_
 
@@ -501,7 +501,7 @@ Are you ready to face and fight with the huge and powerful galactic Empire? This
 
 #### 9\. Middle-earth: Shadow of War
 
-**_Platform:_**[_PlayStation_](https://www.playstation.com/en-us/games/middle-earth-shadow-of-war/)_,_ [_Xbox_](https://www.microsoft.com/en-US/p/middle-earth-shadow-of-war/9pdv8fkwp3b4?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/356190/Middleearth%5FShadow%5Fof%5FWar/)
+**_Platform:_**[_PlayStation_](https://www.playstation.com/en-us/games/middle-earth-shadow-of-war/) _,_ [_Xbox_](https://www.microsoft.com/en-US/p/middle-earth-shadow-of-war/9pdv8fkwp3b4?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/356190/Middleearth%5FShadow%5Fof%5FWar/)
 
 **_Price:_** _$29.99 - $49.99_
 

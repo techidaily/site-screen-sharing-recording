@@ -1,7 +1,7 @@
 ---
 title: "Fixing the OBS Fullscreen Hurdle"
-date: 2024-05-18T07:25:43.450Z
-updated: 2024-05-19T07:25:43.450Z
+date: 2024-07-03T23:12:20.654Z
+updated: 2024-07-04T23:12:20.654Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Fixing the OBS Fullscreen Hurdle"
 excerpt: "This Article Describes Fixing the OBS Fullscreen Hurdle"
 keywords: "Overcoming OBS Fullscreen,Resolve OBS Fullscreen Lag,Eliminate OBS Freeze Screen,Fix OBS Blackout Issue,Stop OBS Flicker Fullscreen,End OBS Delay in Display,Tackle OBS Freeze on Desktop"
-thumbnail: https://www.lifewire.com/thmb/FFBWrSKUv10PDo1VV6r976n9RLQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/linksys-default-password-list-2619153-5fccecc7c0b04133b2202a1fa9e8d37a.png
+thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a3a5a4a6ed566b778061c9ff.png
 ---
 
 ## Fixing the OBS Fullscreen Hurdle

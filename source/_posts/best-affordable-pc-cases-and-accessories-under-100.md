@@ -1,7 +1,7 @@
 ---
 title: "Best Affordable PC Cases & Accessories (Under $100)"
-date: 2024-05-18T07:03:17.377Z
-updated: 2024-05-19T07:03:17.377Z
+date: 2024-07-03T23:12:20.402Z
+updated: 2024-07-04T23:12:20.402Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Best Affordable PC Cases & Accessories (Under $100)"
 excerpt: "This Article Describes Best Affordable PC Cases & Accessories (Under $100)"
 keywords: "\"Budget PC Cases,Low-Cost PC Accessories,Economical Case Deals,Value PC Enclosures,Affordable PC Protection,$99 PC Stands,Cheap Computer Housing\""
-thumbnail: https://www.lifewire.com/thmb/iQjRSYdl3d8RlM-9oprGSEgt6gU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-667603173-fac0b8f4b1d9453c866d332dc73821f8.jpg
+thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fbb42dbd4e99eb8971ba63ab6.jpg
 ---
 
 ## Best Affordable PC Cases & Accessories (Under $100)
