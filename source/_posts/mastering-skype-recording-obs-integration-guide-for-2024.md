@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Skype Recording  OBS Integration Guide for 2024\""
-date: 2024-05-19T21:06:12.015Z
-updated: 2024-05-20T21:06:12.015Z
+date: 2024-07-19T08:21:08.327Z
+updated: 2024-07-20T08:21:08.327Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Mastering Skype Recording: OBS Integration Guide for 2024\""
 excerpt: "\"This Article Describes Mastering Skype Recording: OBS Integration Guide for 2024\""
 keywords: "Skype Record Mastery,OBS for Skype Screen,Skype Video Capture Guide,OBS with Skype Recording,Professional Skype Screencasts,Integrate OBS in Skype,Enhanced Skype Screening"
-thumbnail: https://www.lifewire.com/thmb/GmtX4Dz-IqWNOXpwPIQPNtbYXbk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-174294003-57c6ee043df78cc16eeab260.jpg
+thumbnail: https://thmb.techidaily.com/8357b168f14ad6299dbc663fee70693f53617c625c6e0b9ad212abd473aa163b.jpg
 ---
 
 ## Mastering Skype Recording: OBS Integration Guide
@@ -31,12 +31,18 @@ Now to setup the environment for screen recording we have to follow the followin
 
 Initially, you’ll be required to have skype installed on your desktop along with the up-to-date version of OBS software. After installing skype you first have to make a secondary/backup account on skype. After that you require a secondary camera as well to record yourself because your webcam can be in demand elsewhere, so you would not be able to record yourself or even the guests wouldn’t be able to see you. And then turn on the given command in skype i-e: skype>settings>calling>advanced>’allow NDI usage’ as shown in the picture. This command allows OBS to access skype videos.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![skype calling settings advanced calling](https://images.wondershare.com/filmora/article-images/skype-calling-settings-advanced-calling.jpg)
 
 After this you have to open the OBS program and set it up for skype calls, firs thing is to create a new scene, then you're going to hit the plus button and select the capture device. Now you can see yourself on camera and screen can easily be cropped, while holding ‘Alt’, on OBS so fix it according to your liking. Then press ‘lock’ using the NDI plug-in.
 
 ![obs program set up for skype](https://images.wondershare.com/filmora/article-images/obs-program-set-up-for-skype.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![obs vlc videos source](https://images.wondershare.com/filmora/article-images/obs-vlc-videos-source.jpg)
 
 To setup NDI plugin you have to visit <https://github.com/Palakis/obs-ndi/releases/tag/4.9.1> and check for the compatible version with your operating system. On this website the plugin is available for windows, mac and Linux.
@@ -49,6 +55,9 @@ And after addition of plug in you would want to click on ‘+’ again and selec
 
 And clicking on it will open a new window where you have to select the guest feed, which will be possible once the call has begun. The call connected will appear on the NDI plugin window.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![obs new window select the guest feed](https://images.wondershare.com/filmora/article-images/obs-new-window-select-the-guest-feed.jpg)
 
 As you receive the call from the reciever you will see the incoming feed of him as shown in the figure.
@@ -57,10 +66,19 @@ As you receive the call from the reciever you will see the incoming feed of him 
 
 So you can just resize it similarly as you did yours earlier and pressing the lock icon will stop you from mistakenly modify or change the video screen settings. Now to record the video you have to click on record button and your desktop starts recording.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![obs resize it similarly](https://images.wondershare.com/filmora/article-images/obs-resize-it-similarly.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: OBS Alternative to Record Skype
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Filmora
 
 Filmora is a very popular and perfect [video recorder](https://tools.techidaily.com/wondershare/filmora/download/) and editor designed by Wondershare. Wondershare is software house created in 2003\. This software was designed by professional video makers. It has an easy to use and a friendly environment, and easy to understand commands. This software is available for free and compatible with windows and MAC both. This tool can help you connect in a better way with your audience since it allows a wide range of functions, varying from editing and cutting to screen detection, auto-crop and fisheye correction.
@@ -86,6 +104,9 @@ For macOS 10.12 or later
 
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora configure all the audio devices](https://images.wondershare.com/filmora/guide/recording-05.png)
 
 * After the configuration, you can click on the big red button to start the recording.
@@ -137,6 +158,10 @@ For macOS 10.12 or later
 
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![filmora configure all the audio devices](https://images.wondershare.com/filmora/guide/recording-05.png)
 
 * After the configuration, you can click on the big red button to start the recording.
@@ -180,10 +205,16 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 * This window gives you options regarding screen size, resolution and devices which will record your audio and videos.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora regard screen size](https://images.wondershare.com/filmora/guide/recording-04.png)
 
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
@@ -192,6 +223,9 @@ For macOS 10.12 or later
 
 * After the configuration, you can click on the big red button to start the recording.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## FAQs Regarding Skype Recording
 
 **How do I add Skype video on OBS?**
@@ -299,3 +333,57 @@ So form the above discussion it can be concluded that OBS for screen recording c
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-superior-zoom-sound-quality/"><u>[New] 2024 Approved  The Ultimate Guide to Superior Zoom Sound Quality</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-unveiling-the-best-tools-to-snip-on-your-mac/"><u>[New] 2024 Approved  Unveiling the Best Tools to Snip on Your Mac</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-elevate-your-brand-with-these-essential-fb-strategies-for-all/"><u>[New] In 2024, Elevate Your Brand with These Essential FB Strategies (for All)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-step-by-step-username-modification-guide-for-meet-sessions/"><u>[New] In 2024, Step-by-Step Username Modification Guide for Meet Sessions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-top-free-video-call-apps-versatile-use-on-windows-and-macos/"><u>[New] In 2024, Top Free Video Call Apps  Versatile Use on Windows & MacOS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-uncomplicated-steps-for-archiving-gotomeeting-dialogues/"><u>[New] In 2024, Uncomplicated Steps for Archiving GoToMeeting Dialogues</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-interactive-learning-activities/"><u>[New] Interactive Learning Activities</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-mac-video-capture-now/"><u>[New] Mastering MAC Video Capture Now</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-ultimate-pick-skype-recorders-of-the-year-for-2024/"><u>[New] The Ultimate Pick  Skype Recorders of the Year for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-unmask-background-ambiance-free-or-paid-solutions-explored-for-2024/"><u>[New] Unmask Background Ambiance - Free or Paid Solutions Explored for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-unveiling-the-best-practices-in-recording-games-on-steam-for-2024/"><u>[New] Unveiling the Best Practices in Recording Games on Steam for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-comprehensive-durecorder-manual-review/"><u>[Updated] 2024 Approved  Comprehensive DuRecorder Manual Review</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-edge-your-way-to-success-instagrams-finest-border-applications/"><u>[Updated] 2024 Approved  Edge Your Way to Success  Instagram's Finest Border Applications</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-sensational-no-cost-visual-collaboration-games/"><u>[Updated] 2024 Approved  Sensational No-Cost Visual Collaboration Games</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-streamlining-creative-processes-with-obs-studio-tools/"><u>[Updated] 2024 Approved  Streamlining Creative Processes with OBS Studio Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-the-pathway-to-proficient-league-of-legends-screen-recordings/"><u>[Updated] 2024 Approved  The Pathway to Proficient League of Legends Screen Recordings</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-tips-for-achieving-peak-performance-switch-pro-and-steam-games/"><u>[Updated] 2024 Approved  Tips for Achieving Peak Performance  Switch Pro & Steam Games</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-top-10-online-video-tools-perfecting-webcam-footage/"><u>[Updated] 2024 Approved  Top 10 Online Video Tools  Perfecting Webcam Footage</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-unraveling-the-best-solo-play-strategies-for-apex-legends/"><u>[Updated] 2024 Approved  Unraveling the Best Solo Play Strategies for Apex Legends</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-economical-pc-screen-grab-utilities/"><u>[Updated] Economical PC Screen Grab Utilities</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-engaging-your-audience-with-fb-live-for-2024/"><u>[Updated] Engaging Your Audience with FB Live for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-decoding-inverse-visual-queries-on-facebook-platforms/"><u>[Updated] In 2024, Decoding Inverse Visual Queries on Facebook Platforms</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-thrifty-pc-display-saving-programs/"><u>[Updated] In 2024, Thrifty PC Display Saving Programs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-ultimate-guide-best-video-capture-tools-for-windows/"><u>[Updated] In 2024, Ultimate Guide  Best Video Capture Tools for Windows</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-ios-choice-premium-psp-emulators-ranked-1-5/"><u>[Updated] IOS Choice  Premium PSP Emulators Ranked #1-5</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-set-custom-save-path-for-screen-captures-mac-for-2024/"><u>[Updated] Set Custom Save Path for Screen Captures (Mac) for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-smooth-sailing-screen-record-across-pcs-mac-and-mobile-for-2024/"><u>[Updated] Smooth Sailing  Screen Record Across PCs, Mac & Mobile for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-streamline-success-blending-obs-zoom-made-easy-for-2024/"><u>[Updated] Streamline Success  Blending OBS, Zoom Made Easy for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-swift-effective-methods-for-iphone-screen-recordings-for-2024/"><u>[Updated] Swift, Effective Methods for iPhone Screen Recordings for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-3-techniques-for-exceptional-lol-gaming-broadcasts-for-2024/"><u>[Updated] Top 3 Techniques for Exceptional LOL Gaming Broadcasts for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-secrets-of-av1-codec-mastery/"><u>[Updated] Unveiling the Secrets of AV1 Codec Mastery</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-win10-gaming-sessions-best-recording-approaches-for-2024/"><u>[Updated] Win10 Gaming Sessions  Best Recording Approaches for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-adopting-innovations-mask-and-filter-methods-for-google-meet/"><u>2024 Approved  Adopting Innovations  Mask & Filter Methods for Google Meet</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-level-up-your-farming-life-explore-7-14-mods/"><u>2024 Approved  Level Up Your Farming Life - Explore #7-14 Mods</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/a-complete-guide-of-screenrec-for-laptop-for-2024/"><u>A Complete Guide of ScreenRec for Laptop for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/a-journey-to-viral-tiktok-filmora-edition-of-reaction-mastery/"><u>A Journey to Viral TikTok  Filmora Edition of Reaction Mastery</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/ace-video-reporter-for-windows-11-for-2024/"><u>Ace Video Reporter for Windows 11 for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/best-video-editing-software-for-windows-10-imovie-equivalent/"><u>Best Video Editing Software for Windows 10 IMovie Equivalent</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/economical-pc-monitoring-devices/"><u>Economical PC Monitoring Devices</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/free-avi-video-combiner-top-10-options-to-join-avi-files-for-2024/"><u>Free AVI Video Combiner Top 10 Options to Join AVI Files for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-camguard-elite-mesh-patch/"><u>In 2024, CamGuard Elite Mesh Patch</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-crafting-compelling-content-with-macootd-tiktoks/"><u>In 2024, Crafting Compelling Content with MacOOTD TikToks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-cybernetic-breakthroughs-in-live-video-capture-technology/"><u>In 2024, Cybernetic Breakthroughs in Live Video Capture Technology</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-high-quality-youtube-recording-techniques/"><u>In 2024, High-Quality YouTube Recording Techniques</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-samsung-galaxy-s23plus-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Samsung Galaxy S23+ Phones? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-live-screen-record-on-chrome-pcs/"><u>In 2024, Live Screen Record on Chrome PCs</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-edit-your-way-to-success-top-14-vlog-video-editing-tools-free-and-paid/"><u>New Edit Your Way to Success Top 14 Vlog Video Editing Tools Free & Paid</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-synthesizing-soundscapes-the-top-10-music-manipulation-software-for-windows-and-mac-in-the-year-2024/"><u>New Synthesizing Soundscapes The Top 10 Music Manipulation Software for Windows & Mac in the Year 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-get-lumafusion-for-mac-explore-the-best-video-editing-alternatives/"><u>Updated In 2024, Get Lumafusion for Mac Explore the Best Video Editing Alternatives</u></a></li>
+<li><a href="https://techidaily.com/vivo-t2-pro-5g-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Vivo T2 Pro 5G Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+</ul></div>

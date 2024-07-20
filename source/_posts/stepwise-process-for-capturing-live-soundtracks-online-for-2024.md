@@ -1,7 +1,7 @@
 ---
 title: "Stepwise Process for Capturing Live Soundtracks Online for 2024"
-date: 2024-05-18T07:11:17.791Z
-updated: 2024-05-19T07:11:17.791Z
+date: 2024-07-19T10:33:08.221Z
+updated: 2024-07-20T10:33:08.221Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Stepwise Process for Capturing Live Soundtracks Online for 2024"
 excerpt: "This Article Describes Stepwise Process for Capturing Live Soundtracks Online for 2024"
 keywords: "\"Live Soundtrack Capture,Online Live Recording,Stepwise Audio Capture,Stage Sound Capture Online,Streaming Live Music Track,Real-Time Sound Capture,Audio Capture Process Step\""
-thumbnail: https://www.lifewire.com/thmb/x14UrRTf3--IfQ99R_ewwR4TwWY=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-104288650-cd3f369f8ead449f94d1a1ce6f55c9de.jpg
+thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006aaa80a48dab2ef20ecc47cd.jpg
 ---
 
 ## Stepwise Process for Capturing Live Soundtracks Online
@@ -33,6 +33,9 @@ Record screen and webcam as well
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Way 1\. Apowersoft Streaming Audio Recorder
 
 Apowersoft audio recorder is a simple but effective recorder of online streaming audio. You can record audio from any music streaming platform. In fact, you can record audio from video streaming platforms as well. Moreover, the application lets you record from radio stations and audio chats. You can save the recorded audio in different file formats such as MP3, WMA, and much more. Therefore, you can play them flawlessly on various music players and devices seamlessly. Here are the steps on how to record streaming audio online with Apowersoft streaming audio recorder.
@@ -47,6 +50,9 @@ Step 3: Click on Record button to start recording. Start playing the online musi
 
 Step 4: Once done, click on Stop button, and the recording will be available under Library.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## Way 2\. QuickTime Player
 
 If you are a Mac user, you can record online live stream audio instantly with QuickTime Player. The application comes preinstalled on Mac and even Windows users can download it for free and use it to record streaming audio online for free. After the recording, users can play the recorded audio file on QuickTime Player. Here are the steps to how to record online streaming video but only the audio part with QuickTime Player.
@@ -97,6 +103,102 @@ Step 4: Once finished, click on Stop button.
 
 If you are looking for an online stream recorder to record audio from web streams without installing any software on your computer, Screencapture is ideal for you. You can use this online tool to record video along with audio which is useful if you want to record online live stream. The tool is supported on Chrome, Firefox, Edge and Opera. The recording will be in HD quality and the free version puts a watermark which should not be an issue if you are recording for personal use. Here are the steps on how to record online streaming video with audio using Screencapture.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+![screen capture audio record](https://images.wondershare.com/filmora/article-images/screen-capture-sound-recording.jpg)
+
+Step 1: Open your web browser and visit <www.screencapture.com>.
+
+Step 2: Turn on sound and click on Start Recording.
+
+Step 3: Select Chrome tab if you are recording any web stream. Turn on Share tab audio and click on Share button. The recording will start immediately.
+
+Step 4: In order to stop recording, come back to Screencapture.com tab and click on Stop Recording button. Thereafter, you can view the recording and download on your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
+## The Bottom Line
+
+We have stated how to record online streaming video as well as to record online streaming audio online. You can either download a dedicated software to record audio from any web stream or you can use the online tool to record video and audio together. Some of them are free while others are paid and some allow you to edit the recordings and save them in different formats for your convenience.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Way 1\. Apowersoft Streaming Audio Recorder
+
+Apowersoft audio recorder is a simple but effective recorder of online streaming audio. You can record audio from any music streaming platform. In fact, you can record audio from video streaming platforms as well. Moreover, the application lets you record from radio stations and audio chats. You can save the recorded audio in different file formats such as MP3, WMA, and much more. Therefore, you can play them flawlessly on various music players and devices seamlessly. Here are the steps on how to record streaming audio online with Apowersoft streaming audio recorder.
+
+![apowersoft streaming audio recorder](https://images.wondershare.com/filmora/article-images/apowersoft-streaming-audio-recorder.jpg)
+
+Step 1: Download and install Apowersoft Streaming Audio Recorder from its official website. Sign up and log into your account. The free version has certain recording time limitations which is why its premium version is recommended.
+
+Step 2: Launch the application and from the bottom-left corner, click on Audio Source icon, and select System Sound option.
+
+Step 3: Click on Record button to start recording. Start playing the online music, podcast, or video from which you want to record the audio.
+
+Step 4: Once done, click on Stop button, and the recording will be available under Library.
+
+## Way 2\. QuickTime Player
+
+If you are a Mac user, you can record online live stream audio instantly with QuickTime Player. The application comes preinstalled on Mac and even Windows users can download it for free and use it to record streaming audio online for free. After the recording, users can play the recorded audio file on QuickTime Player. Here are the steps to how to record online streaming video but only the audio part with QuickTime Player.
+
+![quicktime player audio recording](https://images.wondershare.com/filmora/article-images/quicktime-player-audio-recording.jpg)
+
+Step 1: Open QuickTime Player and go to File > New Audio Recording.
+
+Step 2: You will see a pop-up menu and click on Options icon to select recording quality. Adjust the volume so that the recording is loud enough.
+
+Step 3: Finally, click on Record button to start recording. Now, start playing the online live stream, audio or video from which you want to record the audio.
+
+Step 4: When you want to stop, click on Stop button. Thereafter, go to File > Save to save the recorded audio on your hard drive.
+
+QuickTime Player is also the answer to how to record online streaming video. You can record only the audio part from the recorded video from File> Export> Audio Only option.
+
+## Way 3\. Use Free Sound Recorder
+
+Free Sound Recorder is a great online streaming recorder free download tool. You can capture literally any audio that is playing on your computer. Starting from recording streaming audio online, music from videos to live podcasts, music events, video conferences, you can record everything. You can get the best quality recording without paying any buck. It is available for both Windows and Mac users. You can even schedule recording and edit the recorded file easily. Here are the steps on how to record streaming audio with Free Sound Recorder.
+
+![free sound recorder](https://images.wondershare.com/filmora/article-images/free-sound-recorder.jpg)
+
+Step 1: Download Free Sound Recorder from <www.freesoundrecorder.net>. Install and launch the application.
+
+Step 2: Click on Show Mixer Window button and select Sound Source and Sound Card to record system audio no matter what you play.
+
+Step 3: Click on Options and set the recording settings as per requirements.
+
+Step 4: Finally, click on Recording button and play audio online to start recording.
+
+Step 5: If you want to stop recording, click on Stop button and the file will be saved on your hard drive. You can check the file from the Files List.
+
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 4\. Use Streamosaur
+
+If you are using an older computer with an older version on Windows, you can install Streamosaur on your computer to record online live stream audio as well as audio from any online video. The software is compatible with Windows XP and higher Windows versions. You can record from any web stream as well as from microphone and external mixer. There is no time limitation and you can save the recordings in WAV and MP3 files. Here are the steps to follow to record audio from web streams.
+
+![streamsaur](https://images.wondershare.com/filmora/article-images/streamosaur.jpg)
+
+Step 1: Download Streamosaur from <www.wavosaur.com/streamosaur> and unzip the file and launch the application.
+
+Step 2: Set the file location and name by clicking on Set button and select WAV or MP3 file format.
+
+Step 3: Click on Record button and then play the web stream.
+
+Step 4: Once finished, click on Stop button.
+
+## 5\. Screencapture.com
+
+If you are looking for an online stream recorder to record audio from web streams without installing any software on your computer, Screencapture is ideal for you. You can use this online tool to record video along with audio which is useful if you want to record online live stream. The tool is supported on Chrome, Firefox, Edge and Opera. The recording will be in HD quality and the free version puts a watermark which should not be an issue if you are recording for personal use. Here are the steps on how to record online streaming video with audio using Screencapture.
+
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screen capture audio record](https://images.wondershare.com/filmora/article-images/screen-capture-sound-recording.jpg)
 
 Step 1: Open your web browser and visit <www.screencapture.com>.
@@ -113,10 +215,16 @@ We have stated how to record online streaming video as well as to record online 
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Way 1\. Apowersoft Streaming Audio Recorder
 
 Apowersoft audio recorder is a simple but effective recorder of online streaming audio. You can record audio from any music streaming platform. In fact, you can record audio from video streaming platforms as well. Moreover, the application lets you record from radio stations and audio chats. You can save the recorded audio in different file formats such as MP3, WMA, and much more. Therefore, you can play them flawlessly on various music players and devices seamlessly. Here are the steps on how to record streaming audio online with Apowersoft streaming audio recorder.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![apowersoft streaming audio recorder](https://images.wondershare.com/filmora/article-images/apowersoft-streaming-audio-recorder.jpg)
 
 Step 1: Download and install Apowersoft Streaming Audio Recorder from its official website. Sign up and log into your account. The free version has certain recording time limitations which is why its premium version is recommended.
@@ -131,6 +239,9 @@ Step 4: Once done, click on Stop button, and the recording will be available und
 
 If you are a Mac user, you can record online live stream audio instantly with QuickTime Player. The application comes preinstalled on Mac and even Windows users can download it for free and use it to record streaming audio online for free. After the recording, users can play the recorded audio file on QuickTime Player. Here are the steps to how to record online streaming video but only the audio part with QuickTime Player.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![quicktime player audio recording](https://images.wondershare.com/filmora/article-images/quicktime-player-audio-recording.jpg)
 
 Step 1: Open QuickTime Player and go to File > New Audio Recording.
@@ -143,6 +254,9 @@ Step 4: When you want to stop, click on Stop button. Thereafter, go to File > Sa
 
 QuickTime Player is also the answer to how to record online streaming video. You can record only the audio part from the recorded video from File> Export> Audio Only option.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ## Way 3\. Use Free Sound Recorder
 
 Free Sound Recorder is a great online streaming recorder free download tool. You can capture literally any audio that is playing on your computer. Starting from recording streaming audio online, music from videos to live podcasts, music events, video conferences, you can record everything. You can get the best quality recording without paying any buck. It is available for both Windows and Mac users. You can even schedule recording and edit the recorded file easily. Here are the steps on how to record streaming audio with Free Sound Recorder.
@@ -163,6 +277,9 @@ Step 5: If you want to stop recording, click on Stop button and the file will be
 
 If you are using an older computer with an older version on Windows, you can install Streamosaur on your computer to record online live stream audio as well as audio from any online video. The software is compatible with Windows XP and higher Windows versions. You can record from any web stream as well as from microphone and external mixer. There is no time limitation and you can save the recordings in WAV and MP3 files. Here are the steps to follow to record audio from web streams.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![streamsaur](https://images.wondershare.com/filmora/article-images/streamosaur.jpg)
 
 Step 1: Download Streamosaur from <www.wavosaur.com/streamosaur> and unzip the file and launch the application.
@@ -177,6 +294,10 @@ Step 4: Once finished, click on Stop button.
 
 If you are looking for an online stream recorder to record audio from web streams without installing any software on your computer, Screencapture is ideal for you. You can use this online tool to record video along with audio which is useful if you want to record online live stream. The tool is supported on Chrome, Firefox, Edge and Opera. The recording will be in HD quality and the free version puts a watermark which should not be an issue if you are recording for personal use. Here are the steps on how to record online streaming video with audio using Screencapture.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![screen capture audio record](https://images.wondershare.com/filmora/article-images/screen-capture-sound-recording.jpg)
 
 Step 1: Open your web browser and visit <www.screencapture.com>.
@@ -193,6 +314,9 @@ We have stated how to record online streaming video as well as to record online 
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Way 1\. Apowersoft Streaming Audio Recorder
 
 Apowersoft audio recorder is a simple but effective recorder of online streaming audio. You can record audio from any music streaming platform. In fact, you can record audio from video streaming platforms as well. Moreover, the application lets you record from radio stations and audio chats. You can save the recorded audio in different file formats such as MP3, WMA, and much more. Therefore, you can play them flawlessly on various music players and devices seamlessly. Here are the steps on how to record streaming audio online with Apowersoft streaming audio recorder.
@@ -207,10 +331,16 @@ Step 3: Click on Record button to start recording. Start playing the online musi
 
 Step 4: Once done, click on Stop button, and the recording will be available under Library.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Way 2\. QuickTime Player
 
 If you are a Mac user, you can record online live stream audio instantly with QuickTime Player. The application comes preinstalled on Mac and even Windows users can download it for free and use it to record streaming audio online for free. After the recording, users can play the recorded audio file on QuickTime Player. Here are the steps to how to record online streaming video but only the audio part with QuickTime Player.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![quicktime player audio recording](https://images.wondershare.com/filmora/article-images/quicktime-player-audio-recording.jpg)
 
 Step 1: Open QuickTime Player and go to File > New Audio Recording.
@@ -223,6 +353,9 @@ Step 4: When you want to stop, click on Stop button. Thereafter, go to File > Sa
 
 QuickTime Player is also the answer to how to record online streaming video. You can record only the audio part from the recorded video from File> Export> Audio Only option.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Way 3\. Use Free Sound Recorder
 
 Free Sound Recorder is a great online streaming recorder free download tool. You can capture literally any audio that is playing on your computer. Starting from recording streaming audio online, music from videos to live podcasts, music events, video conferences, you can record everything. You can get the best quality recording without paying any buck. It is available for both Windows and Mac users. You can even schedule recording and edit the recorded file easily. Here are the steps on how to record streaming audio with Free Sound Recorder.
@@ -257,86 +390,9 @@ Step 4: Once finished, click on Stop button.
 
 If you are looking for an online stream recorder to record audio from web streams without installing any software on your computer, Screencapture is ideal for you. You can use this online tool to record video along with audio which is useful if you want to record online live stream. The tool is supported on Chrome, Firefox, Edge and Opera. The recording will be in HD quality and the free version puts a watermark which should not be an issue if you are recording for personal use. Here are the steps on how to record online streaming video with audio using Screencapture.
 
-![screen capture audio record](https://images.wondershare.com/filmora/article-images/screen-capture-sound-recording.jpg)
-
-Step 1: Open your web browser and visit <www.screencapture.com>.
-
-Step 2: Turn on sound and click on Start Recording.
-
-Step 3: Select Chrome tab if you are recording any web stream. Turn on Share tab audio and click on Share button. The recording will start immediately.
-
-Step 4: In order to stop recording, come back to Screencapture.com tab and click on Stop Recording button. Thereafter, you can view the recording and download on your computer.
-
-## The Bottom Line
-
-We have stated how to record online streaming video as well as to record online streaming audio online. You can either download a dedicated software to record audio from any web stream or you can use the online tool to record video and audio together. Some of them are free while others are paid and some allow you to edit the recordings and save them in different formats for your convenience.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## Way 1\. Apowersoft Streaming Audio Recorder
-
-Apowersoft audio recorder is a simple but effective recorder of online streaming audio. You can record audio from any music streaming platform. In fact, you can record audio from video streaming platforms as well. Moreover, the application lets you record from radio stations and audio chats. You can save the recorded audio in different file formats such as MP3, WMA, and much more. Therefore, you can play them flawlessly on various music players and devices seamlessly. Here are the steps on how to record streaming audio online with Apowersoft streaming audio recorder.
-
-![apowersoft streaming audio recorder](https://images.wondershare.com/filmora/article-images/apowersoft-streaming-audio-recorder.jpg)
-
-Step 1: Download and install Apowersoft Streaming Audio Recorder from its official website. Sign up and log into your account. The free version has certain recording time limitations which is why its premium version is recommended.
-
-Step 2: Launch the application and from the bottom-left corner, click on Audio Source icon, and select System Sound option.
-
-Step 3: Click on Record button to start recording. Start playing the online music, podcast, or video from which you want to record the audio.
-
-Step 4: Once done, click on Stop button, and the recording will be available under Library.
-
-## Way 2\. QuickTime Player
-
-If you are a Mac user, you can record online live stream audio instantly with QuickTime Player. The application comes preinstalled on Mac and even Windows users can download it for free and use it to record streaming audio online for free. After the recording, users can play the recorded audio file on QuickTime Player. Here are the steps to how to record online streaming video but only the audio part with QuickTime Player.
-
-![quicktime player audio recording](https://images.wondershare.com/filmora/article-images/quicktime-player-audio-recording.jpg)
-
-Step 1: Open QuickTime Player and go to File > New Audio Recording.
-
-Step 2: You will see a pop-up menu and click on Options icon to select recording quality. Adjust the volume so that the recording is loud enough.
-
-Step 3: Finally, click on Record button to start recording. Now, start playing the online live stream, audio or video from which you want to record the audio.
-
-Step 4: When you want to stop, click on Stop button. Thereafter, go to File > Save to save the recorded audio on your hard drive.
-
-QuickTime Player is also the answer to how to record online streaming video. You can record only the audio part from the recorded video from File> Export> Audio Only option.
-
-## Way 3\. Use Free Sound Recorder
-
-Free Sound Recorder is a great online streaming recorder free download tool. You can capture literally any audio that is playing on your computer. Starting from recording streaming audio online, music from videos to live podcasts, music events, video conferences, you can record everything. You can get the best quality recording without paying any buck. It is available for both Windows and Mac users. You can even schedule recording and edit the recorded file easily. Here are the steps on how to record streaming audio with Free Sound Recorder.
-
-![free sound recorder](https://images.wondershare.com/filmora/article-images/free-sound-recorder.jpg)
-
-Step 1: Download Free Sound Recorder from <www.freesoundrecorder.net>. Install and launch the application.
-
-Step 2: Click on Show Mixer Window button and select Sound Source and Sound Card to record system audio no matter what you play.
-
-Step 3: Click on Options and set the recording settings as per requirements.
-
-Step 4: Finally, click on Recording button and play audio online to start recording.
-
-Step 5: If you want to stop recording, click on Stop button and the file will be saved on your hard drive. You can check the file from the Files List.
-
-## 4\. Use Streamosaur
-
-If you are using an older computer with an older version on Windows, you can install Streamosaur on your computer to record online live stream audio as well as audio from any online video. The software is compatible with Windows XP and higher Windows versions. You can record from any web stream as well as from microphone and external mixer. There is no time limitation and you can save the recordings in WAV and MP3 files. Here are the steps to follow to record audio from web streams.
-
-![streamsaur](https://images.wondershare.com/filmora/article-images/streamosaur.jpg)
-
-Step 1: Download Streamosaur from <www.wavosaur.com/streamosaur> and unzip the file and launch the application.
-
-Step 2: Set the file location and name by clicking on Set button and select WAV or MP3 file format.
-
-Step 3: Click on Record button and then play the web stream.
-
-Step 4: Once finished, click on Stop button.
-
-## 5\. Screencapture.com
-
-If you are looking for an online stream recorder to record audio from web streams without installing any software on your computer, Screencapture is ideal for you. You can use this online tool to record video along with audio which is useful if you want to record online live stream. The tool is supported on Chrome, Firefox, Edge and Opera. The recording will be in HD quality and the free version puts a watermark which should not be an issue if you are recording for personal use. Here are the steps on how to record online streaming video with audio using Screencapture.
-
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screen capture audio record](https://images.wondershare.com/filmora/article-images/screen-capture-sound-recording.jpg)
 
 Step 1: Open your web browser and visit <www.screencapture.com>.
@@ -376,3 +432,43 @@ We have stated how to record online streaming video as well as to record online 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-beyond-the-screen-advanced-techniques-in-logging-virtual-reality-games/"><u>[New] 2024 Approved  Beyond the Screen  Advanced Techniques in Logging Virtual Reality Games</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-5-ways-to-record-vr-gameplay/"><u>[New] 5 Ways to Record VR Gameplay</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-accelerating-recording-speed-and-clarity-techniques/"><u>[New] Accelerating Recording Speed & Clarity Techniques</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-budget-friendly-pro-gamers-essentials-keyboards-for-2024/"><u>[New] Budget-Friendly Pro Gamers' Essentials  Keyboards for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1715859705530-new-capture-share-enjoy/"><u>[New] Capture, Share, Enjoy!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-comparing-apowersoft-to-alternatives/"><u>[New] Comparing Apowersoft to Alternatives</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-little-wheelmens-game-festivals/"><u>[New] Little Wheelmen's Game Festivals</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-no-wi-fi-no-worries-discover-the-best-offline-gaming-on-android/"><u>[New] No Wi-Fi, No Worries! Discover the Best Offline Gaming on Android</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-mac-gif-saving-best-10-gif-apps/"><u>[New] Top Mac GIF Saving  Best 10 Gif Apps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-tier-free-screen-capture-programs-2023-edition/"><u>[New] Top-Tier Free Screen Capture Programs – 2023 Edition</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-video-show-reviewed-detailed-analysis-of-the-2024-edition/"><u>[New] Video Show Reviewed  Detailed Analysis of the 2024 Edition</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-best-youtube-audio-extractors-free-easy-download-and-convert-for-2024/"><u>[Updated] Best YouTube Audio Extractors  Free, Easy Download & Convert for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-dusk-to-dawn-strategies-for-exceptional-night-portraits/"><u>[Updated] Dusk to Dawn  Strategies for Exceptional Night Portraits</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-enhance-your-mobile-experience-with-inshots-music-features/"><u>[Updated] Enhance Your Mobile Experience with InShot's Music Features</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-insider-secrets-to-captivating-facecam-videos/"><u>[Updated] Insider Secrets to Captivating Facecam Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-screen-recorder-pro-a-beginners-handbook-for-mac/"><u>[Updated] Screen Recorder Pro  A Beginner's Handbook for Mac</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-ultimate-recording-guide-for-sims-enthusiasts/"><u>[Updated] Ultimate Recording Guide for Sims Enthusiasts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-cutting-edge-screen-capturing-with-the-latest-camstudio-release/"><u>2024 Approved  Cutting-Edge Screen Capturing with the Latest CamStudio Release</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-recording-excellence-the-top-screen-recorder-list/"><u>2024 Approved  Recording Excellence  The Top Screen Recorder List</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-screen-to-air-assessing-obs-and-twitch-studios-features/"><u>2024 Approved  Screen to Air  Assessing OBS and Twitch Studio's Features</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-secure-and-sync-your-cinematic-recordings-across-platforms/"><u>2024 Approved  Secure and Sync Your Cinematic Recordings Across Platforms</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-smooth-recording-techniques-for-gears-5s-battlegrounds/"><u>2024 Approved  Smooth Recording Techniques for Gears 5'S Battlegrounds</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-sourav-joshis-financial-journey-charting-a-profitable-course-on-youtube/"><u>2024 Approved  Sourav Joshi’s Financial Journey  Charting a Profitable Course on YouTube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-art-of-online-recording/"><u>2024 Approved  The Art of Online Recording</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-best-gopro-for-action-compare-max-and-hero-11/"><u>2024 Approved  The Best GoPro for Action  Compare Max and Hero 11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/essential-strategies-for-youtube-and-twitch-via-obs/"><u>Essential Strategies for YouTube & Twitch via OBS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/fostering-fast-visual-storytelling-with-google-imagery/"><u>Fostering Fast Visual Storytelling with Google Imagery</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-basicwin10grabber-free-software-download/"><u>In 2024, BasicWin10Grabber - Free Software Download</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-rapid-routines-for-capturing-video-calls/"><u>In 2024, Rapid Routines for Capturing Video Calls</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-windows-10s-leading-screen-capture-tools-a-comprehensive-list/"><u>In 2024, Windows 10'S Leading Screen Capture Tools  A Comprehensive List</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-music-to-your-ears-top-video-editors/"><u>New 2024 Approved Music to Your Ears Top Video Editors</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-this-article-tells-you-several-tips-to-make-a-better-home-movie-master-the-home-movie-making-tips-and-obey-the-rules-so-that-you-can-make-/"><u>New 2024 Approved This Article Tells You Several Tips to Make a Better Home Movie. Master the Home Movie Making Tips and Obey the Rules so that You Can Make a Great Movie</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/premier-10-royale-arena-games-for-2024/"><u>Premier 10 Royale Arena Games for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-into-the-realm-of-textual-magic-with-14-examples-for-2024/"><u>Step Into the Realm of Textual Magic with 14 Examples for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-free-fcpx-goodness-10-must-have-plugins/"><u>Updated 2024 Approved Free FCPX Goodness 10 Must-Have Plugins</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-make-subtitle-videos/"><u>Updated 2024 Approved How to Make Subtitle Videos</u></a></li>
+</ul></div>

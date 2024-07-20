@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  The Nighttime Navigator  Tips for Effortless Evening Shots\""
-date: 2024-05-18T07:03:46.480Z
-updated: 2024-05-19T07:03:46.480Z
+date: 2024-07-19T09:59:42.655Z
+updated: 2024-07-20T09:59:42.655Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: The Nighttime Navigator: Tips for Effortless Evening Shots\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: The Nighttime Navigator: Tips for Effortless Evening Shots\""
 keywords: "\"Cheap Screenshot Solutions,Low-Cost Capture Screenshots,Cost-Effective Screen Captures,Budget-Friendly Screenshot Tools,Affordable Image Capturing,Economical Screen Grab Methods,Inexpensive Screenshot Options\""
-thumbnail: https://www.lifewire.com/thmb/6d3Pk0OpPHgsMtYTh0RE0ehMopY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-758317893-3ab5c26f770448db8b4a58205fb549f1.jpg
+thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3ee5edf935baeb75dd083d47.jpg
 ---
 
 ## The Nighttime Navigator: Tips for Effortless Evening Shots
@@ -21,6 +21,9 @@ It has been seen that most portrait photography is carried out during the daytim
 
 Well, **night-mode portraits** can be such an opportunity. However, it can be a little challenging for you. Night portrait shoots require the photographer to manipulate shutter speed, aperture, ISO, and more. Besides, there are certain dos and don'ts that you also need to keep in mind. Keep reading to know more about this.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![night potraits](https://images.wondershare.com/filmora/article-images/2022/11/night-potraits.jpg)
 
 ## Part 1: Must-Dos in Night Portraits
@@ -47,6 +50,9 @@ Don't forget to take advantage of your camera's night mode portrait option to ge
 
 The camera will then take a series of photos at multiple exposure levels and then merge them to create a single image with great details. Even though **night mode portraits** can help you a lot, they may not work well while taking photos of moving objects. The reason behind this is that this mode takes multiple shots, and moving subjects would be blurred out. If it is a static scene, then go for it.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Shooting with a Stabilizer
 
 For better results, you can use a camera stabilizer. A camera stabilizer will offer you the ability to take beautiful and smooth shots while moving. Stabilizers come in different configurations and sizes. They can effectively lower the vibration of the camera while moving. But shooting with a monopod, gimbal, or other rigs can be a little challenging for you. However, there are some tips that you can keep in your mind for better results, for example:
@@ -58,22 +64,34 @@ For better results, you can use a camera stabilizer. A camera stabilizer will of
 * Close down the aperture.
 * Allow your subject to move into the focus distance.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pexels marcelo dias 1970482](https://images.wondershare.com/filmora/article-images/2022/11/pexels-marcelo-dias-1970482.jpg)
 
 Experts suggest using a sturdy camera tripod, and it will be better to get a remote release. With this, you can trigger the camera without touching the shutter button, and it will reduce the movement of the camera.
 
 ## Part 2: Don't-Dos in Night Portraits
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Don't dress in dark
 
 When it comes to wearing black for night portraits, experts suggest avoiding it unless you have proper light settings and you have your make-up done by an expert who can correct the color for shadows. Sometimes, dark clothes may create an aging effect on the subject. Besides, if the lighting condition is not good, the photos will become much darker due to your dark dress. So, wear light-colored dresses. Besides, don't use shirts that have visible text, brand names or logos.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![pexels nikolai ulltang 572463](https://images.wondershare.com/filmora/article-images/2022/11/pexels-nikolai-ulltang-572463.jpg)
 
 ### 2\. Don't do a capture shoot
 
 Most photographers use single shooting mode or go for the capture shoot in many cases. That could be the manual mode, and sometimes it is done to adjust the shutter and aperture manually. During night shooting, some photographers use higher ISO. This means the lens will allow more light to come in. As a result, it can create a smear while capturing a moving object. But in some cases, using continuous shooting can help you to capture some of the best moments for **night portraits.** If you are shooting in a fast-paced scenario, then this can help you a lot. You may not use all the images you have captured, but you can find perfect portraits.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ### 3\. Don't Overuse Light- The Right Shutter Speed, ISO and Aperture
 
 Another thing you need to avoid here is the overuse of light. You need to work on the primary exposure settings, i.e., the ISO, aperture and shutter speed. You should keep in mind that these three configurations will create exposure and influence the photos' overall brightness. One thing to consider while choosing the setting is to have a photo with a lot of detail in the mid-tones, highlights, and shadows.
@@ -86,6 +104,9 @@ Talking about the shutter speed, for stationary subjects, you can go for 1/160s.
 
 Speaking about white balance, it is a setting to make sure the colors in the photos are natural and accurate and the photos don't have unrealistic colors. If the subject appears white in real but blue or red in the photos, then you need to adjust the white balance. Daylight white balance will be very warm for night photos. That's why you need to go for cooler settings, around 3200 to 4800, based on your environment and location.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pexels simon robben 473107](https://images.wondershare.com/filmora/article-images/2022/11/pexels-simon-robben-473107.jpg)
 
 For example, in city areas, a lower setting, i.e., 3400 to 3900k, can work great. On the other hand, for darker skies, white balance settings of 4000k and above will offer you the best results. Begin with the above suggestion and click some test photos while increasing 100k after every shot to find the right white balance settings.
@@ -102,6 +123,9 @@ As per the experts, the lower the aperture, the more light your camera will rece
 
 Some common mistakes that you need to avoid while shooting portraits are poor lighting, poor composition, bad background, using the incorrect lens, not properly focusing on the eyes, overexposure and more. Just follow the above-mentioned tips to get stunning night portraits.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ### What Are the Best Camera Settings for Night Photography?
 
 You should use your camera in manual mode. Besides, utilizing long camera shutter speeds, around 30 seconds to 60 seconds, will be good. Sometimes, using auto-white balance, you can get great results. The experts also suggest keeping the aperture around f/11 and going for a low ISO, between 100 to 200.
@@ -137,3 +161,66 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fix-dxgkrnlsys-causing-bsod-on-windows-os/"><u>[Fix]: dxgkrnl.sys Causing BSOD on Windows OS</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-leverage-popular-tiktok-hashes-for-increased-interactions/"><u>[New] 2024 Approved  Leverage Popular TikTok Hashes For Increased Interactions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-premium-list-top-8-android-calls-with-multiple-users/"><u>[New] 2024 Approved  Premium List  Top 8 Android Calls with Multiple Users</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-ultimate-guide-to-pcs-and-macs-best-recorders/"><u>[New] 2024 Approved  Ultimate Guide to PC's and Mac's Best Recorders</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-unveiling-the-secrets-of-superior-tunefab-recordings/"><u>[New] 2024 Approved  Unveiling the Secrets of Superior Tunefab Recordings</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-capture-the-thrill-mastering-4-techniques-of-xbox-screen-recording/"><u>[New] Capture the Thrill  Mastering 4 Techniques of Xbox Screen-Recording</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-digging-through-youtube-conversations/"><u>[New] Digging Through YouTube Conversations</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-embedded-epicness-galaxy-games-chronicle/"><u>[New] Embedded Epicness  Galaxy Games Chronicle</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-essential-mac-tools-for-screen-capture-discovering-the-top-5/"><u>[New] Essential Mac Tools for Screen Capture, Discovering the Top 5</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-sprout-screencapture-transform-your-pc-footage-game/"><u>[New] In 2024, Sprout ScreenCapture  Transform Your PC Footage Game</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-the-6-best-tiktop-to-mp3-converters-free-and-online-version/"><u>[New] In 2024, The 6 Best TikTop-to-MP3 Converters - Free & Online Version</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-top-7-audio-capturers-2023-edition/"><u>[New] In 2024, Top 7 Audio Capturers  2023 Edition</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-unlocking-the-art-of-ps3-gaming-footage-collection/"><u>[New] In 2024, Unlocking the Art of PS3 Gaming Footage Collection</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-ranking-macs-best-rated-sniping-programs-for-2024/"><u>[New] Ranking Mac's Best-Rated Sniping Programs for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-speedy-recording-tool-plus-guided-sound-guide-integration-for-2024/"><u>[New] Speedy Recording Tool + Guided Sound Guide Integration for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-speedysnap-lingershot-videoclip-for-2024/"><u>[New] SpeedySnap LingerShot Videoclip for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-complete-minecraft-recording-blueprint-for-mac-users-for-2024/"><u>[New] The Complete Minecraft Recording Blueprint for Mac Users for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-10-best-offline-ios-games-you-should-try/"><u>[New] Top 10 Best Offline iOS Games You Should Try</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlocking-the-secrets-of-valorant-video-thumbnail-designs/"><u>[New] Unlocking the Secrets of Valorant Video Thumbnail Designs</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-crafting-spectaculous-fb-ad-videos-with-creativity/"><u>[Updated] 2024 Approved  Crafting Spectaculous Fb Ad Videos with Creativity</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-obs-full-screen-fix-announced/"><u>[Updated] 2024 Approved  Obs Full-Screen Fix Announced</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-revolutionizing-pc-captures-a-review-of-apowersofts-tool/"><u>[Updated] 2024 Approved  Revolutionizing PC Captures  A Review of Apowersoft’s Tool</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-dells-direct-methods-easy-screenshot-solutions/"><u>[Updated] Dell's Direct Methods  Easy Screenshot Solutions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-elevate-quality-advanced-tips-for-impeccable-recordings/"><u>[Updated] Elevate Quality  Advanced Tips for Impeccable Recordings</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-overcoming-obs-blank-screens-in-gaming-recording/"><u>[Updated] In 2024, Overcoming OBS Blank Screens in Gaming Recording</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-top-5-emulation-suites-to-experience-sonys-ps1-library/"><u>[Updated] In 2024, Top 5 Emulation Suites to Experience Sony's PS1 Library</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-winscreens-mastery-identifying-the-top-5-capture-apps/"><u>[Updated] In 2024, WinScreens Mastery  Identifying the Top 5 Capture Apps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-masterclass-of-marksmen-select-7-superior-fps-for-2024/"><u>[Updated] Masterclass of Marksmen  Select 7 Superior FPS for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-mastering-mac-basic-sound-recording-in-audacity-for-2024/"><u>[Updated] Mastering Mac  Basic Sound Recording in Audacity for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-maximizing-impact-5-secrets-for-increasing-your-video-writes-for-2024/"><u>[Updated] Maximizing Impact  5 Secrets for Increasing Your Video' Writes for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-optimizing-your-youtube-video-preservation/"><u>[Updated] Optimizing Your YouTube Video Preservation</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-pixelprofiler-yearly-review-of-best-screen-capturing-tools/"><u>[Updated] PixelProfiler  Yearly Review of Best Screen Capturing Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-ultimate-gopro-camera-showdown-for-2024/"><u>[Updated] The Ultimate GoPro Camera Showdown for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unleash-your-youtube-potential-steps-to-finding-and-managing-video-collab-partners/"><u>[Updated] Unleash Your YouTube Potential  Steps to Finding & Managing Video Collab Partners</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-windows-desktop-snapshot-learn-it-for-free-today-for-2024/"><u>[Updated] Windows Desktop Snapshot  Learn It for Free Today for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-an-easy-to-follow-methodology-for-initiating-a-productive-skype-conversation-among-various-os-users/"><u>2024 Approved  An Easy-to-Follow Methodology for Initiating a Productive Skype Conversation Among Various OS Users</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-best-green-screen-recording-tools/"><u>2024 Approved  Best Green Screen Recording Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-diving-deep-into-vidmas-screen-recording-features/"><u>2024 Approved  Diving Deep Into Vidma's Screen Recording Features</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-flawless-frame-grabber-selection-no-lag-included/"><u>2024 Approved  Flawless Frame Grabber Selection - No Lag Included</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmonizing-audio-with-visuals-in-the-webspace/"><u>2024 Approved  Harmonizing Audio with Visuals in the Webspace</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-instructor-friendly-screen-recording-software-guide/"><u>2024 Approved  Instructor-Friendly Screen Recording Software Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/a-comprehensive-guide-to-smoothly-flip-movies-in-vlc/"><u>A Comprehensive Guide to Smoothly Flip Movies in VLC</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/achieving-clear-dialogue-in-google-hangouts-for-2024/"><u>Achieving Clear Dialogue in Google Hangouts for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/best-mac-visual-snapshot-list-limit-156-chars/"><u>Best Mac Visual Snapshot List (Limit  156 Chars)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/celestial-warriors-unite-release-date/"><u>Celestial Warriors Unite! Release Date</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/channel-titans-the-current-list-of-top-subscribers-for-2024/"><u>Channel Titans  The Current List of Top Subscribers for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-motorola-moto-g04-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Motorola Moto G04 to PC? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-oneplus-11-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on OnePlus 11 5G online without jailbreak</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-demystifying-zoom-sessions-into-smaller-groups/"><u>In 2024, Demystifying Zoom Sessions Into Smaller Groups</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-motorola-g54-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Motorola G54 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/mastery-in-video-creation-using-captivate-software-for-2024/"><u>Mastery in Video Creation Using Captivate Software for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/mirthful-monitors-top-comedians-on-the-rise-in-tiktok-for-2024/"><u>Mirthful Monitors  Top Comedians on the Rise in TikTok for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-realme-12-proplus-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Realme 12 Pro+ 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-the-dilemma-obs-not-opening-on-windows/"><u>Resolving the Dilemma: OBS Not Opening on Windows</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/superior-nintendo-switch-hd-recording/"><u>Superior Nintendo Switch HD Recording</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/superior-non-zoom-virtual-collaboration-options/"><u>Superior Non-Zoom Virtual Collaboration Options</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/worlds-top-12-screensaver-apps-no-end-in-view/"><u>World's Top 12 Screensaver Apps (No End in View)</u></a></li>
+</ul></div>

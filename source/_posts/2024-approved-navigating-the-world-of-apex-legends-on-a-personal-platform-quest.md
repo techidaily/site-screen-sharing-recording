@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Navigating the World of Apex Legends on a Personal Platform Quest\""
-date: 2024-05-18T07:09:52.313Z
-updated: 2024-05-19T07:09:52.313Z
+date: 2024-07-19T10:26:54.065Z
+updated: 2024-07-20T10:26:54.065Z
 tags: 
   - screen-recording
   - ai video
@@ -12,19 +12,26 @@ categories:
 description: "\"This Article Describes 2024 Approved: Navigating the World of Apex Legends on a Personal Platform Quest\""
 excerpt: "\"This Article Describes 2024 Approved: Navigating the World of Apex Legends on a Personal Platform Quest\""
 keywords: "Apex Legends Walkthrough,Personal Gaming Journey,Solo Legends Strategy,Esports Game Guide,Character Build Optimization,Apex Quest Mastery,Multiplayer Gaming Tips"
-thumbnail: https://www.lifewire.com/thmb/EAqZr-HjkZo5i0jwoEEUqZxRCpc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1437209125-b47ae60035f248e2b01b781f50f919c1.jpg
+thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c2584c8d35c887e62fae8bb62c7.jpg
 ---
 
 ## Navigating the World of Apex Legends on a Personal Platform Quest
 
 # Apex Legends Crossplay: How to Turn it Off & Platform Choosing Guide
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
 
  Mar 27, 2024• Proven solutions
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/apex-poster.png)
 
 From the past few months, a few questions are asked: Can we crossplay in Apex Legends? How to disable crossplay? How about cross-progression? Further, which platform is the best to play on? What's the difference between Steam and Origin?
@@ -39,6 +46,9 @@ In this article, all of the questions above will be answered. No doubt, we have 
 
 Apex Legends Gameplay Basics:
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/Apex-gameplay.jpg)
 
 In this battle royal game, you are a part of a 3-person squad. There are 14 playable characters to choose from, and they are called legends in the game. If you compare all legends, you will find that they are equal in strength, speed, and firepower. It's their special abilities that make them different from each other. Every character has a unique ability that can help you in-game to leverage other players. So, you can choose a legend that suits your playstyle and is a perfect fit for your squad.
@@ -49,6 +59,9 @@ There is a ring around the battleground that shrinks after fixed short intervals
 
 One thing that you must keep in mind while playing this game is that killing an opponent is a bit longer than other FPS (First Person Shooting) games. To kill an opponent, you may need to rely on several headshots, your legends' unique ability, and the support of your teammates.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Although this game is free of cost, it offers several in-game purchases. You can purchase Apex Coins, which is an in-game currency. ![](https://images.wondershare.com/filmora/article-images/Apex-ingame-purchase.jpg)
 
 You can use it to purchase loot boxes that contain skins and costumes. There are two locked characters in the game also, and you need to purchase them with Apex coins. So, you can get the maximum out of this game by spending some money and giving time to this game.
@@ -81,16 +94,34 @@ The best thing about Apex Legends is that it has multiplatform support. You can 
 
 **Microsoft Xbox One S and X**
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/xbox-one.jpg)You can play Apex Legends on Xbox One S, but you may need to compromise a little bit and play on a low resolution for better fps. Although the game will run just fine, you may need to make some adjustments to your graphics settings. You can play this game on 720p on Xbox One S, so make sure to sit a little closer to your screen to see everything.
 
 If you want to get Apex's best experience on Xbox consoles, you should play it on Xbox One X. If you switch from Xbox one S to Xbox one X, you will see a significant difference in the game performance. On the X version, you can run the game on 1080p. It offers overall better performance in terms of gameplay as compared to other Xbox variants.
 
 **Xbox Series X and S**
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/xbox-seriesx.jpg)Xbox series S and X are the latest generations of Xbox. They rival their competitor PS5 and offer competitive performance when you compare these consoles with a PS5\. They do offer better gaming performance and better graphics. But, the question is, Can you play Apex on the latest generations of Xbox? The answer is yes. You will get better performance in terms of graphics and FPS but currently, the game isn't fully optimized for the latest generations. In the coming days it is expected that the game will be optimized for the latest consoles and you can enjoy the game to the fullest. Currently, you can enjoy 1440p gaming on these consoles and can get up to 120fps.
 
 **Sony PlayStation 4**
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/Apex-ps4.png)You can also play Apex Legends on Sony PlayStation 4\. Although you can play it on the standard PS4, if you want to get the best gaming experience, then you should play it on PS4 Pro. On PS4, you need to have a PlayStation Plus subscription if you want to play online multiplayer games, but in the case of Apex Legends, you do not need it.
 
 **Sony PlayStation 5**
@@ -101,6 +132,9 @@ Sony PlayStation 5 is a next-generation console, and luckily Apex Legends is alr
 
 **PC**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/PC-apex.png)If you want to do competitive gaming in Apex Legends, then PC is the most suitable choice for you. It is because when you play using a mouse and keyboard instead of controllers, then your aim and movement are more precise. As it is an FPS category game, you can use a monitor with a high refresh rate to have smooth gameplay and reduce the lag. You must keep in mind that you need a PC with some good specs that can provide you with at least 60fps in the game. It would be best if you aim for a PC that can provide you maximum fps. 120 is the most recommended figure here.
 
 PC Requirements For Apex Legends:
@@ -172,6 +206,9 @@ There is a ring around the battleground that shrinks after fixed short intervals
 
 One thing that you must keep in mind while playing this game is that killing an opponent is a bit longer than other FPS (First Person Shooting) games. To kill an opponent, you may need to rely on several headshots, your legends' unique ability, and the support of your teammates.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 Although this game is free of cost, it offers several in-game purchases. You can purchase Apex Coins, which is an in-game currency. ![](https://images.wondershare.com/filmora/article-images/Apex-ingame-purchase.jpg)
 
 You can use it to purchase loot boxes that contain skins and costumes. There are two locked characters in the game also, and you need to purchase them with Apex coins. So, you can get the maximum out of this game by spending some money and giving time to this game.
@@ -190,6 +227,9 @@ Step1, to disable it, you need to go to the setting button at the lobby's right 
 
 ![ape-setting1](https://images.wondershare.com/filmora/article-images/apex-setting1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 Step 2, under the gameplay tab, scroll down, and you can find cross-platform play.![apex-setting2](https://images.wondershare.com/filmora/article-images/apex-setting2.png)
 
 #### **Does it have cross-progression?**
@@ -257,6 +297,9 @@ With Apex Legends available on so many platforms, sometimes it can be difficult 
 
 Bonus：Want to record and edit your wonderful Apex gameplay? Give it a go on Wondershare Filmora X.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -292,3 +335,46 @@ Follow @Richard Bennett
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-directly-download-youtube-videos/"><u>[New] 2024 Approved  Directly Download YouTube Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-the-nvidia-method-to-perfect-gaming-replays/"><u>[New] 2024 Approved  The NVIDIA Method to Perfect Gaming Replays</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-automate-calendar-events-to-zoom-on-mobile-devices/"><u>[New] Automate Calendar Events to Zoom on Mobile Devices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-elevating-your-professional-image-with-high-quality-ppt-recordings/"><u>[New] Elevating Your Professional Image with High-Quality PPT Recordings</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-ensuring-your-facebook-reach-with-exceptional-cover-videos/"><u>[New] Ensuring Your Facebook Reach with Exceptional Cover Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-theyoucamguidetoeffectivewebcapture/"><u>[New] In 2024, TheYouCamGuideToEffectiveWebCapture</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-management-strategies-for-fetal-alcohol-syndrome/"><u>[New] Management Strategies for Fetal Alcohol Syndrome</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-pixels-and-players-advanced-tactics-for-recording-gaming-for-2024/"><u>[New] Pixels and Players  Advanced Tactics for Recording Gaming for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-leading-selections-ultimate-mac-video-grabber-devices/"><u>[Updated] Leading Selections  Ultimate Mac Video Grabber Devices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-stream-it-record-it-facebook-live-tips-and-tricks-for-2024/"><u>[Updated] Stream It, Record It  Facebook Live Tips & Tricks for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-streamlining-your-presentations-vimeo-video-embedding-in-powerpoint-for-2024/"><u>[Updated] Streamlining Your Presentations  Vimeo Video Embedding in PowerPoint for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-customizable-instagram-ringtones-made-easy/"><u>2024 Approved  Customizable Instagram Ringtones Made Easy</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-discover-the-most-popular-screen-recorders-free-version/"><u>2024 Approved  Discover the Most Popular Screen Recorders - Free Version</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-discovering-expert-seed-selection-for-valheimers/"><u>2024 Approved  Discovering Expert Seed Selection for Valheimers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-easy-to-follow-guide-leveraging-mobizen-screensaver/"><u>2024 Approved  Easy-to-Follow Guide  Leveraging Mobizen Screensaver</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advancing-your-yi-action-recordings-with-top-accessories-for-2024/"><u>Advancing Your YI Action Recordings with Top Accessories for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-tecno-camon-20-premier-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Tecno Camon 20 Premier 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/cheering-impact-simulator-for-2024/"><u>Cheering Impact Simulator for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/exploring-unconventional-webcam-applications-for-2024/"><u>Exploring Unconventional Webcam Applications for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/from-recordings-to-live-streaming-on-youtube-and-twitch-with-obs/"><u>From Recordings to Live  Streaming on YouTube & Twitch with OBS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/how-to-record-video-with-quick-video-recorder-for-2024/"><u>How to Record Video with Quick Video Recorder for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-from-your-apple-iphone-12-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID From your Apple iPhone 12?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-alternative-high-quality-gaming-video-recording-solutions/"><u>In 2024, Alternative High-Quality Gaming Video Recording Solutions</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-capture-and-preserve-snapchat-moments-top-techniques/"><u>In 2024, Capture and Preserve Snapchat Moments  Top Techniques</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-realme-11-proplus-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Realme 11 Pro+ to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account From Apple iPhone XS Max?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-navigating-the-tech-for-distance-casting/"><u>In 2024, Navigating the Tech for Distance Casting</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-navigating-the-world-of-video-capturing-on-diverse-devices/"><u>In 2024, Navigating the World of Video Capturing on Diverse Devices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-obs-and-zoom-synchronization-techniques/"><u>In 2024, OBS & Zoom Synchronization Techniques</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-motorola-moto-g34-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Motorola Moto G34 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/livestreaming-and-media-management-with-ms-video-hub/"><u>LiveStreaming & Media Management with MS Video Hub</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/master-the-art-of-video-rotation-using-vlc-media-player-for-2024/"><u>Master the Art of Video Rotation Using VLC Media Player for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-windows-package-unopenable-woes/"><u>Navigating Through Windows Package Unopenable Woes</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/top-6-minecraft-house-ideas-for-beginners/"><u>Top 6 Minecraft House Ideas for Beginners</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/top-strategies-for-chronicling-lol-showdowns/"><u>Top Strategies for Chronicling LOL Showdowns</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleash-creativity-exploring-the-top-8-drawing-apps-on-ios-devices/"><u>Unleash Creativity  Exploring the Top 8 Drawing Apps on iOS Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/visionary-studios-pioneering-next-gen-virtual-realms/"><u>Visionary Studios Pioneering Next-Gen Virtual Realms</u></a></li>
+</ul></div>

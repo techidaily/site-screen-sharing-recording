@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Screen Recording on Mac  A Comprehensible Method\""
-date: 2024-05-19T21:06:24.110Z
-updated: 2024-05-20T21:06:24.110Z
+date: 2024-07-19T08:42:58.577Z
+updated: 2024-07-20T08:42:58.577Z
 tags: 
   - screen-recording
   - ai video
@@ -12,13 +12,16 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Screen Recording on Mac: A Comprehensible Method\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Screen Recording on Mac: A Comprehensible Method\""
 keywords: "Mac Screen Share,Easy Mac Video,Simplified Mac Recorder,Mac Screen Capture,Clear Mac Recordings,Simple Mac Streaming,Mac Easy Recording"
-thumbnail: https://www.lifewire.com/thmb/qNtT0Vit1jn8RftUFX6Xcsv5x4o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-best-texting-apps-for-android-tablets-in-2023-a5a6329d6b744167acf0a02f6a413ff2.jpg
+thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee45db635b3f848c5daefbda2.jpg
 ---
 
 ## Screen Recording on Mac: A Comprehensible Method
 
 # How to Capture a Screenshot or Video of What's Showing On Your Mac Computer
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -31,6 +34,14 @@ For simple applications, the Mac screenshot keyboard shortcuts are sufficient fo
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -46,6 +57,9 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 ### Tip 1. Mac OS Keyboard shortcut screenshots
@@ -82,6 +96,9 @@ One all-in-one video capture & editing tool for Mac that is getting a lot of att
 
 [If you are using Windows, check this tutorial instead](https://www.youtube.com/watch?v=fokMGFhzbYE)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Wondershare Filmora for Mac supports all formats (including .mov) shot on any digital camera, mobile phone, or camcorder. It also has an extensive list of advanced video editing and screen capture tools, including:
@@ -97,6 +114,209 @@ Wondershare Filmora for Mac supports all formats (including .mov) shot on any di
 
 Another point in its favor: Wondershare Filmora for Mac is one of the least expensive options for users who want a robust video editing tool for Mac. Low price combined with ease of use, shallow learning curve, and extensive features makes Filmora a title to watch among the crowded field of all-in-one video capture & editing tools for Mac.
 
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+Liza Brown
+
+Liza Brown is a writer and a lover of all things video.
+
+Follow @Liza Brown
+
+##### Liza Brown
+
+ Mar 27, 2024• Proven solutions
+
+Capturing screenshots on Mac computers is something many users are interested in learning, for a variety of reasons. Screenshots are the perfect visual accompaniment for tutorials, ideal for training and for guides, can be used to illustrate lessons in teaching tools, and more.
+
+For simple applications, the Mac screenshot keyboard shortcuts are sufficient for the job. Here is a quick review of the built-in screenshot capability using the Mac OS:
+
+![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### The All-in-One Screen Recorder & Video Editor
+
+* Record desktop screen, voiceover, and webcam simultaneously
+* Edit recorded clips quickly with a wide range of professional tools
+* Built-in plentiful templates and effects
+* Export to MP4, MOV, MKV, GIF and multiple formats
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+
+### Tip 1. Mac OS Keyboard shortcut screenshots
+
+• To print screen on mac (the entire screen), press \[COMMAND\] + \[SHIFT\] + 3
+
+• To screenshot a portion of your screen, press \[COMMAND\] + \[SHIFT\] + 4; notice the cursor changes into a crosshair pointer; move the crosshair pointer where you want the screenshot to begin and drag to select; to adjust, hold \[SHIFT\], \[OPTION\] or \[SPACE BAR\] while you drag
+
+For more advanced Mac screenshot applications, including the capability to edit, caption, and export to a variety of formats, you will need a more powerful screen capture tool to help you in taking a screenshot.
+
+These applications can help you improve your screen captures and recordings with advanced tools and professional capabilities.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
+### Tip 2.Free screen capture tools for Mac
+
+**QuickTime** – PROS: free and included with your Mac, easy to use, exports to popular Mac formats; CONS: a limited toolset for advanced editing.
+
+**Captur** – PROS: adds menubar functionality for common screenshot tasks; CONS: not a full-fledged screenshot tool.
+
+**Jing** – PROS: optimized for online and social sharing of screenshots, allows video capture; CONS: limited advanced feature list.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Tip 3. More advanced all-in-one video capture & editing tools for Mac
+
+**Movavi Screen Capture Studio** – PROS: extensive editing tools, helpful interface; CONS: no video zoom or crop options.
+
+**Camtasia**  – PROS: professional editing tools, very helpful support options; CONS: limited export formats, not suitable for recording gaming videos.
+
+**ScreenFlow 4** – PROS: good balance of advanced features and ease of use; CONS: limited export formats, cannot capture only portions of your screen.
+
+ **Screenium 2.1** – PROS: a full roster of advanced editing tools; CONS: steep learning curve and poor support.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Tip 4.Bonus Tip Wondershare Filmora for Mac
+
+One all-in-one video capture & editing tool for Mac that is getting a lot of attention recently in Wondershare. Users are enthusiastic about this program's blend of advanced features and more versatile and professional performance.
+
+[If you are using Windows, check this tutorial instead](https://www.youtube.com/watch?v=fokMGFhzbYE)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Wondershare Filmora for Mac supports all formats (including .mov) shot on any digital camera, mobile phone, or camcorder. It also has an extensive list of advanced video editing and screen capture tools, including:
+
+• Convenient, easy-to-use interface  
+• Extensive roster of special effects and video editing features, including overlays, filters, and elements  
+• Multiple export options, including burn-to-DVD  
+• Text & titles editor  
+• Advanced audio editing features  
+• Music library feature  
+• Speed control  
+• Picture-in-picture capability, split screen, green screen, tilt-shift, and more
+
+Another point in its favor: Wondershare Filmora for Mac is one of the least expensive options for users who want a robust video editing tool for Mac. Low price combined with ease of use, shallow learning curve, and extensive features makes Filmora a title to watch among the crowded field of all-in-one video capture & editing tools for Mac.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+Liza Brown
+
+Liza Brown is a writer and a lover of all things video.
+
+Follow @Liza Brown
+
+##### Liza Brown
+
+ Mar 27, 2024• Proven solutions
+
+Capturing screenshots on Mac computers is something many users are interested in learning, for a variety of reasons. Screenshots are the perfect visual accompaniment for tutorials, ideal for training and for guides, can be used to illustrate lessons in teaching tools, and more.
+
+For simple applications, the Mac screenshot keyboard shortcuts are sufficient for the job. Here is a quick review of the built-in screenshot capability using the Mac OS:
+
+![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### The All-in-One Screen Recorder & Video Editor
+
+* Record desktop screen, voiceover, and webcam simultaneously
+* Edit recorded clips quickly with a wide range of professional tools
+* Built-in plentiful templates and effects
+* Export to MP4, MOV, MKV, GIF and multiple formats
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+
+### Tip 1. Mac OS Keyboard shortcut screenshots
+
+• To print screen on mac (the entire screen), press \[COMMAND\] + \[SHIFT\] + 3
+
+• To screenshot a portion of your screen, press \[COMMAND\] + \[SHIFT\] + 4; notice the cursor changes into a crosshair pointer; move the crosshair pointer where you want the screenshot to begin and drag to select; to adjust, hold \[SHIFT\], \[OPTION\] or \[SPACE BAR\] while you drag
+
+For more advanced Mac screenshot applications, including the capability to edit, caption, and export to a variety of formats, you will need a more powerful screen capture tool to help you in taking a screenshot.
+
+These applications can help you improve your screen captures and recordings with advanced tools and professional capabilities.
+
+### Tip 2.Free screen capture tools for Mac
+
+**QuickTime** – PROS: free and included with your Mac, easy to use, exports to popular Mac formats; CONS: a limited toolset for advanced editing.
+
+**Captur** – PROS: adds menubar functionality for common screenshot tasks; CONS: not a full-fledged screenshot tool.
+
+**Jing** – PROS: optimized for online and social sharing of screenshots, allows video capture; CONS: limited advanced feature list.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Tip 3. More advanced all-in-one video capture & editing tools for Mac
+
+**Movavi Screen Capture Studio** – PROS: extensive editing tools, helpful interface; CONS: no video zoom or crop options.
+
+**Camtasia**  – PROS: professional editing tools, very helpful support options; CONS: limited export formats, not suitable for recording gaming videos.
+
+**ScreenFlow 4** – PROS: good balance of advanced features and ease of use; CONS: limited export formats, cannot capture only portions of your screen.
+
+ **Screenium 2.1** – PROS: a full roster of advanced editing tools; CONS: steep learning curve and poor support.
+
+### Tip 4.Bonus Tip Wondershare Filmora for Mac
+
+One all-in-one video capture & editing tool for Mac that is getting a lot of attention recently in Wondershare. Users are enthusiastic about this program's blend of advanced features and more versatile and professional performance.
+
+[If you are using Windows, check this tutorial instead](https://www.youtube.com/watch?v=fokMGFhzbYE)
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Wondershare Filmora for Mac supports all formats (including .mov) shot on any digital camera, mobile phone, or camcorder. It also has an extensive list of advanced video editing and screen capture tools, including:
+
+• Convenient, easy-to-use interface  
+• Extensive roster of special effects and video editing features, including overlays, filters, and elements  
+• Multiple export options, including burn-to-DVD  
+• Text & titles editor  
+• Advanced audio editing features  
+• Music library feature  
+• Speed control  
+• Picture-in-picture capability, split screen, green screen, tilt-shift, and more
+
+Another point in its favor: Wondershare Filmora for Mac is one of the least expensive options for users who want a robust video editing tool for Mac. Low price combined with ease of use, shallow learning curve, and extensive features makes Filmora a title to watch among the crowded field of all-in-one video capture & editing tools for Mac.
+
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
@@ -134,6 +354,9 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Tip 1. Mac OS Keyboard shortcut screenshots
 
 • To print screen on mac (the entire screen), press \[COMMAND\] + \[SHIFT\] + 3
@@ -144,6 +367,9 @@ For more advanced Mac screenshot applications, including the capability to edit,
 
 These applications can help you improve your screen captures and recordings with advanced tools and professional capabilities.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Tip 2.Free screen capture tools for Mac
 
 **QuickTime** – PROS: free and included with your Mac, easy to use, exports to popular Mac formats; CONS: a limited toolset for advanced editing.
@@ -162,178 +388,9 @@ These applications can help you improve your screen captures and recordings with
 
  **Screenium 2.1** – PROS: a full roster of advanced editing tools; CONS: steep learning curve and poor support.
 
-### Tip 4.Bonus Tip Wondershare Filmora for Mac
-
-One all-in-one video capture & editing tool for Mac that is getting a lot of attention recently in Wondershare. Users are enthusiastic about this program's blend of advanced features and more versatile and professional performance.
-
-[If you are using Windows, check this tutorial instead](https://www.youtube.com/watch?v=fokMGFhzbYE)
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Wondershare Filmora for Mac supports all formats (including .mov) shot on any digital camera, mobile phone, or camcorder. It also has an extensive list of advanced video editing and screen capture tools, including:
-
-• Convenient, easy-to-use interface  
-• Extensive roster of special effects and video editing features, including overlays, filters, and elements  
-• Multiple export options, including burn-to-DVD  
-• Text & titles editor  
-• Advanced audio editing features  
-• Music library feature  
-• Speed control  
-• Picture-in-picture capability, split screen, green screen, tilt-shift, and more
-
-Another point in its favor: Wondershare Filmora for Mac is one of the least expensive options for users who want a robust video editing tool for Mac. Low price combined with ease of use, shallow learning curve, and extensive features makes Filmora a title to watch among the crowded field of all-in-one video capture & editing tools for Mac.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-Liza Brown
-
-Liza Brown is a writer and a lover of all things video.
-
-Follow @Liza Brown
-
-##### Liza Brown
-
- Mar 27, 2024• Proven solutions
-
-Capturing screenshots on Mac computers is something many users are interested in learning, for a variety of reasons. Screenshots are the perfect visual accompaniment for tutorials, ideal for training and for guides, can be used to illustrate lessons in teaching tools, and more.
-
-For simple applications, the Mac screenshot keyboard shortcuts are sufficient for the job. Here is a quick review of the built-in screenshot capability using the Mac OS:
-
-![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
-
-### The All-in-One Screen Recorder & Video Editor
-
-* Record desktop screen, voiceover, and webcam simultaneously
-* Edit recorded clips quickly with a wide range of professional tools
-* Built-in plentiful templates and effects
-* Export to MP4, MOV, MKV, GIF and multiple formats
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
-
-### Tip 1. Mac OS Keyboard shortcut screenshots
-
-• To print screen on mac (the entire screen), press \[COMMAND\] + \[SHIFT\] + 3
-
-• To screenshot a portion of your screen, press \[COMMAND\] + \[SHIFT\] + 4; notice the cursor changes into a crosshair pointer; move the crosshair pointer where you want the screenshot to begin and drag to select; to adjust, hold \[SHIFT\], \[OPTION\] or \[SPACE BAR\] while you drag
-
-For more advanced Mac screenshot applications, including the capability to edit, caption, and export to a variety of formats, you will need a more powerful screen capture tool to help you in taking a screenshot.
-
-These applications can help you improve your screen captures and recordings with advanced tools and professional capabilities.
-
-### Tip 2.Free screen capture tools for Mac
-
-**QuickTime** – PROS: free and included with your Mac, easy to use, exports to popular Mac formats; CONS: a limited toolset for advanced editing.
-
-**Captur** – PROS: adds menubar functionality for common screenshot tasks; CONS: not a full-fledged screenshot tool.
-
-**Jing** – PROS: optimized for online and social sharing of screenshots, allows video capture; CONS: limited advanced feature list.
-
-### Tip 3. More advanced all-in-one video capture & editing tools for Mac
-
-**Movavi Screen Capture Studio** – PROS: extensive editing tools, helpful interface; CONS: no video zoom or crop options.
-
-**Camtasia**  – PROS: professional editing tools, very helpful support options; CONS: limited export formats, not suitable for recording gaming videos.
-
-**ScreenFlow 4** – PROS: good balance of advanced features and ease of use; CONS: limited export formats, cannot capture only portions of your screen.
-
- **Screenium 2.1** – PROS: a full roster of advanced editing tools; CONS: steep learning curve and poor support.
-
-### Tip 4.Bonus Tip Wondershare Filmora for Mac
-
-One all-in-one video capture & editing tool for Mac that is getting a lot of attention recently in Wondershare. Users are enthusiastic about this program's blend of advanced features and more versatile and professional performance.
-
-[If you are using Windows, check this tutorial instead](https://www.youtube.com/watch?v=fokMGFhzbYE)
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Wondershare Filmora for Mac supports all formats (including .mov) shot on any digital camera, mobile phone, or camcorder. It also has an extensive list of advanced video editing and screen capture tools, including:
-
-• Convenient, easy-to-use interface  
-• Extensive roster of special effects and video editing features, including overlays, filters, and elements  
-• Multiple export options, including burn-to-DVD  
-• Text & titles editor  
-• Advanced audio editing features  
-• Music library feature  
-• Speed control  
-• Picture-in-picture capability, split screen, green screen, tilt-shift, and more
-
-Another point in its favor: Wondershare Filmora for Mac is one of the least expensive options for users who want a robust video editing tool for Mac. Low price combined with ease of use, shallow learning curve, and extensive features makes Filmora a title to watch among the crowded field of all-in-one video capture & editing tools for Mac.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-Liza Brown
-
-Liza Brown is a writer and a lover of all things video.
-
-Follow @Liza Brown
-
-##### Liza Brown
-
- Mar 27, 2024• Proven solutions
-
-Capturing screenshots on Mac computers is something many users are interested in learning, for a variety of reasons. Screenshots are the perfect visual accompaniment for tutorials, ideal for training and for guides, can be used to illustrate lessons in teaching tools, and more.
-
-For simple applications, the Mac screenshot keyboard shortcuts are sufficient for the job. Here is a quick review of the built-in screenshot capability using the Mac OS:
-
-![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
-
-### The All-in-One Screen Recorder & Video Editor
-
-* Record desktop screen, voiceover, and webcam simultaneously
-* Edit recorded clips quickly with a wide range of professional tools
-* Built-in plentiful templates and effects
-* Export to MP4, MOV, MKV, GIF and multiple formats
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
-
-### Tip 1. Mac OS Keyboard shortcut screenshots
-
-• To print screen on mac (the entire screen), press \[COMMAND\] + \[SHIFT\] + 3
-
-• To screenshot a portion of your screen, press \[COMMAND\] + \[SHIFT\] + 4; notice the cursor changes into a crosshair pointer; move the crosshair pointer where you want the screenshot to begin and drag to select; to adjust, hold \[SHIFT\], \[OPTION\] or \[SPACE BAR\] while you drag
-
-For more advanced Mac screenshot applications, including the capability to edit, caption, and export to a variety of formats, you will need a more powerful screen capture tool to help you in taking a screenshot.
-
-These applications can help you improve your screen captures and recordings with advanced tools and professional capabilities.
-
-### Tip 2.Free screen capture tools for Mac
-
-**QuickTime** – PROS: free and included with your Mac, easy to use, exports to popular Mac formats; CONS: a limited toolset for advanced editing.
-
-**Captur** – PROS: adds menubar functionality for common screenshot tasks; CONS: not a full-fledged screenshot tool.
-
-**Jing** – PROS: optimized for online and social sharing of screenshots, allows video capture; CONS: limited advanced feature list.
-
-### Tip 3. More advanced all-in-one video capture & editing tools for Mac
-
-**Movavi Screen Capture Studio** – PROS: extensive editing tools, helpful interface; CONS: no video zoom or crop options.
-
-**Camtasia**  – PROS: professional editing tools, very helpful support options; CONS: limited export formats, not suitable for recording gaming videos.
-
-**ScreenFlow 4** – PROS: good balance of advanced features and ease of use; CONS: limited export formats, cannot capture only portions of your screen.
-
- **Screenium 2.1** – PROS: a full roster of advanced editing tools; CONS: steep learning curve and poor support.
-
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Tip 4.Bonus Tip Wondershare Filmora for Mac
 
 One all-in-one video capture & editing tool for Mac that is getting a lot of attention recently in Wondershare. Users are enthusiastic about this program's blend of advanced features and more versatile and professional performance.
@@ -390,3 +447,48 @@ Follow @Liza Brown
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-best-10-screen-recorders-for-mac-for-2024/"><u>[New] Best 10 Screen Recorders for Mac for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-easy-steps-to-record-your-vlc-videos-effectively-for-2024/"><u>[New] Easy Steps to Record Your VLC Videos Effectively for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-crafting-professional-gamers-content-with-obs-recordings/"><u>[New] In 2024, Crafting Professional Gamers' Content with OBS Recordings</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-guide-to-premium-offscreen-snapshot-tools/"><u>[New] In 2024, Guide to Premium Offscreen Snapshot Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-honorable-5-quicktime-frame-recorder/"><u>[New] In 2024, Honorable 5 Quicktime Frame Recorder</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-depth-analysis-logitechs-4k-professional-cam/"><u>[New] In-Depth Analysis  Logitech's 4K Professional Cam</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-nailing-your-live-on-facebook-a-recorders-manual/"><u>[New] Nailing Your Live on Facebook  A Recorder's Manual</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-perfect-meeting-aesthetics-how-to-blur-video-backgrounds/"><u>[New] Perfect Meeting Aesthetics  How to Blur Video Backgrounds</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-pros-way-of-recording-movs-effectively-on-windows-10/"><u>[New] The Pro's Way of Recording MOVs Effectively on Windows 10</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-enhance-your-webcam-recordings-with-mac-tricks/"><u>[Updated] 2024 Approved  Enhance Your Webcam Recordings with Mac Tricks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-fbx-guide-to-flawless-gameplay-archives/"><u>[Updated] 2024 Approved  FBX Guide to Flawless Gameplay Archives</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-getting-started-with-adobe-presenter-video-recordings/"><u>[Updated] 2024 Approved  Getting Started with Adobe Presenter Video Recordings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unraveling-the-itunes-radio-download-process/"><u>[Updated] 2024 Approved  Unraveling the iTunes Radio Download Process</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-capturezone-win-10s-best-recorder/"><u>[Updated] In 2024, CaptureZone  Win 10'S Best Recorder</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-techniques-for-modifying-voice-on-instagram-profiles/"><u>[Updated] In 2024, Techniques for Modifying Voice on Instagram Profiles</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-ultimate-guide-to-the-10-best-windows-cameras/"><u>[Updated] The Ultimate Guide to the 10 Best Windows Cameras</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-viewsense-capture-report-summary/"><u>2024 Approved  ViewSense Capture Report Summary</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-oppo-find-x7-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Oppo Find X7 FRP Bypass Instantly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-live-stream-tools-xsplit-or-obs-for-2024/"><u>Best Live Stream Tools  XSplit or OBS for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-iphone-13-mini-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your iPhone 13 mini Apple ID and Apple Pay</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-infinix-hot-30-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-xiaomi-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Xiaomi</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-easy-multimedia-management-with-mstream-tools/"><u>In 2024, Easy Multimedia Management with MStream Tools</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-tecno-spark-20c-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Tecno Spark 20C Phone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-immortalize-your-playthrough-xbox-one-screen-capture-tips/"><u>In 2024, Immortalize Your Playthrough  Xbox One Screen Capture Tips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-make-your-gaming-great-not-stressful/"><u>In 2024, Make Your Gaming Great, Not Stressful</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-mastering-video-quality-in-obs/"><u>In 2024, Mastering Video Quality in OBS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-most-valuable-maps-top-treasures-in-terraria/"><u>In 2024, Most Valuable Maps  Top Treasures in Terraria</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-native-chrome-os-screen-snapper/"><u>In 2024, Native Chrome OS Screen Snapper</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-pioneering-screen-capture-methods-with-adobe-captivity-unveiled/"><u>In 2024, Pioneering Screen Capture Methods with Adobe Captivity Unveiled</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-poll-power-play-best-election-strategy-games/"><u>In 2024, Poll Power Play  Best Election Strategy Games</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-ten-ultimate-screen-recording-tools-for-mac-computers/"><u>In 2024, Ten Ultimate Screen Recording Tools for Mac Computers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-poco-m6-pro-4g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Poco M6 Pro 4G Device</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-win10s-prime-video-grabber-list/"><u>In 2024, Win10's Prime Video Grabber List</u></a></li>
+<li><a href="https://techidaily.com/is-your-nokia-g42-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Nokia G42 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/little-legends-top-gaming-adventures-in-2024/"><u>Little Legends  Top Gaming Adventures, In 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/optimizing-video-capture-with-mov-on-windows-10-for-2024/"><u>Optimizing Video Capture with MOV on Windows 10 for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/stepwise-guide-to-ipad-time-lapse-mastery-for-2024/"><u>Stepwise Guide to iPad Time-Lapse Mastery for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/unlock-the-full-potential-of-macs-webcam-for-high-quality-video-for-2024/"><u>Unlock the Full Potential of Mac's Webcam for High-Quality Video for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-best-whatsapp-status-video-generator-tools-for-2024/"><u>Updated Best WhatsApp Status Video Generator Tools for 2024</u></a></li>
+</ul></div>

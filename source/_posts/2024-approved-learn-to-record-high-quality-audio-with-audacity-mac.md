@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Learn to Record High-Quality Audio with Audacity, Mac\""
-date: 2024-05-18T07:31:46.560Z
-updated: 2024-05-19T07:31:46.560Z
+date: 2024-07-19T12:03:23.806Z
+updated: 2024-07-20T12:03:23.806Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Learn to Record High-Quality Audio with Audacity, Mac\""
 excerpt: "\"This Article Describes 2024 Approved: Learn to Record High-Quality Audio with Audacity, Mac\""
 keywords: "\"Audacity Audio Recording Tutorial,High-Quality Mac Audio Editing,Learn Audacity for Clear Sounds,Master Mac Audio Capture,Audacity Sound Quality Guide,Beginner's Audio with Audacity,Enhance Mac Audio Recordings\""
-thumbnail: https://www.lifewire.com/thmb/LSRhv9V0PxzBAHOqiakqf0M89LI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1302402871-ea3debd2e3c64ec5a78a99e580b6a8d1.jpg
+thumbnail: https://thmb.techidaily.com/930df60c591e2a9cac7ea1bfd12cb488be55e4b8a96b142f6b85654b12ef9f8e.jpg
 ---
 
 ## Learn to Record High-Quality Audio with Audacity, Mac
@@ -35,6 +35,9 @@ Step 1: Visit [Audacity Download](https://www.audacityteam.org/download/mac/) pa
 
 Alternatively, you can go to FossHub and search for Audacity and download the latest Audacity macOS DMG file.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fosshub](https://images.wondershare.com/filmora/article-images/fosshub.jpg)
 
 Step 3: Once the downloading of the file is complete, double-click on the downloaded “Audacity macOS DMG” file to start installing the file. You can also find the file under Downloads from Finder.
@@ -43,6 +46,9 @@ Step 4: Follow the on-screen instructions to complete the installation process.
 
 Step 5: Go to Applications and launch Audacity. In case it does not open from Applications, you can go to the location where Audacity is installed and open directly from there.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. How to record audio with Audacity on Mac?
 
 We have already stated that operating Audacity on Mac is slightly complicated. Audacity is designed to record audio from external sources through microphone. Here are the steps on how to use Audacity on Mac to record audio with a microphone.
@@ -51,10 +57,17 @@ Step 1: Launch Audacity and go to Recording Device tab.
 
 Step 2: Click on the second option and you will see all the recording devices connected to your Mac. Select the microphone whose audio you want to record. If you do not see your microphone, make sure it is properly connected.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click on the second option](https://images.wondershare.com/filmora/article-images/click-on-the-second-option.jpg)
 
 Step 3: Go to Tracks menu option and go to Add New. Here, you have to select either Stereo Track or Mono Track as per your requirement.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![go to tracks menu](https://images.wondershare.com/filmora/article-images/go-to-tracks-menu.jpg)
 
 Step 4: Now, you are ready to start recording your audio through microphone using Audacity. Click on Record button at the top bar. The recording will start immediately and you will see audiograph of your audio which shows that your voice is getting recorded.
@@ -123,16 +136,26 @@ Here are the steps on how to record any audio with video using Filmora.
 
 Step 1: Download and install Wondershare Filmora. Launch the application and select PC Screen option.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 Step 2: From Recording window, set the video recording screen size as per your requirement.
 
 Step 3: Make sure the system audio is turned on and correctly selected beside the recording screen size. If you want to record microphone sound as well, turn it on and select it correctly.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![select](https://images.wondershare.com/filmora/article-images/select.jpg)
 
 Step 4: Click on Record button to start recording. You will get a buffer time to get your screen ready.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![record button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
 
 Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
@@ -167,10 +190,16 @@ Step 3: Make sure the system audio is turned on and correctly selected beside th
 
 Step 4: Click on Record button to start recording. You will get a buffer time to get your screen ready.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![record button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
 
 Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 If you are looking for a free audio recorder on Mac, Audacity fits in perfectly. However, there are several drawbacks of Audacity Mac and its operation is not as easy as any other audio recorder. That is why we recommend Wondershare Filmora as an alternative to Audacity Mac as it takes care of all the issues on Audacity and offers better features and functionalities.
@@ -191,6 +220,9 @@ Here are the steps on how to record any audio with video using Filmora.
 
 Step 1: Download and install Wondershare Filmora. Launch the application and select PC Screen option.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 Step 2: From Recording window, set the video recording screen size as per your requirement.
@@ -234,3 +266,54 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-a-beginners-guide-to-flawless-ipad-screen-saving/"><u>[New] 2024 Approved  A Beginner's Guide to Flawless iPad Screen Saving</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-conquer-the-connection-mastering-insta-tik-linkage/"><u>[New] Conquer the Connection  Mastering Insta-Tik Linkage</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-crafty-escapades-discover-top-imaginative-venues/"><u>[New] Crafty Escapades  Discover Top Imaginative Venues</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-become-a-pro-at-xbox-video-recording-in-minutes/"><u>[New] In 2024, Become a Pro at Xbox Video Recording in Minutes</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-video-capture-a-review-of-recmeisters-capabilities/"><u>[New] Mastering Video Capture  A Review of Recmeister's Capabilities</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-20-greatest-sandbox-experiences-ever-made/"><u>[Updated] 20 Greatest Sandbox Experiences Ever Made</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-windows-best-chat-tools-ranked-3-1/"><u>[Updated] 2024 Approved  Windows' Best Chat Tools  Ranked #3-#1</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-best-in-class-premium-screenshots-and-recorders/"><u>[Updated] Best in Class  Premium Screenshots & Recorders</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-capture-mastery-top-picks-of-free-pcmac-desktop-recorders/"><u>[Updated] Capture Mastery  Top Picks of Free PC/Mac Desktop Recorders</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-cross-device-synchronization-aligning-zoom-with-calendar-events/"><u>[Updated] Cross-Device Synchronization  Aligning Zoom with Calendar Events</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-a-look-at-earnings-understanding-your-monthly-income-from-youtubes-adsense/"><u>[Updated] In 2024, A Look at Earnings  Understanding Your Monthly Income From YouTube's AdSense</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-mastering-the-meaning-of-pfp-in-tiktok-world/"><u>[Updated] In 2024, Mastering the Meaning of PFP in TikTok World</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-unpacking-presenter-8s-features-against-the-best/"><u>[Updated] Unpacking Presenter 8’S Features Against the Best</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-beginner-friendly-approach-to-videography-using-adobe-connect-platform/"><u>2024 Approved  Beginner-Friendly Approach to Videography Using Adobe Connect Platform</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-capture-quality-videos-on-mac-webcam-tips-and-tricks-5-easy-steps/"><u>2024 Approved  Capture Quality Videos on Mac  Webcam Tips and Tricks (5 Easy Steps)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-crafting-engaging-voiceovers-for-powerpoint-slides/"><u>2024 Approved  Crafting Engaging Voiceovers for PowerPoint Slides</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-innovative-methods-to-improve-your-facecam-recordings/"><u>2024 Approved  Innovative Methods to Improve Your Facecam Recordings</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-modulate-your-message-a-top-tier-list-of-voice-change-mobile-apps/"><u>2024 Approved  Modulate Your Message  A Top-Tier List of Voice Change Mobile Apps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-art-of-recording-your-online-fb-conversations/"><u>2024 Approved  The Art of Recording Your Online FB Conversations</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-tune-treasure-trove-save-and-study-sound-files/"><u>2024 Approved  Tune Treasure Trove  Save & Study Sound Files</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-unveiling-techniques-superior-facetime-video-capturing/"><u>2024 Approved  Unveiling Techniques  Superior Facetime Video Capturing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-unveiling-the-mysteries-of-io-video-capture/"><u>2024 Approved  Unveiling the Mysteries of IO Video Capture</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/5-best-snipping-tools-for-windows/"><u>5 Best Snipping Tools for Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/best-5-minute-timelapse-video-maker-top/"><u>Best 5-Minute Timelapse Video Maker #Top</u></a></li>
+<li><a href="https://extra-information.techidaily.com/bypassing-common-drone-mistakes-with-this-essential-checklist/"><u>Bypassing Common Drone Mistakes with This Essential Checklist</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/c67-5g-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>C67 5G support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/dont-miss-out-the-top-reasons-to-read-about-mp3-converter-windows-for-2024/"><u>Dont Miss Out The Top Reasons to Read About Mp3 Converter Windows for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/effective-methods-to-document-facetime-calls-for-2024/"><u>Effective Methods to Document FaceTime Calls for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-htc-u23-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset HTC U23 Without Password | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/how-to-hit-the-high-notes-in-capturing-twitch-live-events/"><u>How to Hit the High Notes in Capturing Twitch Live Events</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-crafting-captivating-content-with-screencast-tactics/"><u>In 2024, Crafting Captivating Content with Screencast Tactics</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-incessant-visual-capture-agencies/"><u>In 2024, Incessant Visual Capture Agencies</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-masterclass-in-selecting-precise-3ds-emulators/"><u>In 2024, Masterclass in Selecting Precise 3Ds Emulators</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-record-to-win-optimizing-your-twitch-broadcasting-skills/"><u>In 2024, Record to Win  Optimizing Your Twitch Broadcasting Skills</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-audio-to-video-what-to-look-out-for-when-converting-mp3-to-mp4/"><u>New From Audio to Video What to Look Out for When Converting MP3 to MP4</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-transcribe-audio-recordings-with-ease-top-techniques/"><u>New In 2024, Transcribe Audio Recordings with Ease Top Techniques</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/obs-studio-for-ps4-step-by-step-screen-capture/"><u>Obs Studio for PS4  Step-by-Step Screen Capture</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/prime-pc-webcams-10-best-windows-recording-tools-for-2024/"><u>Prime PC Webcams  10 Best Windows Recording Tools for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/steps-to-convert-video-tweets-to-mp3-soundtracks-for-2024/"><u>Steps to Convert Video Tweets to MP3 Soundtracks for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tech-driven-pleasure-exploring-vr-in-media-for-2024/"><u>Tech-Driven Pleasure  Exploring VR in Media for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/the-essential-guide-to-reaper-tools-and-techniques-for-new-users-for-2024/"><u>The Essential Guide to REAPER Tools & Techniques for New Users for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-10-gimbals-elevating-dsrl-cinematic-results/"><u>Top 10 Gimbals Elevating DSRL Cinematic Results</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/what-is-a-watermark-how-to-watermark-your-facebook-photosvideos/"><u>What Is a Watermark? How to Watermark Your Facebook Photos/Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/whispered-words-web-hidden-voice-recorders-for-smartphones/"><u>Whispered Words Web  Hidden Voice Recorders for Smartphones</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/winning-tools-the-top-five-windows-screen-cutters-for-2024/"><u>Winning Tools  The Top Five Windows Screen Cutters for 2024</u></a></li>
+</ul></div>

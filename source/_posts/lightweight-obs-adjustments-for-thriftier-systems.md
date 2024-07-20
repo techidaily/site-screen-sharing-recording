@@ -1,7 +1,7 @@
 ---
 title: "Lightweight OBS Adjustments for Thriftier Systems"
-date: 2024-05-19T21:06:26.807Z
-updated: 2024-05-20T21:06:26.807Z
+date: 2024-07-19T08:48:45.089Z
+updated: 2024-07-20T08:48:45.089Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Lightweight OBS Adjustments for Thriftier Systems"
 excerpt: "This Article Describes Lightweight OBS Adjustments for Thriftier Systems"
 keywords: "\"Lightweight OBS (OBS Adjusts),Thrifty OBS Settings,Cost-Efficient OBS Use,Efficient OBS Setup,Minimalist OBS Config,Budget-Friendly OBS,Optimized OBS for Cheap Systems\""
-thumbnail: https://www.lifewire.com/thmb/aqzoJvuc7HUCTQdUzpa5GXlHCac=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Mini-Splash-ef002ffe8db643d2a2b4de772ff46790.jpg
+thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425a670680d043fc15ab445500.jpg
 ---
 
 ## Lightweight OBS Adjustments for Thriftier Systems
@@ -29,6 +29,9 @@ Since we are concerned about the streaming of video. It is important to know how
 
 First, you will need to launch your OBS software. On the main menu, you have to go to file-> settings. You will see a new window will pop up for settings as shown in the figure below.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![obs video settings go to settings](https://images.wondershare.com/filmora/article-images/obs-video-settings-go-to-settings.jpg)
 
 ### Step 2: Settings That You Should Keep
@@ -37,10 +40,21 @@ Starting with base resolution, it is the video resolution that we are going to s
 
 Output tab, which is the resolution of the video that the people will watch. For fast and lag-free streaming it's best to keep both the output and base resolution the same to avoid any conversion between the resolution by CPU. So click on output resolution and choose **1280\*720** again. If you noticed your computer is still lagging then it's best to change to 480p but below this, it's not recommended.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![obs settings that you should keep](https://images.wondershare.com/filmora/article-images/obs-settings-that-you-should-keep.jpg)
 
 After that, it comes to the filter option. There are multiple filter options in this tab but for a fast and better result, you have to choose the **“bilinear”** filter as shown in the figure below. Finally, when it comes to frame per second you gotta be careful here. The more the fps the more it will put load on your CPU means it will become laggy but it is best to keep it **30 fps**, not more than this and not less than this if you are using a low-end PC or Laptop.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### Step 3: Output Settings
 
 Once you are done with the general video settings now it's time you should come to the output settings. For that, you will need to choose the output from the main vertical tab as shown in the figure below in 1\. You will see a new window appears with a variety of settings. Now it's time to choose the advanced setting as shown in 2 in the figure to see all settings to be edited.
@@ -85,6 +99,9 @@ The audio settings can be adjusted from two places. Let us discuss the first one
 
 ![obs output audio settings adjust](https://images.wondershare.com/filmora/article-images/obs-output-audio-settings-adjust.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2: Audio Tab Settings
 
 ![obs audio tab settings steps](https://images.wondershare.com/filmora/article-images/obs-audio-tab-settings-steps.jpg)
@@ -109,14 +126,25 @@ The meter is a decibel meter (dB). It is a measurement of volume. The more the d
 
 Finally, the rest of the options should be kept as default since being a streamer you won’t need them to change and they are pretty much basic hotkeys to set up if you wish to.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Stream Settings
 
 Here are the streaming settings that you just need to follow for your streaming videos. The streaming tab consists of settings for the platform you are going to stream your video. Let's begin with step-by-step procedures to follow for the best streaming settings for your low-end PCs or laptops.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1: Stream Tab
 
 The streaming tab can be accessed from the main vertical tab. After going to the main “stream” tab you will see a bunch of options.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![obs stream settings tab service 1](https://images.wondershare.com/filmora/article-images/obs-stream-settings-tab-service-1.jpg)
 
 ### Step 2: Streaming Settings
@@ -133,6 +161,9 @@ This option let you choose a server to upload your streaming. It is best to keep
 
 There is a lot of other [screen recording software](https://tools.techidaily.com/wondershare/filmora/download/) on the internet that offers many tools to do the streaming. But the only question that comes to mind that which one you should choose from all of them. A lot of you guys will be already using OBS. Of course, it is the best of all other software for streaming videos to the streaming platforms but still, if someone does not wants to OBS for some reason then he should opt for another amazing alternative application known as Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -196,3 +227,46 @@ There may be a lot of other software which serve the same purpose but the best o
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-essential-tips-for-fbx-based-game-recording/"><u>[New] 2024 Approved  Essential Tips for FBX-Based Game Recording</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-excellence-unleashed-the-pinnacle-fps-selections/"><u>[New] 2024 Approved  Excellence Unleashed  The Pinnacle FPS Selections</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-cheapest-facetime-on-android-highest-rated-apps-for-2024/"><u>[New] Cheapest FaceTime on Android  Highest Rated Apps for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-expert-video-capture-maximizing-performance-with-logitech-webcam-tech-for-2024/"><u>[New] Expert Video Capture  Maximizing Performance with Logitech Webcam Tech for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-guide-to-effective-nvidia-video-capture/"><u>[New] In 2024, Guide to Effective NVIDIA Video Capture</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-secrets-to-stunning-nightscape-shots/"><u>[New] In 2024, Secrets to Stunning Nightscape Shots</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-the-ultimate-obs-recording-guide-for-gaming-enthusiasts/"><u>[New] In 2024, The Ultimate OBS Recording Guide for Gaming Enthusiasts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-top-15-pcmac-apps-that-turn-your-gameplay-into-art/"><u>[New] In 2024, Top 15 Pc/Mac Apps That Turn Your Gameplay Into Art</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-invisible-spectator-of-fb-tales/"><u>[New] Invisible Spectator of FB Tales</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-simplified-methods-for-logging-google-voice-calls-for-2024/"><u>[New] Simplified Methods for Logging Google Voice Calls for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-new-era-of-mac-os-embracing-big-sur/"><u>[New] The New Era of Mac OS  Embracing Big Sur</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-10-ultra-hd-capture-tools-for-screen-recording-for-2024/"><u>[New] Top 10 Ultra-HD Capture Tools for Screen Recording for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-in-the-ring-with-video-recording-who-will-triumph-obs-or-bandicam/"><u>[Updated] 2024 Approved  In the Ring with Video Recording  Who Will Triumph, OBS or Bandicam?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-the-ultimate-companion-for-your-gaming-setup-xbox-recorder/"><u>[Updated] 2024 Approved  The Ultimate Companion for Your Gaming Setup  Xbox Recorder</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-ultimate-guide-to-hash-tagging-for-brand-success-on-fb/"><u>[Updated] 2024 Approved  The Ultimate Guide to Hash Tagging for Brand Success on FB</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-top-10-expert-choices-for-terraria/"><u>[Updated] 2024 Approved  Top 10 Expert Choices for Terraria</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-elevate-your-editing-with-blend-mode-innovations-for-2024/"><u>[Updated] Elevate Your Editing with Blend Mode Innovations for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-essential-tactics-for-mastering-mobizen-mobile-screen-recording-for-2024/"><u>[Updated] Essential Tactics for Mastering Mobizen Mobile Screen Recording for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-evaluating-every-aspect-of-du-recorder-design-and-function-for-2024/"><u>[Updated] Evaluating Every Aspect of Du Recorder Design & Function for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1716069172716-updated-in-2024-android-without-a-wire-heres-your-free-games-list/"><u>[Updated] In 2024, Android Without A Wire? Here's Your Free Games List!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-hassle-free-screen-capture-kit-no-logos/"><u>[Updated] In 2024, Hassle-Free Screen Capture Kit (No Logos)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-methods-to-rectify-obs-fullscreen-crash/"><u>[Updated] In 2024, Methods to Rectify OBS Fullscreen Crash</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-optimal-tools-macs-best-video-grabber-software-guide/"><u>[Updated] In 2024, Optimal Tools  Mac's Best Video Grabber Software Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-spring-screenrecorder-simplified-your-ultimate-guide/"><u>[Updated] In 2024, Spring ScreenRecorder Simplified  Your Ultimate Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-streamlined-mov-recording-tactics-on-windows-11-platforms/"><u>[Updated] In 2024, Streamlined .MOV Recording Tactics on Windows 11 Platforms</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-ultimate-handbook-for-vr-gameplay-capture/"><u>[Updated] In 2024, The Ultimate Handbook for VR Gameplay Capture</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-constructing-emotional-resonance-trailer-sound-selection-guide/"><u>2024 Approved  Constructing Emotional Resonance  Trailer Sound Selection Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-enhancing-outreach-with-strategic-partner-selection-on-youtube/"><u>2024 Approved  Enhancing Outreach with Strategic Partner Selection on YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-crumpled-to-curated-your-step-by-step-process-of-transforming-faded-print-photographs-into-digital-originals/"><u>2024 Approved  From Crumpled to Curated  Your Step-by-Step Process of Transforming Faded Print Photographs Into Digital Originals</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-new-users-on-the-road-to-zoom-room-mastery/"><u>2024 Approved  New Users on the Road to Zoom Room Mastery</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/a-tech-savvy-approach-securely-storing-snapchat-photos-on-devices/"><u>A Tech-Savvy Approach  Securely Storing Snapchat Photos on Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/choosing-your-gopro-an-exhaustive-comparison/"><u>Choosing Your GoPro  An Exhaustive Comparison</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/connectivity-modifier-fb-stories-backup-tool/"><u>Connectivity Modifier  FB Stories Backup Tool</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/epic-quests-unveiled-top-games-mirroring-ghost-of-tsushima/"><u>Epic Quests Unveiled  Top Games Mirroring Ghost of Tsushima</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-the-dangers-of-keygen-malware-symptoms-and-removal-strategies/"><u>Exploring the Dangers of Keygen Malware: Symptoms & Removal Strategies</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-google-pixel-8-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Google Pixel 8 Pro PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-audiovisual-decision-making-is-podcast-or-youtube-more-appealing/"><u>In 2024, Audiovisual Decision-Making  Is Podcast or YouTube More Appealing?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-chilly-champs-beijings-best-of-the-2022-games/"><u>In 2024, Chilly Champs  Beijing's Best of the 2022 Games</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-free-screen-snip-androids-highest-rated-recorders-countdown-eight-edition/"><u>In 2024, Free Screen Snip  Android's Highest-Rated Recorders Countdown – Eight Edition</u></a></li>
+</ul></div>
