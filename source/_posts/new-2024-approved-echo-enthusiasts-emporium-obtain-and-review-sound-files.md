@@ -1,0 +1,479 @@
+---
+title: "\"[New] 2024 Approved  Echo Enthusiasts Emporium  Obtain & Review Sound Files\""
+date: 2024-08-28T23:56:04.917Z
+updated: 2024-08-29T23:56:04.917Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+categories: 
+  - ai
+  - screen
+description: "\"This Article Describes [New] 2024 Approved: Echo Enthusiasts Emporium: Obtain & Review Sound Files\""
+excerpt: "\"This Article Describes [New] 2024 Approved: Echo Enthusiasts Emporium: Obtain & Review Sound Files\""
+keywords: "Echo File Reviews,Audio Archive Store,Sound File Retailer,Quality Echo Samples,Listeners' Echo Picks,Acoustic File Finds,Echo Files Audition"
+thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e6a52b60eb890177d543e794.png
+---
+
+## Echo Enthusiasts Emporium: Obtain & Review Sound Files
+
+iShowU Audio Capture is the extension of Mac OS X utilized by iShowU Instant and iShowU Studio for recording audio from the computer. The new Audio Driver offers several latest improvements and features to turn audio recording simple and more stable. iShowU Audio Capture has been designed with iShowU Instant and iShowU Studio. However, one may utilize it for several purposes, and you may even get assistance regarding iShowU products and their usage.
+
+This software offers you systematic and easy-to-use management. iShowU Audio Capture even permits you to concentrate on the most crucial things, and you'll love this software because it is user-friendly. Furthermore, one may use iShowU Audio Capture on iOS, Android, and Windows devices. Here, you'll get to know everything regarding its features, downloading installation, and Audio recording process in detail.
+
+##### Filmora Audio Recorder
+
+Record computer system audio
+
+Capture microphone audio
+
+Customize recording volume
+
+Record screen and webcam as well
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## 1\. Key Features of iShowU Audio Capture
+
+Following are some prominent features of iShowU Audio Capture:
+
+Very stable: After you quit this application, or in case the app collapses, the default audio button shall move back into what it was previously. This indicates there’ll be no weird problems like the disappearance of audio. Also, iShowU Audio Capture Catalinahas a specific setting for controlling and may do this from a Single Window Interface; hence you won't get lost.
+
+Standard volume support: The volume button won’t function seamlessly in the way you expect if you to record audio from the computer. iShowU Audio Capture machas built-in pre-sets for assisting you to get on the way and is extremely useful as you may create one for yourself with some quick taps.
+
+Workspace Support: After switching into another workspace or user, the Audio output system shall automatically move back to the way it was, thereby going back to record audio after hitting back.
+
+More Intelligent: You may switch or switch back this audio output tool only when it’s necessary. It isn't required to sit back and see the recordings, thereby waiting for that ideal point for stopping it. Instead, you may configure the timer for recording and freely go out to finish off your dinner!
+
+Free Trial: iShowU Audio Capture is available free or as Freemium that indicates one may reality the intelligent software- iShowU Audio Capture.
+
+## 2\. How to download and install iShowU?
+
+In case you haven’t yet downloaded the iShowU Audio Capture, the following are the steps you need to follow:
+
+### Downloading
+
+* Open your web browser, then visit the site shinywhitebox.com.
+* You’ll find a Download button on the screen below the banner. Next, tap on it.
+* The iShowU Audio Capture download is now complete.
+
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
+### Installing
+
+* After you’re done with the downloading procedure, you’ve to look for the app Installer. You’ll find it in the ‘Downloads’ folder.
+* Now open the .dmg file installer.
+* Double click on the package of iShowU Audio Capture to run it that's followed by the prompts. You'll now have to provide a password for completing this installation.
+* You might be prompted for the driver installation confirmation, which isn't unusual and is usual. However, keep following the steps further.
+* ‘System Extension Blocked’ dialog box will appear, and you’ve to click on 'OK .' This is fine, and soon you'll notice;
+* Now proceed to the ‘System Preferences,' thereby tap on ‘Security & Privacy':
+* Next, you’ll have to confirm the subsequent installation, which is crucial; otherwise, the driver won't be installed.
+* Finally, to confirm whether the setup is functioning well, you'll have to tap on 'System Preferences,' thereby selecting ‘Sound,' following ‘Output.’ Here, you’ll find a new tool known as iShowU Audio
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 3\. How to capture audio with iShowU Audio Capture?
+
+For all those Mac users, iShowU Audio Capture OBS is the perfect tool for recording audio from your computer. This is an open-source and free tool with multiple advanced features. Moreover, with the aid of its extension ‘iShowU Audio Capture,' an individual can efficiently deal with Mac’s internal voice.
+
+![ishowu](https://images.wondershare.com/filmora/article-images/ishowu.jpg)
+
+Following are the detailed steps that you may go through for capturing Mac audio:
+
+* You’ll have to begin by opening ‘Audio MIDI Setup.’ Next, you’ll find a '+' symbol towards your window's left end. Next, select 'Create Multi-Output Device.’
+* Now check those boxes for iShowU Audio Capture and Built-in Output in the column ‘Use.’ Then, you’ve to proceed into the column ‘Drift correction' for Built-in Output for averting audio sync problems.
+* Next, tap on 'System Preferences' and tap on 'Sound.' You'll have to choose the newly formed Multi-Output Device.
+* Now open OBS, move to ‘Settings’ and then ‘Audio.’ Next, choose the iShowU Audio Capture option as one such Auxiliary/ Mic Audio Device. You may start capturing in iShowU Audio Capture OBS Mac after finishing it.
+* You may now record desktop audio and play all music and videos to ensure whether the sound has been recorded. But, again, you'll find the soundbar moving.
+* Note: In case you can’t hear any sound, you may repeat the previous two steps to ensure you did it correctly.
+
+## FAQs
+
+1\. How can I fix the iShowU Audio Capture when it isn’t picking up any audio files?
+
+You can use Audio MIDI Setup, thereby forming a Multi-Output Device in case the iShowU Audio Capture can pick up audio files. However, the audio quality might degrade considerably. Also, it is advisable selecting any professional substitute for capturing a screen with any lossless or lagging audio file.
+
+2\. What are iShowU Audio Capture pricing plans?
+
+The iShowU Audio Capture is available Freemium or Free.
+
+3\. Does this iShowU audio Capture present standard features and security?
+
+A a few locations, this iShowU Audio Capture software requires enhancing its security. However, till now, the attribute is genuine for this software.
+
+4\. Why can’t I find iShowU Audio Capture after installation?
+
+You've to visit 'Security & Privacy from the menu 'System Preferences' when the iShowU Audio Capture isn’t coming up on the screen. Next, tap on the ‘Allow' key to permit the apps to download from Shiny White Box Limited to develop before establishing the iShowU Audio Capture program again.
+
+5\. Why is there no sound in my video?
+
+You've to open the program you wish to capture before moving into Multi-Output Device. This device shall only record sound from a program opened post switching.
+
+## Conclusion
+
+Apple has now disabled the function of capturing internal and desktop sound in all its Mac. Moreover, even iShowU Audio Capture BigSur doesn’t work anymore. So what to do when you wish to record internal audio? The answer is iShowU Audio Capture, as it's a workaround that no one should miss. This software has been designed to record audio on your devices. It even holds several easy-to-set choices with a sturdy back-end that will help you customize the output, size, file, and resolution type. Thus, its outcome is a practical, robust audio recording tool ideal for tutorial videos and gaming.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## 1\. Key Features of iShowU Audio Capture
+
+Following are some prominent features of iShowU Audio Capture:
+
+Very stable: After you quit this application, or in case the app collapses, the default audio button shall move back into what it was previously. This indicates there’ll be no weird problems like the disappearance of audio. Also, iShowU Audio Capture Catalinahas a specific setting for controlling and may do this from a Single Window Interface; hence you won't get lost.
+
+Standard volume support: The volume button won’t function seamlessly in the way you expect if you to record audio from the computer. iShowU Audio Capture machas built-in pre-sets for assisting you to get on the way and is extremely useful as you may create one for yourself with some quick taps.
+
+Workspace Support: After switching into another workspace or user, the Audio output system shall automatically move back to the way it was, thereby going back to record audio after hitting back.
+
+More Intelligent: You may switch or switch back this audio output tool only when it’s necessary. It isn't required to sit back and see the recordings, thereby waiting for that ideal point for stopping it. Instead, you may configure the timer for recording and freely go out to finish off your dinner!
+
+Free Trial: iShowU Audio Capture is available free or as Freemium that indicates one may reality the intelligent software- iShowU Audio Capture.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
+## 2\. How to download and install iShowU?
+
+In case you haven’t yet downloaded the iShowU Audio Capture, the following are the steps you need to follow:
+
+### Downloading
+
+* Open your web browser, then visit the site shinywhitebox.com.
+* You’ll find a Download button on the screen below the banner. Next, tap on it.
+* The iShowU Audio Capture download is now complete.
+
+### Installing
+
+* After you’re done with the downloading procedure, you’ve to look for the app Installer. You’ll find it in the ‘Downloads’ folder.
+* Now open the .dmg file installer.
+* Double click on the package of iShowU Audio Capture to run it that's followed by the prompts. You'll now have to provide a password for completing this installation.
+* You might be prompted for the driver installation confirmation, which isn't unusual and is usual. However, keep following the steps further.
+* ‘System Extension Blocked’ dialog box will appear, and you’ve to click on 'OK .' This is fine, and soon you'll notice;
+* Now proceed to the ‘System Preferences,' thereby tap on ‘Security & Privacy':
+* Next, you’ll have to confirm the subsequent installation, which is crucial; otherwise, the driver won't be installed.
+* Finally, to confirm whether the setup is functioning well, you'll have to tap on 'System Preferences,' thereby selecting ‘Sound,' following ‘Output.’ Here, you’ll find a new tool known as iShowU Audio
+
+## 3\. How to capture audio with iShowU Audio Capture?
+
+For all those Mac users, iShowU Audio Capture OBS is the perfect tool for recording audio from your computer. This is an open-source and free tool with multiple advanced features. Moreover, with the aid of its extension ‘iShowU Audio Capture,' an individual can efficiently deal with Mac’s internal voice.
+
+![ishowu](https://images.wondershare.com/filmora/article-images/ishowu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Following are the detailed steps that you may go through for capturing Mac audio:
+
+* You’ll have to begin by opening ‘Audio MIDI Setup.’ Next, you’ll find a '+' symbol towards your window's left end. Next, select 'Create Multi-Output Device.’
+* Now check those boxes for iShowU Audio Capture and Built-in Output in the column ‘Use.’ Then, you’ve to proceed into the column ‘Drift correction' for Built-in Output for averting audio sync problems.
+* Next, tap on 'System Preferences' and tap on 'Sound.' You'll have to choose the newly formed Multi-Output Device.
+* Now open OBS, move to ‘Settings’ and then ‘Audio.’ Next, choose the iShowU Audio Capture option as one such Auxiliary/ Mic Audio Device. You may start capturing in iShowU Audio Capture OBS Mac after finishing it.
+* You may now record desktop audio and play all music and videos to ensure whether the sound has been recorded. But, again, you'll find the soundbar moving.
+* Note: In case you can’t hear any sound, you may repeat the previous two steps to ensure you did it correctly.
+
+## FAQs
+
+1\. How can I fix the iShowU Audio Capture when it isn’t picking up any audio files?
+
+You can use Audio MIDI Setup, thereby forming a Multi-Output Device in case the iShowU Audio Capture can pick up audio files. However, the audio quality might degrade considerably. Also, it is advisable selecting any professional substitute for capturing a screen with any lossless or lagging audio file.
+
+2\. What are iShowU Audio Capture pricing plans?
+
+The iShowU Audio Capture is available Freemium or Free.
+
+3\. Does this iShowU audio Capture present standard features and security?
+
+A a few locations, this iShowU Audio Capture software requires enhancing its security. However, till now, the attribute is genuine for this software.
+
+4\. Why can’t I find iShowU Audio Capture after installation?
+
+You've to visit 'Security & Privacy from the menu 'System Preferences' when the iShowU Audio Capture isn’t coming up on the screen. Next, tap on the ‘Allow' key to permit the apps to download from Shiny White Box Limited to develop before establishing the iShowU Audio Capture program again.
+
+5\. Why is there no sound in my video?
+
+You've to open the program you wish to capture before moving into Multi-Output Device. This device shall only record sound from a program opened post switching.
+
+## Conclusion
+
+Apple has now disabled the function of capturing internal and desktop sound in all its Mac. Moreover, even iShowU Audio Capture BigSur doesn’t work anymore. So what to do when you wish to record internal audio? The answer is iShowU Audio Capture, as it's a workaround that no one should miss. This software has been designed to record audio on your devices. It even holds several easy-to-set choices with a sturdy back-end that will help you customize the output, size, file, and resolution type. Thus, its outcome is a practical, robust audio recording tool ideal for tutorial videos and gaming.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## 1\. Key Features of iShowU Audio Capture
+
+Following are some prominent features of iShowU Audio Capture:
+
+Very stable: After you quit this application, or in case the app collapses, the default audio button shall move back into what it was previously. This indicates there’ll be no weird problems like the disappearance of audio. Also, iShowU Audio Capture Catalinahas a specific setting for controlling and may do this from a Single Window Interface; hence you won't get lost.
+
+Standard volume support: The volume button won’t function seamlessly in the way you expect if you to record audio from the computer. iShowU Audio Capture machas built-in pre-sets for assisting you to get on the way and is extremely useful as you may create one for yourself with some quick taps.
+
+Workspace Support: After switching into another workspace or user, the Audio output system shall automatically move back to the way it was, thereby going back to record audio after hitting back.
+
+More Intelligent: You may switch or switch back this audio output tool only when it’s necessary. It isn't required to sit back and see the recordings, thereby waiting for that ideal point for stopping it. Instead, you may configure the timer for recording and freely go out to finish off your dinner!
+
+Free Trial: iShowU Audio Capture is available free or as Freemium that indicates one may reality the intelligent software- iShowU Audio Capture.
+
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 2\. How to download and install iShowU?
+
+In case you haven’t yet downloaded the iShowU Audio Capture, the following are the steps you need to follow:
+
+### Downloading
+
+* Open your web browser, then visit the site shinywhitebox.com.
+* You’ll find a Download button on the screen below the banner. Next, tap on it.
+* The iShowU Audio Capture download is now complete.
+
+### Installing
+
+* After you’re done with the downloading procedure, you’ve to look for the app Installer. You’ll find it in the ‘Downloads’ folder.
+* Now open the .dmg file installer.
+* Double click on the package of iShowU Audio Capture to run it that's followed by the prompts. You'll now have to provide a password for completing this installation.
+* You might be prompted for the driver installation confirmation, which isn't unusual and is usual. However, keep following the steps further.
+* ‘System Extension Blocked’ dialog box will appear, and you’ve to click on 'OK .' This is fine, and soon you'll notice;
+* Now proceed to the ‘System Preferences,' thereby tap on ‘Security & Privacy':
+* Next, you’ll have to confirm the subsequent installation, which is crucial; otherwise, the driver won't be installed.
+* Finally, to confirm whether the setup is functioning well, you'll have to tap on 'System Preferences,' thereby selecting ‘Sound,' following ‘Output.’ Here, you’ll find a new tool known as iShowU Audio
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## 3\. How to capture audio with iShowU Audio Capture?
+
+For all those Mac users, iShowU Audio Capture OBS is the perfect tool for recording audio from your computer. This is an open-source and free tool with multiple advanced features. Moreover, with the aid of its extension ‘iShowU Audio Capture,' an individual can efficiently deal with Mac’s internal voice.
+
+![ishowu](https://images.wondershare.com/filmora/article-images/ishowu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+Following are the detailed steps that you may go through for capturing Mac audio:
+
+* You’ll have to begin by opening ‘Audio MIDI Setup.’ Next, you’ll find a '+' symbol towards your window's left end. Next, select 'Create Multi-Output Device.’
+* Now check those boxes for iShowU Audio Capture and Built-in Output in the column ‘Use.’ Then, you’ve to proceed into the column ‘Drift correction' for Built-in Output for averting audio sync problems.
+* Next, tap on 'System Preferences' and tap on 'Sound.' You'll have to choose the newly formed Multi-Output Device.
+* Now open OBS, move to ‘Settings’ and then ‘Audio.’ Next, choose the iShowU Audio Capture option as one such Auxiliary/ Mic Audio Device. You may start capturing in iShowU Audio Capture OBS Mac after finishing it.
+* You may now record desktop audio and play all music and videos to ensure whether the sound has been recorded. But, again, you'll find the soundbar moving.
+* Note: In case you can’t hear any sound, you may repeat the previous two steps to ensure you did it correctly.
+
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## FAQs
+
+1\. How can I fix the iShowU Audio Capture when it isn’t picking up any audio files?
+
+You can use Audio MIDI Setup, thereby forming a Multi-Output Device in case the iShowU Audio Capture can pick up audio files. However, the audio quality might degrade considerably. Also, it is advisable selecting any professional substitute for capturing a screen with any lossless or lagging audio file.
+
+2\. What are iShowU Audio Capture pricing plans?
+
+The iShowU Audio Capture is available Freemium or Free.
+
+3\. Does this iShowU audio Capture present standard features and security?
+
+A a few locations, this iShowU Audio Capture software requires enhancing its security. However, till now, the attribute is genuine for this software.
+
+4\. Why can’t I find iShowU Audio Capture after installation?
+
+You've to visit 'Security & Privacy from the menu 'System Preferences' when the iShowU Audio Capture isn’t coming up on the screen. Next, tap on the ‘Allow' key to permit the apps to download from Shiny White Box Limited to develop before establishing the iShowU Audio Capture program again.
+
+5\. Why is there no sound in my video?
+
+You've to open the program you wish to capture before moving into Multi-Output Device. This device shall only record sound from a program opened post switching.
+
+## Conclusion
+
+Apple has now disabled the function of capturing internal and desktop sound in all its Mac. Moreover, even iShowU Audio Capture BigSur doesn’t work anymore. So what to do when you wish to record internal audio? The answer is iShowU Audio Capture, as it's a workaround that no one should miss. This software has been designed to record audio on your devices. It even holds several easy-to-set choices with a sturdy back-end that will help you customize the output, size, file, and resolution type. Thus, its outcome is a practical, robust audio recording tool ideal for tutorial videos and gaming.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 1\. Key Features of iShowU Audio Capture
+
+Following are some prominent features of iShowU Audio Capture:
+
+Very stable: After you quit this application, or in case the app collapses, the default audio button shall move back into what it was previously. This indicates there’ll be no weird problems like the disappearance of audio. Also, iShowU Audio Capture Catalinahas a specific setting for controlling and may do this from a Single Window Interface; hence you won't get lost.
+
+Standard volume support: The volume button won’t function seamlessly in the way you expect if you to record audio from the computer. iShowU Audio Capture machas built-in pre-sets for assisting you to get on the way and is extremely useful as you may create one for yourself with some quick taps.
+
+Workspace Support: After switching into another workspace or user, the Audio output system shall automatically move back to the way it was, thereby going back to record audio after hitting back.
+
+More Intelligent: You may switch or switch back this audio output tool only when it’s necessary. It isn't required to sit back and see the recordings, thereby waiting for that ideal point for stopping it. Instead, you may configure the timer for recording and freely go out to finish off your dinner!
+
+Free Trial: iShowU Audio Capture is available free or as Freemium that indicates one may reality the intelligent software- iShowU Audio Capture.
+
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 2\. How to download and install iShowU?
+
+In case you haven’t yet downloaded the iShowU Audio Capture, the following are the steps you need to follow:
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
+### Downloading
+
+* Open your web browser, then visit the site shinywhitebox.com.
+* You’ll find a Download button on the screen below the banner. Next, tap on it.
+* The iShowU Audio Capture download is now complete.
+
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Installing
+
+* After you’re done with the downloading procedure, you’ve to look for the app Installer. You’ll find it in the ‘Downloads’ folder.
+* Now open the .dmg file installer.
+* Double click on the package of iShowU Audio Capture to run it that's followed by the prompts. You'll now have to provide a password for completing this installation.
+* You might be prompted for the driver installation confirmation, which isn't unusual and is usual. However, keep following the steps further.
+* ‘System Extension Blocked’ dialog box will appear, and you’ve to click on 'OK .' This is fine, and soon you'll notice;
+* Now proceed to the ‘System Preferences,' thereby tap on ‘Security & Privacy':
+* Next, you’ll have to confirm the subsequent installation, which is crucial; otherwise, the driver won't be installed.
+* Finally, to confirm whether the setup is functioning well, you'll have to tap on 'System Preferences,' thereby selecting ‘Sound,' following ‘Output.’ Here, you’ll find a new tool known as iShowU Audio
+
+## 3\. How to capture audio with iShowU Audio Capture?
+
+For all those Mac users, iShowU Audio Capture OBS is the perfect tool for recording audio from your computer. This is an open-source and free tool with multiple advanced features. Moreover, with the aid of its extension ‘iShowU Audio Capture,' an individual can efficiently deal with Mac’s internal voice.
+
+![ishowu](https://images.wondershare.com/filmora/article-images/ishowu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+Following are the detailed steps that you may go through for capturing Mac audio:
+
+* You’ll have to begin by opening ‘Audio MIDI Setup.’ Next, you’ll find a '+' symbol towards your window's left end. Next, select 'Create Multi-Output Device.’
+* Now check those boxes for iShowU Audio Capture and Built-in Output in the column ‘Use.’ Then, you’ve to proceed into the column ‘Drift correction' for Built-in Output for averting audio sync problems.
+* Next, tap on 'System Preferences' and tap on 'Sound.' You'll have to choose the newly formed Multi-Output Device.
+* Now open OBS, move to ‘Settings’ and then ‘Audio.’ Next, choose the iShowU Audio Capture option as one such Auxiliary/ Mic Audio Device. You may start capturing in iShowU Audio Capture OBS Mac after finishing it.
+* You may now record desktop audio and play all music and videos to ensure whether the sound has been recorded. But, again, you'll find the soundbar moving.
+* Note: In case you can’t hear any sound, you may repeat the previous two steps to ensure you did it correctly.
+
+## FAQs
+
+1\. How can I fix the iShowU Audio Capture when it isn’t picking up any audio files?
+
+You can use Audio MIDI Setup, thereby forming a Multi-Output Device in case the iShowU Audio Capture can pick up audio files. However, the audio quality might degrade considerably. Also, it is advisable selecting any professional substitute for capturing a screen with any lossless or lagging audio file.
+
+2\. What are iShowU Audio Capture pricing plans?
+
+The iShowU Audio Capture is available Freemium or Free.
+
+3\. Does this iShowU audio Capture present standard features and security?
+
+A a few locations, this iShowU Audio Capture software requires enhancing its security. However, till now, the attribute is genuine for this software.
+
+4\. Why can’t I find iShowU Audio Capture after installation?
+
+You've to visit 'Security & Privacy from the menu 'System Preferences' when the iShowU Audio Capture isn’t coming up on the screen. Next, tap on the ‘Allow' key to permit the apps to download from Shiny White Box Limited to develop before establishing the iShowU Audio Capture program again.
+
+5\. Why is there no sound in my video?
+
+You've to open the program you wish to capture before moving into Multi-Output Device. This device shall only record sound from a program opened post switching.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
+## Conclusion
+
+Apple has now disabled the function of capturing internal and desktop sound in all its Mac. Moreover, even iShowU Audio Capture BigSur doesn’t work anymore. So what to do when you wish to record internal audio? The answer is iShowU Audio Capture, as it's a workaround that no one should miss. This software has been designed to record audio on your devices. It even holds several easy-to-set choices with a sturdy back-end that will help you customize the output, size, file, and resolution type. Thus, its outcome is a practical, robust audio recording tool ideal for tutorial videos and gaming.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-effortless-capture-of-virtual-meeting-footage-on-pcs/"><u>[New] 2024 Approved  Effortless Capture of Virtual Meeting Footage on PCs</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-elevating-engagement-with-innovative-techniques-in-fb-lives/"><u>[New] 2024 Approved  Elevating Engagement with Innovative Techniques in FB Lives</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-essential-techniques-in-creating-youtube-thumbnails-that-stand-out/"><u>[New] 2024 Approved  Essential Techniques in Creating YouTube Thumbnails That Stand Out</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-free-recording-tool-for-every-android-enthusiast/"><u>[New] 2024 Approved  Free Recording Tool for Every Android Enthusiast</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-from-chaos-to-clarity-mastering-xiaomis-screen-recording/"><u>[New] 2024 Approved  From Chaos to Clarity  Mastering Xiaomi's Screen Recording</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-innovative-screenshot-and-recordings-for-gamers-delight/"><u>[New] 2024 Approved  Innovative Screenshot and Recordings for Gamers' Delight</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-reversing-footage-in-a-snap/"><u>[New] 2024 Approved  Reversing Footage in a Snap</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-the-artisans-approach-to-crafting-channel-identities/"><u>[New] 2024 Approved  The Artisan's Approach to Crafting Channel Identities</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-accelerated-mp4-conversion-for-fb-media-for-2024/"><u>[New] Accelerated MP4 Conversion for FB Media for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-best-8-high-performance-screenshots-for-2024/"><u>[New] Best 8 High-Performance Screenshots for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-conquering-live-broadcast-a-comprehensive-guide-for-youtube-and-twitch-for-2024/"><u>[New] Conquering Live Broadcast  A Comprehensive Guide for YouTube & Twitch for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-digital-dream-team-best-screen-capture-software-online-for-2024/"><u>[New] Digital Dream Team  Best Screen Capture Software Online for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-exploring-beyond-manycam-enhanced-alternatives-for-2024/"><u>[New] Exploring Beyond ManyCam  Enhanced Alternatives for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-easy-steps-for-enhanced-productivity-keyboard-based-screen-recordings-in-os-x/"><u>[New] In 2024, Easy Steps for Enhanced Productivity  Keyboard-Based Screen Recordings in OS X</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-eyecatcher-firefox-tools/"><u>[New] In 2024, EyeCatcher Firefox Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-no-price-just-perfect-screen-recordings-on-android/"><u>[New] In 2024, No Price, Just Perfect Screen Recordings on Android</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-integrating-obs-streams-with-the-worlds-largest-social-network-fb-for-2024/"><u>[New] Integrating OBS Streams with the World's Largest Social Network, FB for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-proven-steps-to-elevate-webinar-video-quality-for-2024/"><u>[New] Proven Steps to Elevate Webinar Video Quality for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-ps3-playback-a-comprehensible-methodology/"><u>[New] PS3 Playback  A Comprehensible Methodology</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-virtual-space-clearing-perfecting-your-backdrop-in-zoom-and-google-meet-for-2024/"><u>[New] Virtual Space Clearing  Perfecting Your Backdrop in Zoom & Google Meet for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-windows-best-video-talks-ranked-1-8/"><u>[New] Windows' Best Video Talks  Ranked #1-8</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-basic-tactics-to-archive-webcam-chats/"><u>[Updated] 2024 Approved  Basic Tactics to Archive Webcam Chats</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-dive-into-audacity-simple-steps-to-record-on-mac-devices/"><u>[Updated] 2024 Approved  Dive Into Audacity  Simple Steps to Record on Mac Devices</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-dive-into-creativity-mastering-artistic-elements-in-instagram-edits/"><u>[Updated] 2024 Approved  Dive Into Creativity  Mastering Artistic Elements in Instagram Edits</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-precision-recording-of-skype-calls-via-obs-network/"><u>[Updated] 2024 Approved  Precision Recording of Skype Calls via OBS Network</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-streamline-your-collaboration-secrets-to-perfectly-planned-google-meets/"><u>[Updated] 2024 Approved  Streamline Your Collaboration  Secrets to Perfectly Planned Google Meets</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-a-detailed-guide-to-streamlabs-obs/"><u>[Updated] A Detailed Guide to Streamlabs OBS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-az-recorder-expert-series-app-deep-dives-for-2024/"><u>[Updated] AZ Recorder Expert Series  App Deep Dives for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-building-a-bountiful-beauty-channel-fortune-for-2024/"><u>[Updated] Building a Bountiful Beauty Channel Fortune for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-decision-time-choose-your-dream-video-editor-filmora-or-democracy-creator/"><u>[Updated] Decision Time! Choose Your Dream Video Editor (Filmora or Democracy Creator)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-from-gameplay-to-video-full-guide-on-ps4-with-obs/"><u>[Updated] From Gameplay to Video  Full Guide on PS4 with OBS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-gamers-pathway-to-impeccable-recordings/"><u>[Updated] Gamers' Pathway to Impeccable Recordings</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-ideal-cameras-to-elevate-live-stream-engagement-on-twitch/"><u>[Updated] Ideal Cameras to Elevate Live Stream Engagement on Twitch</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-comparing-easy-flexible-recording-tools-for-mac-users/"><u>[Updated] In 2024, Comparing Easy, Flexible Recording Tools for Mac Users</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-elite-7-secure-platforms-for-smaller-companies/"><u>[Updated] In 2024, Elite 7 Secure Platforms for Smaller Companies</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-sharexs-standards-met-by-others/"><u>[Updated] ShareX's Standards Met by Others</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-how-to-create-professional-gopro-vlogs/"><u>2024 Approved  How to Create Professional Gopro Vlogs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-ishowu-audio-capture-download-and-review/"><u>2024 Approved  IShowU Audio Capture Download and Review</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-lava-blaze-curve-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Lava Blaze Curve 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/acclaimed-websites-for-google-pixel-tonal-sounds/"><u>Acclaimed Websites for Google Pixel Tonal Sounds</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/deep-dive-into-du-recorders-design-and-functionality/"><u>Deep Dive Into Du Recorder's Design and Functionality</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/effortless-recording-of-android-devices-for-all/"><u>Effortless Recording of Android Devices for All</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-iphones-dialing-troubles-with-these-10-expert-tips/"><u>Fix Your iPhone's Dialing Troubles with These 10 Expert Tips</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-honor-x50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Honor X50? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-moto-g34-5g-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Moto G34 5G?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-essential-9-video-calling-apps-android-and-ios-review/"><u>In 2024, Essential 9 Video Calling Apps  Android & iOS Review</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-mastering-fb-video-upload-pc-and-android-guide/"><u>In 2024, Mastering FB Video Upload  PC & Android Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-quick-solutions-for-the-crashy-windows-11-photos-app/"><u>In 2024, Quick Solutions for the Crashy Windows 11 Photos App</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-xiaomi-civi-3-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Xiaomi Civi 3 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/in-2024-what-is-ai-text-to-video/"><u>In 2024, What Is AI Text to Video?</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-star-wars-squadrons-the-ultimate-guide-to-epic-galactic-battles/"><u>In-Depth Analysis of Star Wars: Squadrons - The Ultimate Guide to Epic Galactic Battles</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/mastering-internet-based-live-audio-capture-5-key-strategies/"><u>Mastering Internet-Based Live Audio Capture  5 Key Strategies</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/retrieve-past-alerts-a-step-by-step-guide-for-iphones/"><u>Retrieve Past Alerts: A Step-by-Step Guide for iPhones</u></a></li>
+<li><a href="https://driver-error.techidaily.com/revive-dormant-usb-to-serial-connections-on-os-wins/"><u>Revive Dormant USB to Serial Connections on OS WINS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-with-our-top-pick-the-amazing-eleegoo-neptune-4-pro-now-just-240-at-newegg/"><u>Save Big with Our Top Pick - The Amazing Eleegoo Neptune 4 Pro, Now Just $240 at Newegg!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/secrets-to-successful-mov-file-recording-in-windows-10-for-2024/"><u>Secrets to Successful MOV File Recording in Windows 10 for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/stepwise-approach-to-unleash-creativity-with-your-logitech-webcam-for-2024/"><u>Stepwise Approach to Unleash Creativity with Your Logitech Webcam for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/streamlabs-obs-review-and-alternative-for-2024/"><u>Streamlabs OBS Review and Alternative for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-usb-sticks-ultimate-buyers-guide-2024/"><u>Top Rated USB Sticks - Ultimate Buyers Guide 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-non-spinning-gpu-fans/"><u>Troubleshooting Non-Spinning GPU Fans</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/ultimate-guide-to-best-video-chatting-solutions-pcphone/"><u>Ultimate Guide to Best Video Chatting Solutions (PC/Phone)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unparalleled-immersion-with-eizos-high-resolution-4k-display-for-2024/"><u>Unparalleled Immersion with EIZO’s High-Resolution 4K Display for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-prime-hdr-cameras-a-comprehensive-guide/"><u>Unveiling Prime HDR Cameras  A Comprehensive Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-a-beginners-guide-to-installing-kinemaster-on-mac-computers/"><u>Updated 2024 Approved A Beginners Guide to Installing KineMaster on Mac Computers</u></a></li>
+</ul></div>
