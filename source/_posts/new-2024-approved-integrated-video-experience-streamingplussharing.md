@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Integrated Video Experience  Streaming+Sharing\""
-date: 2024-09-02T14:27:07.276Z
-updated: 2024-09-03T14:27:07.276Z
+date: 2024-09-07T03:45:22.343Z
+updated: 2024-09-08T03:45:22.343Z
 tags: 
   - screen-recording
   - ai video
@@ -21,6 +21,12 @@ thumbnail: https://thmb.techidaily.com/bab43c6ebbd68c7b02aa8931b44c8b3c5cf156c7a
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Max Wales
 
  Mar 27, 2024• Proven solutions
@@ -31,6 +37,12 @@ In April 2015 Microsoft has launched [Office 365 Video](https://products.office.
 
 ![Microsoft Stream record video](https://images.wondershare.com/filmora/article-images/record-video-microsoft-stream.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * [Part 1: What is Microsoft Stream?](#part1)
 * [Part 2: What Can I Do with Microsoft Stream?](#part2)
 * [Part 3: How to Use Microsoft Stream?](#part3)
@@ -40,6 +52,24 @@ In April 2015 Microsoft has launched [Office 365 Video](https://products.office.
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -57,6 +87,12 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What is Microsoft Stream?
 
 Microsoft Stream is a corporate web-based YouTube-like platform that enables **companies** to easily share their videos online and protect their privacy at the same time. You can either use it as a stand-alone web-based application or through the Office 365 Video Enterprise subscription.
@@ -65,6 +101,12 @@ Microsoft Stream is designed to help **organizations, upload, share, and manage*
 
 ![Microsoft Stream](https://images.wondershare.com/filmora/article-images/microsoft-stream.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Can I Do with Microsoft Stream?
 
 Setting up an account on Microsoft Stream is a straightforward process that will take just a couple of minutes. After you've created an account, you will be able to record, upload and share videos, insert metadata, manage videos, or gain access to advanced video search options.
@@ -91,13 +133,16 @@ Before you go ahead and upload your first video to Microsoft Stream, there are j
 
 ![Microsoft Stream](https://images.wondershare.com/filmora/article-images/microsoft-strem.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 At the moment, there are no Android or iOS apps for Stream, but this doesn't mean you can't view videos on this platform from any web browser on any device, including Mac and PCs or Smartphones. You'll need a 64-bit Windows 7 or later OS if you want to use Microsoft Stream from a PC, while Mac owners must have 64-bit Mac OS 10.11 or later installed on their devices to use this platform.
 
 Here's how you can record, upload, and manage videos with Microsoft Stream.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Record Videos in Microsoft Stream?
 
 Capturing videos with Microsoft Stream requires you to install the inbuilt screen recorder on your computer. You can accomplish this by clicking on the Create menu and selecting the Record a Video option from your account.
@@ -110,19 +155,12 @@ To initiate the screencast, you'll have to repeat the steps you took to install 
 
 ![Microsoft Stream](https://images.wondershare.com/filmora/article-images/microsoft-stream-record-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Step 2 - Adjusting the video settings
 
 Once the screen recorder loads, you'll be able to select the area of the screen you want to capture, record audio from an external device, and record system audio.
 
 ![Microsoft Stream](https://images.wondershare.com/filmora/article-images/microsoft-stream-record-video-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 The limited scope of screen recording features also includes the system audio recording option and the feature that enables you to record the movement of your cursor. Don't start recording before you've adjusted all the settings following the demands of the video you're working on. Hold the Shift + F11 buttons to start recording or click on the big red Record button.
 
 #### Step 3 - Screencasting with Microsoft Stream
@@ -147,9 +185,6 @@ Head over to the Create menu, and click on the Upload a Video option. This actio
 
 ![Microsoft Stream](https://images.wondershare.com/filmora/article-images/microsoft-stream-upload-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Step 2 - Uploading a video to My Videos Page
 
 Click on the My Content menu, that is located next to Create menu, and select the My Videos option. Drag the files you want to upload to the designated area and drop them to start the upload.
@@ -157,7 +192,10 @@ Click on the My Content menu, that is located next to Create menu, and select th
 ![Microsoft Stream](https://images.wondershare.com/filmora/article-images/microsoft-stream-upload-video-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 You can also search for videos you already uploaded or alter the search criteria. Wait for the videos to be uploaded and then proceed to add a title, metadata, or even subtitles.
 
@@ -168,7 +206,10 @@ If you would like to add a video to a Group on the Microsoft Stream portal, simp
 ![Microsoft Stream](https://images.wondershare.com/filmora/article-images/microsoft-stream-upload-video-channel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 You can either upload a video from the group's the Highlights or Videos tab, and the videos will become available in the group after the upload is complete.
 
@@ -188,9 +229,6 @@ A thumbnail is like a video's profile picture, and the Microsoft Stream platform
 
 ![Microsoft Stream](https://images.wondershare.com/filmora/article-images/microsoft-stream-video-thumbnail.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 The video language option enables you to select the language spoken in the video. If the language of the video is supported by the portal, the closed caption file will be automatically created which improves the video's performance in the search results.
 
 **Privacy and Permissions**
@@ -211,6 +249,12 @@ Once you've edited the metadata, you can either click on the Publish Now or Shar
 
 The Share feature enables you to create a link, by sharing it on an enterprise social network such as Yammer. The link can then be used to share the video on all other social media. If you would like to make further adjustments to the video's metadata, you can do so by selecting the My Videos option in the My Content menu, and clicking on the Edit option.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Manage Videos in Microsoft Stream?
 
 All content you upload to Microsoft Stream will be displayed on My Videos page, and you can edit the metadata, filter, or browse through the videos as well as add videos to channels and groups. The portal enables you to sort out your videos based on different parameters such as view count or publish date, to name a few, which means that you can organize your video collection most functionally.
@@ -219,15 +263,18 @@ Editing metadata requires you to go to a group, channel, or My Videos page, clic
 
 Global administrators and group owners can change the settings of the groups they run. Name, descriptions, or the privacy status can be changed in all groups you manage, and the Delete option is also available if you want to erase a group. In order to do this, you only have to navigate to the group you're managing and click on the Settings icon.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Summary
 
 Microsoft Stream is still a young platform that facilitates corporate communications through videos. Its features include password protection and amazing sharing options that enable you to distribute a video to an entire company. However, the portal lacks some of the key tools that make communication within an organization easier. Stream's users can't capture webcam footage or broadcast live streams, but Microsoft has already announced that many upgrades are in store and that this business-oriented video sharing portal is going to continue to get better.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Max Wales
 
 Max Wales is a writer and a lover of all things video.

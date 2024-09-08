@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Getting Comfortable with Zoom  A Beginner’s Tutorial\""
-date: 2024-09-02T14:25:57.212Z
-updated: 2024-09-03T14:25:57.212Z
+date: 2024-09-07T03:45:23.523Z
+updated: 2024-09-08T03:45:23.523Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,12 @@ Zoom grants you access to all the tools you are going to need in order to manage
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -50,6 +56,12 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What is a Zoom Webinar?
 
 A webinar is simply an online seminar, but the term can also be used to denote collaborative services such as webcasts or peer-level web meetings. Zoom allows its users to purchase webinar add-ons that can have as many as 149 hosts and 10,000 attendees. Each of the plans enables the host or hosts to have an unlimited number of meetings, which means that you can run as many webinars as you want with Zoom.
@@ -58,6 +70,18 @@ The platform doesn’t allow its users to host webinars for free and you must pu
 
 ![Add Webinar to Zoom Plan](https://images.wondershare.com/filmora/article-images/add-webinar-on-zoom-pricing.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Furthermore, each of the available plans offers the cloud recording option, and you can get up to 3 TB of extra storage for an additional fee. Once you purchase a license you will also have to assign it to the owner of the Zoom account or the admin of a particular account. You can do this by heading over to the User Management menu and selecting the Users option. After you locate the user to which you would like to assign a webinar license, you should click on the Edit button at the end of the user’s row and click on the Webinar option in the Feature menu.
 
 ![Zoom Webinar Setting Editing](https://images.wondershare.com/filmora/article-images/zoom-webinar-setting-editing.jpg)
@@ -67,7 +91,16 @@ Optionally, you can choose the user’s role, specify their job title or add the
 Looking for some other webinar software? We’ve picked some of the best webinar software that you can use, you can check the [Best Webinar Software List here](https://tools.techidaily.com/wondershare/filmora/download/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Start a Webinar with Zoom?
 
@@ -94,7 +127,10 @@ The process of inviting panelists to a webinar is straightforward since you just
 ![Invite people to Zoom Webinar](https://images.wondershare.com/filmora/article-images/invite-people-to-zoom-webinar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Zoom allows you to invite up to a hundred panelists to a webinar, and you just have to add their names and emails to the corresponding boxes and click on the checkbox next to the Send invitation to all newly added panelists immediately option.
 
@@ -108,14 +144,8 @@ Hosts of webinars that require registration must send the registration link to a
 
 ![Start Scheduled Zoom Webinar](https://images.wondershare.com/filmora/article-images/start-scheduled-zoom-webinar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 To start a webinar, you should click on the Meetings tab, locate the webinar and click on the Start button.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How Do Attendees Join a Zoom Webinar?
 
 As an attendee of a Zoom webinar, you can either join a webinar through a registration link or manually. Once you completed the registration process, the host can send you a registration confirmation email that contains the join link, simply click on it to join the webinar you signed up for.
@@ -124,12 +154,21 @@ In some cases, you can also gain access to the join link from the registration c
 
 ![  Zoom Webinar Approve](https://images.wondershare.com/filmora/article-images/zoom-webinar-registration-approve.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Zoom offers the option to join a webinar manually, and you just have to locate the 9-digit webinar ID in the registration email, before signing in to your Zoom account from your computer or your Smartphone. Proceed to click on the Join a Meeting option, insert the 9-digit webinar ID and click Join. Provide your name and email address if the platform asks for this information and then click on the Join Webinar button.
 
 Webinar attendees can only interact with a webinar by raising their hands, chatting with the host and panelists or participating in Q&A panels.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## What is the Difference between a Zoom Meeting and a Zoom Webinar?
 
@@ -146,7 +185,10 @@ Anyone can set up a new webinar with Zoom, even if they have no previous experie
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Richard Bennett
 

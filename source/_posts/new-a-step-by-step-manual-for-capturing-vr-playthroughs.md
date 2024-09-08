@@ -1,7 +1,7 @@
 ---
 title: "\"[New] A Step-by-Step Manual for Capturing VR Playthroughs\""
-date: 2024-09-02T14:22:46.480Z
-updated: 2024-09-03T14:22:46.480Z
+date: 2024-09-07T03:45:27.073Z
+updated: 2024-09-08T03:45:27.073Z
 tags: 
   - screen-recording
   - ai video
@@ -15,6 +15,18 @@ keywords: "\"VR Playthrough Guide,VR Recording Tips,Virtual Reality Saves,VR Gam
 thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## A Step-by-Step Manual for Capturing VR Playthroughs
 
 There is a steady shift in the gaming world from 2D games to VR games. Virtual reality makes the gameplay interesting by involving the real-life aspects. The scope of VR games in the gaming community is absolutely immensely and it is currently at its starting phase. If you are into VR games, you should record VR gameplay and upload on online platforms to get first mover advantage.
@@ -31,136 +43,12 @@ Way 4. [Record VR Gameplay on PS4](#part4)
 
 Way 5. [Use Nvidia to Record VR Games](#part5)
 
-## Way 1\. Record VR Gameplay with Filmora
-
-Wondershare Filmora [video recorder](https://tools.techidaily.com/wondershare/filmora/download/) is best VR recording software available. You can record virtual reality gameplay as well as edit the recorded gameplay before uploading on any online platform. You can record high resolution and frame rate video so that everything gets captured with full detail. The editing options are ample for professional-quality video making that everyone will appreciate and make your video stand tall above all. Here are the steps on how to record VR gameplay with Wondershare Filmora.
-
-##### [Filmora Game Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Record game screen on PC and Mac with webcam
-
-Capture system amd micorphone audio simultaneously
-
-Edit video and audio with built-in tools
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Step 1: Install Filmora on your computer. Launch the software and select New Project option.
-
-![launch filmora](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
-
-Step 2: Go to Record > Record PC Screen option.
-
-Step 3: Select recording screen dimensions and you can also turn on microphone to record your commentary.
-
-![select vr game recording area](https://images.wondershare.com/filmora/article-images/vr-game-area-filmora.jpg)
-
-Step 4: Click on the Record button and you will get a few seconds to start playing VR game before recording starts.
-
-![recording vr game with filmora](https://images.wondershare.com/filmora/article-images/recording-vr-game-filmora.jpg)
-
-Step 5: Press F9 on your keyboard to stop recording and then you can edit the recorded video and export it to publish online.
-
-## Way 2\. Use VRCaptue to Record VR Games
-
-If you are playing VR games on Steam platform, you can record virtual reality gameplay for free. There are multiple ways available on Steam platform to record VR games and the best way is through VRCapture. You can download the app for free from Steam Store. You can start recording your VR gameplay instantly with a hotkey and there are standard customization and configuration options available. Here are the steps to record your gameplay with this Steam VR recorder.
-
-![vr capture recording](https://images.wondershare.com/filmora/article-images/vrcapture-recording.jpg)
-
- Step 1: Go to Steam Store. Download and install VRCapture utility.
-
-Step 2: Launch VRCapture before you start playing any Steam VR game.
-
-Step 3: After you open VRcapture, you can open VR game to prepare the screen.
-
-Step 4: To start recording, you can either click on Recording option or press Ctrl+F12 keys. You will get a few buffer seconds to switch to VR game and start recording.
-
-Step 5: To stop recording, press Ctrl+F12 keys.
-
-You can share the recorded video on YouTube. It is compatible with HTC Vive, Oculus Rift CV1 and DK2.
-
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
-## Way 3\. Record VR Game with OBS
-
-OBS Studio is an extremely popular software that gamers use to broadcast live stream of their gameplay on YouTube, Facebook and Twitch. The software is equally popular as a gameplay recorder. In fact, it is a great and free VR game recorder through which you can record your VR games flawlessly. You can record gameplay as well as game audio as well as microphone audio. The user interface is slightly complicated but here are the steps through which you can record your VR gameplay.
-
-![obs studio](https://images.wondershare.com/filmora/article-images/obs-screen-recorder.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
-Step 1: Download and install OBS on your computer.
-
-Step 2: Under Scenes tab, click on “+” button to create a new scene.
-
-Step 3: Under Sources tab, click on “+” button and select Display Capture option.
-
-Step 4: Under Controls tab, click on Start Recording option to start recording your VR gameplay.
-
-Step 5: Once your game is over, click on Stop Recording option under Controls tab.
-
-You will find the recorded VR game video under Videos folder on your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
-## Way 4\. Record VR Gameplay on PS4
-
-There is no doubt that playing VR games is more fun on gaming consoles than on computers. When you are playing VR games with your VR headset, it feels more natural to play the game from a gaming console rather than playing from a keyboard. If you use PlayStation 4 as your VR console, you can use the built-in recording option on PS4 to record virtual reality gameplay. Here are the steps you need to follow minutely.
-
-![ps 4](https://images.wondershare.com/filmora/article-images/set-recording-duration-ps4.jpg)
-
-Step 1: Turn on your PS4 and press the Share button.
-
-Step 2: Select Sharing and Broadcasts option and go to Length of Video Clip option.
-
-Step 3: Now, you should select the length of your gameplay recording as per requirement. You can choose from 30 seconds to an hour.
-
-Step 4: Go to Audio Sharing Settings and turn on “Include Mic Audio in Video Clips” option.
-
-Step 5: Open your VR game and start playing it. Press Share button on PS4 twice to start recording in the background. The recording will go on as per the duration you set in Step 3.
-
-Step 6: If you want to stop recording manually, press Share button twice.
-
-You will find the recorded clips under Capture Gallery option.
-
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-## Way 5\. Use Nvidia to Record VR Games
-
-If you have a gaming computer and you are using Nvidia graphic card, you can record VR games using VR game recorder ShadowPlay. It is important to note that ShadowPlay can only be used if you have Nvidia graphic card. Recording virtual reality gameplay with ShadowPlay is super simple. When you install graphic driver, Nvidia Geforce Experience gets automatically installed. You have to turn on ShadowPlay to capture VR gameplay. Here are the steps you have to follow minutely.
-
-![nvidia shadowplay](https://images.wondershare.com/filmora/article-images/shadowplay-highlights.jpg)
-
-Step 1: Open Nvidia Geforce Experience and go to Preferences.
-
-Step 2: Click on ShadowPlay and flip the switch to turn it on.
-
-Step 3: Turn on Allow Desktop Capture option from ShadowPlay tab.
-
-Step 4: Open VR game and press Alt+F9 to start recording.
-
-Step 5: To stop recording, press Alt+F9 again.
-
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Conclusion
-
-We have stated all the possible ways on how to record VR gameplay so that you can leave a long-lasting impression with your uploads on online platforms. Steam VR game players, PS4 users and Nvidia graphic card users can use their respective gameplay recorders. OBS Studio is a free platform VR gameplay recording but the best software is Filmora to capture VR gameplay and edit it like a pro.
-
-Way 2. [Use VRCaptue to Record VR Games](#part2)
-
-Way 3. [Record VR Game with OBS](#part3)
-
-Way 4. [Record VR Gameplay on PS4](#part4)
-
-Way 5. [Use Nvidia to Record VR Games](#part5)
-
 ## Way 1\. Record VR Gameplay with Filmora
 
 Wondershare Filmora [video recorder](https://tools.techidaily.com/wondershare/filmora/download/) is best VR recording software available. You can record virtual reality gameplay as well as edit the recorded gameplay before uploading on any online platform. You can record high resolution and frame rate video so that everything gets captured with full detail. The editing options are ample for professional-quality video making that everyone will appreciate and make your video stand tall above all. Here are the steps on how to record VR gameplay with Wondershare Filmora.
@@ -192,238 +80,247 @@ Step 4: Click on the Record button and you will get a few seconds to start playi
 Step 5: Press F9 on your keyboard to stop recording and then you can edit the recorded video and export it to publish online.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Way 2\. Use VRCaptue to Record VR Games
-
-If you are playing VR games on Steam platform, you can record virtual reality gameplay for free. There are multiple ways available on Steam platform to record VR games and the best way is through VRCapture. You can download the app for free from Steam Store. You can start recording your VR gameplay instantly with a hotkey and there are standard customization and configuration options available. Here are the steps to record your gameplay with this Steam VR recorder.
-
-![vr capture recording](https://images.wondershare.com/filmora/article-images/vrcapture-recording.jpg)
-
- Step 1: Go to Steam Store. Download and install VRCapture utility.
-
-Step 2: Launch VRCapture before you start playing any Steam VR game.
-
-Step 3: After you open VRcapture, you can open VR game to prepare the screen.
-
-Step 4: To start recording, you can either click on Recording option or press Ctrl+F12 keys. You will get a few buffer seconds to switch to VR game and start recording.
-
-Step 5: To stop recording, press Ctrl+F12 keys.
-
-You can share the recorded video on YouTube. It is compatible with HTC Vive, Oculus Rift CV1 and DK2.
-
-## Way 3\. Record VR Game with OBS
-
-OBS Studio is an extremely popular software that gamers use to broadcast live stream of their gameplay on YouTube, Facebook and Twitch. The software is equally popular as a gameplay recorder. In fact, it is a great and free VR game recorder through which you can record your VR games flawlessly. You can record gameplay as well as game audio as well as microphone audio. The user interface is slightly complicated but here are the steps through which you can record your VR gameplay.
-
-![obs studio](https://images.wondershare.com/filmora/article-images/obs-screen-recorder.jpg)
-
-Step 1: Download and install OBS on your computer.
-
-Step 2: Under Scenes tab, click on “+” button to create a new scene.
-
-Step 3: Under Sources tab, click on “+” button and select Display Capture option.
-
-Step 4: Under Controls tab, click on Start Recording option to start recording your VR gameplay.
-
-Step 5: Once your game is over, click on Stop Recording option under Controls tab.
-
-You will find the recorded VR game video under Videos folder on your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
-## Way 4\. Record VR Gameplay on PS4
-
-There is no doubt that playing VR games is more fun on gaming consoles than on computers. When you are playing VR games with your VR headset, it feels more natural to play the game from a gaming console rather than playing from a keyboard. If you use PlayStation 4 as your VR console, you can use the built-in recording option on PS4 to record virtual reality gameplay. Here are the steps you need to follow minutely.
-
-![ps 4](https://images.wondershare.com/filmora/article-images/set-recording-duration-ps4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-Step 1: Turn on your PS4 and press the Share button.
-
-Step 2: Select Sharing and Broadcasts option and go to Length of Video Clip option.
-
-Step 3: Now, you should select the length of your gameplay recording as per requirement. You can choose from 30 seconds to an hour.
-
-Step 4: Go to Audio Sharing Settings and turn on “Include Mic Audio in Video Clips” option.
-
-Step 5: Open your VR game and start playing it. Press Share button on PS4 twice to start recording in the background. The recording will go on as per the duration you set in Step 3.
-
-Step 6: If you want to stop recording manually, press Share button twice.
-
-You will find the recorded clips under Capture Gallery option.
-
-## Way 5\. Use Nvidia to Record VR Games
-
-If you have a gaming computer and you are using Nvidia graphic card, you can record VR games using VR game recorder ShadowPlay. It is important to note that ShadowPlay can only be used if you have Nvidia graphic card. Recording virtual reality gameplay with ShadowPlay is super simple. When you install graphic driver, Nvidia Geforce Experience gets automatically installed. You have to turn on ShadowPlay to capture VR gameplay. Here are the steps you have to follow minutely.
-
-![nvidia shadowplay](https://images.wondershare.com/filmora/article-images/shadowplay-highlights.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
-Step 1: Open Nvidia Geforce Experience and go to Preferences.
-
-Step 2: Click on ShadowPlay and flip the switch to turn it on.
-
-Step 3: Turn on Allow Desktop Capture option from ShadowPlay tab.
-
-Step 4: Open VR game and press Alt+F9 to start recording.
-
-Step 5: To stop recording, press Alt+F9 again.
-
-## Conclusion
-
-We have stated all the possible ways on how to record VR gameplay so that you can leave a long-lasting impression with your uploads on online platforms. Steam VR game players, PS4 users and Nvidia graphic card users can use their respective gameplay recorders. OBS Studio is a free platform VR gameplay recording but the best software is Filmora to capture VR gameplay and edit it like a pro.
-
-Way 2. [Use VRCaptue to Record VR Games](#part2)
-
-Way 3. [Record VR Game with OBS](#part3)
-
-Way 4. [Record VR Gameplay on PS4](#part4)
-
-Way 5. [Use Nvidia to Record VR Games](#part5)
-
-## Way 1\. Record VR Gameplay with Filmora
-
-Wondershare Filmora [video recorder](https://tools.techidaily.com/wondershare/filmora/download/) is best VR recording software available. You can record virtual reality gameplay as well as edit the recorded gameplay before uploading on any online platform. You can record high resolution and frame rate video so that everything gets captured with full detail. The editing options are ample for professional-quality video making that everyone will appreciate and make your video stand tall above all. Here are the steps on how to record VR gameplay with Wondershare Filmora.
-
-##### [Filmora Game Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Record game screen on PC and Mac with webcam
-
-Capture system amd micorphone audio simultaneously
-
-Edit video and audio with built-in tools
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Step 1: Install Filmora on your computer. Launch the software and select New Project option.
-
-![launch filmora](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
-Step 2: Go to Record > Record PC Screen option.
-
-Step 3: Select recording screen dimensions and you can also turn on microphone to record your commentary.
-
-![select vr game recording area](https://images.wondershare.com/filmora/article-images/vr-game-area-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
-Step 4: Click on the Record button and you will get a few seconds to start playing VR game before recording starts.
-
-![recording vr game with filmora](https://images.wondershare.com/filmora/article-images/recording-vr-game-filmora.jpg)
-
-Step 5: Press F9 on your keyboard to stop recording and then you can edit the recorded video and export it to publish online.
-
-## Way 2\. Use VRCaptue to Record VR Games
-
-If you are playing VR games on Steam platform, you can record virtual reality gameplay for free. There are multiple ways available on Steam platform to record VR games and the best way is through VRCapture. You can download the app for free from Steam Store. You can start recording your VR gameplay instantly with a hotkey and there are standard customization and configuration options available. Here are the steps to record your gameplay with this Steam VR recorder.
-
-![vr capture recording](https://images.wondershare.com/filmora/article-images/vrcapture-recording.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
- Step 1: Go to Steam Store. Download and install VRCapture utility.
-
-Step 2: Launch VRCapture before you start playing any Steam VR game.
-
-Step 3: After you open VRcapture, you can open VR game to prepare the screen.
-
-Step 4: To start recording, you can either click on Recording option or press Ctrl+F12 keys. You will get a few buffer seconds to switch to VR game and start recording.
-
-Step 5: To stop recording, press Ctrl+F12 keys.
-
-You can share the recorded video on YouTube. It is compatible with HTC Vive, Oculus Rift CV1 and DK2.
-
-## Way 3\. Record VR Game with OBS
-
-OBS Studio is an extremely popular software that gamers use to broadcast live stream of their gameplay on YouTube, Facebook and Twitch. The software is equally popular as a gameplay recorder. In fact, it is a great and free VR game recorder through which you can record your VR games flawlessly. You can record gameplay as well as game audio as well as microphone audio. The user interface is slightly complicated but here are the steps through which you can record your VR gameplay.
-
-![obs studio](https://images.wondershare.com/filmora/article-images/obs-screen-recorder.jpg)
-
-Step 1: Download and install OBS on your computer.
-
-Step 2: Under Scenes tab, click on “+” button to create a new scene.
-
-Step 3: Under Sources tab, click on “+” button and select Display Capture option.
-
-Step 4: Under Controls tab, click on Start Recording option to start recording your VR gameplay.
-
-Step 5: Once your game is over, click on Stop Recording option under Controls tab.
-
-You will find the recorded VR game video under Videos folder on your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Way 4\. Record VR Gameplay on PS4
-
-There is no doubt that playing VR games is more fun on gaming consoles than on computers. When you are playing VR games with your VR headset, it feels more natural to play the game from a gaming console rather than playing from a keyboard. If you use PlayStation 4 as your VR console, you can use the built-in recording option on PS4 to record virtual reality gameplay. Here are the steps you need to follow minutely.
-
-![ps 4](https://images.wondershare.com/filmora/article-images/set-recording-duration-ps4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-Step 1: Turn on your PS4 and press the Share button.
-
-Step 2: Select Sharing and Broadcasts option and go to Length of Video Clip option.
-
-Step 3: Now, you should select the length of your gameplay recording as per requirement. You can choose from 30 seconds to an hour.
-
-Step 4: Go to Audio Sharing Settings and turn on “Include Mic Audio in Video Clips” option.
-
-Step 5: Open your VR game and start playing it. Press Share button on PS4 twice to start recording in the background. The recording will go on as per the duration you set in Step 3.
-
-Step 6: If you want to stop recording manually, press Share button twice.
-
-You will find the recorded clips under Capture Gallery option.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
-## Way 5\. Use Nvidia to Record VR Games
-
-If you have a gaming computer and you are using Nvidia graphic card, you can record VR games using VR game recorder ShadowPlay. It is important to note that ShadowPlay can only be used if you have Nvidia graphic card. Recording virtual reality gameplay with ShadowPlay is super simple. When you install graphic driver, Nvidia Geforce Experience gets automatically installed. You have to turn on ShadowPlay to capture VR gameplay. Here are the steps you have to follow minutely.
-
-![nvidia shadowplay](https://images.wondershare.com/filmora/article-images/shadowplay-highlights.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+## Way 2\. Use VRCaptue to Record VR Games
+
+If you are playing VR games on Steam platform, you can record virtual reality gameplay for free. There are multiple ways available on Steam platform to record VR games and the best way is through VRCapture. You can download the app for free from Steam Store. You can start recording your VR gameplay instantly with a hotkey and there are standard customization and configuration options available. Here are the steps to record your gameplay with this Steam VR recorder.
+
+![vr capture recording](https://images.wondershare.com/filmora/article-images/vrcapture-recording.jpg)
+
+ Step 1: Go to Steam Store. Download and install VRCapture utility.
+
+Step 2: Launch VRCapture before you start playing any Steam VR game.
+
+Step 3: After you open VRcapture, you can open VR game to prepare the screen.
+
+Step 4: To start recording, you can either click on Recording option or press Ctrl+F12 keys. You will get a few buffer seconds to switch to VR game and start recording.
+
+Step 5: To stop recording, press Ctrl+F12 keys.
+
+You can share the recorded video on YouTube. It is compatible with HTC Vive, Oculus Rift CV1 and DK2.
+
+## Way 3\. Record VR Game with OBS
+
+OBS Studio is an extremely popular software that gamers use to broadcast live stream of their gameplay on YouTube, Facebook and Twitch. The software is equally popular as a gameplay recorder. In fact, it is a great and free VR game recorder through which you can record your VR games flawlessly. You can record gameplay as well as game audio as well as microphone audio. The user interface is slightly complicated but here are the steps through which you can record your VR gameplay.
+
+![obs studio](https://images.wondershare.com/filmora/article-images/obs-screen-recorder.jpg)
+
+Step 1: Download and install OBS on your computer.
+
+Step 2: Under Scenes tab, click on “+” button to create a new scene.
+
+Step 3: Under Sources tab, click on “+” button and select Display Capture option.
+
+Step 4: Under Controls tab, click on Start Recording option to start recording your VR gameplay.
+
+Step 5: Once your game is over, click on Stop Recording option under Controls tab.
+
+You will find the recorded VR game video under Videos folder on your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Way 4\. Record VR Gameplay on PS4
+
+There is no doubt that playing VR games is more fun on gaming consoles than on computers. When you are playing VR games with your VR headset, it feels more natural to play the game from a gaming console rather than playing from a keyboard. If you use PlayStation 4 as your VR console, you can use the built-in recording option on PS4 to record virtual reality gameplay. Here are the steps you need to follow minutely.
+
+![ps 4](https://images.wondershare.com/filmora/article-images/set-recording-duration-ps4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Step 1: Turn on your PS4 and press the Share button.
+
+Step 2: Select Sharing and Broadcasts option and go to Length of Video Clip option.
+
+Step 3: Now, you should select the length of your gameplay recording as per requirement. You can choose from 30 seconds to an hour.
+
+Step 4: Go to Audio Sharing Settings and turn on “Include Mic Audio in Video Clips” option.
+
+Step 5: Open your VR game and start playing it. Press Share button on PS4 twice to start recording in the background. The recording will go on as per the duration you set in Step 3.
+
+Step 6: If you want to stop recording manually, press Share button twice.
+
+You will find the recorded clips under Capture Gallery option.
+
+## Way 5\. Use Nvidia to Record VR Games
+
+If you have a gaming computer and you are using Nvidia graphic card, you can record VR games using VR game recorder ShadowPlay. It is important to note that ShadowPlay can only be used if you have Nvidia graphic card. Recording virtual reality gameplay with ShadowPlay is super simple. When you install graphic driver, Nvidia Geforce Experience gets automatically installed. You have to turn on ShadowPlay to capture VR gameplay. Here are the steps you have to follow minutely.
+
+![nvidia shadowplay](https://images.wondershare.com/filmora/article-images/shadowplay-highlights.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Step 1: Open Nvidia Geforce Experience and go to Preferences.
+
+Step 2: Click on ShadowPlay and flip the switch to turn it on.
+
+Step 3: Turn on Allow Desktop Capture option from ShadowPlay tab.
+
+Step 4: Open VR game and press Alt+F9 to start recording.
+
+Step 5: To stop recording, press Alt+F9 again.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Conclusion
+
+We have stated all the possible ways on how to record VR gameplay so that you can leave a long-lasting impression with your uploads on online platforms. Steam VR game players, PS4 users and Nvidia graphic card users can use their respective gameplay recorders. OBS Studio is a free platform VR gameplay recording but the best software is Filmora to capture VR gameplay and edit it like a pro.
+
+Way 2. [Use VRCaptue to Record VR Games](#part2)
+
+Way 3. [Record VR Game with OBS](#part3)
+
+Way 4. [Record VR Gameplay on PS4](#part4)
+
+Way 5. [Use Nvidia to Record VR Games](#part5)
+
+## Way 1\. Record VR Gameplay with Filmora
+
+Wondershare Filmora [video recorder](https://tools.techidaily.com/wondershare/filmora/download/) is best VR recording software available. You can record virtual reality gameplay as well as edit the recorded gameplay before uploading on any online platform. You can record high resolution and frame rate video so that everything gets captured with full detail. The editing options are ample for professional-quality video making that everyone will appreciate and make your video stand tall above all. Here are the steps on how to record VR gameplay with Wondershare Filmora.
+
+##### [Filmora Game Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Record game screen on PC and Mac with webcam
+
+Capture system amd micorphone audio simultaneously
+
+Edit video and audio with built-in tools
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Step 1: Install Filmora on your computer. Launch the software and select New Project option.
+
+![launch filmora](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Step 2: Go to Record > Record PC Screen option.
+
+Step 3: Select recording screen dimensions and you can also turn on microphone to record your commentary.
+
+![select vr game recording area](https://images.wondershare.com/filmora/article-images/vr-game-area-filmora.jpg)
+
+Step 4: Click on the Record button and you will get a few seconds to start playing VR game before recording starts.
+
+![recording vr game with filmora](https://images.wondershare.com/filmora/article-images/recording-vr-game-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Step 5: Press F9 on your keyboard to stop recording and then you can edit the recorded video and export it to publish online.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Way 2\. Use VRCaptue to Record VR Games
+
+If you are playing VR games on Steam platform, you can record virtual reality gameplay for free. There are multiple ways available on Steam platform to record VR games and the best way is through VRCapture. You can download the app for free from Steam Store. You can start recording your VR gameplay instantly with a hotkey and there are standard customization and configuration options available. Here are the steps to record your gameplay with this Steam VR recorder.
+
+![vr capture recording](https://images.wondershare.com/filmora/article-images/vrcapture-recording.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Step 1: Go to Steam Store. Download and install VRCapture utility.
+
+Step 2: Launch VRCapture before you start playing any Steam VR game.
+
+Step 3: After you open VRcapture, you can open VR game to prepare the screen.
+
+Step 4: To start recording, you can either click on Recording option or press Ctrl+F12 keys. You will get a few buffer seconds to switch to VR game and start recording.
+
+Step 5: To stop recording, press Ctrl+F12 keys.
+
+You can share the recorded video on YouTube. It is compatible with HTC Vive, Oculus Rift CV1 and DK2.
+
+## Way 3\. Record VR Game with OBS
+
+OBS Studio is an extremely popular software that gamers use to broadcast live stream of their gameplay on YouTube, Facebook and Twitch. The software is equally popular as a gameplay recorder. In fact, it is a great and free VR game recorder through which you can record your VR games flawlessly. You can record gameplay as well as game audio as well as microphone audio. The user interface is slightly complicated but here are the steps through which you can record your VR gameplay.
+
+![obs studio](https://images.wondershare.com/filmora/article-images/obs-screen-recorder.jpg)
+
+Step 1: Download and install OBS on your computer.
+
+Step 2: Under Scenes tab, click on “+” button to create a new scene.
+
+Step 3: Under Sources tab, click on “+” button and select Display Capture option.
+
+Step 4: Under Controls tab, click on Start Recording option to start recording your VR gameplay.
+
+Step 5: Once your game is over, click on Stop Recording option under Controls tab.
+
+You will find the recorded VR game video under Videos folder on your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Way 4\. Record VR Gameplay on PS4
+
+There is no doubt that playing VR games is more fun on gaming consoles than on computers. When you are playing VR games with your VR headset, it feels more natural to play the game from a gaming console rather than playing from a keyboard. If you use PlayStation 4 as your VR console, you can use the built-in recording option on PS4 to record virtual reality gameplay. Here are the steps you need to follow minutely.
+
+![ps 4](https://images.wondershare.com/filmora/article-images/set-recording-duration-ps4.jpg)
+
+Step 1: Turn on your PS4 and press the Share button.
+
+Step 2: Select Sharing and Broadcasts option and go to Length of Video Clip option.
+
+Step 3: Now, you should select the length of your gameplay recording as per requirement. You can choose from 30 seconds to an hour.
+
+Step 4: Go to Audio Sharing Settings and turn on “Include Mic Audio in Video Clips” option.
+
+Step 5: Open your VR game and start playing it. Press Share button on PS4 twice to start recording in the background. The recording will go on as per the duration you set in Step 3.
+
+Step 6: If you want to stop recording manually, press Share button twice.
+
+You will find the recorded clips under Capture Gallery option.
+
+## Way 5\. Use Nvidia to Record VR Games
+
+If you have a gaming computer and you are using Nvidia graphic card, you can record VR games using VR game recorder ShadowPlay. It is important to note that ShadowPlay can only be used if you have Nvidia graphic card. Recording virtual reality gameplay with ShadowPlay is super simple. When you install graphic driver, Nvidia Geforce Experience gets automatically installed. You have to turn on ShadowPlay to capture VR gameplay. Here are the steps you have to follow minutely.
+
+![nvidia shadowplay](https://images.wondershare.com/filmora/article-images/shadowplay-highlights.jpg)
+
 Step 1: Open Nvidia Geforce Experience and go to Preferences.
 
 Step 2: Click on ShadowPlay and flip the switch to turn it on.
@@ -464,6 +361,12 @@ Step 1: Install Filmora on your computer. Launch the software and select New Pro
 
 ![launch filmora](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 2: Go to Record > Record PC Screen option.
 
 Step 3: Select recording screen dimensions and you can also turn on microphone to record your commentary.
@@ -471,14 +374,20 @@ Step 3: Select recording screen dimensions and you can also turn on microphone t
 ![select vr game recording area](https://images.wondershare.com/filmora/article-images/vr-game-area-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Step 4: Click on the Record button and you will get a few seconds to start playing VR game before recording starts.
 
 ![recording vr game with filmora](https://images.wondershare.com/filmora/article-images/recording-vr-game-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Step 5: Press F9 on your keyboard to stop recording and then you can edit the recorded video and export it to publish online.
 
@@ -488,9 +397,6 @@ If you are playing VR games on Steam platform, you can record virtual reality ga
 
 ![vr capture recording](https://images.wondershare.com/filmora/article-images/vrcapture-recording.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
  Step 1: Go to Steam Store. Download and install VRCapture utility.
 
 Step 2: Launch VRCapture before you start playing any Steam VR game.
@@ -503,6 +409,180 @@ Step 5: To stop recording, press Ctrl+F12 keys.
 
 You can share the recorded video on YouTube. It is compatible with HTC Vive, Oculus Rift CV1 and DK2.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Way 3\. Record VR Game with OBS
+
+OBS Studio is an extremely popular software that gamers use to broadcast live stream of their gameplay on YouTube, Facebook and Twitch. The software is equally popular as a gameplay recorder. In fact, it is a great and free VR game recorder through which you can record your VR games flawlessly. You can record gameplay as well as game audio as well as microphone audio. The user interface is slightly complicated but here are the steps through which you can record your VR gameplay.
+
+![obs studio](https://images.wondershare.com/filmora/article-images/obs-screen-recorder.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Step 1: Download and install OBS on your computer.
+
+Step 2: Under Scenes tab, click on “+” button to create a new scene.
+
+Step 3: Under Sources tab, click on “+” button and select Display Capture option.
+
+Step 4: Under Controls tab, click on Start Recording option to start recording your VR gameplay.
+
+Step 5: Once your game is over, click on Stop Recording option under Controls tab.
+
+You will find the recorded VR game video under Videos folder on your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Way 4\. Record VR Gameplay on PS4
+
+There is no doubt that playing VR games is more fun on gaming consoles than on computers. When you are playing VR games with your VR headset, it feels more natural to play the game from a gaming console rather than playing from a keyboard. If you use PlayStation 4 as your VR console, you can use the built-in recording option on PS4 to record virtual reality gameplay. Here are the steps you need to follow minutely.
+
+![ps 4](https://images.wondershare.com/filmora/article-images/set-recording-duration-ps4.jpg)
+
+Step 1: Turn on your PS4 and press the Share button.
+
+Step 2: Select Sharing and Broadcasts option and go to Length of Video Clip option.
+
+Step 3: Now, you should select the length of your gameplay recording as per requirement. You can choose from 30 seconds to an hour.
+
+Step 4: Go to Audio Sharing Settings and turn on “Include Mic Audio in Video Clips” option.
+
+Step 5: Open your VR game and start playing it. Press Share button on PS4 twice to start recording in the background. The recording will go on as per the duration you set in Step 3.
+
+Step 6: If you want to stop recording manually, press Share button twice.
+
+You will find the recorded clips under Capture Gallery option.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Way 5\. Use Nvidia to Record VR Games
+
+If you have a gaming computer and you are using Nvidia graphic card, you can record VR games using VR game recorder ShadowPlay. It is important to note that ShadowPlay can only be used if you have Nvidia graphic card. Recording virtual reality gameplay with ShadowPlay is super simple. When you install graphic driver, Nvidia Geforce Experience gets automatically installed. You have to turn on ShadowPlay to capture VR gameplay. Here are the steps you have to follow minutely.
+
+![nvidia shadowplay](https://images.wondershare.com/filmora/article-images/shadowplay-highlights.jpg)
+
+Step 1: Open Nvidia Geforce Experience and go to Preferences.
+
+Step 2: Click on ShadowPlay and flip the switch to turn it on.
+
+Step 3: Turn on Allow Desktop Capture option from ShadowPlay tab.
+
+Step 4: Open VR game and press Alt+F9 to start recording.
+
+Step 5: To stop recording, press Alt+F9 again.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Conclusion
+
+We have stated all the possible ways on how to record VR gameplay so that you can leave a long-lasting impression with your uploads on online platforms. Steam VR game players, PS4 users and Nvidia graphic card users can use their respective gameplay recorders. OBS Studio is a free platform VR gameplay recording but the best software is Filmora to capture VR gameplay and edit it like a pro.
+
+Way 2. [Use VRCaptue to Record VR Games](#part2)
+
+Way 3. [Record VR Game with OBS](#part3)
+
+Way 4. [Record VR Gameplay on PS4](#part4)
+
+Way 5. [Use Nvidia to Record VR Games](#part5)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Way 1\. Record VR Gameplay with Filmora
+
+Wondershare Filmora [video recorder](https://tools.techidaily.com/wondershare/filmora/download/) is best VR recording software available. You can record virtual reality gameplay as well as edit the recorded gameplay before uploading on any online platform. You can record high resolution and frame rate video so that everything gets captured with full detail. The editing options are ample for professional-quality video making that everyone will appreciate and make your video stand tall above all. Here are the steps on how to record VR gameplay with Wondershare Filmora.
+
+##### [Filmora Game Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Record game screen on PC and Mac with webcam
+
+Capture system amd micorphone audio simultaneously
+
+Edit video and audio with built-in tools
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Step 1: Install Filmora on your computer. Launch the software and select New Project option.
+
+![launch filmora](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
+
+Step 2: Go to Record > Record PC Screen option.
+
+Step 3: Select recording screen dimensions and you can also turn on microphone to record your commentary.
+
+![select vr game recording area](https://images.wondershare.com/filmora/article-images/vr-game-area-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Step 4: Click on the Record button and you will get a few seconds to start playing VR game before recording starts.
+
+![recording vr game with filmora](https://images.wondershare.com/filmora/article-images/recording-vr-game-filmora.jpg)
+
+Step 5: Press F9 on your keyboard to stop recording and then you can edit the recorded video and export it to publish online.
+
+## Way 2\. Use VRCaptue to Record VR Games
+
+If you are playing VR games on Steam platform, you can record virtual reality gameplay for free. There are multiple ways available on Steam platform to record VR games and the best way is through VRCapture. You can download the app for free from Steam Store. You can start recording your VR gameplay instantly with a hotkey and there are standard customization and configuration options available. Here are the steps to record your gameplay with this Steam VR recorder.
+
+![vr capture recording](https://images.wondershare.com/filmora/article-images/vrcapture-recording.jpg)
+
+ Step 1: Go to Steam Store. Download and install VRCapture utility.
+
+Step 2: Launch VRCapture before you start playing any Steam VR game.
+
+Step 3: After you open VRcapture, you can open VR game to prepare the screen.
+
+Step 4: To start recording, you can either click on Recording option or press Ctrl+F12 keys. You will get a few buffer seconds to switch to VR game and start recording.
+
+Step 5: To stop recording, press Ctrl+F12 keys.
+
+You can share the recorded video on YouTube. It is compatible with HTC Vive, Oculus Rift CV1 and DK2.
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Way 3\. Record VR Game with OBS
 
 OBS Studio is an extremely popular software that gamers use to broadcast live stream of their gameplay on YouTube, Facebook and Twitch. The software is equally popular as a gameplay recorder. In fact, it is a great and free VR game recorder through which you can record your VR games flawlessly. You can record gameplay as well as game audio as well as microphone audio. The user interface is slightly complicated but here are the steps through which you can record your VR gameplay.
@@ -522,7 +602,10 @@ Step 5: Once your game is over, click on Stop Recording option under Controls ta
 You will find the recorded VR game video under Videos folder on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Way 4\. Record VR Gameplay on PS4
 
@@ -560,9 +643,6 @@ Step 4: Open VR game and press Alt+F9 to start recording.
 
 Step 5: To stop recording, press Alt+F9 again.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 We have stated all the possible ways on how to record VR gameplay so that you can leave a long-lasting impression with your uploads on online platforms. Steam VR game players, PS4 users and Nvidia graphic card users can use their respective gameplay recorders. OBS Studio is a free platform VR gameplay recording but the best software is Filmora to capture VR gameplay and edit it like a pro.
