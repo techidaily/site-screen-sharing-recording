@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Essential Budget Gaming Hardware  The Ultimate Keyboard List\""
-date: 2024-09-16T18:00:41.612Z
-updated: 2024-09-18T21:13:15.970Z
+date: 2024-09-16T17:08:05.040Z
+updated: 2024-09-23T20:38:17.835Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,13 @@ Its typing quality is low
 
 The ABS keycaps are slick and unstable, which leads to inadvertent key presses
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2.EVGA Z12
 
 ![evga-z12](https://images.wondershare.com/filmora/article-images/evga-z12.png)
@@ -109,6 +116,19 @@ It's a straightforward keyboard with excellent ergonomics and comfy wrist rest.
 The keys are too touchy for typing.
 
 Keys can be noisy in a noisy setting.
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5.Corsair K63
 
@@ -192,16 +212,16 @@ The best inexpensive keyboard you can buy.
 
 The keyboard also lacks onboard memory
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4.Z15 EVGA
 
 ![z15-evga](https://images.wondershare.com/filmora/article-images/z15-evga.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The EVGA Z15 is the best gaming keyboard under 100$ with mechanical keys that we've tested. It's an excellent gaming keyboard featuring a few extra functions to enhance your gaming experience. It's full-size, with a sturdy frame and superior quality finishing, but still, ABS keycaps aren't as comfortable as PBT.
 
@@ -260,10 +280,16 @@ Its typing quality is low
 The ABS keycaps are slick and unstable, which leads to inadvertent key presses
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2.EVGA Z12
@@ -271,10 +297,10 @@ The ABS keycaps are slick and unstable, which leads to inadvertent key presses
 ![evga-z12](https://images.wondershare.com/filmora/article-images/evga-z12.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Look at the EVGA Z12 if you want something even cheaper. The unique EVGA Waterproof rubber dome buttons are lighter to push than Corsair RBG K55 PRO XT. Therefore gaming isn't as responsive. They have a smaller pre-travel distance, which means they type more accurately. This is a good option if you are searching for the best gaming keyboard under 100$.
@@ -299,6 +325,13 @@ Gaming isn't as responsive.
 
 ![g413-logitech](https://images.wondershare.com/filmora/article-images/g413-logitech.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 A good keyboard with excellent gaming performance should appeal to the majority of entry-level gamers. We can say Logitech's G413 is the best gaming keyboard under 100$. Despite its low price, it is well-made, with a plastic body and a strong metal top half so that you will have no problems with it.
 
 Only patented Romer-G Tactile switches are included, which feature a short pre-travel distance and provide excellent tactile feedback without being too heavy to write on. ABS keycaps feel pleasant to touch and seem to be solid. Thus the keyboard provides excellent typing quality. It offers minimal latency for gamers. Therefore you won't even notice any lag when playing. It features individually illuminated keys and illumination. However, it's only offered in red.
@@ -314,13 +347,6 @@ The best inexpensive keyboard you can buy.
 ##### Cons
 
 The keyboard also lacks onboard memory
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4.Z15 EVGA
 
@@ -366,6 +392,13 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 ![](https://neveragain.allstatics.com/2019/assets/image/box/filmora-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The Corsair K55 RGB PRO XT is the best gaming keyboard for under 100$ with non-mechanical buttons. It features rubber dome buttons, unlike most of the other keyboards on this list. They're a little heavier to push than traditional mechanical keyboards, and they don't provide the same haptic feedback, and they're still light enough to satisfy gamers.
 
 It's jam-packed with gaming features, including the ability to assign macros to any key and six additional macro keys just on the left side. It features complete RGB illumination and individually illuminated keys, which you can configure using the iCUE software, available for Windows and macOS. The latency is also quite minimal, which is fantastic. The keyboard includes one inclination setting and wrist rest. Thus it shouldn't be too tiring to use for extended gaming sessions.
@@ -383,10 +416,10 @@ Its typing quality is low
 The ABS keycaps are slick and unstable, which leads to inadvertent key presses
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2.EVGA Z12
@@ -499,15 +532,25 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-cutting-edge-approaches-to-in-game-auditory-logging/"><u>[New] 2024 Approved Cutting-Edge Approaches to In-Game Auditory Logging</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-explore-the-most-economical-video-conference-software-best-10-recommendations-for-business-and-education-for-2024/"><u>[New] Explore the Most Economical Video Conference Software Best 10 Recommendations for Business & Education for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-perfecting-profiles-how-to-embed-linktree-on-tiktok-seamlessly/"><u>[New] Perfecting Profiles How to Embed Linktree on TikTok Seamlessly</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/1715940851243-updated-in-2024-how-to-use-markers-in-video-recording-and-editing/"><u>[Updated] In 2024, How to Use Markers in Video Recording and Editing</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-comparative-review-dji-phantom-3-vs-competitors/"><u>2024 Approved Comparative Review DJI Phantom 3 vs Competitors</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-tomtom-bandit-camera-update-the-ultimate-guide/"><u>2024 Approved TomTom Bandit Camera Update – The Ultimate Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-hardware-with-toms-in-depth-reviews-and-buying-guides/"><u>Exploring Hardware with Tom's: In-Depth Reviews & Buying Guides</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-x100-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo X100 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/why-choosing-windows-11-is-a-wise-decision-over-macos/"><u>Why Choosing Windows 11 Is a Wise Decision over MacOS</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-best-smile-generator-for-memes/"><u>[New] Best Smile Generator for Memes</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-connect-to-googles-meeting-platform-a-guide/"><u>[New] Connect to Google's Meeting Platform A Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-icy-images-a-detailed-look-at-monitoring-summer-snacks-for-2024/"><u>[New] Icy Images A Detailed Look at Monitoring Summer Snacks for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-prime-cloud-call-recorder-pros/"><u>[New] Prime Cloud Call Recorder Pros</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-step-by-step-recording-slideshow-via-webcam-for-2024/"><u>[New] Step-by-Step Recording Slideshow via Webcam for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-unveiling-the-best-10-video-call-apps-for-iphone-and-android-users/"><u>[Updated] 2024 Approved Unveiling the Best 10 Video Call Apps for iPhone and Android Users</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-building-interactive-elements-a-guide-to-html-input-fields-for-2024/"><u>[Updated] Building Interactive Elements A Guide to HTML Input Fields for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-unlocking-the-potential-of-vocal-talent-for-engaging-videos/"><u>[Updated] In 2024, Unlocking the Potential of Vocal Talent for Engaging Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-comprehensive-blueprint-for-vimeo-video-logging/"><u>[Updated] The Comprehensive Blueprint for Vimeo Video Logging</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-zippyzoom-tortoisepic-timestretch-for-2024/"><u>[Updated] ZippyZoom TortoisePic TimeStretch for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-essential-mobile-games-for-leisurely-indulgence/"><u>2024 Approved Essential Mobile Games for Leisurely Indulgence</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-selecting-and-utilizing-top-6-gopro-attachments/"><u>2024 Approved The Ultimate Guide to Selecting & Utilizing Top 6 GOPRO Attachments</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-realme-c53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-hardware-analysis-with-toms-tech-corner/"><u>Expert Hardware Analysis with Tom's Tech Corner</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/impara-a-posizionare-i-testi-sotto-il-suo-filmato-mp4-in-modalita-fai-da-te/"><u>Impara a Posizionare I Testi Sotto Il Suo Filmato MP4 in Modalità Fai-Da-Te</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-quick-tips-how-to-record-and-keep-a-transcript-of-your-google-voice-calls/"><u>In 2024, Quick Tips How to Record and Keep a Transcript of Your Google Voice Calls</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/innovative-filmmaking-methods-for-multidevice-integration/"><u>Innovative Filmmaking Methods for Multidevice Integration</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/reliability-meets-convenience-the-ultimate-guide-to-the-sturdy-kensun-tire-inflator-for-easy-transportation/"><u>Reliability Meets Convenience: The Ultimate Guide to the Sturdy Kensun Tire Inflator for Easy Transportation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/translation-face-off-assessing-the-prowess-of-chatgpt-against-google-translate/"><u>Translation Face-Off: Assessing the Prowess of ChatGPT Against Google Translate</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unleashing-full-potential-the-ultimate-guide-to-upgrading-gameplay-on-your-windows-11-system/"><u>Unleashing Full Potential: The Ultimate Guide to Upgrading Gameplay on Your Windows 11 System</u></a></li>
 </ul></div>
 
