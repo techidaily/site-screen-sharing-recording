@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Steam's Switch Pro Controllers for 2024"
-date: 2024-09-19T20:36:48.537Z
-updated: 2024-09-23T17:22:01.532Z
+date: 2024-09-27T16:15:15.621Z
+updated: 2024-09-29T16:28:44.447Z
 tags: 
   - screen-recording
   - ai video
@@ -67,45 +67,38 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-syncing-button](https://images.wondershare.com/filmora/article-images/switch-pro-controller-syncing-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Right-click the Bluetooth icon in the system tray.
 
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * To add a Bluetooth device, click "Add Bluetooth Device."
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
 
 ![switch-pro-controller-setting-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-setting-up.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Once Steam is set up, you can begin using it.
 
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
 ![switch-pro-controller-steam-set-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The Best Way to make sure your Pro Controller works properly with your PC game is to use Steam's Big Picture mode, which uses a comfortable lean-back system to allow you to navigate.
 
@@ -120,6 +113,13 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **What To Do With Non-Steam Games?**
 
@@ -138,10 +138,10 @@ This is how you can use your switch pro controller with your PC. Now you can eas
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -158,5 +158,24 @@ Follow @Ollie Mattison
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-mastering-text-warping-techniques-in-photos-and-videos/"><u>[New] 2024 Approved Mastering Text Warping Techniques in Photos & Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-how-to-turn-discord-livestreams-into-lasting-digital-memories/"><u>[New] How to Turn Discord Livestreams Into Lasting Digital Memories</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-capture-your-screen-with-precision-and-orderly-guidance/"><u>[New] In 2024, Capture Your Screen with Precision and Orderly Guidance</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-maintaining-the-right-video-aspect-on-twitters-for-2024/"><u>[New] Maintaining the Right Video Aspect on Twitters for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-moziscreen-recording-solutions-for-2024/"><u>[New] MoziScreen Recording Solutions for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-streamline-your-recording-process-across-all-tech-platforms-for-2024/"><u>[New] Streamline Your Recording Process Across All Tech Platforms for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-mastering-nvidia-screenshot-capture/"><u>[Updated] 2024 Approved Mastering NVIDIA Screenshot Capture</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-controlling-bitrate-overload-in-obs-for-2024/"><u>[Updated] Controlling Bitrate Overload in OBS for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-leading-window-call-apps-2-1-sorted-for-2024/"><u>[Updated] Leading Window Call Apps, #2-#1 Sorted for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamline-your-experience-with-youtubes-comment-features/"><u>[Updated] Streamline Your Experience with YouTube's Comment Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-real-time-collaboration-via-xbox-zoom/"><u>[Updated] Unlocking Real-Time Collaboration via Xbox Zoom</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-arctic-athleticism-winter-olympics-spotlight-on-snowboard-cross-stars/"><u>In 2024, Arctic Athleticism Winter Olympics Spotlight on Snowboard Cross Stars</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-how-to-avoid-watermarks-in-stock-purchases/"><u>In 2024, How To Avoid Watermarks in Stock Purchases</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-15-pro-max-vs-samsung-s24-ultra-whats-the-difference/"><u>IPhone 15 Pro Max Vs. Samsung S24 Ultra: What's the Difference?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-definitive-12-tycoon-titles-unmissable-gaming-delights/"><u>The Definitive 12 Tycoon Titles - Unmissable Gaming Delights</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-resolving-issues-with-tekken-8-failure-to-start-on-pc/"><u>Troubleshooting Steps: Resolving Issues with Tekken 8 Failure to Start on PC</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-alcatel-joy-tab-review-your-go-to-budget-lte-tablet-options/"><u>Unveiling the Alcatel Joy Tab ² Review: Your Go-To Budget LTE Tablet Options</u></a></li>
+</ul></div>
 
