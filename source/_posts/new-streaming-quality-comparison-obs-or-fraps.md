@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Streaming Quality Comparison  OBS or Fraps?\""
-date: 2024-09-25T16:17:49.571Z
-updated: 2024-09-29T16:25:44.753Z
+date: 2024-10-03T22:24:38.295Z
+updated: 2024-10-05T00:29:49.442Z
 tags: 
   - screen-recording
   - ai video
@@ -42,13 +42,6 @@ Live Streaming: OBS supports live broadcasting of videos on various online platf
 
 Besides, the customizable hotkeys for different functions make the recording operating seamless.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fraps -
 
 Record Professional Videos: Fraps lets you record high-quality videos in 120 frames per second. You can even record 4K videos smoothly depending on your webcam or screen resolution. It will automatically optimize the bitrate so that there will be an improved quality video capture.
@@ -60,20 +53,13 @@ System Requirements – Fraps is compatible with the older version of Windows su
 Easy to use: Fraps comes with a clean and intuitive user interface. While recording, it shows you various useful parameters at one corner. You can customize various parameters for perfect recording.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. How To Use OBS Studio and Fraps -
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## OBS: Here are the steps on how to record video with OBS Studio
 
@@ -86,6 +72,13 @@ Step 2: Go to Scenes tab, click on “+” button to create a new scene. You can
 Step 3: Go to Sources tab, click on “+” button and select Display Capture option to capture your screen. If you want to capture from gaming console or external video capture device, select accordingly.
 
 ![obs launch display capture](https://images.wondershare.com/filmora/article-images/obs-launch-display-cature.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4: Go to Controls tab, click on Start Recording to start recording.
 
@@ -105,7 +98,27 @@ Step 3: Go to Movies tab and set the settings as required.
 
 ![fraps movies settings](https://images.wondershare.com/filmora/article-images/fraps-movies-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4: Open the screen that you want to record and press F9 to start recording with Fraps. To stop recording, press F9 key again.
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Comparison - Fraps vs OBS
 
@@ -145,16 +158,16 @@ Step 2: Customize the recording screen size and select the audio source as requi
 
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: Click on Record button to start recording. When you are done, press F9 key to stop recording. You can then edit the recording and export instantly.
 
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -169,10 +182,10 @@ Step 1: Download and install Wondershare Filmora as per you operating system and
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 2: Customize the recording screen size and select the audio source as required. , If you want to record your facecam at one corner, turn on Record the Camera Stream option.
@@ -195,13 +208,6 @@ Step 1: Download and install Wondershare Filmora as per you operating system and
 
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Customize the recording screen size and select the audio source as required. , If you want to record your facecam at one corner, turn on Record the Camera Stream option.
 
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
@@ -211,10 +217,10 @@ Step 3: Click on Record button to start recording. When you are done, press F9 k
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -234,10 +240,10 @@ Step 2: Customize the recording screen size and select the audio source as requi
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 3: Click on Record button to start recording. When you are done, press F9 key to stop recording. You can then edit the recording and export instantly.
@@ -272,18 +278,16 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-allure-in-online-visuals-for-beauty/"><u>[New] 2024 Approved Crafting Allure in Online Visuals for Beauty</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-harmony-hub-capture-store-and-review-sounds/"><u>[New] Harmony Hub Capture, Store & Review Sounds</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-perfecting-video-captures-advanced-tips-for-your-laptop/"><u>[New] In 2024, Perfecting Video Captures Advanced Tips for Your Laptop</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/he-complete-guide-to-edit-your-video-with-youtube-studio-editor-for-2024/"><u>[New] The Complete Guide to Edit Your Video with YouTube Studio Editor for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-exploring-the-capabilities-of-logitechs-4k-pro-webcam/"><u>[Updated] 2024 Approved Exploring the Capabilities of Logitech's 4K Pro Webcam</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-uncovering-hidden-wellsprings-of-free-graphic-designs/"><u>[Updated] 2024 Approved Uncovering Hidden Wellsprings of Free Graphic Designs</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-best-screen-recorder-for-chrome-devices/"><u>[Updated] In 2024, Best Screen Recorder for Chrome Devices</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-screening-the-best-selecting-premium-macos-recording-apps/"><u>[Updated] In 2024, Screening the Best Selecting Premium macOS Recording Apps</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-maximize-your-viewing-experience-with-youtube-scaling-for-2024/"><u>[Updated] Maximize Your Viewing Experience with YouTube Scaling for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-5-mac-capture-programs-outperforming-bandicam-for-2024/"><u>[Updated] Top 5 Mac Capture Programs Outperforming Bandicam for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-zte-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best ZTE Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/opening-windows-secrets-with-precision/"><u>Opening Windows Secrets with Precision</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-5-mac-mkv-players-ranked/"><u>Top 5 Mac MKV Players Ranked</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-prime-5-racer-simulation-titles-to-play/"><u>[New] Prime 5 Racer Simulation Titles to Play</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-zombie-survival-quest-top-8-game-guide/"><u>[Updated] 2024 Approved Zombie Survival Quest - Top 8 Game Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-screen-recording-essentials-and-competitive-analyses-for-2024/"><u>[Updated] Screen Recording Essentials and Competitive Analyses for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1726227240281-pcx-movavi/"><u>無限可能性：線上免費PCX影像轉檔服務 - 美動士 (Movavi)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/elevating-computer-speed-the-cpu-update-path/"><u>Elevating Computer Speed: The CPU Update Path</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-chromesnap-tracker-os-level-recording/"><u>In 2024, ChromeSnap Tracker OS Level Recording</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-samsung-galaxy-a15-4g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Samsung Galaxy A15 4G Easily?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/perfect-your-windowsmac-call-records-with-15plus-tips-for-skype-users/"><u>Perfect Your Windows/Mac Call Records with 15+ Tips for Skype Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/proactive-methods-to-uncover-system-vulnerabilities/"><u>Proactive Methods to Uncover System Vulnerabilities</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/the-ultimate-how-to-full-restore-of-ios-devices-using-a-computer-macwindows/"><u>The Ultimate How-To: Full Restore of iOS Devices Using a Computer (Mac/Windows)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitter-reaction-videos-a-comprehensive-overview-for-2024/"><u>Twitter Reaction Videos A Comprehensive Overview for 2024</u></a></li>
 </ul></div>
 

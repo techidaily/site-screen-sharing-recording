@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Seamless Storytelling with On-Screen Annotations & Timestamps\""
-date: 2024-09-26T16:32:25.378Z
-updated: 2024-09-29T16:14:07.581Z
+date: 2024-09-29T21:20:06.993Z
+updated: 2024-10-04T21:07:45.809Z
 tags: 
   - screen-recording
   - ai video
@@ -54,10 +54,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Distinctions Between the Two Types of Markers
@@ -69,6 +69,13 @@ The **media markers** are the markers you can add directly to the video file you
 You can use them to mark a place in the screen recording you're not too happy with, or to highlight the part of the video clip that you intend on featuring in the final cut of the video you've created with Wondershare's screen capturing and screen recording software. By doing so you'll save time on going through all the material just to find a few seconds of footage that fit perfectly to your video.
 
 ![Filmora Scrn Markers](https://images.wondershare.com/filmora/article-images/filmora-scrn-markers.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The **timeline markers**, on the other hand, can only be added to a project once you've completed the recording session, during the post-production period. You can utilize them to highlight the parts of the video clip you want to remove from the final version of your video or to mark the spots on the timeline where you'd like to switch from one take to another.
 
@@ -88,10 +95,10 @@ For macOS 10.12 or later
 * [2\. How to Remove a Marker After Screen Recording](#filmora2)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. How to Add a Marker During Video Editing
@@ -112,13 +119,6 @@ Filmora lets you adjust your marker settings for your video. Right-click on the 
 
 ![access the modification option](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 3: Customize the Markers
 
 In the Marker Editor window, make relevant changes such as naming the marker, adding a comment in the **"Comment"** box, and changing the marker color.
@@ -137,18 +137,18 @@ Once you have finished editing your mistakes, it's important to remove the marke
 
 ![remove a marker](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In conclusion, markers are a valuable tool for video recording and editing. They can help editors keep track of important moments, make precise edits, and streamline your workflow. By utilizing markers effectively, you can save time and ensure a more polished final result. Furthermore, you can try to use Wondershare Filmora to incorporate markers into the screen recording and video editing process. It is a great way to enhance the quality and efficiency of your work greatly. So, don't hesitate to start using markers in your video recording and editing projects today with Filmora!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -166,21 +166,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-top-time-lapse-tools-the-finest-screen-recorders/"><u>[New] 2024 Approved TOP Time-Lapse Tools - The Finest Screen Recorders</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-is-itop-a-screencast-contender-worth-endorsing-for-2024/"><u>[New] Is ITop a Screencast Contender Worth Endorsing for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-managing-bitrate-in-obs-broadcasts/"><u>[New] Managing Bitrate in OBS Broadcasts</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-velocity-video-tape-echoes-included/"><u>[New] Velocity Video Tape Echoes Included</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-unleashing-the-potency-of-open-source-video-engines/"><u>[Updated] 2024 Approved Unleashing the Potency of Open Source Video Engines</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-explore-the-power-of-repeated-imagery-in-your-instagram-content/"><u>[Updated] Explore the Power of Repeated Imagery in Your Instagram Content</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-streamlining-your-zoom-collaboration-calendar/"><u>[Updated] Streamlining Your Zoom Collaboration Calendar</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-heroic-journeys-unleashed-the-premier-game-collection/"><u>2024 Approved Heroic Journeys Unleashed The Premier Game Collection</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/comprehensively-reviewing-top-10-no-cost-video-communication-apps-for-professional-and-academic-needs-for-2024/"><u>Comprehensively Reviewing Top 10 No-Cost Video Communication Apps for Professional and Academic Needs for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-max-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro Max to Android/iOS? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/improve-your-prospects-on-bumble-effective-ways-to-tackle-no-match-situations/"><u>Improve Your Prospects on Bumble: Effective Ways to Tackle 'No Match' Situations</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-iphone-13-mini-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On iPhone 13 mini?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-oppo-find-x7-ultra-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Oppo Find X7 Ultra to iPad | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/the-ultimate-selection-5-elite-webcams-with-audio-features/"><u>The Ultimate Selection 5 Elite Webcams With Audio Features</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-honor-x50-gt-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Honor X50 GT.</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-war-against-sse-windows-woes/"><u>Winning War Against SSE Windows Woes</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-master-the-art-of-discussion-in-google-meet-spaces/"><u>[New] 2024 Approved Master the Art of Discussion in Google Meet Spaces</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-tackling-toxicity-head-on-the-definitive-guide-to-reporting-users-on-discord/"><u>[New] Tackling Toxicity Head-On The Definitive Guide to Reporting Users on Discord</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-designing-direct-access-to-your-channels-subscribe-page-for-2024/"><u>[Updated] Designing Direct Access to Your Channel's Subscribe Page for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-how-to-record-desktop-on-windows-8-effortlessly/"><u>[Updated] In 2024, How To Record Desktop on Windows 8 Effortlessly</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pro-techniques-for-exceptional-iphone-hdr-results/"><u>[Updated] Pro Techniques for Exceptional iPhone HDR Results</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-3-ways-to-record-whatsapp-call/"><u>2024 Approved 3 Ways to Record WhatsApp Call</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-audio-experience-pcie-controller-update-on-windows-10/"><u>Elevate Audio Experience - PCIe Controller Update on Windows 10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhancing-collaboration-microsofts-latest-update-to-windows-11-share-feature/"><u>Enhancing Collaboration: Microsoft's Latest Update to Windows 11 Share Feature</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-novice-to-expert-kinemaster-gs-journey-for-2024/"><u>From Novice to Expert KineMaster GS Journey for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/high-def-showdown-top-8k-tvs-rated-and-reviewed/"><u>High-Def Showdown Top 8K TVs Rated and Reviewed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-how-to-enhance-your-photos-with-titled-content-win-11/"><u>In 2024, How to Enhance Your Photos with Titled Content (Win 11)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-honor-magic-6-lite-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Honor Magic 6 Lite Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-beginners-guide-to-webcam-use-and-recording-on-macbook-for-2024/"><u>The Beginner's Guide to Webcam Use and Recording on MacBook for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/unleash-gaming-potential-using-obs-recording-features/"><u>Unleash Gaming Potential - Using OBS Recording Features</u></a></li>
 </ul></div>
 

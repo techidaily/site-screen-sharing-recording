@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step Guide to Ken Burns Effect with Camtasia 9\""
-date: 2024-09-28T16:21:02.739Z
-updated: 2024-09-29T16:09:06.561Z
+date: 2024-09-30T00:41:52.057Z
+updated: 2024-10-04T22:01:14.348Z
 tags: 
   - screen-recording
   - ai video
@@ -53,10 +53,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -68,10 +68,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -99,16 +99,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -127,17 +121,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-discovering-the-most-trusted-mac-snipers/"><u>[New] In 2024, Discovering the Most Trusted Mac Snipers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-mastering-your-tech-skills-unlock-macs-full-screen-recording-power-with-shortcuts/"><u>[New] In 2024, Mastering Your Tech Skills Unlock Mac's Full Screen Recording Power with Shortcuts</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-quick-access-navigate-fast-with-tiktok/"><u>[New] In 2024, Quick Access Navigate Fast with TikTok</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-visual-data-harvester/"><u>[New] In 2024, Visual Data Harvester</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-record-review-repeat-unveiling-top-5-browser-screen-recorders-for-2024/"><u>[New] Record, Review, Repeat Unveiling Top 5 Browser Screen Recorders for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-pro-level-pc-webcam-recorders-tested-in-windows-11/"><u>2024 Approved Pro-Level PC Webcam Recorders Tested in Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/acemagic-admits-to-accidental-inclusion-of-spyware-in-their-just-released-lineup-of-mini-computers-limited-impact-confirmed/"><u>AceMagic Admits to Accidental Inclusion of Spyware in Their Just-Released Lineup of Mini Computers - Limited Impact Confirmed</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-comparing-leading-screen-recorder-software/"><u>In 2024, Comparing Leading Screen Recorder Software</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Infinix Smart 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/mastery-of-fb-instream-ad-setup-and-evaluation-techniques-in-digital-marketing/"><u>Mastery of FB Instream Ad Setup & Evaluation Techniques in Digital Marketing</u></a></li>
-<li><a href="https://facebook.techidaily.com/securing-sexts-metas-proactive-measures-online/"><u>Securing Sexts: Meta’s Proactive Measures Online</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/unleashing-potential-top-8-efficiency-boosters-for-social-media-tasks-for-2024/"><u>Unleashing Potential Top 8 Efficiency Boosters for Social Media Tasks for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-exploring-new-frontiers-in-gaming-recording-tech/"><u>[New] Exploring New Frontiers in Gaming Recording Tech</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-sidestep-the-norm-alternatives-to-vidma-screen-record/"><u>[Updated] 2024 Approved Sidestep the Norm Alternatives to Vidma Screen Record</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-from-raw-footage-crafting-engaging-videos-on-windows-11/"><u>[Updated] From Raw Footage Crafting Engaging Videos on Windows 11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-unlocking-creative-potential-a-deep-dive-into-screenflow-for-mac/"><u>[Updated] In 2024, Unlocking Creative Potential A Deep Dive Into ScreenFlow for Mac</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-precision-capturing-for-your-ps3-gaming-adventures/"><u>[Updated] Precision Capturing for Your PS3 Gaming Adventures</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-advanced-pip-setup-elevating-your-visual-presentations-on-macos/"><u>2024 Approved Advanced PIP Setup Elevating Your Visual Presentations on macOS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/infinity-refresh-top-5-hdmi-2ranetixx-gaming-screens-ps5/"><u>Infinity Refresh Top 5 HDMI 2Ranetixx Gaming Screens [PS5]</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-breaking-language-barriers-elevate-your-content-with-the-best-free-video-translator-apps-for-2024/"><u>New Breaking Language Barriers Elevate Your Content with the Best Free Video Translator Apps for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-sony-xperia-1-v-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Sony Xperia 1 V</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/streaming-software-showdown-the-ultimate-guide-to-obs-vs-shadowplay/"><u>Streaming Software Showdown The Ultimate Guide to OBS Vs. ShadowPlay</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/syncing-vimeo-and-instagram-the-ultimate-guide/"><u>Syncing Vimeo and Instagram The Ultimate Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/top-3ips-precision-audio-capture-solutions/"><u>Top 3iP's Precision Audio Capture Solutions</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-guide-to-splitting-videos-in-windows-live-movie-maker-for-beginners-for-2024/"><u>Updated The Ultimate Guide to Splitting Videos in Windows Live Movie Maker for Beginners for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Swiftly Swiveling  How to Improve Video Viewability in VLC for 2024\""
-date: 2024-09-25T16:18:22.745Z
-updated: 2024-09-29T16:27:13.766Z
+date: 2024-10-03T23:45:40.538Z
+updated: 2024-10-04T16:25:53.013Z
 tags: 
   - screen-recording
   - ai video
@@ -90,13 +90,6 @@ Step 3: From the menu, select Video Effects option.
 
 ![vlc video effects mac](https://images.wondershare.com/filmora/article-images/vlc-video-effects-mac.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4: From Video Effects window, check Transform option.
 
 Step 5: From the drop-down menu, select the option as per your requirement.
@@ -120,13 +113,6 @@ Step 2: Follow all the steps we have mentioned on Method 1 - How to rotate video
 Step 3: Thereafter, go to Tool menu and select Preferences option.
 
 ![vlc preferences](https://images.wondershare.com/filmora/article-images/vlc-preferences.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4: Under Advanced Preferences option, go to Video > Filters option from the left menu.
 
@@ -172,6 +158,13 @@ Step 3: Go to Export option and select the file format and set the other paramet
 
 ![shadowplay record button](https://images.wondershare.com/filmora/article-images/start-rotate-video-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now, you can check the destination folder to find the video file which is now permanently rotated.
 
 ## The Bottom Line
@@ -196,6 +189,13 @@ Embeded with rich video templates and resources
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1\. How to Rotate Video in VLC on Windows
 
 There are various reasons why you may want to rotate a video. It could be that the video has been taken at the wrong angle or you want to watch the video at a certain angle from a different perspective. The most common reason is that the video is taken in portrait mode and it looks small on your computer screen with black screen on both sides and you want to rotate the video to landscape mode. Here are the steps to perform VLC rotate video.
@@ -215,6 +215,13 @@ Step 5: Under Video Effects tab, go to Geometry tab.
 Step 6: Check Transform option and from the drop-down menu, select the required options.
 
 ![vlc adjustments and effects](https://images.wondershare.com/filmora/article-images/vlc-adjustments-effects.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The options available are – rotate by 90 degrees, 180 degrees, 270 degrees, flip horizontally or vertically, transport and anti-transpose.
 
@@ -332,6 +339,13 @@ Embeded with rich video templates and resources
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1\. How to Rotate Video in VLC on Windows
 
 There are various reasons why you may want to rotate a video. It could be that the video has been taken at the wrong angle or you want to watch the video at a certain angle from a different perspective. The most common reason is that the video is taken in portrait mode and it looks small on your computer screen with black screen on both sides and you want to rotate the video to landscape mode. Here are the steps to perform VLC rotate video.
@@ -388,6 +402,13 @@ Step 6: Once done, just close Video Effects window and the changes will get save
 
 Just like Windows, this rotation will automatically apply to all the videos you open thereafter. Therefore, you have to repeat the steps and uncheck Transform option to undo the rotation effect.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3\. How to Make the Rotation Permanent
 
 The previous methods of VLC player rotate video on Windows and Mac will not save the video in that rotated angle as displayed. This means if you rotate a video in VLC using the method we have mentioned above, you will see the rotated video momentarily. But if you open the video in another media player or VLC without rotation settings turned off, the video will be playing at the original angle. If you want VLC rotate video and save feature so that the video’s rotation angle changes permanently, take the following steps on Windows.
@@ -405,19 +426,6 @@ Step 4: Under Advanced Preferences option, go to Video > Filters option from the
 Step 5: Check Video transformation Filter option and click on Save button.
 
 ![vlc transformtation filters](https://images.wondershare.com/filmora/article-images/vlc-transformation-filters.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 6: Go to Media menu and click on Convert Save option.
 
@@ -460,10 +468,10 @@ Step 3: Go to Export option and select the file format and set the other paramet
 Now, you can check the destination folder to find the video file which is now permanently rotated.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Bottom Line
@@ -500,6 +508,13 @@ Step 3: Once the video opens, go to Tools > Effects and Filters option.
 
 ![vlc tools option](https://images.wondershare.com/filmora/article-images/vlc-tools-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4: From Adjustments and Effects window, go to Video Effects tab.
 
 Step 5: Under Video Effects tab, go to Geometry tab.
@@ -513,13 +528,6 @@ The options available are – rotate by 90 degrees, 180 degrees, 270 degrees, fl
 Step 7: If you want to rotate the video at any desired angle, you can check Rotate option and select the desired angle from the dial.
 
 ![vlc video effects](https://images.wondershare.com/filmora/article-images/vlc-video-effects.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 8: Finally, click on Save button and then on Close button.
 
@@ -539,13 +547,6 @@ Step 3: From the menu, select Video Effects option.
 
 ![vlc video effects mac](https://images.wondershare.com/filmora/article-images/vlc-video-effects-mac.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4: From Video Effects window, check Transform option.
 
 Step 5: From the drop-down menu, select the option as per your requirement.
@@ -559,10 +560,10 @@ Step 6: Once done, just close Video Effects window and the changes will get save
 Just like Windows, this rotation will automatically apply to all the videos you open thereafter. Therefore, you have to repeat the steps and uncheck Transform option to undo the rotation effect.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3\. How to Make the Rotation Permanent
@@ -576,13 +577,6 @@ Step 2: Follow all the steps we have mentioned on Method 1 - How to rotate video
 Step 3: Thereafter, go to Tool menu and select Preferences option.
 
 ![vlc preferences](https://images.wondershare.com/filmora/article-images/vlc-preferences.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4: Under Advanced Preferences option, go to Video > Filters option from the left menu.
 
@@ -658,22 +652,20 @@ VLC Media Player is a great tool to rotate any video at any desired angle. You c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-popular.techidaily.com/y-3-0x-5/"><u> [ Y - (-3) = 0(X - 5) </u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-cross-platform-filmography-syncing-smartphones-and-systems/"><u>[New] 2024 Approved Cross-Platform Filmography Syncing Smartphones and Systems</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-commanders-conclave-celebrating-the-best-of-7-total-wars-for-2024/"><u>[New] Commanders' Conclave Celebrating the Best of 7 Total Wars for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-final-cut-pro-x-achieving-perfect-vertical-video-for-instagram/"><u>[New] Final Cut Pro X Achieving Perfect Vertical Video for Instagram</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-from-live-demos-to-recordings-harness-ezvide-power/"><u>[New] From Live Demos to Recordings Harness EZvide Power</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-overwatch-video-preservation-techniques/"><u>[New] Mastering Overwatch Video Preservation Techniques</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-advanced-gopro-filmmaking-hacks/"><u>[Updated] 2024 Approved Advanced GoPro Filmmaking Hacks</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-step-in-step-approach-hulu-recording-tutorial-for-diverse-systems/"><u>[Updated] 2024 Approved Step-In-Step Approach Hulu Recording Tutorial for Diverse Systems</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-chuckle-and-sob-with-these-top-10-instagram-meme-collectives/"><u>[Updated] In 2024, Chuckle & Sob with These Top 10 Instagram Meme Collectives</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-players-picks-unveiling-our-top-10-adventure-classics/"><u>[Updated] Players' Picks Unveiling Our Top 10 Adventure Classics</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-screen-recording-on-macos-ahead-with-bandicam-or-camtasia-in-2024/"><u>[Updated] Screen Recording on MacOS Ahead with Bandicam or Camtasia, In 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-adobes-storage-mastery-and-the-hunt-for-top-non-adobe-backup-services/"><u>2024 Approved Unveiling Adobe's Storage Mastery & The Hunt for Top Non-Adobe Backup Services</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/dive-into-ai-with-these-9-foundational-toolsets-ideal-for-beginners/"><u>Dive Into AI with These 9 Foundational Toolsets Ideal for Beginners</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Vivo Y27 5G? | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-exploring-vidmas-screen-capture-tool/"><u>In 2024, Exploring Vidma's Screen Capture Tool</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-the-latest-epson-wf-2630-drivers-on-your-pc-running-windows-7-8-or-10-heres-how/"><u>Install the Latest Epson WF-2630 Drivers on Your PC Running Windows 7, 8, or 10 - Here's How!</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-vivo-v29-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-advanced-webcam-and-chat-software-rankings/"><u>[New] Advanced Webcam & Chat Software Rankings</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-empowering-video-content-with-advanced-aiseesoft-tech/"><u>[New] In 2024, Empowering Video Content with Advanced Aiseesoft Tech</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-seamless-audio-switch-from-srt-to-xmlssa-guide/"><u>[New] In 2024, Seamless Audio Switch From SRT to XML/SSA Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-mini-drone-winners-market-analysis-guide/"><u>[New] Mini Drone Winners Market Analysis Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-which-screen-recorder-excels-obs-or-fraps-in-2024/"><u>[New] Which Screen Recorder Excels OBS or Fraps, In 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-key-steps-for-flawless-audio-segmentation-for-2024/"><u>[Updated] Key Steps for Flawless Audio Segmentation for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-making-the-most-of-your-multi-image-story-sessions-on-insta/"><u>[Updated] Making the Most of Your Multi-Image Story Sessions on Insta</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-beyond-google-other-ar-sticker-solutions/"><u>2024 Approved Beyond Google Other AR Sticker Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/diy-troubleshooting-techniques-to-stop-robocop-rogue-city-from-crashing-on-your-computer/"><u>DIY Troubleshooting Techniques to Stop 'RoboCop: Rogue City' From Crashing on Your Computer</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/effortless-techniques-to-record-and-edit-with-screencastify-for-2024/"><u>Effortless Techniques to Record and Edit with Screencastify for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/epic-recordings-the-best-timelapse-software/"><u>Epic Recordings The Best Timelapse Software</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-device-based-digital-recording-pcmac-plus-phone-edition/"><u>In 2024, Device-Based Digital Recording PC/Mac + Phone Edition</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-window-wisdom-taking-precise-screen-captures/"><u>In 2024, Window Wisdom Taking Precise Screen Captures</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-safety-of-using-duckduckgo-what-you-need-to-know-about-this-private-search-service/"><u>The Safety of Using DuckDuckGo: What You Need to Know About This Private Search Service</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-mystery-understanding-bingchatgpt-scam-coins-and-detection-strategies/"><u>Unveiling the Mystery: Understanding BingChatGPT Scam Coins and Detection Strategies</u></a></li>
 </ul></div>
 
