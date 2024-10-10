@@ -1,7 +1,7 @@
 ---
 title: "Exploring Affordable Connectivity: A Comprehensive TP-Link Archer C9 Assessment"
-date: 2024-09-07T03:45:20.649Z
-updated: 2024-09-08T03:45:20.649Z
+date: 2024-10-04T04:09:38.687Z
+updated: 2024-10-10T08:08:35.188Z
 categories:
   - BestProducts
 description: "This Article Describes Exploring Affordable Connectivity: A Comprehensive TP-Link Archer C9 Assessment"
@@ -9,38 +9,14 @@ excerpt: "This Article Describes Exploring Affordable Connectivity: A Comprehens
 thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c5258568d2db4f80369dfe5ae67.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Experience Next-Level Gaming with the Affordable HP OMEN Obelisk - Comprehensive Analysis Inside
 
 4
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## HP Omen Obelisk
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/Szj7RCNucny4rfZ6uBlIf8pdeiE=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_HP-OMEN-Obelisk-Gaming-Desktop-Computer-1-56ba747009334162a328f46d8b4743af.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / Jonno Hill
 
  What We Like
@@ -61,12 +37,6 @@ Lifewire / Jonno Hill
 
 4
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## HP Omen Obelisk
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/ltgwwtDrSkLcZMSVU6VX1rKcbaA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_HP-OMEN-Obelisk-Gaming-Desktop-Computer-1-56ba747009334162a328f46d8b4743af.jpg)
@@ -99,7 +69,21 @@ Lifewire / Jonno Hill
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/OXMiCXvzh8P7esVvbjPoSorzoxM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-2-7b14850c2ca84af39d5fd116ab483d5d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Jonno Hill
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Design** : **Nice looks and small footprint, with many reservations**
 
@@ -126,11 +110,18 @@ Lifewire / Jonno Hill
  Lifewire / Jonno Hill
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Performance** :**Great components for gaming and productivity**
 
  The HP OMEN Obelisk that I tested featured a 9th Gen Intel Core i9 9900K, 32GB of RAM, a 1TB SSD, and the Nvidia GTX GeForce 2080 Super graphics card. This is a potent combination of components in a gaming PC, and I was appropriately impressed by the results.
@@ -139,12 +130,6 @@ Lifewire / Jonno Hill
 
  The Omen comes equipped with a 1TB[NVMe SSD](https://www.lifewire.com/what-is-m2-833453) and 32GB of DDR4 2666 memory. This is definitely more RAM than games alone will call for, but it’s merely an adequate amount of RAM for some creative professionals working with more demanding software like Adobe After Effects. Keep in mind though, even those that don’t normally need a lot of RAM can still benefit from having more. Among other things, it gives you the luxury of keeping all of your browser tabs and background applications running without having to start juggling applications on and off, which can be helpful from a productivity standpoint.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Gaming** :**Great for the most demanding titles**
 
  Gaming performance is great on the HP OMEN Obelisk thanks to the Nvidia GTX GeForce 2080 Super and Intel i9-9900K combo. I tested a number of games on my 3440x1440 monitor to get a sense of performance. To put this in perspective, this resolution is roughly 60 percent of the pixels of a 4K monitor.
@@ -159,31 +144,26 @@ Lifewire / Jonno Hill
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/Pz9tV-mhJl_Cjm8HSqEQ_VZPbVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-5-cdbd9d78a8c14b8e8bce0113d12e9fcc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Network** :**Great speeds, but software that doesn’t do much**
 
  The HP Omen Obelisk has gigabit LAN and a Wi-Fi 5 (2x2) networking, the latter supporting a maximum speed of 866 Mbps. Everything functioned smoothly from a networking standpoint during my tests.
 
  I made a point to try out the Network Booster software found in the OMEN Command Center and didn’t see anything tremendously useful, unfortunately. I tried setting the priority of Steam to “Low” and downloading a game, but the game still downloaded at my maximum internet speed. I took it one step further and toggled the “Block” option for Steam, and tried to resume the download, but Steam kept on downloading at the maximum speed. The software was successful in blocking Chrome when that option was switched on, however.
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Software: Just enough options**
 
@@ -202,6 +182,13 @@ Lifewire / Jonno Hill
  As far as I’m concerned, $200 is a perfectly reasonable premium to pay for a system that is already assembled and shipped to your door.
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/J3cZUfrEy-ALtFpRbDRhw7FZI8M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-4-f78d504d7bd348eca19b7e65b4d10289.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
 
@@ -236,14 +223,11 @@ Lifewire / Jonno Hill
 * Network  Wi-Fi 5 (2x2), Gigabit Ethernet, Bluetooth 4.2
 * Warranty  1 year limited
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -252,4 +236,22 @@ Lifewire / Jonno Hill
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-expertly-ranked-online-capturing-software-for-2024/"><u>[New] Expertly Ranked Online Capturing Software for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-the-ultimate-countdown-best-zombie-games-ranked/"><u>[New] In 2024, The Ultimate Countdown Best Zombie Games Ranked</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-speedy-steps-to-save-slideshows/"><u>[New] Speedy Steps to Save Slideshows</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-triumph-through-battle-the-supreme-selection-of-top-7-total-wars/"><u>[New] Triumph Through Battle The Supreme Selection of Top 7 Total Wars</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-expert-level-workshop-programming-timer-functions-for-obs-productions/"><u>[Updated] Expert-Level Workshop Programming Timer Functions for OBS Productions</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-the-ultimate-tiktok-live-jump-a-how-to-guide-for-2024/"><u>[Updated] The Ultimate TikTok Live Jump A How-To Guide for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-photo-management-winning-windows-applications/"><u>Efficient Photo Management: Winning Windows Applications</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-eliminate-game-hiccups-essential-fixes-for-hogwarts-legacy/"><u>How to Eliminate Game Hiccups: Essential Fixes for Hogwarts Legacy</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-se-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-grand-adventures-reimagined-post-gta-v-lineup/"><u>In 2024, Grand Adventures Reimagined - Post-GTA V Lineup</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-hidden-costs-of-youtube-earning/"><u>In 2024, The Hidden Costs of YouTube Earning</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/strategies-to-boost-your-facebook-pages-popularity-meter/"><u>Strategies to Boost Your Facebook Page's Popularity Meter</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/sync-zoom-meeting-times-across-mobile-and-desktop-calendars/"><u>Sync Zoom Meeting Times Across Mobile & Desktop Calendars</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/ultimate-guide-to-filming-live-scenes/"><u>Ultimate Guide to Filming Live Scenes</u></a></li>
+</ul></div>
 

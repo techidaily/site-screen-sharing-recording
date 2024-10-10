@@ -1,7 +1,7 @@
 ---
 title: "[New] Become a Pro at Mac Audio Recording Using Audacity Today"
-date: 2024-09-06T20:34:17.289Z
-updated: 2024-09-12T18:16:30.984Z
+date: 2024-10-02T17:04:24.022Z
+updated: 2024-10-09T23:57:46.687Z
 tags: 
   - screen-recording
   - ai video
@@ -33,23 +33,9 @@ Step 1: Visit [Audacity Download](https://www.audacityteam.org/download/mac/) pa
 
 ![step2 dmg file](https://images.wondershare.com/filmora/article-images/step2-dmg-file.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Alternatively, you can go to FossHub and search for Audacity and download the latest Audacity macOS DMG file.
 
 ![fosshub](https://images.wondershare.com/filmora/article-images/fosshub.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3: Once the downloading of the file is complete, double-click on the downloaded “Audacity macOS DMG” file to start installing the file. You can also find the file under Downloads from Finder.
 
@@ -68,10 +54,16 @@ Step 2: Click on the second option and you will see all the recording devices co
 ![click on the second option](https://images.wondershare.com/filmora/article-images/click-on-the-second-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 3: Go to Tracks menu option and go to Add New. Here, you have to select either Stereo Track or Mono Track as per your requirement.
@@ -112,11 +104,100 @@ Step 1: Download and install Wondershare Filmora. Launch the application and sel
 
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
+Step 2: From Recording window, set the video recording screen size as per your requirement.
+
+Step 3: Make sure the system audio is turned on and correctly selected beside the recording screen size. If you want to record microphone sound as well, turn it on and select it correctly.
+
+![select](https://images.wondershare.com/filmora/article-images/select.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Step 4: Click on Record button to start recording. You will get a buffer time to get your screen ready.
+
+![record button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
+
+Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
+
+## Conclusion
+
+If you are looking for a free audio recorder on Mac, Audacity fits in perfectly. However, there are several drawbacks of Audacity Mac and its operation is not as easy as any other audio recorder. That is why we recommend Wondershare Filmora as an alternative to Audacity Mac as it takes care of all the issues on Audacity and offers better features and functionalities.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+* Record only external microphone audio.
+* Record only computer audio even when mic is plugged in.
+* Record both computer and mic audio simultaneously.
+* Record screen and webcam video along with audio.
+* Edit audio recording such as trim out unnecessary parts.
+* Add audio effects and external audio files.
+* Export the recorded audio and video files in different file formats.
+
+Here are the steps on how to record any audio with video using Filmora.
+
+Step 1: Download and install Wondershare Filmora. Launch the application and select PC Screen option.
+
+![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
+
+Step 2: From Recording window, set the video recording screen size as per your requirement.
+
+Step 3: Make sure the system audio is turned on and correctly selected beside the recording screen size. If you want to record microphone sound as well, turn it on and select it correctly.
+
+![select](https://images.wondershare.com/filmora/article-images/select.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Step 4: Click on Record button to start recording. You will get a buffer time to get your screen ready.
+
+![record button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
+
+Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Conclusion
+
+If you are looking for a free audio recorder on Mac, Audacity fits in perfectly. However, there are several drawbacks of Audacity Mac and its operation is not as easy as any other audio recorder. That is why we recommend Wondershare Filmora as an alternative to Audacity Mac as it takes care of all the issues on Audacity and offers better features and functionalities.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+* Record only external microphone audio.
+* Record only computer audio even when mic is plugged in.
+* Record both computer and mic audio simultaneously.
+* Record screen and webcam video along with audio.
+* Edit audio recording such as trim out unnecessary parts.
+* Add audio effects and external audio files.
+* Export the recorded audio and video files in different file formats.
+
+Here are the steps on how to record any audio with video using Filmora.
+
+Step 1: Download and install Wondershare Filmora. Launch the application and select PC Screen option.
+
+![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 2: From Recording window, set the video recording screen size as per your requirement.
@@ -128,13 +209,6 @@ Step 3: Make sure the system audio is turned on and correctly selected beside th
 Step 4: Click on Record button to start recording. You will get a buffer time to get your screen ready.
 
 ![record button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
 
@@ -167,58 +241,10 @@ Step 3: Make sure the system audio is turned on and correctly selected beside th
 ![select](https://images.wondershare.com/filmora/article-images/select.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-Step 4: Click on Record button to start recording. You will get a buffer time to get your screen ready.
-
-![record button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
-
-Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
-
-## Conclusion
-
-If you are looking for a free audio recorder on Mac, Audacity fits in perfectly. However, there are several drawbacks of Audacity Mac and its operation is not as easy as any other audio recorder. That is why we recommend Wondershare Filmora as an alternative to Audacity Mac as it takes care of all the issues on Audacity and offers better features and functionalities.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-* Record only external microphone audio.
-* Record only computer audio even when mic is plugged in.
-* Record both computer and mic audio simultaneously.
-* Record screen and webcam video along with audio.
-* Edit audio recording such as trim out unnecessary parts.
-* Add audio effects and external audio files.
-* Export the recorded audio and video files in different file formats.
-
-Here are the steps on how to record any audio with video using Filmora.
-
-Step 1: Download and install Wondershare Filmora. Launch the application and select PC Screen option.
-
-![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-Step 2: From Recording window, set the video recording screen size as per your requirement.
-
-Step 3: Make sure the system audio is turned on and correctly selected beside the recording screen size. If you want to record microphone sound as well, turn it on and select it correctly.
-
-![select](https://images.wondershare.com/filmora/article-images/select.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 4: Click on Record button to start recording. You will get a buffer time to get your screen ready.
@@ -226,64 +252,10 @@ Step 4: Click on Record button to start recording. You will get a buffer time to
 ![record button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## Conclusion
-
-If you are looking for a free audio recorder on Mac, Audacity fits in perfectly. However, there are several drawbacks of Audacity Mac and its operation is not as easy as any other audio recorder. That is why we recommend Wondershare Filmora as an alternative to Audacity Mac as it takes care of all the issues on Audacity and offers better features and functionalities.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-* Record only external microphone audio.
-* Record only computer audio even when mic is plugged in.
-* Record both computer and mic audio simultaneously.
-* Record screen and webcam video along with audio.
-* Edit audio recording such as trim out unnecessary parts.
-* Add audio effects and external audio files.
-* Export the recorded audio and video files in different file formats.
-
-Here are the steps on how to record any audio with video using Filmora.
-
-Step 1: Download and install Wondershare Filmora. Launch the application and select PC Screen option.
-
-![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
-
-Step 2: From Recording window, set the video recording screen size as per your requirement.
-
-Step 3: Make sure the system audio is turned on and correctly selected beside the recording screen size. If you want to record microphone sound as well, turn it on and select it correctly.
-
-![select](https://images.wondershare.com/filmora/article-images/select.jpg)
-
-Step 4: Click on Record button to start recording. You will get a buffer time to get your screen ready.
-
-![record button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
@@ -314,5 +286,24 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-from-silence-to-clarity-recording-on-your-iphone-easy-way/"><u>[New] 2024 Approved From Silence to Clarity Recording on Your iPhone Easy Way</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-express-thumbnails-for-epic-battle-royale-for-2024/"><u>[New] Express Thumbnails for Epic Battle Royale for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-mastering-screen-record-on-windows-10-devices/"><u>[New] In 2024, Mastering Screen Record on Windows 10 Devices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-prime-video-game-editors-simplified-top-picks-for-newbies/"><u>[New] Prime Video Game Editors Simplified Top Picks for Newbies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-ambiance-with-thoughtful-lighting-for-2024/"><u>[Updated] Harnessing Ambiance with Thoughtful Lighting for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-effortless-recording-of-netflix-a-step-by-step-guide/"><u>[Updated] In 2024, Effortless Recording of Netflix A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-resolving-bandwidth-issues-in-high-quality-obs/"><u>[Updated] In 2024, Resolving Bandwidth Issues in High Quality OBS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-proficient-movie-recording-multiplatform-devices-unveiled/"><u>[Updated] Proficient Movie Recording Multiplatform Devices Unveiled</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-social-sensation-strategies-crafting-fbs-topmusicvideos/"><u>[Updated] Social Sensation Strategies - Crafting FB's #TopMusicVideos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-swift-recording-pro-with-voice-commentary-feature-for-2024/"><u>[Updated] Swift Recording Pro with Voice Commentary Feature for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unlock-the-potential-of-your-instagram-content-with-video-edits/"><u>[Updated] Unlock the Potential of Your Instagram Content with Video Edits</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-lava-yuva-3-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Lava Yuva 3 Pro Phone When You Forget the Password</u></a></li>
+<li><a href="https://facebook.techidaily.com/decoding-digital-expressions-fbs-visual-codes-and-their-significance/"><u>Decoding Digital Expressions: FB's Visual Codes and Their Significance</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Vivo Phone without Google Account?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/streamline-your-twitch-live-recordings-today/"><u>Streamline Your Twitch Live Recordings Today</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-essential-guide-to-iphone-screen-recordings/"><u>The Essential Guide to IPhone Screen Recordings</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-sony-xperia-5-analysis-not-just-a-slim-device-but-a-wallet-drainer-too/"><u>The Sony Xperia 5 Analysis: Not Just a Slim Device but a Wallet Drainer Too</u></a></li>
+</ul></div>
 

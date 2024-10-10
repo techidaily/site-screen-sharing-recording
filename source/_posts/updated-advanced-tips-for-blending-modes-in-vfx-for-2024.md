@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Advanced Tips for Blending Modes in VFX for 2024"
-date: 2024-09-07T03:45:19.979Z
-updated: 2024-09-08T03:45:19.979Z
+date: 2024-10-07T05:13:46.583Z
+updated: 2024-10-09T16:30:51.963Z
 tags: 
   - screen-recording
   - ai video
@@ -15,30 +15,12 @@ keywords: "\"VFX Blend Techniques,Effect Mixing Tips,Advanced Mode Blending,Cutt
 thumbnail: https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3f338f8c86d6f5318d22c5f4.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Advanced Tips for Blending Modes in VFX
 
 # How to Use The Blending Modes To Composite Clips
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Max Wales
 
  Mar 27, 2024• Proven solutions
@@ -49,18 +31,6 @@ It is a widely accepted opinion that Blend Modes can only be used in Adobe Premi
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -78,12 +48,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What are Blending Modes in Filmora?
 
 Combining videos or images into a single frame is an art that is much older than digital pictures, so when trying to understand Blend Modes in Filmora Scrn it is best to try to visualize two pieces of celluloid film, one over another. Two pieces of film are transparent, but the images they contain do not mix with each other, that is why when you are using Blend Modes in Filmora Scrn you are actually merging videos and allowing their pixels to mix.
@@ -104,7 +68,21 @@ The **Multiply Mode** is also one of the frequently used blending modes that **m
 
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-multiply-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 This mode will enable you to create the black background for your video effortlessly, and highlight the subjects in the video clip you intend to use as a top layer. You need to choose carefully which video clips you are going to use and how are they going to look on a dark background if you want to produce visually pleasing videos that captivate the viewer's attention.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to use Blending Modes?
 
@@ -116,12 +94,6 @@ In case you've used Filmora Scrn's screen recorder to capture your video, the vi
 
 ![ Filmora Scrn Import Media ](https://images.wondershare.com/filmora/article-images/filmora-scrn-add-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Click on the Add Files icon in the Media bin, and select the footage you want to use in your project. Drag the video clip you'd like to use as a background to a track on the timeline and then drag and drop the video or a photo to a timeline above the one on which the background clip is located.
 
 Adjust the duration of the video clips or photos you've placed on the timeline and use the preview window to determine whether or not you should readjust the size and position of the overlaying image.
@@ -137,11 +109,12 @@ In the Compositing menu, you will be able to see the Blending Mode feature. Clic
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-selection.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Changing the Opacity value will enable you to reduce the transparency level of a layer while changing the values in the Transform menu will help you find the perfect position on the background for the overlaying image.
 
 #### Step 3 - Export the video
@@ -151,17 +124,12 @@ Click on the Export button if you like the results and choose whether you want t
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-export.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Overlaying two video clips and blending them to each other can be an effective way to make your videos look more creative or more professional by adding logos and all other information you'd like the potential viewers of your videos to see. The blending modes Filmora Scrn offers can help you achieve the visual style you want to get in your videos, but it may take you some time to learn when is the best time to use a certain mode.
@@ -174,11 +142,28 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-easy-steps-to-archive-vimeo-video-recordings-for-2024/"><u>[New] Easy Steps to Archive Vimeo Video Recordings for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-the-a-to-z-guide-to-recording-games-using-obs/"><u>[New] In 2024, The A-to-Z Guide to Recording Games Using OBS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-minimap-memories-mastering-6-ways-to-record-your-gameplay-for-2024/"><u>[New] Minimap Memories Mastering 6 Ways to Record Your Gameplay for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-cross-platform-soundtrack-strategy-for-facebook-profiles/"><u>2024 Approved Cross-Platform Soundtrack Strategy for Facebook Profiles</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-how-to-rotate-a-video-on-vlc-media-player/"><u>2024 Approved How to Rotate A Video on VLC Media Player</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-innovative-ways-to-infuse-voiceovers-into-your-media/"><u>2024 Approved Innovative Ways to Infuse Voiceovers Into Your Media</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-master-video-capturing-with-the-top-3-smartphone-titans/"><u>2024 Approved Master Video Capturing with the Top 3 Smartphone Titans</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-smoothing-video-borders-on-teamcollaboration-platforms/"><u>2024 Approved Smoothing Video Borders on TeamCollaboration Platforms</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-video-editing-free-high-quality-pp-templates-for-2024/"><u>Advanced Video Editing FREE High-Quality PP Templates for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-vivo-x100-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Vivo X100 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-wander-in-wealthy-web-words-worlds/"><u>In 2024, Wander in Wealthy Web Words Worlds</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-newest-logitech-sound-device-drivers-tailored-for-windows-11-7-and-8-operating-systems/"><u>Install Newest Logitech Sound Device Drivers: Tailored for Windows 11, 7 & 8 Operating Systems</u></a></li>
+<li><a href="https://article-posts.techidaily.com/revolutionary-6-applications-to-enhance-photo-editing-experience-for-2024/"><u>Revolutionary 6 Applications to Enhance Photo Editing Experience for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/switch-clash-top-10-intense-battles-to-play/"><u>Switch Clash Top 10 Intense Battles to Play</u></a></li>
+</ul></div>
+

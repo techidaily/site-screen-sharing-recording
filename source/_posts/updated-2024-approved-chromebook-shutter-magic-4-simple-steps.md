@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Chromebook Shutter Magic - 4 Simple Steps\""
-date: 2024-09-07T03:46:44.183Z
-updated: 2024-09-08T03:46:44.183Z
+date: 2024-10-05T20:08:44.709Z
+updated: 2024-10-10T05:20:30.738Z
 tags: 
   - screen-recording
   - ai video
@@ -15,12 +15,6 @@ keywords: "Chromebook Magic Shutter,Shutter Trick for Chrome,Chrome Keyboard Sho
 thumbnail: https://thmb.techidaily.com/4815bdc4b07f62378c934e8844c6ab3ed5ccd8bb0ecbd12c41105ddecee78795.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Chromebook Shutter Magic - 4 Simple Steps
 
 # How to Take Screenshots on A Chromebook
@@ -53,23 +47,18 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 1\. Taking Screenshots on a Chromebook with a Keyboard
 
 Similar to the typical CTRL + PrtScn or PrtScn shortcut used on most Window’s PCs, or the Command + Control + Shift + 3 shortcut used on Mac devices, taking screenshots with the use of a keyboard on a Chromebook is equally as straight forward. To capture a screenshot of the entire screen, the process requires the use of the **Windows Switcher Key** (look for 3 layered rectangles that resemble open tabs/windows) – this is generally located above the number 6 and 7 keys and close to the screen-brightness toggles.
 
 ![ Chromebook Screenshot](https://images.wondershare.com/filmora/article-images/chromebook-keyboard-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The command “**Ctrl + \*Windows Switcher Key\***” will capture a screenshot of your current page, and the command “**Ctrl + Shift + \*Windows Switcher Key\***” will allow users to capture a partial screenshot with the help from a handy drag-selector tool.
 
 **Note**: If your keyboard doesn’t seem to have the Screen Switcher key, **try using F5 instead**. To ensure your screenshot is copied into a specific document, select “**Copy to Clipboard**”. From here, you’ll be able to paste directly into a document.
@@ -84,14 +73,15 @@ Using your Chromebook in tablet mode? If so, then there’s also a handy way to 
 
 ![ Chromebook Screenshot](https://images.wondershare.com/filmora/article-images/chromebook-stylus-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If your Chromebook features a handy stylus, then here’s how to capture a screenshot via the touchscreen functionality. Simply remove the stylus from the Chromebook and select the “**Capture** **Screen**” option from the **Stylus Tool Menu** (located on the lower task bar) to capture the whole screen. If you’re aiming to just capture a specific area, then simply select the “**Capture Region**” option. This option will allow users to highlight the particular area they’re looking to screenshot.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Taking a Screenshot on a Chromebook with the Use of a Third-Party App and Extension
 
 It can often be quite time consuming to capture screenshots, edit, and save them, but there are a number of user-friendly and in-depth third-party applications and extensions on the market to help make the process a little easier. Each allowing you to capture screenshots in a stress-free manner without users even having to leave their browser, here are our Top Picks:
@@ -107,11 +97,12 @@ With a number of simple yet effective editing features built-in, such as further
 ![ Chromebook Screenshot](https://images.wondershare.com/filmora/article-images/chromebook-lightshot-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Available for both Chrome, Windows, and even Mac devices, this more in-depth extension is perfect for those looking to annotate, add layers to, or modify their screen captures to more advanced levels. Although it’s not possible to capture your entire webpage with this extension, LightShot boasts the ability to take screenshots of not only your desktop but also other desired applications with 2 simple clicks of a button. The simplistic desktop saving capability and the ability to upload it direct to the LightShot server makes this application attractive to those looking for a more professional editing tool.
 
 #### 3. Webpage Screenshot
@@ -119,11 +110,12 @@ Available for both Chrome, Windows, and even Mac devices, this more in-depth ext
 Offering the ability for users to capture scrolling screenshots, Webpage Screenshot is a highly desired extension. Allowing users to store an entire page worth of information thanks to its all-page capture abilities, this application was the original application for Google Chrome. With basic annotation editing, capture cropping, and optional interval inputting, this easy-to-use and straight forward extension is perfect for those looking to capture larger sections of text with ease.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Where Do I Find by Screenshots After They’re Captured?
 
 If you’re wondering where your newly captured screenshots are disappearing to once obtained, then you need look no further than the **Downloads Section** of your **Files App.** Automatically saved, by default, in a format similar to “**Screenshot 2012-08-03 at 5.18.34AM.png**” your recently saved PNG file can be easily renamed as you like.
@@ -142,19 +134,11 @@ In summary, there are plenty of ways to successfully capture a screenshot whilst
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -162,3 +146,20 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-best-practices-for-non-audio-filming/"><u>[New] 2024 Approved Best Practices for Non-Audio Filming</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-command-attention-with-these-powerful-20-tiktok-caption-ideas-for-2024/"><u>[New] Command Attention with These Powerful 20 TikTok Caption Ideas for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-a-detailed-study-of-vsdcs-screen-capture-prowess-and-competing-products/"><u>[New] In 2024, A Detailed Study of VSDC's Screen Capture Prowess & Competing Products</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-launching-successful-online-gaming-shows-on-youtube/"><u>[New] Launching Successful Online Gaming Shows on YouTube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-mastering-video-capture-on-your-laptop-with-screenrec/"><u>[Updated] 2024 Approved Mastering Video Capture on Your Laptop with ScreenRec</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-navigating-live-tiktok-broadcasting-on-your-computer/"><u>[Updated] 2024 Approved Navigating Live TikTok Broadcasting on Your Computer</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-reimagining-communication-advanced-tactics-for-capturing-skype-calls/"><u>[Updated] 2024 Approved Reimagining Communication Advanced Tactics for Capturing Skype Calls</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-depth-look-techniques-for-screen-capturing-on-android/"><u>[Updated] In-Depth Look Techniques for Screen Capturing on Android</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-inside-the-revamped-sony-bdp-s6700-for-2024/"><u>[Updated] Inside the Revamped Sony BDP-S6700 for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-iphone-expertise-crafting-time-lapse-photos/"><u>2024 Approved IPhone Expertise Crafting Time-Lapse Photos</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/the-art-of-concluding-videos-crafting-impactful-vimeo-ends/"><u>The Art of Concluding Videos Crafting Impactful Vimeo Ends</u></a></li>
+</ul></div>
+
