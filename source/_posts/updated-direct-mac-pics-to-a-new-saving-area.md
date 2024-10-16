@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Direct Mac Pics to a New Saving Area"
-date: 2024-09-07T03:45:30.447Z
-updated: 2024-09-08T03:45:30.447Z
+date: 2024-10-14T16:07:11.011Z
+updated: 2024-10-16T16:05:11.866Z
 tags: 
   - screen-recording
   - ai video
@@ -15,30 +15,12 @@ keywords: "Save Money with Mac Photos,Direct Mac Images To Savings,Transfer Mac 
 thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89ced90101624b46320eed1514.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Direct Mac Pics to a New Saving Area
 
 # How to Change the Destination Where Screenshots are Saved on your Mac
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Max Wales
 
  Mar 27, 2024• Proven solutions
@@ -49,24 +31,6 @@ Here's how you can change the location where the screenshots you take using the 
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -85,22 +49,24 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
@@ -109,6 +75,13 @@ Create a new folder on the desired location on your hard drive, and then launch 
 Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
@@ -132,13 +105,18 @@ Don't forget that deleting the folder you use as a default location for storing 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -146,3 +124,25 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-voicing-it-up-how-to-save-on-iphone/"><u>[New] 2024 Approved Voicing It Up How to Save on iPhone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-audio-overhaul-methods-for-content-creators-online-for-2024/"><u>[New] Audio Overhaul Methods for Content Creators Online for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-blur-away-distractions-essential-tips-for-immaculate-google-meet-spaces-for-2024/"><u>[New] Blur Away Distractions Essential Tips for Immaculate Google Meet Spaces for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-capturing-content-with-precision-best-practices-for-igtv-video-downloads/"><u>[New] Capturing Content with Precision Best Practices for IGTV Video Downloads</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-ultimate-tech-manual-for-saving-web-streamed-television/"><u>[New] The Ultimate Tech Manual for Saving Web-Streamed Television</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-beyond-the-basics-advanced-livestreaming-tools/"><u>[Updated] 2024 Approved Beyond the Basics Advanced Livestreaming Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-navigating-the-world-of-hulu-recordings-windowsmaciosandroid/"><u>[Updated] 2024 Approved Navigating the World of Hulu Recordings Windows/Mac/iOS/Android</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-obs-audio-fix-strategies-quickly/"><u>[Updated] 2024 Approved OBS Audio Fix Strategies Quickly</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-young-yachtsmens-playtime-pleasures-for-2024/"><u>[Updated] Young Yachtsmen's Playtime Pleasures for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-enhancing-meeting-productivity-zooms-audio-and-video-recording-tips/"><u>2024 Approved Enhancing Meeting Productivity Zoom's Audio & Video Recording Tips</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/comment-sauver-vos-fichiers-dune-cle-usb-endommagee/"><u>Comment Sauver Vos Fichiers D’Une Clé USB Endommagée</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-15-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-is-itop-a-must-have-screencast-tool/"><u>In 2024, Is ITop a Must-Have Screencast Tool?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/reach-new-heights-of-conversational-ai-in-chrome-with-these-extensions/"><u>Reach New Heights of Conversational AI in Chrome with These Extensions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tackle-disruptive-sound-on-windows-10-with-new-driver-install/"><u>Tackle Disruptive Sound on Windows 10 with New Driver Install</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-insiders-guide-to-evening-photo-taking/"><u>The Insider’s Guide to Evening Photo-Taking</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Seamless Storytelling with On-Screen Annotations & Timestamps\""
-date: 2024-10-08T20:27:48.202Z
-updated: 2024-10-09T21:58:27.510Z
+date: 2024-10-10T16:00:29.882Z
+updated: 2024-10-16T16:20:15.861Z
 tags: 
   - screen-recording
   - ai video
@@ -63,15 +63,28 @@ You can use them to mark a place in the screen recording you're not too happy wi
 
 ![Filmora Scrn Markers](https://images.wondershare.com/filmora/article-images/filmora-scrn-markers.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The **timeline markers**, on the other hand, can only be added to a project once you've completed the recording session, during the post-production period. You can utilize them to highlight the parts of the video clip you want to remove from the final version of your video or to mark the spots on the timeline where you'd like to switch from one take to another.
 
 This type of marker is immensely useful if you want to organize the timeline in your project better and to know exactly where every clip you want to use in your video is located at all times. Besides being a highly efficient tool for organizing vast amounts of footage, timeline markers can also help you denote the beats in the audio file and then sync the video clip perfectly to the beat of the tune you're using as a soundtrack to your video.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add Markers During Video Editing and After Screen Recording in Filmora?
@@ -86,19 +99,6 @@ For macOS 10.12 or later
 
 * [1\. How to Add a Marker During Video Editing](#filmora1)
 * [2\. How to Remove a Marker After Screen Recording](#filmora2)
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. How to Add a Marker During Video Editing
 
@@ -124,31 +124,31 @@ In the Marker Editor window, make relevant changes such as naming the marker, ad
 
 ![customize the markers](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### **Method 2: Adding Markers through the Keyboard**
 
 After importing the clip into the timeline and identifying the points of error in your video, place the playhead on these points and press the **"M"** key on your keyboard to add a marker at the chosen timeframes.
 
 ![add maker through the keyboard](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **2\. How to Remove a Marker After Screen Recording**
 
 Once you have finished editing your mistakes, it's important to remove the markers. To do this, right-click on the marker and select **"Delete"** from the options menu to remove a specific marker, or choose **"Delete All Markers"** to remove them collectively.
 
 ![remove a marker](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -172,20 +172,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-leveraging-obs-streaming-capabilities-on-facebook-platform/"><u>[New] In 2024, Leveraging OBS Streaming Capabilities on Facebook Platform</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-maximizing-reach-and-impact-on-facebook-using-wirecast-for-live-broadcasts/"><u>[New] In 2024, Maximizing Reach & Impact on Facebook - Using Wirecast for Live Broadcasts</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-optimal-4k-video-recording-tools-compilation/"><u>[New] Optimal 4K Video Recording Tools Compilation</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-streammaster-showdown-obs-or-shadowplay-in-2024/"><u>[New] StreamMaster Showdown OBS or ShadowPlay, In 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-keep-your-content-safe-guidelines-for-clearance-of-tiktok-videos/"><u>[Updated] 2024 Approved Keep Your Content Safe Guidelines for Clearance of TikTok Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-jestjamboree-discover-a-sea-of-memes-at-your-feet/"><u>2024 Approved JestJamboree Discover a Sea of Memes at Your Feet</u></a></li>
-<li><a href="https://driver-install.techidaily.com/adapt-new-idt-audio-protocols-to-windows-7/"><u>Adapt New IDT Audio Protocols to Windows 7</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/crafting-success-tips-from-ginger-islet-for-2024/"><u>Crafting Success Tips From Ginger Islet for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/deep-dive-exploring-free2webcam-recording-tools/"><u>Deep Dive Exploring Free2WebCam Recording Tools</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/essential-strategies-for-ppt-on-google-meet-laptopiosandroid/"><u>Essential Strategies for PPT on Google Meet Laptop/iOS/Android</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-code-43-error-windows-has-stopped-this-device-because-it-has-reported-problems/"><u>Fix Code 43 Error: Windows Has Stopped This Device because It Has Reported Problems</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-samsung-galaxy-s23-fe-frp-by-drfone-android/"><u>How Can We Bypass Samsung Galaxy S23 FE FRP?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-oppo-a18-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Oppo A18 Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/simplycapture-windows-screens-in-minutes-for-2024/"><u>SimplyCapture - Windows Screens in Minutes for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/whisker-watch-party-family-laughter-with-pets/"><u>Whisker Watch Party: Family Laughter with Pets</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-launched-visuals-review-synopsis/"><u>[New] In 2024, Launched Visuals Review Synopsis</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-obs-studio-mastery-top-5-editing-techniques/"><u>[New] In 2024, OBS Studio Mastery Top 5 Editing Techniques</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-essential-guide-to-screen-capturing-on-hp-devices/"><u>[Updated] 2024 Approved Essential Guide to Screen Capturing on HP Devices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-step-by-step-instructions-for-universal-recording-of-youtube-lives/"><u>[Updated] 2024 Approved Step-by-Step Instructions for Universal Recording of YouTube Lives</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2023-browser-snapshot-winners-announced-for-2024/"><u>2023 Browser Snapshot Winners Announced for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-props-to-the-best-android-tools-for-playstation-2-experience/"><u>2024 Approved Props to the Best Android Tools for PlayStation 2 Experience</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/comment-pouvez-vous-reussir-a-transferer-votre-systeme-dexploitation-windows-7-de-lhdd-vers-un-ssd/"><u>Comment Pouvez-Vous Réussir À Transférer Votre Système D’Exploitation Windows 7 De L’HDD Vers Un SSD?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/cutting-edge-approaches-for-iphoneipad-screen-capture-for-2024/"><u>Cutting-Edge Approaches for iPhone/iPad Screen Capture for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-civi-3-disney-100th-anniversary-edition-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Civi 3 Disney 100th Anniversary Edition?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-your-system-with-new-nvidia-940mx-gpu-drivers-free-download/"><u>How to Update Your System with New NVIDIA 940MX GPU Drivers - Free Download</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-the-basics-of-asmr-video-content/"><u>In 2024, Mastering the Basics of ASMR Video Content</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/navigating-through-your-new-laptops-m1-max-clips/"><u>Navigating Through Your New Laptop's M1 Max Clips</u></a></li>
+<li><a href="https://win11.techidaily.com/silent-speakers-resolving-microphone-glitches-in-microsoft-enabled-meet/"><u>Silent Speakers: Resolving Microphone Glitches in Microsoft-Enabled Meet</u></a></li>
 </ul></div>
 
