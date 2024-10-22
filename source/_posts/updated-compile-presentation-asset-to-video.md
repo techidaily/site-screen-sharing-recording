@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Compile Presentation Asset to Video"
-date: 2024-10-14T16:13:50.205Z
-updated: 2024-10-16T16:14:38.329Z
+date: 2024-10-15T00:22:51.139Z
+updated: 2024-10-21T16:13:00.681Z
 tags: 
   - screen-recording
   - ai video
@@ -59,10 +59,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1:How to Save a PowerPoint 2007 Presentation as a Video on Windows OS
@@ -77,14 +77,14 @@ When all the slides are saved as images, you should launch the Windows Movie Mak
 
 ![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/save-ppt-to-video-ms2007-windows-movie-maker.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 This method of saving a PowerPoint presentation as a video doesn't allow you to keep animations, transitions or multimedia files, because you have to convert all slides into image files.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: Saving PowerPoint 2010 Presentation as Video
 
@@ -99,15 +99,28 @@ When the Save and Send menu appears on the screen you should find the Create a V
 ![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/save-ppt-to-video-ms2010-create-video.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Create a Video box that contains video settings will pop up on the screen and you should click on the Computer&HD Displays option in order to adjust the size and the quality of your video.
 
 ![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt2010-create-video-settings.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In the next step, you can switch off the default timings and narration by clicking on the Don't Use Recorded Timings and Narration. Keep in mind that this step is only necessary if you want to adjust timings manually and use narration you recorded.
 
@@ -127,31 +140,38 @@ Collapse the File menu and select the Export option, then click on the Create a 
 
 ![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/ppt-save-as-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Once the Create a Video window emerges on the screen, you should click on the Computer and HD Displays option, so you can adjust the video quality and size settings.
 
 ![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/ppt-save-as-video-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After fine-tuning the video settings, you can proceed to click on the Use Recorded Timings and Narrations menu. If you don't want to include narration or recorded timings in your video, you can set the duration of each slide individually with the Timings feature that is located at the bottom of the screen.
 
 ![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt-save-as-video-timings-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Hitting the Create a Video button will bring up the Save As window that will enable you to name the video file, select the location of the folder where the video file will be saved and choose the file format to which you want to convert the PPT file. When ready, click on the Save button to start the conversion, and that's it, you've successfully turned a PPT file into a video.
 
 ![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt-save-as-video-2013.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: Saving PowerPoint Presentation as video on Mac OS
 
@@ -163,29 +183,9 @@ Click on the File menu and select the Save as Movie option. After the new window
 
 ![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/save-ppt-as-video-mac-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The Movie Options dialogue box will pop up, and you should click on the Movie Options icon to set slide durations, add transitions between slides, create a video loop or choose the size of the video and its quality.
 
 ![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/save-ppt-as-video-mac-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Hit OK to close the Movie Options, and then click Save to convert the PPT into a video file.
 
@@ -213,22 +213,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/eyond-indexation-decoding-the-purpose-of-unlisted-videos-for-2024/"><u>[New] Beyond Indexation Decoding the Purpose of 'Unlisted' Videos for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-ultimate-guide-to-zoom-transcription-software-fee-based/"><u>[New] Ultimate Guide to Zoom Transcription Software (Fee-Based)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-basics-of-zoom-group-divisions-unveiled/"><u>[Updated] In 2024, Basics of Zoom Group Divisions Unveiled</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-textual-amplification-for-igtv-broadcasts/"><u>[Updated] Textual Amplification for IGTV Broadcasts</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-immediate-video-capture-and-audio-guide-app/"><u>2024 Approved Immediate Video Capture & Audio Guide App</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-in-depth-look-at-bandicams-functionality-for-video-creation/"><u>2024 Approved In-Depth Look at Bandicam's Functionality for Video Creation</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-step-into-filmmaking-webcam-techniques-for-macbook/"><u>2024 Approved Step Into Filmmaking Webcam Techniques for MacBook</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-10-hidden-functions-to-enhance-your-canva-artistry/"><u>2024 Approved Top 10 Hidden Functions to Enhance Your Canva Artistry</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-unveiling-splitcams-camera-capabilities/"><u>2024 Approved Unveiling SplitCam's Camera Capabilities</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/are-you-experiencing-blizzard-battlenet-downtime-or-personal-internet-glitches/"><u>Are You Experiencing Blizzard Battle.net Downtime or Personal Internet Glitches?</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/estrategia-paso-a-paso-implementar-restauraciones-automatizadas-en-windows-7/"><u>Estrategia Paso a Paso: Implementar Restauraciones Automatizadas en Windows 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-focusrite-scarlett-solo-desktop-audio-interface-for-pc/"><u>Free Download: Focusrite Scarlett Solo Desktop Audio Interface for PC</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/from-seedling-to-sunset-the-best-farming-titles-for-togetherness-for-2024/"><u>From Seedling to Sunset The Best Farming Titles for Togetherness for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/gadget-guidance-getting-into-googles-video-conference/"><u>Gadget Guidance Getting Into Google's Video Conference</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-combating-an-unresponsive-obs-camera-input-stream/"><u>In 2024, Combating an Unresponsive OBS Camera Input Stream</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-compelling-list-of-premium-free-phone-video-chat-applications-iosandroid/"><u>In 2024, Compelling List of Premium-Free Phone Video Chat Applications (iOS/Android)</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-vivo-y78t-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Vivo Y78t Lock Screen Password</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-androids-screen-capture-4-easy-techniques-for-2024/"><u>[New] Android's Screen Capture 4 Easy Techniques for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-effortless-techniques-for-streamlined-ipad-video-recording-for-2024/"><u>[New] Effortless Techniques for Streamlined iPad Video Recording for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-integrate-tiktok-videos-in-phone-gallery-step-by-step/"><u>[New] Integrate TikTok Videos in Phone Gallery Step-by-Step</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-the-complete-obs-toolkit-for-flawless-instagram-streams/"><u>[Updated] 2024 Approved The Complete OBS Toolkit for Flawless Instagram Streams</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-harmonyhunter-discovering-audio-dimensions/"><u>[Updated] In 2024, HarmonyHunter Discovering Audio Dimensions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-quick-mac-mastering-screen-recording-via-shortcuts/"><u>[Updated] In 2024, Quick Mac Mastering Screen Recording via Shortcuts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-androidiphones-ultimate-guide-top-10-free-photo-overlay-hacks/"><u>2024 Approved Android/iPhone's Ultimate Guide Top 10 Free Photo Overlay Hacks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-broadcast-showdown-the-faceoff-between-obs-and-shadowtoolkit/"><u>2024 Approved Broadcast Showdown The Faceoff Between OBS & ShadowToolKit</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-gentle-pace-reducing-music-intensity/"><u>2024 Approved Gentle Pace Reducing Music Intensity</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/anymp4-screen-recorder-download-and-review-for-2024/"><u>AnyMP4 Screen Recorder Download and Review for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/capturing-motion-with-gopro-time-lapse-techniques-for-2024/"><u>Capturing Motion with GoPro Time-Lapse Techniques for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/radpower-radcity-5-plus-evaluation-strong-performance-with-weight-considerations/"><u>RadPower RadCity 5 Plus Evaluation: Strong Performance with Weight Considerations</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unmatched-5-ios-backdrop-change-solutions-iphone-x87-for-2024/"><u>Unmatched 5 iOS Backdrop Change Solutions (iPhone X/8/7) for 2024</u></a></li>
 </ul></div>
 

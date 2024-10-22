@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Enhancing Your Videos  Step-by-Step for Ken Burns Effect in Camtasa\""
-date: 2024-08-28T23:59:01.127Z
-updated: 2024-08-29T23:59:01.127Z
+date: 2024-10-19T06:55:37.486Z
+updated: 2024-10-22T03:40:52.352Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,13 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -54,6 +61,13 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
 
@@ -79,13 +93,18 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -93,6 +112,27 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-avoid-common-pitfalls-in-ppt-recording/"><u>[New] 2024 Approved Avoid Common Pitfalls in PPT Recording</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-chronicle-your-conquests-with-galaxy-screen-captures/"><u>[New] 2024 Approved Chronicle Your Conquests with Galaxy Screen Captures</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-map-to-wealth-terrarias-quintessential-gold-hunt/"><u>[New] 2024 Approved Map to Wealth Terraria's Quintessential Gold Hunt</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-tricks-to-prevent-fb-video-advertisements-on-screen/"><u>[New] 2024 Approved Tricks to Prevent FB Video Advertisements on Screen</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-techniques-in-creating-timelapses-on-black-hero5/"><u>[New] Expert Techniques in Creating Timelapses on Black Hero5</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-dive-deep-into-stardews-heart-with-our-guide-to-ginger-isle/"><u>[New] In 2024, Dive Deep Into Stardew's Heart with Our Guide to Ginger Isle</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-frameinspector-appraisal-suite/"><u>[Updated] 2024 Approved FrameInspector Appraisal Suite</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-skype-groups-setting-up-windowsmac-conversations/"><u>[Updated] 2024 Approved Skype Groups Setting Up Windows/Mac Conversations</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-boost-video-velocity-top-android-helpers/"><u>[Updated] Boost Video Velocity - Top Android Helpers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-android-sound-logging-without-rooting-need/"><u>[Updated] In 2024, Android Sound Logging - Without Rooting Need</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-screen-free-serenity-top-10-indoor-games-for-non-networked-play-android/"><u>[Updated] In 2024, Screen-Free Serenity Top 10 Indoor Games for Non-Networked Play (Android)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-expert-tips-for-recording-fan-favorite-sports-games/"><u>2024 Approved Expert Tips for Recording Fan-Favorite Sports Games</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boosting-your-iphones-incoming-call-volume-a-simple-guide/"><u>Boosting Your iPhone's Incoming Call Volume: A Simple Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/first-steps-in-german-tongue-training-and-symbol-recognition/"><u>First Steps in German: Tongue Training & Symbol Recognition</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-oppo-a78-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Oppo A78 Face Lock?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-samsung-galaxy-xcover-6-pro-tactical-edition-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Samsung Galaxy XCover 6 Pro Tactical Edition and stops randomly</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-revolutionize-your-videos-best-free-special-effects-apps-for-mobile-for-2024/"><u>New Revolutionize Your Videos Best Free Special Effects Apps for Mobile for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/quick-ways-to-retain-live-chat-transcripts-for-2024/"><u>Quick Ways to Retain Live Chat Transcripts for 2024</u></a></li>
+</ul></div>
+

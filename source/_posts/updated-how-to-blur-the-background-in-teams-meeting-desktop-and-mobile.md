@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Blur the Background in Teams Meeting? [Desktop & Mobile]"
-date: 2024-08-29T00:07:08.170Z
-updated: 2024-08-30T00:07:08.170Z
+date: 2024-10-19T17:01:44.978Z
+updated: 2024-10-22T00:28:49.407Z
 tags: 
   - screen-recording
   - ai video
@@ -70,8 +70,12 @@ From the **Background settings** pane that appears next, and click to select the
 **Note:** While using other operating systems/laptops like Linux, Chromebook, etc., the process of blurring the background before a video call is identical. This means all you need to do is, initiate a new video meeting, click the **Background effects** (**Person**) icon from under the preview screen, and select the **Blur** tile before clicking the **Join now** button.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Blur Background on Teams During Video Call
 
 If you started or joined a Teams meeting without blurring the background, and want to do so during an ongoing call, you can follow the instructions given below to learn **how to blur background in Teams** while in a virtual conference session:
@@ -82,10 +86,6 @@ During an ongoing video call, click **More actions** from the upper-right area o
 
 ![  blur background during Microsoft Teams](https://images.wondershare.com/filmora/article-images/apply-background-effects-microsoft-teams.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 **Step 2: Blur Background during the video call**
 
 When the **Background settings** pane opens on the right of the window, click to select the **Blur** tile.
@@ -97,15 +97,16 @@ From the bottom of the **Background settings** pane, click **Apply** to blur the
 ![  blur background during Microsoft Teams](https://images.wondershare.com/filmora/article-images/blur-microsoft-teams-video-background-during-meeting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Blur Background on Teams on a MacBook Pro Before or During a Video Call?
 
 As it is with Windows laptops, even MacBooks allow you to blur the background both before and during a video call. Both the methods are explained below:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ### Method 1: Blur Background on Teams Before Video Call
 
 The steps that are given below explain **how to blur background on Teams** before initiating a video call:
@@ -117,12 +118,12 @@ Launch Microsoft Teams on your Mac computer, make sure that the **Chat** section
 ![ start Microsoft Teams video call on Mac](https://images.wondershare.com/filmora/article-images/start-video-call-teams-mac.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Step 2: Blur the Background before the video call starting**
 
 On the **Meeting with** box, from under the preview screen, turn on the **Video** and **Audio** switches if not already enabled. Click the **Background effects** (**Person**) icon present next to the **Video** and **Audio** switches, and click to select the **Blur** tile from the **Background settings** pane that appears on the right.
@@ -130,11 +131,22 @@ On the **Meeting with** box, from under the preview screen, turn on the **Video*
 ![ Microsoft Teams Mac blur background](https://images.wondershare.com/filmora/article-images/microsoft-teams-mac-background-effect-blur.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Step 3: Start or Join the Meeting**
 
 Once the above configurations are done, click **Join now** from under the preview screen to start or join a new video call with the blurred background.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Blur Background on Teams During a Video Call
 
@@ -150,10 +162,6 @@ During a video call, click the **More actions** icon from the top-right area of 
 
 ![ Microsoft Teams Mac apply  background effect](https://images.wondershare.com/filmora/article-images/apply-background-effect-blur-on-microsoft-teams-mac.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 **Step 3: Blur the Background during a video call on Mac**
 
 When the **Background settings** pane appears on the left, click to select the **Blur** tile, and click **Apply** from the bottom of the pane. Optionally, you can also click **Preview** from the bottom to see how would the blurred background look to the attendees before applying the changes.
@@ -176,6 +184,13 @@ On the next screen, tap to enable both **Video** and **Audio** functions from th
 
 ![ blur Microsoft Teams  background on iPhone](https://images.wondershare.com/filmora/article-images/microsoft-teams-iphone-background-effects.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3: Blur the Background**
 
 On the **Select background** screen, tap **Blur** from the options available in the box at the bottom, and tap **Done** from the top-right corner to apply the changes.
@@ -183,22 +198,12 @@ On the **Select background** screen, tap **Blur** from the options available in 
 ![ blur Microsoft Teams  background on iPhone](https://images.wondershare.com/filmora/article-images/blur-teams-video-call-background-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## FAQs about Blur Teams Meeting Background
 
 **Q1) Why can’t I blur my background in Microsoft Teams?**
@@ -220,9 +225,6 @@ On the other hand, if your computer has AVX2 and you still cannot see the option
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 If you have recorded the Teams video call during the meet and want to blur the background, you can try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which allows you to blur videos in several ways.
 
 Import your video to Filmora track, and then go to Effects – Utility, you will find tilt-shift linear and tilt-shift circle. Here I will choose the tilt-shift circle effect to blur the background.
@@ -239,10 +241,14 @@ Check the video below to find out more creative usage of the Human Segmentation 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -250,11 +256,27 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-leading-your-audience-into-a-world-of-instagram-live/"><u>[New] In 2024, Leading Your Audience Into a World of Instagram Live</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-precise-screen-record-azs-full-app-dissection/"><u>[New] In 2024, Precise Screen Record - AZ's Full App Dissection</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagram-sounds-ownership-policy-for-2024/"><u>[New] Instagram Sounds Ownership Policy for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-newest-methods-for-ios-screenshots-and-playback/"><u>[New] Newest Methods for iOS Screenshots & Playback</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-chill-out-the-leading-10-calm-games/"><u>[Updated] 2024 Approved Chill Out The Leading 10 Calm Games</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-unlock-your-old-game-library-with-these-premier-pc-gba-emulators/"><u>[Updated] 2024 Approved Unlock Your Old Game Library with These Premier PC GBA Emulators</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-premiered-compilation-of-high-fidelity-3ds-simulators/"><u>[Updated] In 2024, Premiered Compilation of High-Fidelity 3DS Simulators</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/1728490155290-uefigptssd/"><u>如何使用UEFI进行GPT磁盘的SSD备份与可引导性转移</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-vivo-y100-screen-sharing-drfone-by-drfone-android/"><u>How To Do Vivo Y100 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-unresponsive-fn-keys-in-your-asus-laptop-a-step-by-step-guide/"><u>How to Fix Unresponsive Fn Keys in Your ASUS Laptop - A Step by Step Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-realme-c51-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Realme C51 Data? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/snapshot-your-mobile-gamers-high-scores-on-samsungs-for-2024/"><u>Snapshot Your Mobile Gamers' High Scores on Samsungs for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+</ul></div>
+

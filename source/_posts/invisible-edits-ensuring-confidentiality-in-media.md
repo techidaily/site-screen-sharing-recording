@@ -1,7 +1,7 @@
 ---
 title: "\"Invisible Edits  Ensuring Confidentiality in Media\""
-date: 2024-10-10T16:20:53.819Z
-updated: 2024-10-16T16:28:00.696Z
+date: 2024-10-20T22:54:18.777Z
+updated: 2024-10-21T17:15:18.824Z
 tags: 
   - screen-recording
   - ai video
@@ -80,10 +80,10 @@ The Annotations tab lets you add captions, overlays, speech bubbles, and, most i
 ![Filmora Scrn Blur Effects](https://images.wondershare.com/filmora/article-images/blur-effects-filmora-scrn.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 There are two extraordinary blur effects we must mention here, one is called Horizontal Mix, and the other is Vertical Mix. Words cannot express how amazing it is; let me show you some examples.
@@ -92,16 +92,16 @@ The original frame is shown below, and I want to blur and hide these two sensiti
 
 ![Filmora Scrn Blur Effects](https://images.wondershare.com/filmora/article-images/blur-effects-examples.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After I applied the Horizontal Mix blur and the Vertical Mix blur to these two pictures, below is what I got:
 
 ![Filmora Scrn Blur Effects](https://images.wondershare.com/filmora/article-images/blur-mix-effects-filmora-scrn.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -116,10 +116,16 @@ Hiding the identity of the people in your videos and concealing private informat
 ![Filmora Scrn Annotations ](<https://images.wondershare.com/filmora/article-images/blurring-private> info-import.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If you choose to capture a screen with the Filmora Scrn's screen recorder, the video file you create will be automatically imported into the software's video editor and placed into the Media Bin after the recording session is over.
@@ -136,6 +142,13 @@ Drag the effect you like the most to the timeline or drag it to the Canvas direc
 
 ![Filmora Scrn   ](https://images.wondershare.com/filmora/article-images/adjust-blur-effects.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 On the right side of the editor's screen, you'll be able to see Transform and Blur options. Use the Transform feature to place the blur effect over the area of the shot in which the sensitive info is located to hide it from the spectators. Alternatively, you can move or resize the blurred window by dragging it on the software's preview screen.
 
 Next to the Transform icon, you'll be able to see the Annotations icon, click on it and proceed to adjust the blur Intensity and Opacity features. You should repeat this process as many times as necessary until all the sensitive information in your video clip is blurred.
@@ -147,13 +160,6 @@ Finally, you can go ahead and click on the Export button if you're happy with th
 Ok, that's it. Hope you have hidden and blurred the private info in your recorded video. Leave a comment below and let us know if it works for you perfectly.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -171,20 +177,17 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-guide-5-advanced-webcams-for-video-calls-for-2024/"><u>[Updated] Ultimate Guide 5 Advanced Webcams for Video Calls for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-capturing-the-web-in-full-color-the-best-screen-recorders-reviewed/"><u>2024 Approved Capturing the Web in Full Color The Best Screen Recorders Reviewed</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-professional-insight-into-accurate-and-clear-vr-recording/"><u>2024 Approved Professional Insight Into Accurate and Clear VR Recording</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-tailored-minecraft-filming-techniques-for-gamers/"><u>2024 Approved Tailored Minecraft Filming Techniques for Gamers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-windows-10-game-recording-5-methods/"><u>2024 Approved Windows 10 Game Recording [5 Methods]</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/aomei-onekey-recovery-f11/"><u>啟動 AOMEI OneKey Recovery: 詳盡 F11鍵操作指南</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/constant-media-recording-specialists/"><u>Constant Media Recording Specialists</u></a></li>
-<li><a href="https://win-answers.techidaily.com/eliminating-persistent-issues-with-thunder-tier-one-stability-improvements-for-pc-users/"><u>Eliminating Persistent Issues with Thunder TIER One - Stability Improvements for PC Users</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-xs-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix Apple iPhone XS Passcode not Working? | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-alter-default-location-for-mac-captured-images/"><u>In 2024, Alter Default Location for Mac Captured Images</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-essential-techniques-for-screen-capturing-on-various-os-and-gadgets/"><u>In 2024, Essential Techniques for Screen Capturing on Various OS & Gadgets</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-swift-typing-techniques-with-powertoys/"><u>Master Swift Typing Techniques with PowerToys</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-mobile-magic-16-apps-to-transform-your-selfies-into-cartoons/"><u>New In 2024, Mobile Magic 16 Apps to Transform Your Selfies Into Cartoons</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-guide-to-hd-video-editing-software-for-2024/"><u>The Ultimate Guide to HD Video Editing Software for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlock-the-power-of-slow-mo-with-these-android-hacks-for-2024/"><u>Unlock the Power of Slow Mo with These Android Hacks for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-prime-obs-arrangements-on-economy-computers/"><u>[New] In 2024, Prime OBS Arrangements on Economy Computers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-beam-your-best-lol-playing-moments-onto-screen-3-ways/"><u>[Updated] In 2024, Beam Your Best LOL Playing Moments Onto Screen (3 Ways)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-pinnacle-play-best-of-royale-multiplayer-matches/"><u>2024 Approved Pinnacle Play Best of Royale Multiplayer Matches</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionizing-broadcast-media-with-chroma-key-expertise/"><u>2024 Approved Revolutionizing Broadcast Media with Chroma Key Expertise</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/aural-adventures-tech-updates-for-2024/"><u>Aural Adventures Tech Updates for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/explore-the-best-free-passport-picture-creation-services-online-for-2024/"><u>Explore the Best Free Passport Picture Creation Services Online for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-honor-magic-v2-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Honor Magic V2</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-se-2020-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Data from Apple iPhone SE (2020) to ZTE Phones | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-snapedit-story-complete-video-editor-features/"><u>In 2024, SnapEdit Story – Complete Video Editor Features</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/is-your-investment-in-netflix-worthwhile/"><u>Is Your Investment in Netflix Worthwhile?</u></a></li>
+<li><a href="https://facebook.techidaily.com/online-landslide-tech-giants-go-dark-for-days/"><u>Online Landslide: Tech Giants Go Dark for Days</u></a></li>
 </ul></div>
 

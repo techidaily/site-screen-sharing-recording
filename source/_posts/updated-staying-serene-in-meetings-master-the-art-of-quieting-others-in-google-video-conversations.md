@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Staying Serene in Meetings  Master the Art of Quieting Others in Google Video Conversations\""
-date: 2024-08-29T00:09:08.462Z
-updated: 2024-08-30T00:09:08.462Z
+date: 2024-10-21T01:42:32.187Z
+updated: 2024-10-21T22:12:54.567Z
 tags: 
   - screen-recording
   - ai video
@@ -52,11 +52,25 @@ All an individual has to do is click the microphone button located on the bottom
 
 ![Google Meet Mute](https://images.wondershare.com/filmora/article-images/mute-microphone-on-google-meet.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If they click that same button again, they will be unmuted.
 
 ![Google Meet unmute](https://images.wondershare.com/filmora/article-images/unmute-yourself-google-meet.jpg)
 
 However, if they do not want to make use of the screen to mute and unmute, they can use keyboard key shortcuts. For Mac users, the relevant keys are CTRL - COMMAND - M. If you are making use of a different desktop or laptop then it is simply CTRL - M.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Mute Someone in Google Meet?
 
@@ -78,13 +92,17 @@ Click on the arrow next to the name of the person you would like to mute. Once y
 
 ![Google Meet participants list](https://images.wondershare.com/filmora/article-images/google-meet-participants-list.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Click the microphone button in the middle, and once a cross appears on the mic, the individual will be muted.
 
 ![Google Meet mute people](https://images.wondershare.com/filmora/article-images/mute-people-on-google-meet.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: How to Mute All Participants in Google Meet?
 
 Want to convey your message to everyone without having some interrupt you and have you lose your train? Mute everyone!
@@ -96,13 +114,21 @@ At the button right of your Google Meet window, click on “people” and then c
 ![ mute all on Google Meet  ](https://images.wondershare.com/filmora/article-images/mute-all-people-on-google-meet.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Side note:** Once a participant is muted, they do have the option to manually unmute themselves, so remember that.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 5: Best Chrome Extensions to Mute Everyone in Google Meet
 
 Well, it’s not like everyone has an educational Google account through which they can access the mute all feature, so what do those individuals do. They can get themselves some of the best chrome extensions which allow them to use the mute all option without creating an educational Google account.
@@ -110,15 +136,16 @@ Well, it’s not like everyone has an educational Google account through which t
 Take a look at these extensions which will enable you to mute Google Meet participants all at once!
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Mute All for Google Meet
 
 ![ mute all on Google Meet with extension ](https://images.wondershare.com/filmora/article-images/mute-all-for-google-meet-extension.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 This extension is offered by <https://google-meet-mute-all.dllplayer.com/> and it works with Google Drive. It allows individuals to custom design their user settings and preferences for a Google Meet meeting.
 
 Listed below are some of its salient features,
@@ -140,9 +167,6 @@ This extension offered by <https://meetextension.com/> is used by teachers, stud
 
 Using this extension, you can do many things, such as record the Google Meeting video calls, mute and unmute microphones. Besides that, you can also use it to admit or deny a meeting joining request automatically, download the chat, and enable the picture-in-picture view to watch other videos and your video call together on your screen.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 6: How to Remove Someone From Google Meet With/Without Being A Host?
 
 Don’t you just hate it when there is too much distortion or disturbance in a session because of another participant? Well, lucky for everyone, Google Meet has a “remove from the meeting” feature as well. In this, individuals can remove other people from the meeting, if they aren’t meant to be in the session or if they are causing challenges in the meeting. They can do this while being the host and even when they are not the host of the meeting.
@@ -153,9 +177,6 @@ In the Google Meet window, click on the people icon and a list of participant na
 
 ![ Google Meet participants](https://images.wondershare.com/filmora/article-images/google-meet-participants-list-menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 Then, from the list with the names of all participants, click on the name of the person you want to remove, then click on the 3 dots next to their name.
 
 You will see 2 options, Pin to screen and Remove from meeting. Click on 2nd option to remove the participant and confirm the command.
@@ -163,8 +184,12 @@ You will see 2 options, Pin to screen and Remove from meeting. Click on 2nd opti
 ![ remove people on Google Meet](https://images.wondershare.com/filmora/article-images/remove-people-from-google-meet.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2\. How to Remove A Participant from Google Meet Without Being A Host
 
 If you are not the host, then regretfully, you can not remove a certain participant from the meeting. However, if you download an extension, that might do the trick to enable this feature.
@@ -191,11 +216,29 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-how-to-record-gameplay-on-xbox-one-for-2024/"><u>[New] How to Record Gameplay on Xbox One for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-choosing-the-best-screen-capture-app-obs-vs-fraps/"><u>[New] In 2024, Choosing the Best Screen Capture App – OBS vs Fraps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-streamlined-steps-for-storing-webcam-chat-transcripts-for-2024/"><u>[New] Streamlined Steps for Storing Webcam Chat Transcripts for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-ultimate-combat-arcade-nintendo-switch-edition-max-156/"><u>[New] Ultimate Combat Arcade Nintendo Switch Edition (Max 156)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-elite-remote-meeting-apps-beyond-zoom/"><u>[Updated] Elite Remote Meeting Apps Beyond Zoom</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-best-video-editor-for-recorded-webcam-videos/"><u>[Updated] In 2024, Best Video Editor for Recorded Webcam Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-maximizing-your-fb-video-view-going-full-screen/"><u>[Updated] In 2024, Maximizing Your FB Video View Going Full Screen</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-unlocking-captivates-potential-for-video-creation/"><u>[Updated] In 2024, Unlocking Captivate's Potential for Video Creation</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-x-media-converter-desktop-application/"><u>[Updated] In 2024, X-Media Converter Desktop Application</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-xiaomi-13t-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Xiaomi 13T FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fine-tune-your-virtual-interaction-with-close-up-google-meet-tips-for-2024/"><u>Fine-Tune Your Virtual Interaction with Close-Up Google Meet Tips for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/masterful-mobile-cinematography-now-at-your-fingertps-how-apple-upgrades-the-iphone-with-final-cut-for-pro-level-shooting-zdnet/"><u>Masterful Mobile Cinematography Now at Your Fingertps: How Apple Upgrades the iPhone with Final Cut for Pro-Level Shooting | ZDNET</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/mastering-low-volume-transitions-within-fl-studio-for-2024/"><u>Mastering Low-Volume Transitions Within FL Studio for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-speaking-up-in-fortnite-when-your-mic-fails/"><u>Troubleshooting: Speaking Up in Fortnite When Your Mic Fails!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-realme-12-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Realme 12 5G FRP Bypass</u></a></li>
+</ul></div>
+

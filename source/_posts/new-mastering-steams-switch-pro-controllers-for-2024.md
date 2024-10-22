@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Steam's Switch Pro Controllers for 2024"
-date: 2024-10-12T16:20:02.355Z
-updated: 2024-10-16T16:15:40.070Z
+date: 2024-10-15T04:19:06.437Z
+updated: 2024-10-22T08:53:47.495Z
 tags: 
   - screen-recording
   - ai video
@@ -72,15 +72,22 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * To add a Bluetooth device, click "Add Bluetooth Device."
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
@@ -90,10 +97,10 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 * Once Steam is set up, you can begin using it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
@@ -114,6 +121,13 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **What To Do With Non-Steam Games?**
 
 Using the methods discussed above, you can easily use a switch pro controller with your pc, but it only works with steam games. But what if you want to play a non-steam game using a switch pro controller? What will you do now? The switch pro controller hardware support will run out of luck in this scenario.
@@ -124,25 +138,11 @@ The main problem here now is how windows will detect your switch pro controller 
 
 **Solution2:** The second method is to use a software-based XInput Wrapper. There is plenty of software out there that provides this functionality. Just configure your switch pro controller with them, and you can easily use it on non-steam games.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Final Verdict**
 
 This is how you can use your switch pro controller with your PC. Now you can easily enjoy your favorite games on one of the finest controllers available in the market today. All you need to do is, follow some simple steps mentioned in this article, and you are good to go. You can connect it both with wire and wirelessly. It is comparatively easy to connect it through the wire, and the performance of the controller is also slightly better when it is connected through a wire.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -160,22 +160,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-apex-titles-for-hd-video-recording-technologies/"><u>[New] 2024 Approved Apex Titles for HD Video Recording Technologies</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-accelerate-your-streaming-career-utilizing-obs-capabilities/"><u>[New] In 2024, Accelerate Your Streaming Career Utilizing OBS Capabilities</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-zooms-acoustic-edge-unlocking-two-pronged-audio-perfection/"><u>[New] In 2024, Zoom's Acoustic Edge Unlocking Two-Pronged Audio Perfection</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-your-personalized-top-10-playlist/"><u>[New] Your Personalized Top 10 Playlist</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-detailed-review-all-about-gecatas-recording-mechanism/"><u>[Updated] 2024 Approved Detailed Review All About Gecata's Recording Mechanism</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-powerhouse-guide-to-innovative-mobizen-screencasting-techniques/"><u>[Updated] 2024 Approved Powerhouse Guide to Innovative Mobizen Screencasting Techniques</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-vision-and-flavor-shooting-the-best-food-videos/"><u>[Updated] 2024 Approved Vision and Flavor Shooting the Best Food Videos</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-ideal-virtual-sets-crafting-excellent-google-meet-backdrops/"><u>[Updated] Ideal Virtual Sets Crafting Excellent Google Meet Backdrops</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-cultivating-success-in-valheim-prime-seed-picks/"><u>[Updated] In 2024, Cultivating Success in Valheim Prime Seed Picks</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-mastering-fb-video-promos-access-free-video-toolkit/"><u>2024 Approved Mastering FB Video Promos Access Free Video Toolkit</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/detaching-pictures-from-video-clip-using-photos-on-windows-10-for-2024/"><u>Detaching Pictures From Video Clip Using Photos on Windows 10 for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/gratuit-mp4-to-webm-conversion-en-ligne-utilisez-le-logiciel-de-convertisseur-video-movavi/"><u>Gratuit MP4-to-WEBM Conversion en Ligne: Utilisez Le Logiciel De Convertisseur Vidéo Movavi</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723007321465-how-to-fix-sims-4-lagging-on-pc-pro-tips-2024/"><u>How to Fix Sims 4 Lagging on PC - Pro Tips 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-realme-narzo-60x-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Realme Narzo 60x 5G to iPod | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-sony-xperia-5-v-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Sony Xperia 5 V to PC? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/score-two-top-nomad-slimphone-protectors-at-half-price-limited-offer/"><u>Score Two Top Nomad Slimphone Protectors at Half Price - Limited Offer!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-hdr-camera-connoisseurs-handbook-for-2024/"><u>The HDR Camera Connoisseur's Handbook for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-xbox-extended-storage-5-must-have-hdds/"><u>[New] 2024 Approved Xbox Extended Storage 5 Must-Have HDDs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-avoiding-zoom-call-blunders-smart-filters-usage-for-2024/"><u>[New] Avoiding Zoom Call Blunders Smart Filters Usage for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-elite-picks-gpus-optimized-for-4k-gaming/"><u>[New] Elite Picks GPUs Optimized for 4K Gaming</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-nine-superior-tools-to-freeze-dynamic-windows-gifs-flawlessly/"><u>[New] In 2024, Nine Superior Tools to Freeze Dynamic Windows GIFs Flawlessly</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-personalized-pick-our-top-12-favorite-pc-clicker-games-for-2024/"><u>[New] Personalized Pick Our Top 12 Favorite PC Clicker Games for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-radeon-settings-are-currently-not-available/"><u>[SOLVED] Radeon Settings Are Currently Not Available</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-vr-cycling-experiences-awaiting-you/"><u>2024 Approved Best VR Cycling Experiences Awaiting You</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capturing-and-crafting-your-essential-guide-to-gopro-4k-edits/"><u>Capturing and Crafting Your Essential Guide to GoPro 4K Edits</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Vivo Y200e 5G? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/maximizing-performance-in-depth-apple-iphone-12-pro-max-evaluation-why-more-is-often-merrier/"><u>Maximizing Performance: In-Depth Apple iPhone 12 Pro Max Evaluation - Why More Is Often Merrier</u></a></li>
 </ul></div>
 

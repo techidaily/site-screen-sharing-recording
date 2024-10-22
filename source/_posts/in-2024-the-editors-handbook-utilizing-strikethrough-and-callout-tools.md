@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Editor's Handbook  Utilizing Strikethrough and Callout Tools\""
-date: 2024-10-15T16:11:03.142Z
-updated: 2024-10-16T16:28:29.403Z
+date: 2024-10-17T23:06:02.425Z
+updated: 2024-10-21T17:26:49.938Z
 tags: 
   - screen-recording
   - ai video
@@ -48,13 +48,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Distinctions Between the Two Types of Markers
 
 Watching the footage you've captured over and over can be a tiresome process that consumes both time and energy, so in order to increase your efficiency during the process of capturing and editing videos, you can simply add markers both to the files you're creating while recording or to your project's timeline.
@@ -64,6 +57,13 @@ The **media markers** are the markers you can add directly to the video file you
 You can use them to mark a place in the screen recording you're not too happy with, or to highlight the part of the video clip that you intend on featuring in the final cut of the video you've created with Wondershare's screen capturing and screen recording software. By doing so you'll save time on going through all the material just to find a few seconds of footage that fit perfectly to your video.
 
 ![Filmora Scrn Markers](https://images.wondershare.com/filmora/article-images/filmora-scrn-markers.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The **timeline markers**, on the other hand, can only be added to a project once you've completed the recording session, during the post-production period. You can utilize them to highlight the parts of the video clip you want to remove from the final version of your video or to mark the spots on the timeline where you'd like to switch from one take to another.
 
@@ -94,25 +94,11 @@ To add markers, watch your video and find the mistake. Pause the video, then cli
 
 ![add marker from the timeline toolbar](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 2: Access the Modification Option
 
 Filmora lets you adjust your marker settings for your video. Right-click on the marker and select **"Modify Marker"** from the control panel.
 
 ![access the modification option](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step 3: Customize the Markers
 
@@ -127,10 +113,10 @@ After importing the clip into the timeline and identifying the points of error i
 ![add maker through the keyboard](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **2\. How to Remove a Marker After Screen Recording**
@@ -139,11 +125,25 @@ Once you have finished editing your mistakes, it's important to remove the marke
 
 ![remove a marker](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In conclusion, markers are a valuable tool for video recording and editing. They can help editors keep track of important moments, make precise edits, and streamline your workflow. By utilizing markers effectively, you can save time and ensure a more polished final result. Furthermore, you can try to use Wondershare Filmora to incorporate markers into the screen recording and video editing process. It is a great way to enhance the quality and efficiency of your work greatly. So, don't hesitate to start using markers in your video recording and editing projects today with Filmora!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -160,22 +160,17 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-mastering-powerpoint-recording-on-camera-for-professionals/"><u>[New] 2024 Approved Mastering PowerPoint Recording on Camera for Professionals</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-soundtrack-of-your-phone-classic-tones-download-site-guide/"><u>[New] 2024 Approved The Soundtrack of Your Phone Classic Tones Download Site Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-unveiling-the-essence-of-top-tier-screen-recorders-with-obs/"><u>2024 Approved Unveiling the Essence of Top-Tier Screen Recorders with OBS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audio-troubleshooting-for-windows-11-top-fixes-and-tips/"><u>Audio Troubleshooting for Windows 11: Top Fixes and Tips</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/comprehensive-overview-mastering-the-art-of-screen-capturing-with-aiseesoft-for-2024/"><u>Comprehensive Overview Mastering the Art of Screen Capturing with Aiseesoft for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/eliminate-fuzziness-clearer-facebook-video-tips/"><u>Eliminate Fuzziness Clearer Facebook Video Tips</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-built-in-wifi-and-bluetooth-on-my-laptop-refuse-to-shut-down-in-windows/"><u>Fix: Built-In Wifi and Bluetooth on My Laptop Refuse to Shut Down in Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-update-and-install-thunderbolt-3-drivers-for-your-windows-11-8-or-7-system/"><u>How to Update & Install Thunderbolt 3 Drivers for Your Windows 11, 8 or 7 System</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-pure-image-no-clutter-webcam-recording-edit/"><u>In 2024, Pure Image, No Clutter - Webcam Recording Edit</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-quick-guide-lecture-capture-with-your-computer-mac/"><u>In 2024, Quick Guide Lecture Capture with Your Computer (Mac)</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-revolutionizing-how-you-record-and-archive-ps3-gaming/"><u>In 2024, Revolutionizing How You Record and Archive PS3 Gaming</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-secrets-of-excellence-how-zoom-can-transform-your-podcast-recordings/"><u>In 2024, Secrets of Excellence How Zoom Can Transform Your Podcast Recordings</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-skype-call-recording-for-windows-os-x-users/"><u>In 2024, Skype Call Recording for Windows, OS X Users</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-snap-and-save-professional-screen-recording-11-version/"><u>In 2024, Snap & Save Professional Screen Recording 11-Version</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-step-by-step-guide-to-record-google-meet-on-smartphones/"><u>In 2024, Step-by-Step Guide to Record Google Meet on Smartphones</u></a></li>
-<li><a href="https://extra-information.techidaily.com/simplified-steps-for-instagram-collage-mastery/"><u>Simplified Steps for Instagram Collage Mastery</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-download-and-installation-of-drivers-for-hp-envy-5660/"><u>Step-by-Step Download & Installation of Drivers for HP ENVY 5660</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-from-first-steps-to-proficiency-in-iphone-voice-memos/"><u>[New] 2024 Approved From First Steps to Proficiency in iPhone Voice Memos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-minecraft-logo-designs-for-youtube-channels/"><u>[New] In 2024, Minecraft Logo Designs for YouTube Channels</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-screenstreaming-mastery-capturing-high-quality-content-on-your-mac/"><u>[New] In 2024, ScreenStreaming Mastery Capturing High-Quality Content on Your Mac</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-ultimate-list-of-exciting-pc-clickers-you-cant-miss/"><u>[New] The Ultimate List of Exciting PC Clickers You Can't Miss</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-getting-acquainted-with-zoom-segregated-sessions/"><u>[Updated] 2024 Approved Getting Acquainted with Zoom Segregated Sessions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-6-ways-to-screen-record-netflix-on-mac-for-2024/"><u>[Updated] 6 Ways to Screen Record Netflix on Mac for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatbot-showdown-which-ai-runs-the-house/"><u>ChatBot Showdown: Which AI Runs the House?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-sony-xperia-5-v-phone-by-drfone-android/"><u>How to Reset a Locked Sony Xperia 5 V Phone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-motorola-moto-g04-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Motorola Moto G04? Fixed | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-honor-magic5-ultimate-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Honor Magic5 Ultimate has been deleted.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-critical-reynolds-number-for-pipe-flow-is-approximately-200-(-re-(-4000-below-this-range-indicates-laminar-flow-and-above-suggests-turbulent-flow/"><u>The Critical Reynolds Number for Pipe Flow Is Approximately 200 < Re < 4000; Below This Range Indicates Laminar Flow and Above Suggests Turbulent Flow.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-xbox-one-x-dominating-todays-gaming-console-arena/"><u>Ultimate Guide: Xbox One X - Dominating Today's Gaming Console Arena</u></a></li>
 </ul></div>
 

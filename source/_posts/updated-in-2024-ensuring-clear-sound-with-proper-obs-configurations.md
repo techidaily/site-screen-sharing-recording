@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Ensuring Clear Sound with Proper OBS Configurations"
-date: 2024-10-10T16:12:29.301Z
-updated: 2024-10-16T16:07:49.956Z
+date: 2024-10-15T22:45:17.952Z
+updated: 2024-10-22T08:40:14.527Z
 tags: 
   - screen-recording
   - ai video
@@ -35,11 +35,31 @@ Edit system and microphone audio seperately
 
 All in all, to record desktop audio with OBS, you have to enter a third-party audio driver. To find out the intricacies of this solution, you may read the solutions as follow:
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **1\. Close the OBS and Restart**
 
 While using OBS studio, the users might experience the difficulties of OBS not capturing mic audio. This problem arises because the program only captures mic audio, and it doesn't support the desktop audio or system sound. to repair the "OBS no sound" problem on your PC is simply to shut the OBS studio software and thereafter restart it once more.
 
 ![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **2\. Run it as Administrator**
 
@@ -51,13 +71,6 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 
 ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **3\. Unmute OBS**
 
 If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any desktop sound. test if OBS desktop audio comes back. If not, try the next remedy below. So the first troubleshooting step is to check your Volume Mixer.
@@ -67,20 +80,6 @@ If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any deskto
 2) Click the speaker icon beneath OBS to unmute this program.
 
 ![unmute obs](https://images.wondershare.com/filmora/article-images/unmute-obs.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **4\. Check the sound settings**
 
@@ -92,6 +91,13 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **5\. Remove Other Programs for Audio Control**
 
 Try recording with your speakers as the default playback device instead of headphones. To accomplish it, right-click the Speakers system tray icon and choose Open Sound settings.
@@ -102,6 +108,13 @@ Try recording with your speakers as the default playback device instead of headp
 
 ![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **6\. Update your audio driver**
 
 If the Desktop Audio stopped recording after the Windows Driver update, you may roll back the Windows to the prior version with no difficulty. If the audio driver is not up-to-date, the OS cannot connect with the audio output device. Hence, OBS will not detect any audio. To upgrade your audio driver, follow these procedures.
@@ -110,13 +123,6 @@ If the Desktop Audio stopped recording after the Windows Driver update, you may 
 * From there, expand the Sound, video, and game controller, then right-click the audio driver and Update.
 
 ![update your audio driver](https://images.wondershare.com/filmora/article-images/update-your-audio-driver.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **7\. Reinstall OBS**
 
@@ -129,17 +135,10 @@ If none of the techniques can assist you, your OBS is experiencing an undefined 
 ![reinstall obs](https://images.wondershare.com/filmora/article-images/reinstall-obs.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Use OBS Alternative
@@ -157,6 +156,13 @@ For macOS 10.12 or later
 After the above efficient approaches, we have utilized to cure the "OBS No Sound" problem on your PC. You may straight-away choose Filmora and erase the abnormalities hassle-free. . Filmora Screen Recorder is recognized as one of the most powerful screen record applications which are comparable to OBS, it has extremely amazing performance in screen recording. Case in case, you can capture a lossless video with lossless audio quality. It is an easy-to-use editor for both novices as well as pros. The program is available for Mac platforms and Windows for free. However, the exported video will have a watermark of Filmora that may be removed in the premium version. If you hanker to have a flexible recording, Filmora Screen Recorder will satisfy your desire as well. You may set the audio source and recording location manually with one easy click. No need to add that all the shortcuts, attributes of the output, and mouse motions are all configurable. Moreover, users may build dramatic titles by adding all sorts of colors and fonts to the contents.
 
 ![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Features Why You Should Go for Filmora:**
 
@@ -180,16 +186,22 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-how-to-record-steam-gameplay/"><u>2024 Approved How to Record Steam Gameplay</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-mastering-the-mechanics-of-zoom-techniques-for-top-notch-podcast-recordings/"><u>2024 Approved Mastering the Mechanics of Zoom Techniques for Top-Notch Podcast Recordings</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-pixelpioneer-screensaver-logging/"><u>2024 Approved PixelPioneer Screensaver Logging</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-seamless-integration-of-snaps-in-zoom-virtual-meetings/"><u>2024 Approved Seamless Integration of Snaps in Zoom Virtual Meetings</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-spectacular-screen-showdown-sj6-vs-the-4k-innovators-of-xiaomi/"><u>2024 Approved Spectacular Screen Showdown SJ6 Vs. The 4K Innovators of Xiaomi</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-when-call-of-duty-warzone-wont-start/"><u>Effective Solutions When Call of Duty Warzone Won't Start</u></a></li>
-<li><a href="https://games-able.techidaily.com/get-ready-to-play-youtubes-innovative-mini-gaming-tests-announced/"><u>Get Ready to Play: YouTube's Innovative Mini Gaming Tests Announced</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/how-to-successfully-record-and-manage-internet-radio-for-2024/"><u>How to Successfully Record and Manage Internet Radio for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/integrated-marketing-campaigns-for-brand-and-video-platforms-for-2024/"><u>Integrated Marketing Campaigns for Brand and Video Platforms for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/method-to-resuscitate-windows-lost-scanning-capability/"><u>Method to Resuscitate Windows' Lost Scanning Capability</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-definitive-guide-to-using-vlc-player-in-macos/"><u>The Definitive Guide to Using VLC Player in macOS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-experts-choice-top-green-screen-tools-list/"><u>[New] 2024 Approved Expert's Choice Top Green Screen Tools List</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-experience-the-thrill-of-kinemaster-and-rank-10-online-alternatives-alike/"><u>[New] Experience the Thrill of KineMaster and Rank 10 Online Alternatives Alike</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-top-strategies-for-chronicling-lol-showdowns-for-2024/"><u>[New] Top Strategies for Chronicling LOL Showdowns for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-best-linux-screen-capture-software-ranked-for-2024/"><u>[Updated] Best Linux Screen Capture Software Ranked for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-diving-deeper-into-webcam-possibilities-for-2024/"><u>[Updated] Diving Deeper Into Webcam Possibilities for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-peer-reviewed-best-action-replay-tech/"><u>2024 Approved Peer-Reviewed Best Action Replay Tech</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-unlocking-the-secrets-to-overwatch-video-capture/"><u>2024 Approved Unlocking the Secrets to Overwatch Video Capture</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-zooms-room-division-guide-for-the-novice/"><u>2024 Approved Zoom's Room Division Guide for the Novice</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-lava-yuva-3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/best-free-screencaster-tools-with-unmarked-recordings-a-detailed-review/"><u>Best Free Screencaster Tools with Unmarked Recordings - A Detailed Review</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/defend-against-malware-the-creme-de-la-creme-of-iphone-security-apps/"><u>Defend Against Malware: The Crème De La Crème of iPhone Security Apps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/how-to-record-cameras-and-monitors-together-efficiently/"><u>How to Record Cameras & Monitors Together Efficiently</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-ideal-mc-villages-architecture-blueprints/"><u>In 2024, Ideal MC Villages Architecture Blueprints</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, Pokémon Go Cooldown Chart On Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/snapping-and-recording-screen-on-macos/"><u>Snapping and Recording Screen on macOS</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/step-by-step-guide-recovering-accidentally-deleted-items-from-your-microsoft-onedrive/"><u>Step-by-Step Guide: Recovering Accidentally Deleted Items From Your Microsoft OneDrive</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Realme C33 2023? | Dr.fone</u></a></li>
 </ul></div>
 

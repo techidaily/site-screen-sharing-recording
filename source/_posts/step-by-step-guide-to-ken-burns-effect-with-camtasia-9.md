@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step Guide to Ken Burns Effect with Camtasia 9\""
-date: 2024-10-13T16:06:50.613Z
-updated: 2024-10-16T16:05:22.492Z
+date: 2024-10-16T18:33:04.647Z
+updated: 2024-10-22T00:08:17.999Z
 tags: 
   - screen-recording
   - ai video
@@ -53,10 +53,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -68,10 +68,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -99,10 +99,16 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -121,19 +127,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-debut-visual-capturing-analysis/"><u>[New] In 2024, Debut Visual Capturing Analysis</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-secrets-of-excellence-in-xbox-gameplay-screenshots/"><u>[New] In 2024, Secrets of Excellence in Xbox Gameplay Screenshots</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-pc-capture-tool-apowersofts-latest-screen-recording-for-2024/"><u>[New] PC Capture Tool Apowersoft's Latest Screen Recording for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-immersive-animal-life-on-android-ultimate-list-for-2024/"><u>[Updated] Immersive Animal Life on Android Ultimate List for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1-htc-media-suite-effortless-file-to-video-transformation-with-htcs-proprietary-software/"><u>1. HTC Media Suite: Effortless File-to-Video Transformation with HTC's Proprietary Software</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-creating-a-softer-focus-iphone-image-blurring-explained/"><u>2024 Approved Creating a Softer Focus IPhone Image Blurring Explained</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-efficiently-saving-your-screen-the-dell-approach/"><u>2024 Approved Efficiently Saving Your Screen The Dell Approach</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-tune-treasure-trove-save-and-study-sound-files/"><u>2024 Approved Tune Treasure Trove Save & Study Sound Files</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/directscreen-a-streamlined-windows-recorder-for-2024/"><u>DirectScreen A Streamlined Windows Recorder for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-worlds-solutions-for-no-audio-in-valheim-pc-edition/"><u>Fixing Silent Worlds: Solutions for 'No Audio' In Valheim PC Edition</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-sending-and-receiving-texts-via-ipad/"><u>Step-by-Step Tutorial: Sending & Receiving Texts via iPad</u></a></li>
-<li><a href="https://techtrends.techidaily.com/steps-to-correct-the-missing-mstdfmtdll-error-message/"><u>Steps to Correct the Missing mstdfmt.dll Error Message</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723010765053-the-ultimate-guide-to-achieving-smoother-graphics-and-better-response-times-with-elevated-fps-in-tainted-grail-conquer-your-battles/"><u>The Ultimate Guide to Achieving Smoother Graphics and Better Response Times with Elevated FPS in Tainted Grail - Conquer Your Battles!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-mastery-of-mobile-and-desktop-calendar-integration-with-zoom/"><u>[New] 2024 Approved Mastery of Mobile and Desktop Calendar Integration with Zoom</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-open-broadcasters-versus-shadowreplay/"><u>[New] 2024 Approved Open Broadcasters Versus ShadowReplay</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-personalize-where-mac-pics-save/"><u>[New] 2024 Approved Personalize Where Mac Pics Save</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-step-by-step-perfecting-iphones-audio-captures/"><u>[New] 2024 Approved Step-by-Step Perfecting iPhone's Audio Captures</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-beginner-friendly-approach-to-iphone-screen-casts-for-2024/"><u>[New] Beginner-Friendly Approach to Iphone Screen Casts for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/reaking-into-the-digital-realm-the-wirecast-approach-for-youtube-streamers/"><u>[New] Breaking Into the Digital Realm The WireCast Approach for YouTube Streamers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-simplified-game-video-capture-via-nvidia/"><u>[Updated] 2024 Approved Simplified Game Video Capture via NVIDIA</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-effortless-audio-collection-from-your-imac-for-2024/"><u>[Updated] Effortless Audio Collection From Your iMac for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-2021s-best-screen-capture-tools-roundup/"><u>[Updated] In 2024, The 2021'S Best Screen Capture Tools Roundup</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-propagate-your-content-with-vimeo-links/"><u>[Updated] Propagate Your Content with Vimeo Links</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-interactive-image-merging-for-desktop-enthusiasts/"><u>2024 Approved Interactive Image Merging for Desktop Enthusiasts</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-tailor-your-devices-alerts-with-custom-android-sounds/"><u>2024 Approved Tailor Your Device's Alerts with Custom Android Sounds</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/detailed-guide-to-minecraft-capturing-techniques-on-mac-for-2024/"><u>Detailed Guide to Minecraft Capturing Techniques on Mac for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-iphone-screen-orientation-issues-get-full-control-back-in-landscape/"><u>Fixing iPhone Screen Orientation Issues – Get Full Control Back in Landscape</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-best-free-call-apps-on-android-ranks-them/"><u>In 2024, Best Free Call Apps on Android, Ranks Them</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-vivo-y100i-power-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Vivo Y100i Power 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/schritt-fur-schritt-anleitung-zum-erstellen-eines-windows-7-installationsabbilds-iso-fur-reparaturzwecke/"><u>Schritt-Für-Schritt Anleitung Zum Erstellen Eines Windows 7 Installationsabbilds (ISO) Für Reparaturzwecke</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-sending-voice-messages-from-your-iphone-with-and-without-imessage/"><u>Step-by-Step Guide: Sending Voice Messages From Your iPhone with and without iMessage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-typing-snippets-and-hotkeys-on-windows/"><u>Streamline Your Typing: Snippets & Hotkeys on Windows</u></a></li>
 </ul></div>
 
