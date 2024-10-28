@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Capturing Attention  A Guide to Captivate Videos for 2024\""
-date: 2024-10-18T03:42:23.573Z
-updated: 2024-10-21T23:28:32.344Z
+date: 2024-10-21T20:58:15.776Z
+updated: 2024-10-27T21:44:13.035Z
 tags: 
   - screen-recording
   - ai video
@@ -53,6 +53,13 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Record a Video Presentation Using Adobe Captivate
 
 Before you can start working on your new project you first need to install the software. If you haven't already done that, you can [download Adobe Captivate by following this link.](https://www.adobe.com/products/captivate.html) You will also have to register and activate the software in order to be able to use every option Adobe Captivate has to offer. You can find the full list of the software's features[here.](https://www.adobe.com/products/captivate/features.html)
@@ -64,10 +71,16 @@ Double-click on Adobe Captivate's desktop icon to launch the software, and then 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Click on the Demo option in the Adobe Captivate's welcome window, and then click on the Create button in the lower right corner of the screen.
@@ -78,19 +91,6 @@ After you click on the Create button, a new window will appear on the screen. In
 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-settings.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 In the Snap To section of the window, you'll be able to choose between Application Window, Application Region, and Custom Size options. Select the feature that best meets the demands of the project you are working on, and then click on the Panning drop down menu if you would like to add the panning effect to the video recording you are creating. The Audio feature lets you record both narration and system audio.
 
 #### Step 3 - Starting a new video recording session
@@ -100,10 +100,10 @@ Click on the Settings button if you wish to change the destination on your hard-
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-start.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 When the new window opens, click on the Browse icon next to the Working Folder feature, and select insert the new destination folder for your video. Above the Working Folder option is the Show Mouse in Video Demo Mode checkbox, make sure it is marked if you want the mouse cursor to be visible in the video and click OK to confirm the changes you've made.
@@ -117,10 +117,10 @@ Upon the completion of the video recording session, the Publish Video Demo windo
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-post.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You'll also be able to set the preferred frame rate, encoding option and aspect ratio. Click on the Publish button after you've adjusted all the settings in accordance with the demands of your project.
@@ -147,16 +147,21 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-analyzing-screen-capture-tech-for-professionals-for-2024/"><u>[New] Analyzing Screen Capture Tech for Professionals for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-from-playback-to-perfection-expert-steam-video-guidance/"><u>[New] In 2024, From Playback to Perfection Expert Steam Video Guidance</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-charting-the-peak-1-shorter-videos-downloader-hub-for-2024/"><u>[Updated] Charting the Peak #1 Shorter Videos Downloader Hub for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-epic-locations-for-immersive-virtual-adventures-for-2024/"><u>[Updated] Epic Locations for Immersive Virtual Adventures for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-evaluating-the-tech-behind-your-memories-the-mycam-cam-reviewed/"><u>[Updated] Evaluating the Tech Behind Your Memories The MyCam Cam Reviewed</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-straightforward-steps-upside-down-video-rotation-using-vlc/"><u>[Updated] In 2024, Straightforward Steps Upside-Down Video Rotation Using VLC</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-record-your-mac-in-hd-no-fee-for-2024/"><u>[Updated] Record Your Mac in HD No Fee for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-error-2e-to-enable-windows-update/"><u>Fixing Error 2E to Enable Windows Update</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-dance-of-the-feathers-analyzing-parrots-flight-in-bebop-2/"><u>In 2024, Dance of the Feathers Analyzing Parrot's Flight in Bebop 2</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-top-10-independent-android-games-for-non-networked-natives/"><u>In 2024, Top 10 Independent Android Games for Non-Networked Natives</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-realme-10t-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Realme 10T 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-mastering-video-conferencing-at-no-cost-our-picks-from-the-best-10-tools/"><u>[New] 2024 Approved Mastering Video Conferencing at No Cost Our Picks From the Best 10 Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-full-reveal-on-camstudios-recording-capabilities/"><u>[New] Full Reveal on CamStudio's Recording Capabilities</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-elite-nintendo-switch-fighters-showdown-max-156-for-2024/"><u>[Updated] Elite Nintendo Switch Fighters Showdown (Max 156) for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-top-10-terraria-game-boosters/"><u>[Updated] In 2024, Top 10 Terraria Game Boosters</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-top-5-capture-tools-dethroning-bandicam-on-apple-devices/"><u>[Updated] In 2024, Top 5 Capture Tools Dethroning Bandicam on Apple Devices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-simplifying-screen-views-during-google-meet-chats/"><u>2024 Approved Simplifying Screen Views During Google Meet Chats</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effectively-dealing-with-high-network-activity-by-svchostexe-netsvcs/"><u>Effectively Dealing with High Network Activity by svchost.exe (Netsvcs)</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-mastery-over-instagram-video-playback-pace/"><u>In 2024, Mastery Over Instagram Video Playback Pace</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-the-ultimate-hash-tag-guide-for-gamers-youtube-channels/"><u>In 2024, The Ultimate Hash Tag Guide for Gamers' YouTube Channels</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/online-livre-convertendo-flv-para-gifs-com-o-movavi-ferramenta-gratuita-e-direta-no-seu-browser/"><u>Online Livre: Convertendo FLV Para GIFs Com O Movavi - Ferramenta Gratuita E Direta No Seu Browser</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/simplifying-video-recording-with-screencastify-for-2024/"><u>Simplifying Video Recording with Screencastify for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unveiling-youtubes-mechanism-post-upload/"><u>Unveiling YouTube's Mechanism Post-Upload</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upgrading-to-apple-power-choosing-between-the-new-macbook-air-m3-and-m2-models-zdnet-insights/"><u>Upgrading to Apple Power: Choosing Between the New MacBook Air M3 and M2 Models | ZDNET Insights</u></a></li>
+<li><a href="https://win-blog.techidaily.com/warzone-debugging-tips-overcoming-the-obstacle-of-error-6634-in-call-of-duty/"><u>Warzone Debugging Tips: Overcoming the Obstacle of Error 6634 in Call of Duty</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnet-evaluates-dells-high-end-3000-gamer-laptop-with-cutting-edge-surprises/"><u>ZDNet Evaluates Dell's High-End $3,000 Gamer Laptop with Cutting-Edge Surprises!</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/usbwindows-1011/"><u>ブータブルUSBをWindows 10/11で使用する際のトラブルシューティング手法</u></a></li>
 </ul></div>
 

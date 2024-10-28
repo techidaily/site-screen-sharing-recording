@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step Guide to Ken Burns Effect with Camtasia 9\""
-date: 2024-10-16T18:33:04.647Z
-updated: 2024-10-22T00:08:17.999Z
+date: 2024-10-25T00:33:22.708Z
+updated: 2024-10-27T18:29:34.758Z
 tags: 
   - screen-recording
   - ai video
@@ -53,10 +53,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -68,10 +68,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -99,16 +99,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -127,24 +121,15 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-mastery-of-mobile-and-desktop-calendar-integration-with-zoom/"><u>[New] 2024 Approved Mastery of Mobile and Desktop Calendar Integration with Zoom</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-open-broadcasters-versus-shadowreplay/"><u>[New] 2024 Approved Open Broadcasters Versus ShadowReplay</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-personalize-where-mac-pics-save/"><u>[New] 2024 Approved Personalize Where Mac Pics Save</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-step-by-step-perfecting-iphones-audio-captures/"><u>[New] 2024 Approved Step-by-Step Perfecting iPhone's Audio Captures</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-beginner-friendly-approach-to-iphone-screen-casts-for-2024/"><u>[New] Beginner-Friendly Approach to Iphone Screen Casts for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/reaking-into-the-digital-realm-the-wirecast-approach-for-youtube-streamers/"><u>[New] Breaking Into the Digital Realm The WireCast Approach for YouTube Streamers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-simplified-game-video-capture-via-nvidia/"><u>[Updated] 2024 Approved Simplified Game Video Capture via NVIDIA</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-effortless-audio-collection-from-your-imac-for-2024/"><u>[Updated] Effortless Audio Collection From Your iMac for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-2021s-best-screen-capture-tools-roundup/"><u>[Updated] In 2024, The 2021'S Best Screen Capture Tools Roundup</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-propagate-your-content-with-vimeo-links/"><u>[Updated] Propagate Your Content with Vimeo Links</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-interactive-image-merging-for-desktop-enthusiasts/"><u>2024 Approved Interactive Image Merging for Desktop Enthusiasts</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-tailor-your-devices-alerts-with-custom-android-sounds/"><u>2024 Approved Tailor Your Device's Alerts with Custom Android Sounds</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/detailed-guide-to-minecraft-capturing-techniques-on-mac-for-2024/"><u>Detailed Guide to Minecraft Capturing Techniques on Mac for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-iphone-screen-orientation-issues-get-full-control-back-in-landscape/"><u>Fixing iPhone Screen Orientation Issues – Get Full Control Back in Landscape</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-best-free-call-apps-on-android-ranks-them/"><u>In 2024, Best Free Call Apps on Android, Ranks Them</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-vivo-y100i-power-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Vivo Y100i Power 5G FRP In 3 Different Ways</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/schritt-fur-schritt-anleitung-zum-erstellen-eines-windows-7-installationsabbilds-iso-fur-reparaturzwecke/"><u>Schritt-Für-Schritt Anleitung Zum Erstellen Eines Windows 7 Installationsabbilds (ISO) Für Reparaturzwecke</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-sending-voice-messages-from-your-iphone-with-and-without-imessage/"><u>Step-by-Step Guide: Sending Voice Messages From Your iPhone with and without iMessage</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-your-typing-snippets-and-hotkeys-on-windows/"><u>Streamline Your Typing: Snippets & Hotkeys on Windows</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-getting-started-in-google-meet-on-computersphone-for-2024/"><u>[New] Getting Started in Google Meet on Computers/Phone for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-focus-on-voice-not-background-with-skype/"><u>[New] In 2024, Focus on Voice, Not Background with Skype</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-from-chat-room-to-screen-step-by-step-google-meet-youtube-streams/"><u>[Updated] 2024 Approved From Chat Room to Screen Step-by-Step Google Meet YouTube Streams</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-vigorous-voice-examination-iteration-no-8/"><u>2024 Approved Vigorous Voice Examination - Iteration No. 8</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/how-to-hit-the-high-notes-in-capturing-twitch-live-events/"><u>How to Hit the High Notes in Capturing Twitch Live Events</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/professionelle-tipps-zur-sicherung-und-wiederherstellung-des-outlook-postfachs-in-ein-paar-minuten/"><u>Professionelle Tipps Zur Sicherung Und Wiederherstellung Des Outlook-Postfachs in Ein Paar Minuten</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-sony-xperia-1-v-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Sony Xperia 1 V Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-essential-breakdown-of-blue-screen-error-codes-and-their-implications-bsod-explained/"><u>The Essential Breakdown of Blue Screen Error Codes and Their Implications (BSOD Explained)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-chatgpt-for-businesses-offerings-and-unique-selling-points/"><u>Understanding ChatGPT for Businesses - Offerings & Unique Selling Points</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Vivo Y100? | Dr.fone</u></a></li>
 </ul></div>
 
