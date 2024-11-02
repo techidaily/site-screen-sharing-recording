@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Cross-Platform Screen Recording\""
-date: 2024-08-16T21:27:02.338Z
-updated: 2024-08-17T21:27:02.338Z
+date: 2024-11-01T17:27:41.284Z
+updated: 2024-11-02T21:23:30.836Z
 tags: 
   - screen-recording
   - ai video
@@ -49,18 +49,18 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Record Multiple Monitors
 
 The first step towards setting up a screencasting session with multiple displays is to make sure that the monitors are properly connected to your laptop or desktop computer. Each external monitor will display identical images when turned on, but in order to move software windows between the two screens, you'll have to enable the 'Extend These Displays' option. The actual steps you'll need to take may vary, depending on the computer and the OS you are using, and we are going to show you how to extend displays on Windows 8 or later.
 
 Head over to the Start Menu, and open the Control Panel. Select the 'Adjust Screen Resolution' option in the Appearance and Personalization menu, and then click on the Multiple Displays drop-down menu. Pick the 'Extend These Displays' option from the list and proceed to save the changes by clicking on the OK button.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ### Recording Multiple Monitors With [OBS Studio](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Widely accepted as one of the best open-source broadcasting and screen recording software ever created, OBS Studio also enables its users to record multiple screens simultaneously. The plug-in for the OBS called Simple Scene Switcher that detects on which monitor the mouse cursor is and that automatically switches between two monitors as you drag a mouse is a great option if you don't want to record multiple displays at the same time. The plug-in lets you switch between windows without disrupting the flow of the video, which makes it particularly useful for LoL players and in numerous other situations. Here's how you can record multiple monitors with OBS.
@@ -78,8 +78,12 @@ Sum up the two values of the wider sides of the screens and insert the value you
 Save the changes you've made, and then drag the screens to arrange them. You can start recording multiple monitors with OBS Studio by clicking on the Start Recording button.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Capturing Multiple Monitor Displays with Camtasia
 
 Selecting more than one monitor from the Camtasia's Fullscreen settings is unfortunately not possible, but the Custom recording settings option allows you to capture footage from two different displays. You'll need to make sure that both monitors are properly aligned and the that Extend These Displays feature is selected. Here's how you record multiple monitors with Camtasia.
@@ -104,13 +108,21 @@ In case that you want to record your secondary monitor, we recommend you to try 
 * Splendid Annotations, Cursor Effects and Editing Features
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -119,11 +131,30 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-hangout-history-capture-and-keep/"><u>[New] Hangout History Capture & Keep</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-streamline-live-tv-capture-in-windows-free-methods/"><u>[New] Streamline Live TV Capture in Windows (Free Methods)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-livestream-and-record-software-face-off-obs-vs-bandicam/"><u>[Updated] 2024 Approved Livestream & Record Software Face-Off OBS vs Bandicam</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-from-dream-to-documentation-essential-ways-to-record-your-sims-epic-quests-in-sims-4-for-2024/"><u>[Updated] From Dream to Documentation Essential Ways to Record Your Sims' Epic Quests in Sims 4 for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-premium-audio-capabilities-1-10-free-desktop-tools-for-2024/"><u>[Updated] Premium Audio Capabilities #1-#10 Free Desktop Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-talking-head-tricks-simple-steps-for-stunning-online-presence/"><u>[Updated] Talking-Head Tricks Simple Steps for Stunning Online Presence</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-comprehensive-guide-to-ringtones-for-snapchat-users/"><u>2024 Approved Comprehensive Guide to Ringtones for Snapchat Users</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-mastering-live-recording-via-logitech-camera-guide/"><u>2024 Approved Mastering Live Recording via Logitech Camera Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/discover-the-ultimate-5-gaming-webcam-winners-for-streaming/"><u>Discover the Ultimate 5 Gaming Webcam Winners for Streaming</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-decoding-durecorder-features-and-user-guide-review/"><u>In 2024, Decoding DuRecorder Features and User Guide Review</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-ultimate-guide-to-video-capture-obs-versus-bandicam/"><u>In 2024, The Ultimate Guide to Video Capture OBS versus Bandicam</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/indoors-adopting-the-vibe-of-a-brighter-world/"><u>Indoors Adopting the Vibe of a Brighter World</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-htc-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your HTC Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-g54-5g-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove G54 5G unlock screen</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ssential-playbook-youtubes-seo-keywords-guide-for-2024/"><u>The Essential Playbook YouTube's SEO Keywords Guide for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step Guide to Ken Burns Effect with Camtasia 9\""
-date: 2024-10-25T00:33:22.708Z
-updated: 2024-10-27T18:29:34.758Z
+date: 2024-10-28T18:17:56.879Z
+updated: 2024-11-02T22:08:44.773Z
 tags: 
   - screen-recording
   - ai video
@@ -53,10 +53,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -68,10 +68,16 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -99,10 +105,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -121,15 +127,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-getting-started-in-google-meet-on-computersphone-for-2024/"><u>[New] Getting Started in Google Meet on Computers/Phone for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-focus-on-voice-not-background-with-skype/"><u>[New] In 2024, Focus on Voice, Not Background with Skype</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-from-chat-room-to-screen-step-by-step-google-meet-youtube-streams/"><u>[Updated] 2024 Approved From Chat Room to Screen Step-by-Step Google Meet YouTube Streams</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-vigorous-voice-examination-iteration-no-8/"><u>2024 Approved Vigorous Voice Examination - Iteration No. 8</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/how-to-hit-the-high-notes-in-capturing-twitch-live-events/"><u>How to Hit the High Notes in Capturing Twitch Live Events</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/professionelle-tipps-zur-sicherung-und-wiederherstellung-des-outlook-postfachs-in-ein-paar-minuten/"><u>Professionelle Tipps Zur Sicherung Und Wiederherstellung Des Outlook-Postfachs in Ein Paar Minuten</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-sony-xperia-1-v-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Sony Xperia 1 V Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-essential-breakdown-of-blue-screen-error-codes-and-their-implications-bsod-explained/"><u>The Essential Breakdown of Blue Screen Error Codes and Their Implications (BSOD Explained)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-chatgpt-for-businesses-offerings-and-unique-selling-points/"><u>Understanding ChatGPT for Businesses - Offerings & Unique Selling Points</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Vivo Y100? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-experts-picks-top-5-webcams-revolutionizing-game-streaming/"><u>[New] 2024 Approved Expert's Picks Top 5 Webcams Revolutionizing Game Streaming</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-androids-low-cost-video-communication-guide-for-2024/"><u>[New] Android's Low-Cost Video Communication Guide for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-strategies-for-enhancing-your-apple-podcast-visibility/"><u>[New] Strategies for Enhancing Your Apple Podcast Visibility</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-capture-clarity-best-webcams-to-elevate-your-podcasts/"><u>[Updated] 2024 Approved Capture Clarity Best Webcams to Elevate Your Podcasts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-premier-chillout-pc-game-hits/"><u>[Updated] 2024 Approved Premier Chillout PC Game Hits</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-best-ten-spotify-equipment-for-high-quality-recording/"><u>[Updated] In 2024, The Best Ten Spotify Equipment for High-Quality Recording</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-11-pro-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 11 Pro Data From iCloud? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-win11-outclasses-macos-in-essential-areas/"><u>How Win11 Outclasses MacOS in Essential Areas</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Oppo Reno 8T? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-overcoming-obs-blank-screens-in-gaming-recording/"><u>In 2024, Overcoming OBS Blank Screens in Gaming Recording</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-quick-video-recorder-download-and-record-video/"><u>In 2024, Quick Video Recorder Download and Record Video</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/mastering-hulu-recording-across-windows-mac-and-mobile-devices-for-2024/"><u>Mastering Hulu Recording Across Windows, Mac, and Mobile Devices for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/real-time-gaming-footage-extraction-made-effortless/"><u>Real-Time Gaming Footage Extraction Made Effortless</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-airpods-pro-enhancements-for-2023-engadget-reviews/"><u>The Ultimate Guide to AirPods Pro Enhancements for 202^[3] | Engadget Reviews</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-mac-video-cutting-made-simple-quick-tips-for-large-files/"><u>Updated Mac Video Cutting Made Simple Quick Tips for Large Files</u></a></li>
 </ul></div>
 

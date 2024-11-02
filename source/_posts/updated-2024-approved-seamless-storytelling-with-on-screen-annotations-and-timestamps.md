@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Seamless Storytelling with On-Screen Annotations & Timestamps\""
-date: 2024-10-22T01:33:40.643Z
-updated: 2024-10-28T03:24:04.495Z
+date: 2024-10-29T17:50:07.562Z
+updated: 2024-11-02T17:14:08.691Z
 tags: 
   - screen-recording
   - ai video
@@ -54,10 +54,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Distinctions Between the Two Types of Markers
@@ -69,6 +69,19 @@ The **media markers** are the markers you can add directly to the video file you
 You can use them to mark a place in the screen recording you're not too happy with, or to highlight the part of the video clip that you intend on featuring in the final cut of the video you've created with Wondershare's screen capturing and screen recording software. By doing so you'll save time on going through all the material just to find a few seconds of footage that fit perfectly to your video.
 
 ![Filmora Scrn Markers](https://images.wondershare.com/filmora/article-images/filmora-scrn-markers.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The **timeline markers**, on the other hand, can only be added to a project once you've completed the recording session, during the post-production period. You can utilize them to highlight the parts of the video clip you want to remove from the final version of your video or to mark the spots on the timeline where you'd like to switch from one take to another.
 
@@ -99,6 +112,13 @@ To add markers, watch your video and find the mistake. Pause the video, then cli
 
 ![add marker from the timeline toolbar](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 2: Access the Modification Option
 
 Filmora lets you adjust your marker settings for your video. Right-click on the marker and select **"Modify Marker"** from the control panel.
@@ -117,20 +137,6 @@ After importing the clip into the timeline and identifying the points of error i
 
 ![add maker through the keyboard](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **2\. How to Remove a Marker After Screen Recording**
 
 Once you have finished editing your mistakes, it's important to remove the markers. To do this, right-click on the marker and select **"Delete"** from the options menu to remove a specific marker, or choose **"Delete All Markers"** to remove them collectively.
@@ -138,10 +144,10 @@ Once you have finished editing your mistakes, it's important to remove the marke
 ![remove a marker](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -166,14 +172,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-how-to-use-a-whiteboard-in-google-meet-on-laptopiphoneandroid/"><u>[New] How to Use a Whiteboard in Google Meet on Laptop/iPhone/Android</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-freedomframe-capturing-your-gaming-moments-in-24/"><u>[Updated] FreedomFrame Capturing Your Gaming Moments in '24</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-advanced-steps-for-documenting-online-meetings/"><u>[Updated] In 2024, Advanced Steps for Documenting Online Meetings</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-secure-and-simple-photovideo-sharing-with-ios/"><u>[Updated] Secure and Simple Photo/Video Sharing with IOS</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/crafting-an-exceptional-experience-in-stardew-valley-top-7-mods/"><u>Crafting an Exceptional Experience in Stardew Valley (Top 7 Mods)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dealing-with-launch-failures-in-armored-core-vi-effective-solutions-for-gamers/"><u>Dealing with Launch Failures in Armored Core VI: Effective Solutions for Gamers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/dragon-age-origins-windows-11-crashes-now-fixed-enjoy-seamless-gaming-experience/"><u>Dragon Age: Origins - Windows 11 Crashes Now Fixed, Enjoy Seamless Gaming Experience</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-headset-mic-back-up-and-running-essential-troubleshooting-steps/"><u>How to Get Your Headset Mic Back Up and Running: Essential Troubleshooting Steps</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/tsv/"><u>マルチメディアファイルにTSVを転換するためのプロセスとヒント</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-innovative-screen-capture-on-mac-top-5-methods/"><u>[New] In 2024, Innovative Screen Capture on Mac, Top 5 Methods</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-pixelprobe-criticism-engine/"><u>[Updated] In 2024, PixelProbe Criticism Engine</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-screenmasterrevolution-next-gen-recording-software-for-2024/"><u>[Updated] ScreenMasterRevolution Next-Gen Recording Software for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-comprequad-video-captioning-techniques-for-youtube/"><u>[Updated] The Comprequad Video Captioning Techniques for YouTube</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-from-panoramas-to-pages-uploading-wide-angle-content-online/"><u>2024 Approved From Panoramas to Pages Uploading Wide Angle Content Online</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-snapping-smiles-adding-anime-filters-on-snapchat/"><u>2024 Approved Snapping Smiles Adding Anime Filters on Snapchat</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/22-efficient-ways-to-livestream-classes-without-paying-for-2024/"><u>22 Efficient Ways to Livestream Classes Without Paying for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/advanced-cooling-tech-for-a-steam-free-experience/"><u>Advanced Cooling Tech for a Steam-Free Experience</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/explore-how-microsoft-is-changing-document-automation-with-their-latest-ai-copier-tool-expert-advice-for-maximizing-productivity-wired/"><u>Explore How Microsoft Is Changing Document Automation with Their Latest AI Copier Tool - Expert Advice for Maximizing Productivity | Wired</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/financial-plan-for-crafting-a-song-to-screen-for-2024/"><u>Financial Plan for Crafting a Song to Screen for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-complete-newcomers-guide-to-conducting-zoom-webinars/"><u>In 2024, The Complete Newcomer's Guide to Conducting Zoom Webinars</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-4-essential-ai-enhancements-for-iphones-in-ios-18-bridging-the-gap-with-android-devices/"><u>Top 4 Essential AI Enhancements for iPhones in iOS 18: Bridging the Gap with Android Devices</u></a></li>
 </ul></div>
 

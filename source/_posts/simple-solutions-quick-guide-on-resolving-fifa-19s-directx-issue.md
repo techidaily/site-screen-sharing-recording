@@ -1,7 +1,7 @@
 ---
 title: "Simple Solutions: Quick Guide on Resolving FIFA 19'S DirectX Issue"
-date: 2024-08-16T21:26:23.411Z
-updated: 2024-08-17T21:26:23.411Z
+date: 2024-10-27T18:26:29.761Z
+updated: 2024-11-02T21:20:46.372Z
 tags:
   - win11
   - win10
@@ -48,6 +48,13 @@ If these simple solutions don’t help, move to the fixes below.
 4. [Update your Windows system](https://tools.techidaily.com/drivereasy/download/)
 5. [Reset or reinstall Windows](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Download Xbox App
 
  Some gamers found out downloading Age of Empires VI through Xbox app is a fix for the game not downloading issue.
@@ -61,9 +68,6 @@ If these simple solutions don’t help, move to the fixes below.
  4) In the Settings, choose**Time and language** . Then check**Set time automatically** and check**Sync now** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-1-1200x471.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 
  5) Press the**Windows logo key + R** together. Type**wsreset** and press the Enter key.
 
@@ -79,8 +83,12 @@ If these simple solutions don’t help, move to the fixes below.
 10) Relaunch the app then download and install Age of Empires VI.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your network adapter driver
 
  If the game is stuck in 0 and never gets up while downloading, there might be some issue with your wireless adapter driver. A missing or corrupted driver may be the root of this issue.   **Try updating the driver for your wireless network adapter**  to see if you can resolve it.
@@ -96,16 +104,10 @@ If these simple solutions don’t help, move to the fixes below.
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Driver-Easy-Scan-screen.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click **Update** next to your wireless network adapter to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![update network driver](https://images.drivereasy.com/wp-content/uploads/2018/09/update-network-driver.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -115,12 +117,12 @@ If these simple solutions don’t help, move to the fixes below.
 If you can’t install the game, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Disable antivirus software
 
  Though the download appears to be complete, your antivirus or firewall program may block game files during the installation process for safety purposes. Disabling your antivirus program would address the issue.  
@@ -136,9 +138,6 @@ No advertising on the website.
 
  If it’s not working, you can move to the next fix. Remember to enable your antivirus to protect your PC.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your Windows system
 
  If you haven’t updated your Windows system to the latest version, you can give it a try. Some gamers have proved that installing updates for the Windows system is a working fix.
@@ -148,6 +147,13 @@ No advertising on the website.
 
  2) Under Windows Update, click **Check for updates** . Then Windows will automatically download and install the available updates.  
 ![Windows update check for updates](https://images.drivereasy.com/wp-content/uploads/2021/10/Windows-update-check-for-updates.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Once you’ve installed all the updates, restart your computer and try to launch the game.
 
@@ -174,8 +180,6 @@ If the problem remains, take a look at the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,4 +187,26 @@ If the problem remains, take a look at the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-become-a-pro-at-documenting-your-twitch-sessions/"><u>[New] 2024 Approved Become a Pro at Documenting Your Twitch Sessions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-behind-the-scenes-professional-steam-capture-methods/"><u>[New] In 2024, Behind the Scenes Professional Steam Capture Methods</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-zoom-meetings-at-your-fingertips-from-gmail-for-2024/"><u>[New] Zoom Meetings at Your Fingertips From Gmail for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-az-screen-recorder-review-series/"><u>[Updated] 2024 Approved AZ Screen Recorder Review Series</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-skype-record-simplified-techniques-for-dual-os-recording/"><u>[Updated] 2024 Approved Skype Record Simplified Techniques for Dual OS Recording</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-elite-scripting-developing-a-countdown-mechanism-in-obs/"><u>[Updated] In 2024, Elite Scripting Developing a Countdown Mechanism in OBS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-livestream-luminaries-clash/"><u>[Updated] In 2024, Livestream Luminaries Clash</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-top-10-games-like-ghost-of-tsushima/"><u>[Updated] In 2024, Top 10 Games Like Ghost of Tsushima</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-expert-picks-top-12-screen-recording-software-no-time-limit/"><u>2024 Approved Expert Picks Top 12 Screen Recording Software, No Time Limit</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-motorola-g54-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Motorola G54 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/capture-the-thrill-essential-recording-tips-for-overwatch-for-2024/"><u>Capture the Thrill Essential Recording Tips for Overwatch for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-capture-gaming-sessions-in-hd-using-obs/"><u>In 2024, Capture Gaming Sessions in HD - Using OBS</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nokia-c02-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nokia C02 To Phone | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-game-capturing-titans-for-2024/"><u>In-Game Capturing Titans for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/step-by-step-process-for-capturing-top-tier-presentations-for-2024/"><u>Step-by-Step Process for Capturing Top-Tier Presentations for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-art-and-science-behind-vr-experience-makers/"><u>The Art and Science Behind VR Experience Makers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-art-of-freezing-the-action-in-win-os-for-2024/"><u>The Art of Freezing the Action in Win OS for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-20-dynamic-anime-openers-songs/"><u>Top 20 Dynamic Anime Openers' Songs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlisting-youtube-videos-a-guide-to-non-indexable-content-for-2024/"><u>Unlisting YouTube Videos A Guide to Non-Indexable Content for 2024</u></a></li>
+</ul></div>
 
