@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Altering Screenshot File Types on a Macintosh\""
-date: 2024-10-31T18:14:10.493Z
-updated: 2024-11-02T18:49:01.547Z
+date: 2024-11-04T21:11:46.448Z
+updated: 2024-11-10T20:27:15.254Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,13 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Supported Image Formats on Mac
 
 As we already mentioned, Mac computers allow its users to save screenshots in some of the most frequently used picture file formats. The PNG files support lossless data compression, just like GIF files and they are the most commonly used lossless data compression format on the Internet. However, there are a few downsides, including the size of the PNG files that can prompt you to set another file format as the default screenshot file format on your Mac.
@@ -55,10 +62,10 @@ As we already mentioned, Mac computers allow its users to save screenshots in so
 Using JPEG file extension will enable you to create images that can be used in Word documents, PowerPoint presentations or shared anywhere on the Internet. PDF or TIFF files should only be used if you want to print the screenshot you've taken, while the GIF file format is used to create short animations or loops and there is absolutely no reason to use it as a default screenshot file format.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which Screenshot Format Should You Use?
@@ -68,28 +75,15 @@ Each image file format Mac computer support is designed for different purposes, 
 Besides being smaller in size than PNG files, JPEG files are also handier if you want to annotate the screenshots you're taking. In addition, you'll be able to post your files anywhere on the Internet, because JPEG files are supported by all social media platforms.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change Screenshot Formats?
 
 ![ Mac Screenshots formats ](https://images.wondershare.com/filmora/article-images/mac-screenshot-format-changing.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Once you decide which format you want to use the default screenshot graphics format on your Mac, you should launch the Terminal app. You can access the Terminal from the Utility subfolder that is located in the Application folder.
 
@@ -128,16 +122,10 @@ You can switch back to capturing screenshots in PNG file format at any moment by
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -155,18 +143,16 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-your-guide-to-exceptional-online-marketing-savor-our-selection-of-50-free-ads/"><u>[New] 2024 Approved Your Guide to Exceptional Online Marketing – Savor Our Selection of 50 FREE Ads</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-effortless-techniques-for-lenovo-capture-tasks/"><u>[New] Effortless Techniques for Lenovo Capture Tasks</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-unlocking-iphone-x-ease-mending-face-id-problems/"><u>[New] In 2024, Unlocking iPhone X Ease Mending Face ID Problems</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-iphone-filmmaking-101-capturing-time-in-pixels/"><u>[Updated] 2024 Approved IPhone Filmmaking 101 Capturing Time in Pixels</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-best-7-dslr-vlogging-cameras-for-2024/"><u>[Updated] Best 7 DSLR Vlogging Cameras for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-budding-builders-simple-stylish-mc-habitats/"><u>[Updated] Budding Builders Simple, Stylish MC Habitats</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-capture-your-gameplay-essential-webcams-for-twitch-enthusiasts-for-2024/"><u>[Updated] Capture Your Gameplay Essential Webcams For Twitch Enthusiasts for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-mastering-the-art-of-logging-digital-sound-from-computers/"><u>[Updated] In 2024, Mastering the Art of Logging Digital Sound From Computers</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-xiaomi-mix-fold-3-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Xiaomi Mix Fold 3 PC | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/address-mobile-devices-stalled-fb-videos-for-2024/"><u>Address Mobile Devices Stalled FB Videos for 2024</u></a></li>
-<li><a href="https://win-webster.techidaily.com/guida-rapida-e-facile-per-eseguire-il-backup-del-sistema-operativo-windows-1187/"><u>Guida Rapida E Facile per Eseguire Il Backup Del Sistema Operativo Windows 11/8/7</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/obscure-audio-alchemists-top-6-android-and-ios-recording-tools/"><u>Obscure Audio Alchemists Top 6 Android & iOS Recording Tools</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-oppo-f25-pro-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Oppo F25 Pro 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-spectacular-gratis-switch-gaming-tools/"><u>[New] 2024 Approved Spectacular Gratis Switch Gaming Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-demystifying-recmeisters-advanced-screen-capture-technology-for-2024/"><u>[Updated] Demystifying Recmeister's Advanced Screen Capture Technology for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-exceptional-value-premium-asmr-microphones-at-low-costs-for-2024/"><u>[Updated] Exceptional Value Premium ASMR Microphones at Low Costs for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-qualitysnap-video-reporter-checkup/"><u>[Updated] QualitySnap Video Reporter Checkup</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieving-optimal-lifespan-for-your-switch-gaming-device/"><u>Achieving Optimal Lifespan for Your Switch Gaming Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721433766016-dont-trust-unverified-ai-services-spot-the-fakes/"><u>Don't Trust Unverified AI Services - Spot the Fakes!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/enhance-performance-now-get-the-latest-rtx-2080-super-drivers-for-windows-users/"><u>Enhance Performance Now: Get the Latest RTX 2080 Super Drivers for Windows Users!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE To Other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-logitech-g-hub-malfunctions-tips-and-tricks-for-windows-users/"><u>Overcoming Logitech G Hub Malfunctions: Tips and Tricks for Windows Users</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/reestablishing-communication-with-a-non-responsive-obs-cam-for-2024/"><u>Reestablishing Communication with a Non-Responsive OBS Cam for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/war-wisdom-crafting-a-list-of-top-11-ww2-tactical-games/"><u>War Wisdom: Crafting a List of Top 11 WW2 Tactical Games</u></a></li>
 </ul></div>
 

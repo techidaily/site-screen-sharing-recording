@@ -1,7 +1,7 @@
 ---
 title: "[New] Digital Learning Session Replays"
-date: 2024-10-26T21:25:52.148Z
-updated: 2024-11-02T17:01:51.533Z
+date: 2024-11-06T06:43:32.454Z
+updated: 2024-11-11T07:42:31.801Z
 tags: 
   - screen-recording
   - ai video
@@ -67,16 +67,16 @@ Visit Filmora Scrn's official [webpage](https://tools.techidaily.com/wondershare
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/filmora-scrn-interface.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Select the Quick Capture option in the software's welcome screen and proceed to click on the Setting menu. This action will give you access to the screen recorder's video recording options. Filmora Scrn lets you change Screen, Audio and Camera options. Adjusting the portion of the screen you'd like to record or choosing the frame rate of the recording can be done from the Screen menu, while in the Camera section you can pick a web camera you intend on using in your webinar, change a resolution or set a frame rate for the footage you'll be recording with a webcam.
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/setup-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Enabling the Camera option will allow you to capture your screen simultaneously while recording a video with your webcam. This option is particularly useful for people that want to create a webinar that also features them as narrators.
 
@@ -86,18 +86,18 @@ The Audio option contains Microphone and Computer audio options that can be used
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/scrn-record-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 In order to start recording your webinar, you just need to click on the Record button. Filmora Scrn also allows you to record your **webcam** and your **secondary display**, which is very convenient for webinar recording. During the session, you can add [markers](https://tools.techidaily.com/wondershare/filmora/download/) to the footage you're producing by pressing the F8 key on your keyboard or pause the session with the F9 key.
 
 #### 4. Editing a webinar
 
 ![Filmora scrn  ](https://images.wondershare.com/filmora/article-images/filmora-scrn-editing-interface.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You can stop recording by hitting the F10 key on the keyboard again, and once you complete the recording session, the video file you created will be automatically imported into Filmora Scrn's video editor. Removing the parts of the video you don't want to feature in the final cut of your webinar or adding fade in and fade out effects can be accomplished with only a few clicks. Furthermore, the Filmora Scrn video editor allows you to remove the background noises, alter the playback speed of the video or add multiple layers to your videos.
 
@@ -105,18 +105,18 @@ You can stop recording by hitting the F10 key on the keyboard again, and once yo
 
 ![Filmora scrn export](https://images.wondershare.com/filmora/article-images/filmora-scrn-export.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Click on the Export button after you've finished editing your webinar and proceed to select the location on the hard drive where your video will be saved, file format or the resolution of the video. Alternatively, you can upload the webinar to YouTube, Vimeo, Facebook or Twitch directly from Filmora Scrn.
 
 Following these simple steps will help you produce insightful and well-rounded webinars that will attract a lot of attention online.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Tips for Recording Webinars
 
@@ -127,16 +127,16 @@ Making sure that all the settings are adjusted properly and that the amount of b
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -155,21 +155,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-capturing-marine-magic-pro-tips-for-filming-oceanic-scenes-using-gopro/"><u>[New] Capturing Marine Magic Pro Tips for Filming Oceanic Scenes Using GoPro</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-professional-minecraft-videography-methods/"><u>[New] Professional Minecraft Videography Methods</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-become-an-expert-at-capturing-every-detail-on-xiaomi-mi-11/"><u>[Updated] 2024 Approved Become an Expert at Capturing Every Detail on Xiaomi Mi 11</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-exemplary-6-skyline-minecraft-abodes/"><u>[Updated] 2024 Approved Exemplary 6 Skyline Minecraft Abodes</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-asmr-benefits-unveiled-your-mental-gain/"><u>[Updated] In 2024, ASMR Benefits Unveiled – Your Mental Gain</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-farm-family-bonding-the-ultimate-agritainment-guide/"><u>[Updated] In 2024, Farm Family Bonding The Ultimate Agritainment Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-power-up-storage-ultimate-ps5-hard-drives-compared/"><u>[Updated] Power Up Storage Ultimate PS5 Hard Drives Compared</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-2020s-windows-updates-a-quick-overview/"><u>2024 Approved 2020'S Windows Updates A Quick Overview</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-guide-to-correcting-lenovo-usb-driver-troubleshooting-issues/"><u>Effortless Guide to Correcting Lenovo USB Driver Troubleshooting Issues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-recommendations-for-superior-twitter-platforms-and-programs/"><u>Expert Recommendations for Superior Twitter Platforms & Programs</u></a></li>
-<li><a href="https://win-dash.techidaily.com/google6/"><u>Googleドライブ上で動画再生失敗:6つの修正策</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/how-to-record-with-your-macbooks-camera/"><u>How to Record with Your MacBook's Camera</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-premier-platforms-identifying-the-finest-ps2-emulation-tools-for-android/"><u>In 2024, Premier Platforms Identifying the Finest PS2 Emulation Tools for Android</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/pcs-picks-the-finest-ps1-game-emulators/"><u>PC's Picks The Finest PS1 Game Emulators</u></a></li>
-<li><a href="https://windows11.techidaily.com/solutions-to-combat-vanished-steam-graphics/"><u>Solutions to Combat Vanished Steam Graphics</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-tutorial-connect-and-control-iphone-with-your-computer-or-smart-tv/"><u>Ultimate Tutorial: Connect and Control iPhone with Your Computer or Smart TV</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-adapting-mac-saved-content-for-snapchat-sharing/"><u>[New] 2024 Approved Adapting Mac-Saved Content for Snapchat Sharing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-enhancing-your-iphones-screen-recording-skills/"><u>[New] Enhancing Your Iphone's Screen Recording Skills</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-prime-18-webcam-recorders-your-ultimate-tech-companion/"><u>[New] Prime 18 Webcam Recorders Your Ultimate Tech Companion</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-tailored-tv-experience-via-social-media-content-for-2024/"><u>[New] Tailored TV Experience via Social Media Content for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-8-free-enterprise-friendly-video-call-tools-for-2024/"><u>[New] Top 8 Free Enterprise-Friendly Video Call Tools for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-augmenting-your-stardew-experience-with-seven-top-mods/"><u>[Updated] 2024 Approved Augmenting Your Stardew Experience with Seven Top Mods</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-enhance-live-stream-performance-with-these-5-pro-tips/"><u>[Updated] 2024 Approved Enhance Live Stream Performance with These 5 Pro Tips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-deciphering-the-status-of-splitcam-as-a-recorder/"><u>[Updated] In 2024, Deciphering the Status of SplitCam as a Recorder</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-peak-viewing-valor-youtubes-daily-top-ten-highlights/"><u>[Updated] Peak Viewing Valor YouTube's Daily Top Ten Highlights</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-premium-hd-screensnap-tools/"><u>[Updated] Premium HD Screensnap Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-analysis-the-iphone-15-unveiled-top-picks-and-pro-user-endorsement-zdnet/"><u>Expert Analysis: The iPhone 15 Unveiled - Top Picks and Pro User Endorsement | ZDNet</u></a></li>
+<li><a href="https://fox-where.techidaily.com/guide-etape-par-etape-pour-dupliquer-windows-111087-sur-un-support-externe/"><u>Guide Étape Par Étape Pour Dupliquer Windows 11/10/8/7 Sur Un Support Externe</u></a></li>
+<li><a href="https://extra-support.techidaily.com/strategic-electrical-power-choices-for-drones-success-for-2024/"><u>Strategic Electrical Power Choices for Drones' Success for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-freeframe-forum-a-collectors-paradise-for-budget-friendly-backgrounds-for-2024/"><u>The FreeFrame Forum A Collector's Paradise for Budget-Friendly Backgrounds for 2024</u></a></li>
 </ul></div>
 

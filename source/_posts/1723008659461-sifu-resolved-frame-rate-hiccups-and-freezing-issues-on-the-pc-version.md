@@ -1,7 +1,7 @@
 ---
 title: "'Sifu': Resolved Frame Rate Hiccups and Freezing Issues on the PC Version!"
-date: 2024-10-29T21:32:27.876Z
-updated: 2024-11-02T21:41:39.695Z
+date: 2024-11-05T23:04:20.844Z
+updated: 2024-11-10T22:34:31.542Z
 tags:
   - win11
   - win10
@@ -50,19 +50,6 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 
  If the latest graphics driver doesn’t fix the problem, you can move to the next fix.
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Verify the integrity of game files
 
  New World is a large AAA title game that is easily freezing when there are missing or corrupted files. Therefore, verifying the integrity of your game files is a common fix for the freezing issue.
@@ -71,17 +58,17 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-3.jpg)
 2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-4.jpg)
 3. Allow the checking to complete. Then you can start New World and see if it freezes again.
 
 If the problem persists, take a look at the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Rollback NVIDIA driver
 
@@ -95,8 +82,22 @@ If the problem persists, take a look at the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2700f19925.jpg)
 4. Click the **Driver** tab. Then click **Roll Back Driver** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a270830e0d8.png)
 5. Then you will get a pop-up window like below. Click the **Yes** button. Then the driver will be restored to the previously installed version.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6. Restart your PC for the change to take effect.
 
@@ -114,18 +115,18 @@ If this fix doesn’t bring luck, take a look at the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/msi-afterburner-featured.jpg)
 4. Because of the different PC environments, you may need to keep adjusting the Core Clock until you’re no longer freezing.  
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Here we suggest underclocking your GPU Core Clock by 400 MHz and memory clock 500 MHz.
 5. In MSI Afterburner, change your power limit to 80%.
 6. Save the profile and relaunch New World to check.
 
 If it’s still not working, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Lower your graphics settings
 
@@ -136,19 +137,19 @@ If it’s still not working, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-1.jpg)
 2. In the left pane, select **Visuals** . Then set **Max FPS** 60 fps.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/cap.jpg)  
  In most cases, 60 fps is enough. But some gamer replies they’ve lower to 30 FPS.
 
 3. Play New World to check.
 
  If changing graphics settings don’t give you luck, continue to the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Reset your system without losing data
 
@@ -161,21 +162,14 @@ If it’s still not working, try the next fix.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -185,10 +179,10 @@ If it’s still not working, try the next fix.
  Once you’ve finished the process, restart your PC and check if New World freezing again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Move the files to the SSD drive
@@ -216,24 +210,16 @@ If you haven’t tried it, give it a go it might help.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-10-premier-ios-games-fully-enjoyable-without-wireless-connection/"><u>[New] In 2024, 10 Premier iOS Games, Fully Enjoyable without Wireless Connection</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-learning-leaders-expert-picks-of-10-best-classroom-recorders/"><u>[New] In 2024, Learning Leaders Expert Picks of 10 Best Classroom Recorders</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-spring-screens-a-deep-dive-into-desktop-capturing-pro/"><u>[New] In 2024, Spring Screens A Deep Dive Into Desktop Capturing Pro</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-top-3-strategies-for-clear-online-interaction-4/"><u>[New] In 2024, Top 3 Strategies for Clear Online Interaction (#4)</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-peak-level-hd-mastery-in-the-markets-top-recorders/"><u>[New] Peak-Level HD Mastery in the Market's Top Recorders</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-webcam-mastery-choosing-the-best-video-tools/"><u>[New] Webcam Mastery Choosing the Best Video Tools</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-who-takes-the-prize-for-best-cinematic-recording-in-extreme-sports-in-2024/"><u>[New] Who Takes the Prize for Best Cinematic Recording in Extreme Sports, In 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-essential-techniques-for-saving-and-recording-ps4-gameplay/"><u>[Updated] 2024 Approved Essential Techniques for Saving and Recording PS4 Gameplay</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-insiders-look-mp4-recorder-downloads/"><u>[Updated] 2024 Approved Insider's Look MP4 Recorder Downloads</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-efficient-whiteboard-use-in-webinars-apple-android-and-pc-solutions-explored-for-2024/"><u>[Updated] Efficient Whiteboard Use in Webinars Apple, Android & PC Solutions Explored for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-mastering-rl-recording-techniques/"><u>[Updated] In 2024, Mastering RL Recording Techniques</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-multimedia-mastery-pc-mac-and-mobile-movie-screening/"><u>[Updated] In 2024, Multimedia Mastery PC, Mac & Mobile Movie Screening</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-complete-guide-to-morphvox-voice-changer-find-the-best-way/"><u>2024 Approved Complete Guide to MorphVOX Voice Changer Find the Best Way</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-screen-recording-face-off-obs-studio-vs-fraps-comparison/"><u>2024 Approved Screen Recording Face-Off OBS Studio Vs Fraps Comparison</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726030287138-aviutl/"><u>動画カット・トリミングのプロセスを簡潔に解説：AviUtlでのガイド</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/guide-to-mastering-windows-movie-maker-in-w11-for-beginners/"><u>Guide to Mastering Windows Movie Maker in W11 for Beginners</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-infinix-note-30-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Infinix Note 30 5G Phones</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pushing-boundaries-for-a-more-effective-windows/"><u>Pushing Boundaries for a More Effective Windows</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unveiling-the-cash-generated-by-every-viewed-stream-for-2024/"><u>Unveiling the Cash Generated by Every Viewed Stream for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-unleashing-your-channels-potential-increase-youtube-views/"><u>[New] 2024 Approved Unleashing Your Channel's Potential Increase YouTube Views</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-how-to-screen-hulu-on-any-system-seamlessly-for-2024/"><u>[New] How to Screen Hulu On Any System Seamlessly for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-unveiling-top-quality-hdr-camera-brands-and-models/"><u>[New] In 2024, Unveiling Top-Quality HDR Camera Brands and Models</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-8-best-video-conferencing-software-for-small-business-safe-and-stable/"><u>[Updated] 8 Best Video Conferencing Software for Small Business (Safe and Stable)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-how-to-edit-youtube-videos-in-finalcut-pro/"><u>[Updated] How to Edit YouTube Videos in Finalcut Pro</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-8-no-cost-video-chat-tools-pcmac-compatibility/"><u>[Updated] Top 8 No-Cost Video Chat Tools PC/Mac Compatibility</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-unveiling-sharex-analyses-and-options/"><u>[Updated] Unveiling ShareX Analyses & Options</u></a></li>
+<li><a href="https://facebook.techidaily.com/comprehensive-deletion-protocols-for-social-media-clans/"><u>Comprehensive Deletion Protocols for Social Media Clans</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/conquering-empires-in-imperator-rome-a-comprehensive-gameplay-review/"><u>Conquering Empires in Imperator: Rome – A Comprehensive Gameplay Review</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/mastering-social-connectivity-from-instagram-to-tiktoks-playground/"><u>Mastering Social Connectivity From Instagram to TikTok's Playground</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-oppo-a78-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Oppo A78 5G Bricked Devices | Dr.fone</u></a></li>
 </ul></div>
 

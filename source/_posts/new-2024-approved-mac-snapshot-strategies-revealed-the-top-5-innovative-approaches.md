@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Mac Snapshot Strategies Revealed  The Top 5 Innovative Approaches\""
-date: 2024-10-29T16:48:52.970Z
-updated: 2024-11-02T22:18:15.195Z
+date: 2024-11-06T01:08:50.350Z
+updated: 2024-11-11T02:14:23.088Z
 tags: 
   - screen-recording
   - ai video
@@ -126,13 +126,6 @@ Besides using a screenshot tool, Mac also offers multiple ways to make screensho
 * [Method 3: Capture Screen with Built-in Preview App in Mac](#method3)
 * [Method 4: Make Screenshots with Pre-installed Grab App](#method4)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1 3 Ways to Take Screenshots with Keyboard Commands
 
 Mac offers 3 keyborad commands to capture the entire screen, specific screen area and window. Read on.
@@ -149,19 +142,6 @@ If you want to take screenshot on a partial part of the screen, simply hit the *
 
 ![screenshot protion of screen on mac](https://images.wondershare.com/filmora/article-images/screenshot-portion-of-screen-on-mac-keyboard-command.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The crosshair will also display the pixel count to show you the size of the screenshot. Holding the **Shift** button will allow you to lock all corners of the selection rectangle, except the one you are dragging.
 
 #### Way 3: How to Take Screenshots of a Specific App Window?
@@ -176,14 +156,14 @@ MacBook Pro owners can utilize the **Touch Bar** feature to take screenshots on 
 
 ![screenshots from touch bar on macbook pro](https://images.wondershare.com/filmora/article-images/touch-bar-on-macbook-pro.jpg)
 
-Now that the Screenshot option is available from the Touch Bar, you can simply click on its icon and take screenshots of the full screen, a portion of it, or a single window.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Now that the Screenshot option is available from the Touch Bar, you can simply click on its icon and take screenshots of the full screen, a portion of it, or a single window.
 
 ### Method 3 Capture Screen with Built-in Preview App
 
@@ -191,14 +171,14 @@ Open the **Preview** app, go to **File** and find the **Take Screenshot** sub-me
 
 ![capture screen with preview on mac](https://images.wondershare.com/filmora/article-images/mac-screenshot-preview-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The Preview app lets you select the saving path and name it before saving.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4 Make Screenshots with Pre-installed Grab App
 
@@ -206,11 +186,31 @@ Go to **Utility > Applications** to launch **Grab**. Click on the **Capture** me
 
 ![make screenshots on mac with grab](https://images.wondershare.com/filmora/article-images/mac-screenshot-grab-app.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The Timed Screen feature can be used if you want to have a ten-second delay before you take the screenshot, which can be quite useful if you need time to organize the desktop before the screenshot is taken.
 
 ![use grab to screen shot on mac](https://images.wondershare.com/filmora/article-images/mac-screenshot-grab-timed-feature.jpg)
 
 If you would like to include the mouse cursor in your screenshots, you have go to the **Preferences** option, then select the **Pointer Type**, it also able to record the clicking sound if needed.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -220,18 +220,18 @@ Mac provides the screenshots itself, also, some built-in apps are available to m
 
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Make Screenshots on Mac](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg) ](https://app.adjust.com/w06dr6m%5F19za1f6)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -242,10 +242,16 @@ Mac provides the screenshots itself, also, some built-in apps are available to m
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -264,16 +270,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-10-ways-free-and-paid-to-record-skype-calls-on-windows-and-mac/"><u>[New] 10 Ways [Free & Paid] to Record Skype Calls on Windows & Mac</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-picture-perfection-choosing-the-best-camera-positions-on-iphone/"><u>[New] Picture Perfection Choosing the Best Camera Positions on iPhone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-tips-for-a-seamless-phone-screen-record/"><u>[Updated] 2024 Approved Tips for a Seamless Phone Screen Record</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-unlock-extra-space-premium-external-drives-for-ps5/"><u>[Updated] 2024 Approved Unlock Extra Space Premium External Drives for PS5</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/decoding-marvels-avengers-film-insightful-evaluation-and-reviews/"><u>Decoding Marvel's Avengers Film: Insightful Evaluation and Reviews</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-get-the-latest-acer-wi-fi-card-drivers-for-instant-setup-at-no-cost/"><u>How to Get the Latest Acer Wi-Fi Card Drivers for Instant Setup at No Cost</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-quicken-slow-excel-processes-on-windows-machines/"><u>How to Quicken Slow Excel Processes on Windows Machines</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-rogue-company-continuous-crashes-on-windows-and-macs/"><u>How to Resolve Rogue Company Continuous Crashes on Windows and Macs</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-poll-power-play-best-election-strategy-games/"><u>In 2024, Poll Power Play Best Election Strategy Games</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/1715860650204-in-2024-record-your-mac-view-in-minutes/"><u>In 2024, Record Your Mac View in Minutes!</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/beginners-guide-to-making-money-on-youtubers/"><u>Your Beginner's Guide to Making Money on YouTubers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-curate-content-the-10-best-youtube-video-length-tools/"><u>[New] 2024 Approved Curate Content The 10 Best YouTube Video Length Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-expert-recommended-screen-capturing-apps-for-mac/"><u>[New] 2024 Approved Expert-Recommended Screen Capturing Apps for Mac</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-firefox-picture-in-picture-explained-for-efficiency-for-2024/"><u>[New] Firefox Picture-in-Picture Explained for Efficiency for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-insightful-pricing-comparison-for-cloud-platforms-for-2024/"><u>[New] Insightful Pricing Comparison for Cloud Platforms for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-instagrams-roadmap-to-fame-unlocking-the-power-of-9-tactics-for-2024/"><u>[New] Instagram's Roadmap to Fame Unlocking the Power of #9 Tactics for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-recording-real-time-action-in-overwatch-for-2024/"><u>[New] Recording Real-Time Action in Overwatch for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-100-instagram-captions-to-show-yourself-to-the-world-filmora/"><u>[Updated] 100 Instagram Captions to Show Yourself to the World - Filmora</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-navigating-the-nuances-of-ppt-voiceover-performance/"><u>[Updated] 2024 Approved Navigating the Nuances of PPT Voiceover Performance</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-elite-group-chat-and-webcams-the-best-selection/"><u>[Updated] Elite Group Chat & Webcams The Best Selection</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-game-on-the-ultimate-guide-to-superior-offline-ios-fun/"><u>[Updated] In 2024, Game On The Ultimate Guide to Superior Offline iOS Fun</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-master-the-art-of-speech-transformation-top-7-vocal-alteration-android-apps/"><u>[Updated] In 2024, Master the Art of Speech Transformation Top 7 Vocal Alteration Android Apps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-premier-ios-tools-mimicking-playstation-2-experience-for-2024/"><u>[Updated] Premier IOS Tools Mimicking PlayStation 2 Experience for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-tips-to-prevent-frame-loss-during-real-time-broadcasts-with-obs/"><u>[Updated] Tips to Prevent Frame Loss During Real-Time Broadcasts with OBS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-the-latest-wi-fi-innovations-a-closer-look-at-80211ebebax-ac-bghz-n-networks-and-their-benefits/"><u>Comparing the Latest Wi-Fi Innovations: A Closer Look at 802.11eB/Eb/Ax, Ac, BGHz, N Networks and Their Benefits</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723002472136-cyberpunk-2077-performance-issues-resolved-enjoy-smooth-frame-rates/"><u>Cyberpunk 2077 Performance Issues Resolved: Enjoy Smooth Frame Rates</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-securely-remove-all-your-music-albums-from-your-iphone-forever/"><u>How to Securely Remove All Your Music Albums From Your iPhone Forever</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209882259-9780648652465-tarot-distinctions/"><u>Tarot Distinctions | Free Book</u></a></li>
 </ul></div>
 

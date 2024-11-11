@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Switching File Extensions for Your Mac Snapshots"
-date: 2024-08-16T21:18:40.520Z
-updated: 2024-08-17T21:18:40.520Z
+date: 2024-11-05T02:03:05.135Z
+updated: 2024-11-10T23:12:00.650Z
 tags: 
   - screen-recording
   - ai video
@@ -49,17 +49,18 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Supported Image Formats on Mac
 
 As we already mentioned, Mac computers allow its users to save screenshots in some of the most frequently used picture file formats. The PNG files support lossless data compression, just like GIF files and they are the most commonly used lossless data compression format on the Internet. However, there are a few downsides, including the size of the PNG files that can prompt you to set another file format as the default screenshot file format on your Mac.
 
 Using JPEG file extension will enable you to create images that can be used in Word documents, PowerPoint presentations or shared anywhere on the Internet. PDF or TIFF files should only be used if you want to print the screenshot you've taken, while the GIF file format is used to create short animations or loops and there is absolutely no reason to use it as a default screenshot file format.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## Which Screenshot Format Should You Use?
 
 Each image file format Mac computer support is designed for different purposes, which is the reason why you should choose the screenshot graphics format that best fits the context in which the file is going to be used. Converting PNG files to some popular file format is almost always necessary, so if you want to avoid having to go through the file conversion process every time you take a screenshot just to be able to edit it, our advice is to set the JPEG as the default screenshot file format on your Mac.
@@ -67,13 +68,21 @@ Each image file format Mac computer support is designed for different purposes, 
 Besides being smaller in size than PNG files, JPEG files are also handier if you want to annotate the screenshots you're taking. In addition, you'll be able to post your files anywhere on the Internet, because JPEG files are supported by all social media platforms.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Change Screenshot Formats?
 
 ![ Mac Screenshots formats ](https://images.wondershare.com/filmora/article-images/mac-screenshot-format-changing.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Once you decide which format you want to use the default screenshot graphics format on your Mac, you should launch the Terminal app. You can access the Terminal from the Utility subfolder that is located in the Application folder.
@@ -111,8 +120,12 @@ _defaults write com.apple.screencapture type PNG_
 You can switch back to capturing screenshots in PNG file format at any moment by simply following the steps we described for all other image file formats supported by the macOS. Leave a comment and let us know which file format you like to use the most as the default screenshot format on your Mac.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -121,11 +134,33 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-skyward-haven-of-the-pennywise-clouds/"><u>[New] Skyward Haven of the Pennywise Clouds</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-poco-m6-pro-4g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-discover-the-10-leading-no-cost-webcalls-for-businesses/"><u>2024 Approved Discover the 10 Leading No-Cost Webcalls for Businesses</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-easy-to-follow-steps-for-android-video-capture/"><u>2024 Approved Easy-to-Follow Steps for Android Video Capture</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-high-ranking-nintendo-switch-brawlers-index-max-156/"><u>2024 Approved High-Ranking Nintendo Switch Brawlers Index (Max 156)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-metaverse-life-your-ultimate-device-list/"><u>2024 Approved Mastering Metaverse Life Your Ultimate Device List</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sky-high-security-for-your-photos-explore-free-and-paid-options/"><u>2024 Approved Sky-High Security for Your Photos Explore Free and Paid Options</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-top-video-chat-tools-on-windows-6-1-leaders/"><u>2024 Approved Top Video Chat Tools on Windows #6-#1 Leaders</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-vivo-y200-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boost-your-productivity-with-swift-macos-spotlight-shortcuts-unveiling-the-power-of-finders-rapid-task-execution/"><u>Boost Your Productivity with Swift MacOS Spotlight Shortcuts: Unveiling the Power of Finder's Rapid Task Execution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/forwarding-progress-discovering-the-top-5-ai-computing-advances/"><u>Forwarding Progress: Discovering the Top 5 AI Computing Advances</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/free-photo-editing-unleashed-android-and-iphones-top-tools-ranked/"><u>Free Photo Editing Unleashed – Android & iPhone's Top Tools Ranked</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-oneplus-ace-2-pro-devices-by-drfone-android/"><u>How to Reset Gmail Password on OnePlus Ace 2 Pro Devices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-capturing-gameplay-a-sims-4-tutorial/"><u>In 2024, Capturing Gameplay A Sims 4 Tutorial</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-ideal-methods-to-archive-playstation-4-gaming-sessions/"><u>In 2024, Ideal Methods to Archive PlayStation 4 Gaming Sessions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-maximizing-efficiency-video-capturing-in-adobe-presenter/"><u>In 2024, Maximizing Efficiency Video Capturing in Adobe Presenter</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-ocam-screen-recorder-download/"><u>In 2024, OCam Screen Recorder Download</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-one-shot-screenshot-instruction/"><u>In 2024, One-Shot Screenshot Instruction</u></a></li>
+<li><a href="https://techidaily.com/solving-the-issue-of-high-cpu-usage-by-antimalware-service-executable-in-windows-11-and-10/"><u>Solving the Issue of High CPU Usage by Antimalware Service Executable in Windows 11 and 10</u></a></li>
+</ul></div>
+

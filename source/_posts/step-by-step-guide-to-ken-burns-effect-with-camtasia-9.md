@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step Guide to Ken Burns Effect with Camtasia 9\""
-date: 2024-10-28T18:17:56.879Z
-updated: 2024-11-02T22:08:44.773Z
+date: 2024-11-07T02:30:05.475Z
+updated: 2024-11-11T03:43:21.389Z
 tags: 
   - screen-recording
   - ai video
@@ -53,10 +53,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -68,16 +68,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -105,10 +99,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -127,20 +121,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-experts-picks-top-5-webcams-revolutionizing-game-streaming/"><u>[New] 2024 Approved Expert's Picks Top 5 Webcams Revolutionizing Game Streaming</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-androids-low-cost-video-communication-guide-for-2024/"><u>[New] Android's Low-Cost Video Communication Guide for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-strategies-for-enhancing-your-apple-podcast-visibility/"><u>[New] Strategies for Enhancing Your Apple Podcast Visibility</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-capture-clarity-best-webcams-to-elevate-your-podcasts/"><u>[Updated] 2024 Approved Capture Clarity Best Webcams to Elevate Your Podcasts</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-premier-chillout-pc-game-hits/"><u>[Updated] 2024 Approved Premier Chillout PC Game Hits</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-best-ten-spotify-equipment-for-high-quality-recording/"><u>[Updated] In 2024, The Best Ten Spotify Equipment for High-Quality Recording</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-11-pro-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 11 Pro Data From iCloud? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-win11-outclasses-macos-in-essential-areas/"><u>How Win11 Outclasses MacOS in Essential Areas</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Oppo Reno 8T? | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-overcoming-obs-blank-screens-in-gaming-recording/"><u>In 2024, Overcoming OBS Blank Screens in Gaming Recording</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-quick-video-recorder-download-and-record-video/"><u>In 2024, Quick Video Recorder Download and Record Video</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/mastering-hulu-recording-across-windows-mac-and-mobile-devices-for-2024/"><u>Mastering Hulu Recording Across Windows, Mac, and Mobile Devices for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/real-time-gaming-footage-extraction-made-effortless/"><u>Real-Time Gaming Footage Extraction Made Effortless</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-airpods-pro-enhancements-for-2023-engadget-reviews/"><u>The Ultimate Guide to AirPods Pro Enhancements for 202^[3] | Engadget Reviews</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-mac-video-cutting-made-simple-quick-tips-for-large-files/"><u>Updated Mac Video Cutting Made Simple Quick Tips for Large Files</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-stay-on-top-the-essential-guide-to-fbs-latest-video-tracks-for-2024/"><u>[New] Stay on Top The Essential Guide to FB's Latest Video Tracks for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-discovering-tiktoks-most-shared-meals/"><u>[Updated] 2024 Approved Discovering TikTok's Most Shared Meals</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-assessing-free2x-recording-software-quality/"><u>2024 Approved Assessing Free2X Recording Software Quality</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-elevate-iphones-visual-storytelling-camera-upgrades-galore/"><u>2024 Approved Elevate iPhone's Visual Storytelling Camera Upgrades Galore</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-expert-mac-graphic-collector/"><u>2024 Approved Expert Mac Graphic Collector</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-save-pc-sound-frequencies-and-mic-dialogue/"><u>2024 Approved Save PC Sound Frequencies & Mic Dialogue</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/aquaresonance-review-sturdy-deep-water-audio/"><u>AquaResonance Review: Sturdy Deep-Water Audio</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/convertidor-en-linea-gratuito-caf-a-formatos-m4amp3-por-movavi-sin-coste-alguno/"><u>Convertidor en Línea Gratuito CAF a Formatos M4A/MP3 Por Movavi Sin Coste Alguno</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/effortless-methods-to-document-console-gaming-for-2024/"><u>Effortless Methods to Document Console Gaming for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-a-deeper-dive-understanding-ez-grabbers-capabilities/"><u>In 2024, A Deeper Dive Understanding EZ Grabber's Capabilities</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-capturing-facetime-best-practices-unveiled/"><u>In 2024, Capturing FaceTime Best Practices Unveiled</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-professional-tips-for-high-quality-sports-streaming/"><u>In 2024, Professional Tips for High-Quality Sports Streaming</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/m3-macbook-air-cost-vs-performance-analysis/"><u>M3 MacBook Air: Cost Vs. Performance Analysis</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-protecting-information-by-backing-up-android-devices/"><u>Step-by-Step Tutorial: Protecting Information by Backing up Android Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-powerhouse-performance-noctua-unveils-mega-cooling-solution-for-nvidias-new-grace-hopper-gpu/"><u>Unleashing Powerhouse Performance: Noctua Unveils Mega-Cooling Solution for NVIDIA's New Grace Hopper GPU</u></a></li>
 </ul></div>
 

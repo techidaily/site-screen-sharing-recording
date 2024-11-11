@@ -1,7 +1,7 @@
 ---
 title: Fix Terraria's Frequent Crashes with These Expert Tips for Gamers !
-date: 2024-11-01T16:28:07.603Z
-updated: 2024-11-02T18:48:39.526Z
+date: 2024-11-09T17:25:41.740Z
+updated: 2024-11-11T06:05:21.853Z
 tags:
   - win11
   - win10
@@ -57,9 +57,23 @@ If this didn’t help in resolving your problem, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)**  Relaunch Steam and_Terraria_ to test your issue.
 
@@ -81,16 +95,16 @@ If this didn’t help in resolving your problem, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-201.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -100,13 +114,6 @@ If this didn’t help in resolving your problem, try the fix below.
 **4)** Relaunch your game to test your issue.
 
  If_Terraria_ still crashes, then go ahead with the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Verify the integrity of your game files
 
@@ -126,15 +133,22 @@ _Terraria_ may crash when one or more certain game file is damaged or missing. T
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-252.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Relaunch your game to see if your problem has been resolved.
 
 If not, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Run your game in compatibility mode
@@ -146,38 +160,25 @@ If not, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-253.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-254.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click the list box below to select **Windows 8** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-255.png)
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)**  Relaunch your game to check if your issue had been resolved.
@@ -229,6 +230,13 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
@@ -241,13 +249,6 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  **8)[Download](https://store.steampowered.com/about/)**  Steam.
 
 **9)** Open the downloaded file and install Steam.
@@ -259,13 +260,6 @@ If this didn’t work for you, check the fix, below.
 **11)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **12)**  Relaunch Steam and your game.
 
@@ -292,24 +286,22 @@ If this didn’t work for you, check the fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-unpacking-the-wirecast-experience-and-its-rivals/"><u>[New] 2024 Approved Unpacking the WireCast Experience & Its Rivals</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-elite-callers-on-windows-top-8-sorted/"><u>[New] Elite Callers on Windows Top 8 Sorted</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-game-bar-screen-recorder-alternatives/"><u>[New] Game Bar Screen Recorder Alternatives</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-10-must-have-screen-capture-tools-for-online-instructors/"><u>[Updated] 2024 Approved 10 Must-Have Screen Capture Tools for Online Instructors</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-a-glance-at-your-world-freeze-and-save-windows-for-2024/"><u>[Updated] A Glance at Your World Freeze and Save Windows for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-civics-challenge-club-leading-political-gaming-series/"><u>[Updated] Civics Challenge Club Leading Political Gaming Series</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-spring-screenrecorder-simplified-your-ultimate-guide/"><u>[Updated] In 2024, Spring ScreenRecorder Simplified Your Ultimate Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-farm-fanatics-forecast-future-of-virtual-harvesting/"><u>2024 Approved Farm Fanatics’ Forecast Future of Virtual Harvesting</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-simple-solutions-to-capture-gotomeetings-effectively/"><u>2024 Approved Simple Solutions to Capture GoToMeetings Effectively</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/about-itel-s23-frp-bypass-by-drfone-android/"><u>About Itel S23 FRP Bypass</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-best-mac-screen-grabbers-compiled-here/"><u>In 2024, Best Mac Screen Grabbers Compiled Here</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-magic-v2-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor Magic V2 to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-honor-magic5-ultimate-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Honor Magic5 Ultimate Device</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-transform-your-videos-using-video-enhancer-v22/"><u>In 2024, Transform Your Videos Using Video Enhancer V2.2</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-speakers-after-the-new-update-to-windows-11-troubleshooting-guide/"><u>Revive Your Speakers After the New Update to Windows 11 - Troubleshooting Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/struggling-with-find-my-iphone-heres-why-it-shows-offline-and-how-to-fix-it/"><u>Struggling with Find My iPhone? Here’s Why It Shows ‘Offline’ & How to Fix It</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/surprisingly-versatile-and-compact-the-ultimate-guide-to-the-undervalued-8-in-1-adapter-featured/"><u>Surprisingly Versatile and Compact: The Ultimate Guide to the Undervalued 8-in-1 Adapter Featured</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-definitive-guide-fixing-missing-haldll-troubles-on-windows-xp-pcs/"><u>The Definitive Guide: Fixing 'Missing Hal.dll' Troubles on Windows XP PCs</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/the-ultimate-voice-guided-powerpoint-handbook/"><u>The Ultimate Voice-Guided PowerPoint Handbook</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-gecata-watchers-complete-appraisal/"><u>[New] 2024 Approved GECATA Watcher's Complete Appraisal</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-from-phone-to-professional-recording-diy-tips-and-tricks/"><u>[New] From Phone to Professional Recording DIY Tips and Tricks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-step-by-step-approach-to-saving-instagram-stories/"><u>[New] In 2024, Step-by-Step Approach to Saving Instagram Stories</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-learn-the-ultimate-snap-sharing-trick-today-for-2024/"><u>[New] Learn the Ultimate Snap Sharing Trick Today for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-screen-recorder-essentials-top-10-tools-compared-for-2024/"><u>[New] Screen Recorder Essentials Top 10 Tools Compared for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-ultimate-business-strategy-game-guide-mobilepc-for-2024/"><u>[New] The Ultimate Business Strategy Game Guide (Mobile/PC) for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-top-20-budget-friendly-screen-recorder-tools/"><u>[New] Top 20 Budget-Friendly Screen Recorder Tools</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-fortnite-black-screen-on-windows/"><u>[SOLVED] Fortnite Black Screen on Windows</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-lose-yourself-to-laughter-best-10-jokes/"><u>[Updated] 2024 Approved Lose Yourself to Laughter Best 10 Jokes</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-tips-and-tricks-recording-conversations-on-whatsapp/"><u>[Updated] Tips and Tricks Recording Conversations on WhatsApp</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-advanced-techniques-in-developing-compelling-customer-success-narratives/"><u>2024 Approved Advanced Techniques in Developing Compelling Customer Success Narratives</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-audiovisual-rhythm-optimal-dj-content-for-gatherings/"><u>2024 Approved Audiovisual Rhythm Optimal DJ Content for Gatherings</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/gain-a-competitive-edge-optimize-your-site-using-the-cookiebot-platform/"><u>Gain a Competitive Edge: Optimize Your Site Using the Cookiebot Platform</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-to-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>How to Mirror PC to Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/ultimate-guide-to-the-leading-9-video-call-and-collaboration-tools-android-ios-for-2024/"><u>Ultimate Guide to the Leading 9 Video Call & Collaboration Tools (Android, iOS) for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/unlock-your-viewing-pleasure-with-budget-friendly-recording-tools/"><u>Unlock Your Viewing Pleasure with Budget-Friendly Recording Tools</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Transformative Camera Movements  Your Guide to Ken Burns in Camtasa\""
-date: 2024-08-16T21:21:12.086Z
-updated: 2024-08-17T21:21:12.086Z
+date: 2024-11-04T16:04:43.039Z
+updated: 2024-11-11T08:09:11.245Z
 tags: 
   - screen-recording
   - ai video
@@ -48,9 +48,12 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -58,13 +61,12 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -90,8 +92,12 @@ Once you are fully satisfied with the Ken Burns effect on your video, you can sa
 Remember that this tool isn’t just a single trick pony, and you can use Wondershare Filmora to add a number of other effects to your videos including transitions, textual content, audio recording, cropping, caption, motion tracking, green screen, and more.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -100,11 +106,28 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-apex-titles-for-hd-video-recording-technologies/"><u>[New] 2024 Approved Apex Titles for HD Video Recording Technologies</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-crafting-your-dream-minecraft-house-with-ease/"><u>[New] In 2024, Crafting Your Dream Minecraft House with Ease</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-cross-play-away-in-apex-legends-optimal-platform-selection-and-disabling/"><u>[Updated] 2024 Approved Cross-Play Away in Apex Legends Optimal Platform Selection & Disabling</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-cultivating-success-in-valheim-prime-seed-picks/"><u>[Updated] In 2024, Cultivating Success in Valheim Prime Seed Picks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-customized-obs-guide-for-budget-builds/"><u>[Updated] In 2024, Customized OBS Guide for Budget Builds</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-prime-selection-of-action-screen-replayers/"><u>[Updated] In 2024, Prime Selection of Action Screen Replayers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-10-gratuitous-video-chats-with-desktop-viewing-for-2024/"><u>[Updated] Top 10 Gratuitous Video Chats with Desktop Viewing for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-saving-powerpoint-presentation-to-video/"><u>2024 Approved Saving PowerPoint Presentation to Video</u></a></li>
+<li><a href="https://network-issues.techidaily.com/connection-error-laptops-showcase-unseen-by-tv/"><u>Connection Error: Laptop's Showcase Unseen by TV</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-htc-u23-pro-to-mac-drfone-by-drfone-android/"><u>How to Mirror HTC U23 Pro to Mac? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-photography-woes-heres-how-you-can-fix-your-devices-7-most-prevalent-camera-errors/"><u>IPhone Photography Woes? Here's How You Can Fix Your Device's 7 Most Prevalent Camera Errors</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/streamline-your-zoom-talks-with-camera-snaps-for-2024/"><u>Streamline Your Zoom Talks with Camera Snaps for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-unpredictable-website-appearances-in-ios-screen-time-report/"><u>Troubleshooting Unpredictable Website Appearances in iOS Screen Time Report</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/xsplit-download-and-review/"><u>XSplit Download and Review</u></a></li>
+</ul></div>
+
