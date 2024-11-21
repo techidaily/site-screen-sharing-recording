@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Zoom Webinars for Newbies  A Practical Starter Manual\""
-date: 2024-11-08T00:52:39.349Z
-updated: 2024-11-11T04:42:51.822Z
+date: 2024-11-18T23:44:23.759Z
+updated: 2024-11-20T23:07:25.921Z
 tags: 
   - screen-recording
   - ai video
@@ -55,6 +55,10 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is a Zoom Webinar?
 
 A webinar is simply an online seminar, but the term can also be used to denote collaborative services such as webcasts or peer-level web meetings. Zoom allows its users to purchase webinar add-ons that can have as many as 149 hosts and 10,000 attendees. Each of the plans enables the host or hosts to have an unlimited number of meetings, which means that you can run as many webinars as you want with Zoom.
@@ -62,13 +66,6 @@ A webinar is simply an online seminar, but the term can also be used to denote c
 The platform doesn’t allow its users to host webinars for free and you must purchase a monthly or the annual subscription if you would like to host your webinars on Zoom. You can choose from Pro, Business, Education and Zoom Room options and the exact cost of the subscription depends on the maximum number of hosts and participants a webinar can have, so, for instance, you will have to pay around $50 per month if your webinar plan has just one host and a hundred participants.
 
 ![Add Webinar to Zoom Plan](https://images.wondershare.com/filmora/article-images/add-webinar-on-zoom-pricing.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Furthermore, each of the available plans offers the cloud recording option, and you can get up to 3 TB of extra storage for an additional fee. Once you purchase a license you will also have to assign it to the owner of the Zoom account or the admin of a particular account. You can do this by heading over to the User Management menu and selecting the Users option. After you locate the user to which you would like to assign a webinar license, you should click on the Edit button at the end of the user’s row and click on the Webinar option in the Feature menu.
 
@@ -78,11 +75,19 @@ Optionally, you can choose the user’s role, specify their job title or add the
 
 Looking for some other webinar software? We’ve picked some of the best webinar software that you can use, you can check the [Best Webinar Software List here](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Start a Webinar with Zoom?
 
 After purchasing the Zoom’s webinar add-on you can schedule a new webinar. Simply sign in to the webinar portal, click on the Webinars option and then click on the Schedule a Webinar button.
 
 ![Zoom Schedule Webinar](https://images.wondershare.com/filmora/article-images/schedule-zoom-webinar.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can then provide the information about the topic of the webinar, write a short description of the webinar that is going to be displayed at the registration page, set the time and date when the webinar is supposed to take place and specify how long the webinar is going to last.
 
@@ -116,13 +121,6 @@ Hosts of webinars that require registration must send the registration link to a
 
 To start a webinar, you should click on the Meetings tab, locate the webinar and click on the Start button.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Do Attendees Join a Zoom Webinar?
 
 As an attendee of a Zoom webinar, you can either join a webinar through a registration link or manually. Once you completed the registration process, the host can send you a registration confirmation email that contains the join link, simply click on it to join the webinar you signed up for.
@@ -131,16 +129,13 @@ In some cases, you can also gain access to the join link from the registration c
 
 ![  Zoom Webinar Approve](https://images.wondershare.com/filmora/article-images/zoom-webinar-registration-approve.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Zoom offers the option to join a webinar manually, and you just have to locate the 9-digit webinar ID in the registration email, before signing in to your Zoom account from your computer or your Smartphone. Proceed to click on the Join a Meeting option, insert the 9-digit webinar ID and click Join. Provide your name and email address if the platform asks for this information and then click on the Join Webinar button.
 
 Webinar attendees can only interact with a webinar by raising their hands, chatting with the host and panelists or participating in Q&A panels.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is the Difference between a Zoom Meeting and a Zoom Webinar?
 
@@ -157,10 +152,7 @@ Anyone can set up a new webinar with Zoom, even if they have no previous experie
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -179,14 +171,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-in-depth-look-10-must-have-terraria-mods/"><u>[New] In 2024, In-Depth Look 10 Must-Have Terraria Mods</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-maximizing-memory-retention-through-mac-based-audio-recordings/"><u>[New] In 2024, Maximizing Memory Retention Through Mac-Based Audio Recordings</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-mycam-recorder-review-for-2024/"><u>[New] MyCam Recorder Review for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-visual-virtuosity-unleashed-professional-tips-to-elevate-your-photos/"><u>[Updated] Visual Virtuosity Unleashed Professional Tips to Elevate Your Photos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/battle-of-titans-thieye-t5-or-sjcam-s6-legend/"><u>Battle of Titans Thieye T5 or SJCAM S6 Legend?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/challenging-gpt-constraints-implications-for-use/"><u>Challenging GPT Constraints: Implications for Use</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211438407-9798218487409-interdimensional-entities/"><u>Interdimensional Entities | Free Book</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-integration-on-linux-a-beginners-guide-using-the-bavarder-toolkit/"><u>Mastering ChatGPT Integration on Linux: A Beginner's Guide Using the Bavarder Toolkit</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/resurrect-the-past-the-ultimate-list-of-top-5-ps1-games-for-pc-for-2024/"><u>Resurrect the Past The Ultimate List of Top 5 PS1 Games for PC for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-top-group-video-chat-apps-for-video-conferences-and-meetings/"><u>[New] Top Group Video Chat Apps For Video Conferences and Meetings</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-becoming-a-gif-maestro-the-meme-creators-handbook/"><u>[Updated] Becoming a GIF Maestro The Meme Creator’s Handbook</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-mastering-the-art-of-farewell-in-the-instagram-world/"><u>[Updated] In 2024, Mastering the Art of Farewell in the Instagram World</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-prevent-unwanted-recordings-quit-time-tricks/"><u>[Updated] In 2024, Prevent Unwanted Recordings Quit Time Tricks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-innovative-methods-for-mac-screenshot-format-change-for-2024/"><u>[Updated] Innovative Methods for Mac Screenshot Format Change for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-titans-clash-discovering-the-ultimate-7-grand-wars/"><u>[Updated] Titans Clash Discovering the Ultimate 7 Grand Wars</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-unveiling-techniques-for-pace-modification-on-snapchat-videos/"><u>[Updated] Unveiling Techniques for Pace Modification on Snapchat Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-art-of-digitalizing-ps3-gamesplay/"><u>2024 Approved The Art of Digitalizing PS3 Gamesplay</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-infinix-hot-40-pro-lock-screen-password-by-drfone-android/"><u>How To Change Infinix Hot 40 Pro Lock Screen Password?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-fbx-studio-guide-for-gamers/"><u>In 2024, FBX Studio Guide for Gamers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-make-the-most-of-your-gaming-experience-top-methods-to-document-minecraft-on-mac/"><u>In 2024, Make the Most of Your Gaming Experience - Top Methods to Document Minecraft on Mac</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/mp4-video-editing-made-easy-top-free-cutters-for-2024/"><u>MP4 Video Editing Made Easy Top Free Cutters for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-for-missing-libxml2dll-step-by-step-instructions/"><u>The Ultimate Fix for Missing Libxml2.dll - Step-by-Step Instructions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-1011-enable-and-setup-external-wi-fi-interface-driver/"><u>Windows 10/11 - Enable and Setup External Wi-Fi Interface Driver</u></a></li>
 </ul></div>
 

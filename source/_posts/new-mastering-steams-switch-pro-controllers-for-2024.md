@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Steam's Switch Pro Controllers for 2024"
-date: 2024-11-04T05:56:57.675Z
-updated: 2024-11-11T03:29:01.447Z
+date: 2024-11-14T17:30:31.736Z
+updated: 2024-11-20T19:06:27.841Z
 tags: 
   - screen-recording
   - ai video
@@ -60,10 +60,7 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Wirelessly connect your Switch Pro controller to your PC**
@@ -78,16 +75,13 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * To add a Bluetooth device, click "Add Bluetooth Device."
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
@@ -96,16 +90,13 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 * Once Steam is set up, you can begin using it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
 ![switch-pro-controller-steam-set-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Best Way to make sure your Pro Controller works properly with your PC game is to use Steam's Big Picture mode, which uses a comfortable lean-back system to allow you to navigate.
 
@@ -121,6 +112,10 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **What To Do With Non-Steam Games?**
 
 Using the methods discussed above, you can easily use a switch pro controller with your pc, but it only works with steam games. But what if you want to play a non-steam game using a switch pro controller? What will you do now? The switch pro controller hardware support will run out of luck in this scenario.
@@ -132,10 +127,7 @@ The main problem here now is how windows will detect your switch pro controller 
 **Solution2:** The second method is to use a software-based XInput Wrapper. There is plenty of software out there that provides this functionality. Just configure your switch pro controller with them, and you can easily use it on non-steam games.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Final Verdict**
@@ -160,22 +152,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-snap-share-thrive-on-instagram-for-2024/"><u>[Updated] Snap, Share, Thrive on Instagram for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024dvdanddvd10/"><u>【最新リストアップ2024年版】DVDコピー&DVDリッピングのため、お勧めのフリーソフトをベスト10!</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-most-efficient-techniques-for-real-time-youtube-video-recording/"><u>2024 Approved Most Efficient Techniques for Real-Time YouTube Video Recording</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-simplified-methods-for-logging-videos-on-vimeo/"><u>2024 Approved Simplified Methods for Logging Videos on Vimeo</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-unlocking-your-pc-games-with-ease-on-windows-10/"><u>2024 Approved Unlocking Your PC Games with Ease on Windows 10</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/asus-proart-pa-329q-evaluation-the-highest-quality-in-4k-professional-displays/"><u>Asus ProArt PA 329Q Evaluation – The Highest Quality in 4K Professional Displays</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/best-free-srt-translators-online-an-elite-list-of-8/"><u>Best FREE SRT Translators Online An Elite List of 8</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/capture-master-high-res-screen-record/"><u>Capture Master High-Res Screen Record</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/capturing-hulu-live-anywhere-a-practical-how-to-manual-for-2024/"><u>Capturing Hulu Live Anywhere - A Practical How-To Manual for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/capturing-role-playing-roblox-and-mac-techniques/"><u>Capturing Role-Playing Roblox & Mac Techniques</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/capturing-stunning-webcam-content-quick-steps-to-success-for-2024/"><u>Capturing Stunning WebCam Content Quick Steps to Success for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/clinical-manifestations-of-fetal-alcohol-syndrome-for-2024/"><u>Clinical Manifestations of Fetal Alcohol Syndrome for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-techniques-to-open-wordpad-in-windows/"><u>Essential Techniques to Open WordPad in Windows</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-elevate-zoom-audio-clarity-with-strategic-effective-tweaks/"><u>In 2024, Elevate Zoom Audio Clarity with Strategic, Effective Tweaks</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-secure-steps-for-skyrocketing-video-engagement-a-million-wins-strategy/"><u>In 2024, Secure Steps for Skyrocketing Video Engagement A Million Wins Strategy</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>The Best iSpoofer Alternative to Try On Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-wolcens-launch-issues-what-gamers-need-to-know-now/"><u>Troubleshooting Wolcen's Launch Issues - What Gamers Need to Know Now</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-the-complete-guide-for-setting-up-and-managing-regular-meetings-on-google/"><u>[New] 2024 Approved The Complete Guide for Setting Up and Managing Regular Meetings on Google</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-essential-ps2-emulators-for-ios-devices/"><u>[New] In 2024, Essential PS2 Emulators for IOS Devices</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nowy-serenity-top-pick-winter-backgrounds-for-videos/"><u>[New] Snowy Serenity Top Pick Winter Backgrounds for Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-10-tips-and-tricks-to-better-use-pixlr-editor/"><u>[Updated] 10 Tips and Tricks to Better Use Pixlr Editor</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-from-silence-to-symphony-transforming-facebook-videos-with-melodies/"><u>[Updated] 2024 Approved From Silence to Symphony Transforming Facebook Videos with Melodies</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-secrets-of-saving-screenshots-tips-and-tricks-for-dell-users/"><u>[Updated] Secrets of Saving Screenshots Tips & Tricks for Dell Users</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/windows-10-64/"><u>「完全無料のバックアップツール: Windows 10 64ビット専用保護手段」</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-enhance-igtv-posts-with-best-video-edit-apps/"><u>2024 Approved Enhance IGTV Posts with Best Video Edit Apps</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/comprerante-snapchat-content-tips-for-mobile-recording-success-for-2024/"><u>Comprerante Snapchat Content Tips for Mobile Recording Success for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-elite-escapade-experiences-the-finest-action-adventure-gems/"><u>In 2024, Elite Escapade Experiences The Finest Action-Adventure Gems</u></a></li>
+<li><a href="https://fox-within.techidaily.com/ohne-risiko-loseoftestet-kartenschnappern-ruckspielen-fur-ihre-microsd-entdecke-myrecover/"><u>Ohne Risiko! Loseoftestet Kartenschnappern Rückspielen Für Ihre microSD - Entdecke MyRecover</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/transforming-facebook-streams-into-flawless-records/"><u>Transforming Facebook Streams Into Flawless Records</u></a></li>
 </ul></div>
 

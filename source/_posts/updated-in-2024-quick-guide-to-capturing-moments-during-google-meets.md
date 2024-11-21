@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Quick Guide to Capturing Moments During Google Meets"
-date: 2024-11-07T23:33:17.715Z
-updated: 2024-11-10T22:19:50.332Z
+date: 2024-11-19T20:40:10.077Z
+updated: 2024-11-20T21:02:24.790Z
 tags: 
   - screen-recording
   - ai video
@@ -45,13 +45,6 @@ Once downloaded, find the file on your desktop and double click to install. On t
 
 Open the snap camera and you’ll be able to see your face on the screen. That’s it, you’ve downloaded the Snap Camera. Select the preferred filters and lens from the below list and check the result in the video stream window. Now onto the next step, which is configuring the Snap Camera to work with Google Meet.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Use Snap Camera on Google Meet?
 
 There are two different ways of using the snap camera on Google Meet - the first method is to log in via Gmail and the second is to access Google Meet directly from the website.
@@ -62,16 +55,13 @@ There are two different ways of using the snap camera on Google Meet - the first
 
 ![Google Meet  Options](https://images.wondershare.com/filmora/article-images/gmail-meet-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** Select “New Meeting” and then choose to send an invitation link or start right now. Here, let’s click on Start now and a Google Meet pop-up will tell you what the default video source is.
 
 ![Google Meeting ](https://images.wondershare.com/filmora/article-images/google-meet-interface.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** Click on the three dots on the preview screen and click on settings.
 
@@ -102,6 +92,10 @@ That’s it! Now you’ll be able to use Snap Camera for your Google Meet commun
 
 ![ Google Meet  Camera Settings ](https://images.wondershare.com/filmora/article-images/google-meet-video-camera-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Use Snap Cam with Google Meet using Third-Party Inputs
 
 It is also possible to use Google Meet and Snap Camera with third-party inputs such as the Canon EOS webcam utility or other applications such as IRUin camera of Epoc Cam. Here is how:
@@ -119,10 +113,7 @@ It is also possible to use Google Meet and Snap Camera with third-party inputs s
 To use third-party inputs like Iruin webcam, Epic cam, or Canon Webcam Utility, you’ll need to select the Snap Cam as the input in the meet settings. Your input will be passed through Snap Cam via webcam utility or another application using your phone or your DSLR, then passed through to Google Meet. You’ll be able to use the filters with far better resolution on Google Meet.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: How to Add Filters to Google Meet Without Snap Camera on Mobile
@@ -140,10 +131,7 @@ Currently, Snap Camera is available for Windows and Mac computers, which means y
 **Step 5:** Tap on the filters option and see all the filters available. Choose any filter you want, and it will be automatically added to your video input.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 5: Google Meet Adds Video Filters and AR Stickers for Personal Call
@@ -166,6 +154,10 @@ As you can see, there are many different ways of implementing filters into your 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -181,19 +173,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-mastering-screen-recordings-in-gotomeeting/"><u>[New] In 2024, Mastering Screen Recordings in GoToMeeting</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-video-capturing-essentials-top-8-apps-for-windows-users/"><u>[New] Video Capturing Essentials Top 8 Apps for Windows Users</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-dreamlands-choice-ultimate-10-affordable-rpg-games/"><u>[Updated] 2024 Approved Dreamland's Choice Ultimate 10 Affordable RPG Games</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-insiders-selection-premium-webinar-tools/"><u>[Updated] In 2024, Insider's Selection Premium Webinar Tools</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-securing-skype-conversations-via-obs/"><u>[Updated] In 2024, Securing Skype Conversations via OBS</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-preferred-practices-for-streaming-video-recording-on-youtube-for-2024/"><u>[Updated] Preferred Practices for Streaming Video Recording on YouTube for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-a-complete-guide-to-understanding-and-utilizing-slug-lines/"><u>2024 Approved A Complete Guide to Understanding and Utilizing Slug Lines</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-science-of-captivating-audience-with-mukbang-videos/"><u>2024 Approved The Science of Captivating Audience with Mukbang Videos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-gameplay-disruptions-tackling-persistent-freezes-in-warframe/"><u>Overcoming Gameplay Disruptions: Tackling Persistent Freezes in Warframe</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/simplified-guide-to-movie-recording-on-diverse-systems/"><u>Simplified Guide to Movie Recording on Diverse Systems</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-directx-issues-in-call-of-duty-warzone-for-pc-gamers/"><u>Solving DirectX Issues in Call of Duty: Warzone for PC Gamers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/successful-steps-installing-the-epson-xp-830-printer-driver/"><u>Successful Steps: Installing the Epson XP-830 Printer Driver</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/rship-volume-the-financial-impact-of-one-million-views/"><u>Viewership Volume The Financial Impact of One Million Views</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/win11-solved-taming-the-wmi-provider-cpu/"><u>Win11 Solved: Taming the WMI Provider CPU</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-elite-6-ad-free-android-screen-captures/"><u>[New] In 2024, Elite 6 AD-Free Android Screen Captures</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-streamline-your-watch-time-enable-youtube-autoplay-on-fb/"><u>[New] Streamline Your Watch Time Enable YouTube Autoplay on FB</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-top-8-proven-video-growth-and-promotion-strategies/"><u>[Updated] In 2024, Top 8 Proven Video Growth & Promotion Strategies</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-libertycam-studio-a-user-friendly-review-for-2024/"><u>[Updated] LibertyCam Studio A User-Friendly Review for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-macos-experience-with-screenflow-reviewed-for-2024/"><u>[Updated] The Ultimate MacOS Experience with ScreenFlow Reviewed for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-universe-explorer-top-ranking-of-best-free-mmorpg-games/"><u>2024 Approved Universe Explorer Top Ranking of Best Free MMORPG Games</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-unmatched-hd-capture-selecting-the-best-recorder-brands/"><u>2024 Approved Unmatched HD Capture Selecting the Best Recorder Brands</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-tecno-camon-20-pro-5g-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Tecno Camon 20 Pro 5G using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-apple-iphone-6-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the Apple iPhone 6 Without Previous Owner?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-optimal-video-chat-on-windows-1-8/"><u>In 2024, Optimal Video Chat on Windows #1-8</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-spark-10-4gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Spark 10 4GFRP Lock</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/perfect-typing-programs-for-all-ages-top-12-free-resources-unveiled/"><u>Perfect Typing Programs for All Ages - Top 12 Free Resources Unveiled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-for-non-responsive-windows-11-start-menu-issues/"><u>Quick Solutions for Non-Responsive Windows 11 Start Menu Issues</u></a></li>
 </ul></div>
 
