@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step Guide to Instagram Livestreaming Using OBS\""
-date: 2024-11-06T19:14:41.712Z
-updated: 2024-11-11T06:38:45.054Z
+date: 2024-11-24T16:32:16.168Z
+updated: 2024-11-28T22:25:40.889Z
 tags: 
   - screen-recording
   - ai video
@@ -68,6 +68,10 @@ Step 6: Add a label and select the device and setup up the parameters as per you
 
 ![obs add a label](https://images.wondershare.com/filmora/article-images/obs-add-a-label.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 7: The label will appear under Sources. You can right-click on that and go to Transform and rotate to change the mode for convenient live streaming.
 
 ![obs go to transform](https://images.wondershare.com/filmora/article-images/obs-go-to-transform.jpg)
@@ -82,6 +86,10 @@ Step 2: After you have logged in, click on Start Live Stream option. You will ge
 
 ![obs click on start stream option](https://images.wondershare.com/filmora/article-images/obs-click-on-start-stream-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Go back to OBS Studio and click on Settings button at the bottom-right corner.
 
 Step 4: Go to Stream tab. For Service, select Custom option and for Server, paste the Stream URL from Streamon. Similarly, copy Stream Key from Streamon and paste on OBS Studio. Click on Apply and OK button.
@@ -93,22 +101,12 @@ Step 5: Finally, click on Start Streaming button. Thereafter, go to Streamon app
 ![obs start streaming](https://images.wondershare.com/filmora/article-images/obs-start-streaming.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 On Streamon, you will see a Speech Bubble icon where you can check the live chat messages and manage them accordingly. In order to check if your live stream is going correctly, you can open your web browser and go to “www.instagram.com/USERNAME/live” where you have to replace USERNAME with your Instagram username.
 
 ![obs speech bubble icon](https://images.wondershare.com/filmora/article-images/obs-speech-bubble-icon.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 6: To stop live streaming on Instagram through OBS Studio, click on Stop Streaming. Then go to Streamon app and click on Stop Live Stream as well.
 
@@ -142,22 +140,12 @@ Step 3: Click on Settings button located at the bottom-right corner.
 ![obs click on settings button](https://images.wondershare.com/filmora/article-images/obs-click-on-settings-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4: From Settings window, go to Video tab. Change the Base Resolution and Output Resolution so that the aspect ratio becomes 16:9\. You can tweak the other parameters as per your requirements. Finally, click on Apply and OK buttons.
 
 ![obs go to video tab](https://images.wondershare.com/filmora/article-images/obs-go-to-video-tab.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 5: Now, it is time to add the video source. Make sure the webcam is connected properly. Go to Sources tab located at the bottom left corner. Click on “+” icon and select your Video Capture Device.
 
@@ -167,16 +155,13 @@ Step 6: Add a label and select the device and setup up the parameters as per you
 
 ![obs add a label](https://images.wondershare.com/filmora/article-images/obs-add-a-label.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 7: The label will appear under Sources. You can right-click on that and go to Transform and rotate to change the mode for convenient live streaming.
 
 ![obs go to transform](https://images.wondershare.com/filmora/article-images/obs-go-to-transform.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. Live Stream Instagram with OBS
 
@@ -203,6 +188,10 @@ On Streamon, you will see a Speech Bubble icon where you can check the live chat
 ![obs speech bubble icon](https://images.wondershare.com/filmora/article-images/obs-speech-bubble-icon.jpg)
 
 Step 6: To stop live streaming on Instagram through OBS Studio, click on Stop Streaming. Then go to Streamon app and click on Stop Live Stream as well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -249,13 +238,6 @@ Step 7: The label will appear under Sources. You can right-click on that and go 
 
 ![obs go to transform](https://images.wondershare.com/filmora/article-images/obs-go-to-transform.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2\. Live Stream Instagram with OBS
 
 Now you are ready for Instagram live OBS Studio with all the configurations perfectly set. It is time to connect OBS Studio with your Instagram account for live streaming. That is where Streamon comes into the scene. Here are the steps you have to follow to live stream Instagram OBS Studio.
@@ -272,6 +254,10 @@ Step 4: Go to Stream tab. For Service, select Custom option and for Server, past
 
 ![obs go to stream tab](https://images.wondershare.com/filmora/article-images/obs-go-to-stream-tab.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5: Finally, click on Start Streaming button. Thereafter, go to Streamon app quickly and click on Go Live button. Now, you are live on Instagram through OBS Studio.
 
 ![obs start streaming](https://images.wondershare.com/filmora/article-images/obs-start-streaming.jpg)
@@ -280,6 +266,10 @@ On Streamon, you will see a Speech Bubble icon where you can check the live chat
 
 ![obs speech bubble icon](https://images.wondershare.com/filmora/article-images/obs-speech-bubble-icon.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 6: To stop live streaming on Instagram through OBS Studio, click on Stop Streaming. Then go to Streamon app and click on Stop Live Stream as well.
 
 ## Conclusion
@@ -287,13 +277,6 @@ Step 6: To stop live streaming on Instagram through OBS Studio, click on Stop St
 If you want to live stream on Instagram from your computer, you can do it easily with OBS Studio. You will need Streamon app for OBS to Instagram live connection setup. Thereafter, you can live stream from OBS Studio like you do on all other video streaming platforms from your studio. You can even manage live chats from Streamon app and make sure you follow the steps minutely.
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1\. Setup OBS Studio
 
@@ -313,6 +296,10 @@ Step 1: Open OBS Studio on your computer.
 Step 2: Go to Profile> New and name it as “OBS Studio Instagram live“. You might get an auto-configuration wizard which you need to skip as you will have to set the settings manually.
 
 ![obs studio instagram live](https://images.wondershare.com/filmora/article-images/obs-studio-instagram-live.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Click on Settings button located at the bottom-right corner.
 
@@ -334,13 +321,6 @@ Step 7: The label will appear under Sources. You can right-click on that and go 
 
 ![obs go to transform](https://images.wondershare.com/filmora/article-images/obs-go-to-transform.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2\. Live Stream Instagram with OBS
 
 Now you are ready for Instagram live OBS Studio with all the configurations perfectly set. It is time to connect OBS Studio with your Instagram account for live streaming. That is where Streamon comes into the scene. Here are the steps you have to follow to live stream Instagram OBS Studio.
@@ -356,6 +336,10 @@ Step 3: Go back to OBS Studio and click on Settings button at the bottom-right c
 Step 4: Go to Stream tab. For Service, select Custom option and for Server, paste the Stream URL from Streamon. Similarly, copy Stream Key from Streamon and paste on OBS Studio. Click on Apply and OK button.
 
 ![obs go to stream tab](https://images.wondershare.com/filmora/article-images/obs-go-to-stream-tab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 5: Finally, click on Start Streaming button. Thereafter, go to Streamon app quickly and click on Go Live button. Now, you are live on Instagram through OBS Studio.
 
@@ -395,24 +379,22 @@ If you want to live stream on Instagram from your computer, you can do it easily
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-examining-vlc-for-screen-capture/"><u>[New] 2024 Approved Examining VLC for Screen Capture</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-camstreamers-analysis-seeking-superior-solutions/"><u>[New] CamStreamers Analysis Seeking Superior Solutions</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-elevate-your-pc-best-8-video-capture-tools-for-windows-10/"><u>[New] Elevate Your PC Best 8 Video Capture Tools for Windows 10</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-light-the-flame-the-best-inspiring-movie-list/"><u>[New] Light the Flame The Best Inspiring Movie List</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-screenmaster-review-the-latest-in-tech-capture/"><u>[New] ScreenMaster Review The Latest in Tech Capture</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-tackling-frame-loss-best-practices-for-obs-users/"><u>[New] Tackling Frame Loss Best Practices for OBS Users</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-leading-the-field-in-remotely-recorded-content-creation/"><u>[Updated] 2024 Approved Leading the Field in Remotely Recorded Content Creation</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-ultimate-list-of-best-4k-monitors/"><u>[Updated] 2024 Approved The Ultimate List of Best 4K Monitors</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-cultivating-connections-friendly-games-growth-with-friends-on-farms/"><u>[Updated] Cultivating Connections Friendly Games Growth with Friends on Farms</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-how-to-securely-document-whatsapp-discussions-for-2024/"><u>[Updated] How to Securely Document WhatsApp Discussions for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-effortless-keyword-harvesting-explore-the-best-7-no-fee-tag-extractors/"><u>[Updated] In 2024, Effortless Keyword Harvesting Explore the Best 7 No-Fee Tag Extractors</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-step-by-step-on-hosting-webinars-a-beginners-guide-to-zoom/"><u>[Updated] In 2024, Step-by-Step on Hosting Webinars A Beginner's Guide to Zoom</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-learn-how-to-split-your-screen-while-watching-netflix/"><u>[Updated] Learn How To Split Your Screen While Watching Netflix</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-pivotal-user-feedback-a-look-at-vllo/"><u>2024 Approved Pivotal User Feedback A Look at VLLO</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boosting-playstation-5-performance-secrets-to-unlocking-120-frames-per-second/"><u>Boosting PlayStation 5 Performance: Secrets to Unlocking 120 Frames per Second</u></a></li>
-<li><a href="https://win-info.techidaily.com/easily-transform-your-playlist-explore-the-best-spotify-to-mp3-converter-options-beyond-sidify/"><u>Easily Transform Your Playlist: Explore the Best Spotify to MP3 Converter Options Beyond Sidify</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo Reno 8T 5G? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-lava-blaze-2-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Lava Blaze 2 5G? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-samsung-galaxy-z-flip-5-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Samsung Galaxy Z Flip 5 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-selective-list-of-pro-gopro-add-ons/"><u>[New] 2024 Approved Selective List of Pro-Gopro Add-Ons</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-best-practices-in-digital-media-capturing/"><u>[New] Best Practices in Digital Media Capturing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-accurate-recordings-of-console-games-on-home-computers/"><u>[New] In 2024, Accurate Recordings of Console Games on Home Computers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-cyberlink-vs-alternatives-the-ultimate-recording-showdown/"><u>[New] In 2024, Cyberlink Vs. Alternatives The Ultimate Recording Showdown</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-leveraging-obs-streaming-capabilities-on-facebook-platform/"><u>[New] In 2024, Leveraging OBS Streaming Capabilities on Facebook Platform</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-streammaster-showdown-obs-or-shadowplay-in-2024/"><u>[New] StreamMaster Showdown OBS or ShadowPlay, In 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-customizing-video-space-on-facebook-platforms/"><u>[Updated] Customizing Video Space on Facebook Platforms</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-pioneering-online-techniques-for-vhs-image-refinement-for-2024/"><u>[Updated] Pioneering Online Techniques for VHS Image Refinement for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/creating-a-unique-online-presence-using-obs-youtube-and-twitch-for-2024/"><u>Creating a Unique Online Presence Using OBS, YouTube & Twitch for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/download-e-converter-de-audio-convert-mp4-em-wav-free-online-com-o-movavi/"><u>Download E Converter De Áudio: Convert MP4 Em WAV Free Online Com O Movavi</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/easy-techniques-for-successfully-transferring-mp3-files-onto-your-ipad/"><u>Easy Techniques for Successfully Transferring MP3 Files Onto Your iPad</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/exploring-unconventional-webcam-applications-for-2024/"><u>Exploring Unconventional Webcam Applications for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quick-and-easy-increase-or-decrease-story-video-speed/"><u>In 2024, Quick and Easy Increase or Decrease Story Video Speed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-walking-dead-top-picks-for-horror-gamers/"><u>In 2024, Walking Dead Top Picks for Horror Gamers</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/language-learning-through-tv-and-film-effective-strategies-and-tips/"><u>Language Learning Through TV And Film: Effective Strategies And Tips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/screen-capture-showdown-obs-vs-shadow/"><u>Screen Capture Showdown OBS vs Shadow</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/testing-the-limits-why-microsofts-surface-devices-are-outperforming-my-macbook-a-firsthand-review/"><u>Testing the Limits: Why Microsoft's Surface Devices Are Outperforming My MacBook – A Firsthand Review</u></a></li>
 </ul></div>
 

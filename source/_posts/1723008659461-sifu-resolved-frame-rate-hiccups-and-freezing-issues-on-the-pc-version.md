@@ -1,7 +1,7 @@
 ---
 title: "'Sifu': Resolved Frame Rate Hiccups and Freezing Issues on the PC Version!"
-date: 2024-11-18T20:18:50.047Z
-updated: 2024-11-20T19:38:39.931Z
+date: 2024-11-24T16:24:48.448Z
+updated: 2024-11-29T01:23:38.358Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/75622c9aef94101b38b55f9079234e66e622d3109
 
 Amazon’s MMO New World has a very engaging and in-depth system that attracts gamers to play the game. But there’re bugs and technical mishaps such as constantly freezing that may frustrate you.  
  New World does have a support service, but they’re experiencing long wait times connecting to an associate for New World queries, but you’re not alone, there are fixes that we’ve gathered from gamers that may help you solve the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -44,6 +40,11 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
 
@@ -54,6 +55,10 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 
  If the latest graphics driver doesn’t fix the problem, you can move to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Verify the integrity of game files
 
  New World is a large AAA title game that is easily freezing when there are missing or corrupted files. Therefore, verifying the integrity of your game files is a common fix for the freezing issue.
@@ -63,15 +68,11 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-4.jpg)
 3. Allow the checking to complete. Then you can start New World and see if it freezes again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If the problem persists, take a look at the next fix below.
 
@@ -84,23 +85,19 @@ If the problem persists, take a look at the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/devmgmt.msc_-1.png)
 3. Expand the **Display adapters**  branch. Right-click the Nvidia graphics card device and click **Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2700f19925.jpg)
 4. Click the **Driver** tab. Then click **Roll Back Driver** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a270830e0d8.png)
 5. Then you will get a pop-up window like below. Click the **Yes** button. Then the driver will be restored to the previously installed version.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Restart your PC for the change to take effect.
 
 If this fix doesn’t bring luck, take a look at the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Underclock your GPU core
 
@@ -129,8 +126,16 @@ If it’s still not working, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-1.jpg)
 2. In the left pane, select **Visuals** . Then set **Max FPS** 60 fps.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/cap.jpg)  
  In most cases, 60 fps is enough. But some gamer replies they’ve lower to 30 FPS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Play New World to check.
 
@@ -147,17 +152,13 @@ If it’s still not working, try the next fix.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -189,18 +190,21 @@ If you haven’t tried it, give it a go it might help.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-adrenaline-rushes-and-epic-missions-top-10-gaming-winners/"><u>[New] 2024 Approved Adrenaline Rushes & Epic Missions Top 10 Gaming Winners</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-unleashing-creative-potential-editing-tiktok-videos-on-mac/"><u>[New] 2024 Approved Unleashing Creative Potential Editing TikTok Videos on Mac</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-perfect-the-art-of-note-taking-mematic-way/"><u>[New] Perfect the Art of Note-Taking - Mematic Way</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-step-into-the-future-of-streaming-with-top-audio-techniques-for-2024/"><u>[New] Step Into the Future of Streaming with Top Audio Techniques for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-leading-selections-ultimate-mac-video-grabber-devices/"><u>[Updated] Leading Selections Ultimate Mac Video Grabber Devices</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-precision-guide-to-mastering-mobizens-screen-capture-functionality/"><u>[Updated] Precision Guide to Mastering Mobizen's Screen Capture Functionality</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/achieve-seamless-viewing-with-these-fixes/"><u>Achieve Seamless Viewing with These Fixes</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/devices-to-device-guide-for-google-meet-participation/"><u>Devices to Device Guide for Google Meet Participation</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-samsung-galaxy-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/innovate-impress-and-captivate-in-solo-podcasting/"><u>Innovate, Impress, and Captivate in Solo Podcasting</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/mastering-your-video-projects-with-superior-recorder-software/"><u>Mastering Your Video Projects with Superior Recorder Software</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/navigating-mac-screenshot-file-type-changes/"><u>Navigating Mac Screenshot File Type Changes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transform-learning-and-creativity-a-comprehensive-guide-to-leveraging-chatgpts-my-gpt-bots-for-game-strategy-and-artistic-output/"><u>Transform Learning & Creativity: A Comprehensive Guide to Leveraging ChatGPT's My GPT Bots for Game Strategy and Artistic Output</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-achieving-clear-dialogue-in-google-hangouts/"><u>[New] Achieving Clear Dialogue in Google Hangouts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-az-capture-tool-full-app-testing-and-options-guide/"><u>[New] In 2024, AZ Capture Tool Full App Testing & Options Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-sync-your-speech-with-visuals-the-art-of-ppt-voiceovers-for-2024/"><u>[New] Sync Your Speech with Visuals The Art of PPT Voiceovers for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-screen-recording-faceoff-bandicam-versus-camtasiaenas/"><u>[New] The Screen Recording Faceoff Bandicam Versus Camtasia'enas</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-top-mac-visual-seize-methods-reviewed-limit-156-chars-for-2024/"><u>[New] Top Mac Visual Seize Methods Reviewed (Limit 156 Chars) for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-accessing-google-meet-via-device-for-2024/"><u>[Updated] Accessing Google Meet via Device for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-crafted-collections-of-ig-pics/"><u>[Updated] In 2024, Crafted Collections of IG Pics</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-how-to-record-television-shows-on-pc-free-software-insights/"><u>[Updated] In 2024, How to Record Television Shows on PC Free Software Insights</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-jokester-jukebox-selecting-sources-for-funny-ringtones/"><u>[Updated] In 2024, Jokester Jukebox Selecting Sources for Funny Ringtones</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-wintv-guide-effective-techniques-in-windows-based-live-recording/"><u>[Updated] In 2024, WinTV Guide Effective Techniques in Windows-Based Live Recording</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unshackled-earning-on-youtube-pioneering-a-non-ad-profit-pathway/"><u>[Updated] Unshackled Earning on YouTube Pioneering a Non-Ad Profit Pathway</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamless-media-switching-your-ultimate-guide-for-srt-conversion/"><u>2024 Approved Seamless Media Switching Your Ultimate Guide for SRT Conversion</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-unveiling-the-finest-free-online-recorders-top-picks/"><u>2024 Approved Unveiling the Finest Free Online Recorders – Top Picks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-argumentation-skills-with-gpt-assisted-proposals/"><u>Elevate Your Argumentation Skills with GPT-Assisted Proposals</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mise-a-jour-audiovideo-convertissez-un-fichier-m4b-en-m4v-sans-frais-via-lhebergeur-de-videos-en-ligne-movavi/"><u>Mise À Jour Audio/Vidéo : Convertissez Un Fichier M4B en M4V Sans Frais via L'hébergeur De Vidéos en Ligne, Movavi!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-improvements-in-googles-bard-ai-with-the-power-of-palm-2/"><u>Top 7 Improvements in Google's Bard AI with the Power of PaLM 2</u></a></li>
 </ul></div>
 

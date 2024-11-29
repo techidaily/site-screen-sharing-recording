@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Steam's Switch Pro Controllers for 2024"
-date: 2024-11-14T17:30:31.736Z
-updated: 2024-11-20T19:06:27.841Z
+date: 2024-11-24T16:56:43.627Z
+updated: 2024-11-28T21:54:37.976Z
 tags: 
   - screen-recording
   - ai video
@@ -60,7 +60,7 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Wirelessly connect your Switch Pro controller to your PC**
@@ -71,6 +71,10 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-syncing-button](https://images.wondershare.com/filmora/article-images/switch-pro-controller-syncing-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Right-click the Bluetooth icon in the system tray.
 
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
@@ -78,10 +82,6 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 * To add a Bluetooth device, click "Add Bluetooth Device."
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
@@ -95,7 +95,7 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 ![switch-pro-controller-steam-set-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The Best Way to make sure your Pro Controller works properly with your PC game is to use Steam's Big Picture mode, which uses a comfortable lean-back system to allow you to navigate.
@@ -112,10 +112,6 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **What To Do With Non-Steam Games?**
 
 Using the methods discussed above, you can easily use a switch pro controller with your pc, but it only works with steam games. But what if you want to play a non-steam game using a switch pro controller? What will you do now? The switch pro controller hardware support will run out of luck in this scenario.
@@ -127,7 +123,7 @@ The main problem here now is how windows will detect your switch pro controller 
 **Solution2:** The second method is to use a software-based XInput Wrapper. There is plenty of software out there that provides this functionality. Just configure your switch pro controller with them, and you can easily use it on non-steam games.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Final Verdict**
@@ -135,6 +131,10 @@ The main problem here now is how windows will detect your switch pro controller 
 This is how you can use your switch pro controller with your PC. Now you can easily enjoy your favorite games on one of the finest controllers available in the market today. All you need to do is, follow some simple steps mentioned in this article, and you are good to go. You can connect it both with wire and wirelessly. It is comparatively easy to connect it through the wire, and the performance of the controller is also slightly better when it is connected through a wire.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -152,17 +152,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-the-complete-guide-for-setting-up-and-managing-regular-meetings-on-google/"><u>[New] 2024 Approved The Complete Guide for Setting Up and Managing Regular Meetings on Google</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-essential-ps2-emulators-for-ios-devices/"><u>[New] In 2024, Essential PS2 Emulators for IOS Devices</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/nowy-serenity-top-pick-winter-backgrounds-for-videos/"><u>[New] Snowy Serenity Top Pick Winter Backgrounds for Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-10-tips-and-tricks-to-better-use-pixlr-editor/"><u>[Updated] 10 Tips and Tricks to Better Use Pixlr Editor</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-from-silence-to-symphony-transforming-facebook-videos-with-melodies/"><u>[Updated] 2024 Approved From Silence to Symphony Transforming Facebook Videos with Melodies</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-secrets-of-saving-screenshots-tips-and-tricks-for-dell-users/"><u>[Updated] Secrets of Saving Screenshots Tips & Tricks for Dell Users</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/windows-10-64/"><u>「完全無料のバックアップツール: Windows 10 64ビット専用保護手段」</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-enhance-igtv-posts-with-best-video-edit-apps/"><u>2024 Approved Enhance IGTV Posts with Best Video Edit Apps</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/comprerante-snapchat-content-tips-for-mobile-recording-success-for-2024/"><u>Comprerante Snapchat Content Tips for Mobile Recording Success for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-elite-escapade-experiences-the-finest-action-adventure-gems/"><u>In 2024, Elite Escapade Experiences The Finest Action-Adventure Gems</u></a></li>
-<li><a href="https://fox-within.techidaily.com/ohne-risiko-loseoftestet-kartenschnappern-ruckspielen-fur-ihre-microsd-entdecke-myrecover/"><u>Ohne Risiko! Loseoftestet Kartenschnappern Rückspielen Für Ihre microSD - Entdecke MyRecover</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/transforming-facebook-streams-into-flawless-records/"><u>Transforming Facebook Streams Into Flawless Records</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-mastering-large-video-transfer-ios-to-macos-device-harmony/"><u>[New] 2024 Approved Mastering Large Video Transfer IOS to macOS Device Harmony</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-ideal-steps-for-silent-screen-imaging/"><u>[New] Ideal Steps for Silent Screen Imaging</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-innovative-methods-to-archive-lol-dueling/"><u>[New] Innovative Methods to Archive LOL Dueling</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-video-capturing-warriors-choosing-between-obs-and-fraps/"><u>[New] Video Capturing Warriors Choosing Between OBS and Fraps</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-unique-vlogging-conversation-pieces/"><u>[Updated] 2024 Approved Unique Vlogging Conversation Pieces</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-comparing-vsdc-to-best-screen-recording-software-for-2024/"><u>[Updated] Comparing VSDC to Best Screen Recording Software for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-dive-deep-10-immersive-youtube-videos-for-vr-enthusiasts/"><u>[Updated] In 2024, Dive Deep 10 Immersive YouTube Videos for VR Enthusiasts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-elevate-your-videogame-experience-record-on-steam/"><u>[Updated] In 2024, Elevate Your Videogame Experience - Record on Steam</u></a></li>
+<li><a href="https://article-posts.techidaily.com/chromatic-mastery-bridging-theory-and-art/"><u>Chromatic Mastery Bridging Theory and Art</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-ultimate-companion-high-refresh-rate-panels/"><u>Gamers’ Ultimate Companion: High-Refresh Rate Panels</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-hearnow-podcast-and-speaker-assessment/"><u>In 2024, HearNow Podcast and Speaker Assessment</u></a></li>
+<li><a href="https://extra-information.techidaily.com/prime-oculus-rift-games-captivating-players-worldwide/"><u>Prime Oculus Rift Games Captivating Players Worldwide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/step-by-step-record-hulu-everywhere-windowsmaciosandroid/"><u>Step-by-Step Record Hulu Everywhere - Windows/Mac/iOS/Android</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/tailor-your-tweets-exceptional-video-to-twitch-tools/"><u>Tailor Your Tweets Exceptional Video to Twitch Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/unveiling-the-best-ways-to-watch-360-videos-on-android/"><u>Unveiling the Best Ways to Watch 360 Videos on Android</u></a></li>
 </ul></div>
 

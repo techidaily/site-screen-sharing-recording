@@ -1,7 +1,7 @@
 ---
 title: Fix Terraria's Frequent Crashes with These Expert Tips for Gamers !
-date: 2024-11-09T17:25:41.740Z
-updated: 2024-11-11T06:05:21.853Z
+date: 2024-11-22T22:09:08.860Z
+updated: 2024-11-28T18:06:08.192Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/1035ac8eac3d2f1f9dced1bbfa4000b8f38c0eebf
 **_Terraria_** keeps crashing on startup, or it constantly closes to the desktop in the middle of the game? You’re not alone. Many players are reporting it.
 
  But don’t worry. Here is a general guide for resolving_Terraria_ crashing issues. You may not have to try them all; just work your way down the list until you find the one that works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -57,23 +61,9 @@ If this didn’t help in resolving your problem, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)**  Relaunch Steam and_Terraria_ to test your issue.
 
@@ -95,15 +85,16 @@ If this didn’t help in resolving your problem, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-201.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -114,6 +105,10 @@ If this didn’t help in resolving your problem, try the fix below.
 **4)** Relaunch your game to test your issue.
 
  If_Terraria_ still crashes, then go ahead with the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Verify the integrity of your game files
 
@@ -133,23 +128,9 @@ _Terraria_ may crash when one or more certain game file is damaged or missing. T
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-252.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Relaunch your game to see if your problem has been resolved.
 
 If not, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Run your game in compatibility mode
 
@@ -160,10 +141,7 @@ If not, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-253.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
@@ -173,13 +151,6 @@ If not, try the next fix.
 **3)**  Click the list box below to select **Windows 8** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-255.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)**  Relaunch your game to check if your issue had been resolved.
 
@@ -204,9 +175,17 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-250.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Click**DELETE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-257.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Download and install _Terraria_  again.
 
@@ -230,13 +209,6 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
@@ -244,6 +216,10 @@ If this didn’t work for you, check the fix, below.
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
@@ -257,9 +233,17 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **11)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **12)**  Relaunch Steam and your game.
 
@@ -286,22 +270,20 @@ If this didn’t work for you, check the fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-gecata-watchers-complete-appraisal/"><u>[New] 2024 Approved GECATA Watcher's Complete Appraisal</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-from-phone-to-professional-recording-diy-tips-and-tricks/"><u>[New] From Phone to Professional Recording DIY Tips and Tricks</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-step-by-step-approach-to-saving-instagram-stories/"><u>[New] In 2024, Step-by-Step Approach to Saving Instagram Stories</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-learn-the-ultimate-snap-sharing-trick-today-for-2024/"><u>[New] Learn the Ultimate Snap Sharing Trick Today for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-screen-recorder-essentials-top-10-tools-compared-for-2024/"><u>[New] Screen Recorder Essentials Top 10 Tools Compared for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-the-ultimate-business-strategy-game-guide-mobilepc-for-2024/"><u>[New] The Ultimate Business Strategy Game Guide (Mobile/PC) for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-top-20-budget-friendly-screen-recorder-tools/"><u>[New] Top 20 Budget-Friendly Screen Recorder Tools</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solved-fortnite-black-screen-on-windows/"><u>[SOLVED] Fortnite Black Screen on Windows</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-lose-yourself-to-laughter-best-10-jokes/"><u>[Updated] 2024 Approved Lose Yourself to Laughter Best 10 Jokes</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-tips-and-tricks-recording-conversations-on-whatsapp/"><u>[Updated] Tips and Tricks Recording Conversations on WhatsApp</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-advanced-techniques-in-developing-compelling-customer-success-narratives/"><u>2024 Approved Advanced Techniques in Developing Compelling Customer Success Narratives</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-audiovisual-rhythm-optimal-dj-content-for-gatherings/"><u>2024 Approved Audiovisual Rhythm Optimal DJ Content for Gatherings</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/gain-a-competitive-edge-optimize-your-site-using-the-cookiebot-platform/"><u>Gain a Competitive Edge: Optimize Your Site Using the Cookiebot Platform</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-to-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>How to Mirror PC to Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/ultimate-guide-to-the-leading-9-video-call-and-collaboration-tools-android-ios-for-2024/"><u>Ultimate Guide to the Leading 9 Video Call & Collaboration Tools (Android, iOS) for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/unlock-your-viewing-pleasure-with-budget-friendly-recording-tools/"><u>Unlock Your Viewing Pleasure with Budget-Friendly Recording Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-learn-the-art-of-skype-voice-recording-in-mp3-free-for-2024/"><u>[New] Learn the Art of Skype Voice Recording in MP3 (Free) for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-the-landscape-post-vlc-dominance/"><u>[New] Navigating the Landscape Post-VLC Dominance</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-a-comprehensive-guide-to-capturing-your-hp-pcs-display/"><u>[Updated] In 2024, A Comprehensive Guide to Capturing Your HP PC's Display</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-secure-and-share-your-live-sounds-5-proven-online-approaches-for-2024/"><u>[Updated] Secure & Share Your Live Sounds - 5 Proven Online Approaches for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-superior-free-reproduction-tools-for-switch-games/"><u>[Updated] Superior Free Reproduction Tools for Switch Games</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-unbeatable-youtube-video-titling-assistant-for-2024/"><u>[Updated] Unbeatable YouTube Video Titling Assistant for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-techcapture-pro-a-comprehensive-2023-study/"><u>2024 Approved TechCapture Pro A Comprehensive 2023 Study</u></a></li>
+<li><a href="https://driver-download.techidaily.com/canoscan-lide-220-software-update-and-free-downloads-for-users/"><u>CanoScan LiDE 220 Software Update and Free Downloads for Users</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/high-definition-recording-mastering-live-footage-using-logitech-cam-for-2024/"><u>High Definition Recording Mastering Live Footage Using Logitech Cam for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-official-nvidia-drivers-on-your-pc-supported-for-win-7810-download-now/"><u>Install Official Nvidia Drivers on Your PC – Supported for Win 7/8/10 Download Now</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/make-screenshots-and-recordings-on-imac-simple-for-2024/"><u>Make Screenshots & Recordings on iMac Simple for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-palworld-session-search-issues-a-comprehensive-guide/"><u>Solving Palworld Session Search Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/visual-comedy-make-and-share-via-kapwing/"><u>Visual Comedy Make and Share via Kapwing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/zenith-of-joys-our-top-10-relaxing-games/"><u>Zenith of Joys Our Top 10 Relaxing Games</u></a></li>
 </ul></div>
 

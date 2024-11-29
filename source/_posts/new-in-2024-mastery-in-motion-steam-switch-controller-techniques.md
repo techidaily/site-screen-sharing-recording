@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Mastery in Motion  Steam Switch Controller Techniques\""
-date: 2024-08-10T07:23:54.685Z
-updated: 2024-08-11T07:23:54.685Z
+date: 2024-11-24T01:37:23.492Z
+updated: 2024-11-28T21:33:13.164Z
 tags: 
   - screen-recording
   - ai video
@@ -42,6 +42,10 @@ This article will tell you how to enable your Nintendo Switch Pro controller to 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Wired Connection for Switch Pro Controllers**
 
 Windows describe it as a DirectInput controller instead of an XInput controller, so getting it to work with PC games can prove tedious. However, thanks to Value-adding full Switch controller support to Steam, you will probably be able to play most of your favorite games.
@@ -51,6 +55,10 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 **Step2:** Connect the other end of the cable to your PC.
 
 ![switch-pro-controller-connected-with-cable](https://images.wondershare.com/filmora/article-images/switch-pro-controller-connected-with-cable.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
 
@@ -68,27 +76,22 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 * To add a Bluetooth device, click "Add Bluetooth Device."
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
 
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![switch-pro-controller-setting-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-setting-up.png)
 
 * Once Steam is set up, you can begin using it.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
 ![switch-pro-controller-steam-set-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Best Way to make sure your Pro Controller works properly with your PC game is to use Steam's Big Picture mode, which uses a comfortable lean-back system to allow you to navigate.
 
@@ -100,16 +103,14 @@ You should use the gamepad to navigate Big Picture if you have the Pro Controlle
 
 When configured through Steam, you should use the Pro Controller with any Steam game similar to an Xbox gamepad. Vibration can be enabled or disabled by selecting a controller from the "Detected Controllers" list in the same setup screen as before. It is possible to calibrate the analog sticks by clicking the Calibrate button manually. Also, the controller can be set to disconnect after a specified amount of time before going to sleep.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## **What To Do With Non-Steam Games?**
 
 Using the methods discussed above, you can easily use a switch pro controller with your pc, but it only works with steam games. But what if you want to play a non-steam game using a switch pro controller? What will you do now? The switch pro controller hardware support will run out of luck in this scenario.
@@ -120,17 +121,15 @@ The main problem here now is how windows will detect your switch pro controller 
 
 **Solution2:** The second method is to use a software-based XInput Wrapper. There is plenty of software out there that provides this functionality. Just configure your switch pro controller with them, and you can easily use it on non-steam games.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Final Verdict**
 
 This is how you can use your switch pro controller with your PC. Now you can easily enjoy your favorite games on one of the finest controllers available in the market today. All you need to do is, follow some simple steps mentioned in this article, and you are good to go. You can connect it both with wire and wirelessly. It is comparatively easy to connect it through the wire, and the performance of the controller is also slightly better when it is connected through a wire.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -138,11 +137,33 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-end-live-recording-mode-immediately-in-qt-app/"><u>[New] 2024 Approved End Live Recording Mode Immediately in QT App</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-mastering-desktop-and-mobile-incorporate-timestamps-on-youtube/"><u>[New] Mastering Desktop & Mobile Incorporate Timestamps on YouTube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-pixel-power-redesigned-radeon/"><u>[New] Pixel Power Redesigned Radeon</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/op-10-volume-surge-controllers-for-windowsmacos-for-2024/"><u>[New] Top 10 Volume Surge Controllers for Windows/MacOS for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-4k-uxga-reality-check-detailed-review-of-asus-mg28uq/"><u>[Updated] 4K UXGA Reality Check - Detailed Review of ASUS MG28UQ</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-explore-the-best-in-class-android-apps-to-revive-ps2-games-for-2024/"><u>[Updated] Explore the Best-in-Class Android Apps to Revive PS2 Games for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-how-to-shoot-slow-motion-video-on-iphone/"><u>[Updated] How to Shoot Slow Motion Video on iPhone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-savvy-obs-arrangement-for-economical-pcs/"><u>[Updated] In 2024, Savvy OBS Arrangement for Economical PCs</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-the-complete-roadmap-to-online-tiktok-streaming-from-desktop/"><u>[Updated] In 2024, The Complete Roadmap to Online TikTok Streaming From Desktop</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/best-free-apple-iphone-13-pro-max-imei-checker-by-drfone-ios/"><u>Best Free Apple iPhone 13 Pro Max IMEI Checker</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210812834-9781761038556-cristaloterapia/"><u>Cristaloterapia | Free Book</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/framefinder-top-picks-for-screen-capturing/"><u>FrameFinder Top Picks for Screen Capturing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/image-play-with-altering-tools-for-2024/"><u>Image Play with Altering Tools for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-superior-picks-top-9-chat-and-call-apps-for-smartphones-iosandroid/"><u>In 2024, Superior Picks Top 9 Chat & Call Apps for Smartphones iOS/Android</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/premiere-list-of-ios-ps2-emulation-tools-for-2024/"><u>Premiere List of iOS PS2 Emulation Tools for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-itel-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/spotlight-a-podcast-on-your-instagram-feed/"><u>Spotlight a Podcast on Your Instagram Feed</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-pioneers-guide-to-documenting-private-whatsapp-discussions-for-2024/"><u>The Pioneer's Guide to Documenting Private WhatsApp Discussions for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-top-5-techniques-for-quiet-filming-experiences-for-2024/"><u>The Top 5 Techniques for Quiet Filming Experiences for 2024</u></a></li>
+</ul></div>
+

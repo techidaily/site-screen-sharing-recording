@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Personalize the Save Spot of Mac Images\""
-date: 2024-08-10T07:27:24.768Z
-updated: 2024-08-11T07:27:24.768Z
+date: 2024-11-23T23:07:10.880Z
+updated: 2024-11-29T00:36:04.152Z
 tags: 
   - screen-recording
   - ai video
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 
 # How to Change the Destination Where Screenshots are Saved on your Mac
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -32,14 +29,12 @@ Whenever you take a screenshot on a Mac computer, a file is saved to the desktop
 
 Here's how you can change the location where the screenshots you take using the keyboard shortcuts will be saved.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -55,19 +50,21 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
@@ -75,10 +72,11 @@ Create a new folder on the desired location on your hard drive, and then launch 
 
 Then enter a space at the end after 'location'.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
@@ -102,13 +100,15 @@ Don't forget that deleting the folder you use as a default location for storing 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -116,3 +116,21 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-budget-computer-mastering-obs-configurations/"><u>[New] 2024 Approved Budget Computer - Mastering OBS Configurations</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-comprehensive-guide-to-minecraft-live-streaming/"><u>[New] 2024 Approved Comprehensive Guide to Minecraft Live Streaming</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-expressive-leadership-examination-refined-no-8/"><u>[Updated] 2024 Approved Expressive Leadership Examination - Refined No. 8</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-premier-emulator-titles-simulating-playstation-2-on-ios/"><u>[Updated] 2024 Approved Premier Emulator Titles Simulating PlayStation 2 on iOS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-choosing-a-professional-video-editor-filmora-against-democreator/"><u>[Updated] In 2024, Choosing a Professional Video Editor Filmora Against Democreator</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-top-tools-for-capturing-call-of-duty-warzone/"><u>[Updated] In 2024, Top Tools for Capturing Call of Duty Warzone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-hidden-paths-to-pristine-stock-photography/"><u>2024 Approved The Hidden Paths to Pristine Stock Photography</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722996907191-common-reasons-for-dauntless-crashes-on-windows-fix-them-now/"><u>Common Reasons for Dauntless Crashes on Windows - Fix Them Now</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-ai-exposing-fact-from-fiction-in-top-9-advanced-chatbot-technologies/"><u>Demystifying AI: Exposing Fact From Fiction in Top 9 Advanced Chatbot Technologies</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-tips-for-compelling-screenplay-narration/"><u>Essential Tips for Compelling Screenplay Narration</u></a></li>
+<li><a href="https://article-files.techidaily.com/guffaw-guild-robotic-raiders/"><u>Guffaw Guild Robotic Raiders</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/step-into-a-world-of-eye-catching-imagery-at-pexels/"><u>Step Into a World of Eye-Catching Imagery at Pexels</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-resolving-iphones-persistent-headphones-trouble/"><u>Ultimate Guide: Resolving iPhone's Persistent Headphones Trouble</u></a></li>
+</ul></div>
+

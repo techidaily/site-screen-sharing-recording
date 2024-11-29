@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Apex Legends Mastery  Exploring Single Platform Potential\""
-date: 2024-08-10T07:25:38.898Z
-updated: 2024-08-11T07:25:38.898Z
+date: 2024-11-26T18:42:55.582Z
+updated: 2024-11-28T23:44:16.061Z
 tags: 
   - screen-recording
   - ai video
@@ -49,9 +49,6 @@ There is a ring around the battleground that shrinks after fixed short intervals
 
 One thing that you must keep in mind while playing this game is that killing an opponent is a bit longer than other FPS (First Person Shooting) games. To kill an opponent, you may need to rely on several headshots, your legends' unique ability, and the support of your teammates.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Although this game is free of cost, it offers several in-game purchases. You can purchase Apex Coins, which is an in-game currency. ![](https://images.wondershare.com/filmora/article-images/Apex-ingame-purchase.jpg)
 
 You can use it to purchase loot boxes that contain skins and costumes. There are two locked characters in the game also, and you need to purchase them with Apex coins. So, you can get the maximum out of this game by spending some money and giving time to this game.
@@ -68,14 +65,8 @@ Firstly, crossplay is enabled by default. Assume now you're playing apex on PS4/
 
 Step1, to disable it, you need to go to the setting button at the lobby's right bottom, as shown below.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ape-setting1](https://images.wondershare.com/filmora/article-images/apex-setting1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 Step 2, under the gameplay tab, scroll down, and you can find cross-platform play.![apex-setting2](https://images.wondershare.com/filmora/article-images/apex-setting2.png)
 
 #### **Does it have cross-progression?**
@@ -96,23 +87,14 @@ If you want to get Apex's best experience on Xbox consoles, you should play it o
 
 **Xbox Series X and S**
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/xbox-seriesx.jpg)Xbox series S and X are the latest generations of Xbox. They rival their competitor PS5 and offer competitive performance when you compare these consoles with a PS5\. They do offer better gaming performance and better graphics. But, the question is, Can you play Apex on the latest generations of Xbox? The answer is yes. You will get better performance in terms of graphics and FPS but currently, the game isn't fully optimized for the latest generations. In the coming days it is expected that the game will be optimized for the latest consoles and you can enjoy the game to the fullest. Currently, you can enjoy 1440p gaming on these consoles and can get up to 120fps.
 
 **Sony PlayStation 4**
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/Apex-ps4.png)You can also play Apex Legends on Sony PlayStation 4\. Although you can play it on the standard PS4, if you want to get the best gaming experience, then you should play it on PS4 Pro. On PS4, you need to have a PlayStation Plus subscription if you want to play online multiplayer games, but in the case of Apex Legends, you do not need it.
 
 **Sony PlayStation 5**
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ps5-poster](https://images.wondershare.com/filmora/article-images/ps5-poster.png)
 
 Sony PlayStation 5 is a next-generation console, and luckily Apex Legends is already playable on it. PS5 offers improved performance and better graphics as compared to its previous versions. If you were previously playing on PS4 and just switched to PS5, you can also retain all your progress and skins on PS5 also. You can use the same EA account and start enjoying Apex Legends on 1440p screen resolution.
@@ -134,9 +116,6 @@ PC Requirements For Apex Legends:
 
 **Nintendo Switch**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ![](https://images.wondershare.com/filmora/article-images/Apex-switch.png)
 
 On March 9, 2021, EA released a version of this game for Nintendo switch. Currently, it is playable on the switch, and you can only match up with switch players, but soon it will be available to play with cross-platform support. It is a big achievement for EA to make this game playable on a small screen.
@@ -165,11 +144,35 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-capture-the-moment-idevice-screenshots-and-playback-for-2024/"><u>[New] Capture the Moment IDevice Screenshots & Playback for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-discover-retro-your-path-to-facebook-archives/"><u>[New] In 2024, Discover Retro Your Path to Facebook Archives</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-bare-walls-to-full-screens-10-fixes-for-no-video-views/"><u>[New] In 2024, From Bare Walls to Full Screens 10 Fixes for No Video Views</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-masterful-zoom-sound-adjustment-guide-clearer-cleaner-sounds/"><u>[New] Masterful Zoom Sound Adjustment Guide Clearer, Cleaner Sounds</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-igtv-a-comprehensive-guide-for-beginners/"><u>[New] Mastering IGTV A Comprehensive Guide for Beginners</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-premium-mac-image-transformer/"><u>[New] Premium Mac Image Transformer</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-synchronizing-creatives-videos-to-amplify-your-presence/"><u>[New] Synchronizing Creatives Videos to Amplify Your Presence</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-audiocapture-studio-download-test-and-discussion/"><u>[Updated] In 2024, AudioCapture Studio Download, Test & Discussion</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-10-expert-choices-for-terraria/"><u>[Updated] In 2024, Top 10 Expert Choices for Terraria</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-youcamessentials-webcamrecorderbasics/"><u>[Updated] YouCamEssentials WebCamRecorderBasics</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/2024s-leading-cloud-gaming-solutions-for-optimal-gameplay-experience/"><u>2024'S Leading Cloud Gaming Solutions for Optimal Gameplay Experience</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/how-to-take-screenshots-on-xbox-one-for-2024/"><u>How to Take Screenshots on Xbox One for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-inspiring-abodes-for-minifigure-residences/"><u>In 2024, Inspiring Abodes for Minifigure Residences</u></a></li>
+<li><a href="https://fox-http.techidaily.com/inside-the-metaverse-comprehending-6-intricate-instances-for-2024/"><u>Inside the Metaverse Comprehending 6 Intricate Instances for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/prime-screen-recording-tools-for-no-ad-android-for-2024/"><u>Prime Screen Recording Tools for No-Ad Android for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/step-by-step-guide-transforming-your-sony-vaio-into-a-lightning-fast-machine-with-an-ssd-upgrade/"><u>Step-by-Step Guide: Transforming Your Sony VAIO Into a Lightning-Fast Machine with an SSD Upgrade</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/step-by-step-eliminating-pcl-xl-issues/"><u>Step-by-Step: Eliminating PCL XL Issues</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

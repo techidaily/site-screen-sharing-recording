@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps to Stop Total War: Warhammer 3 From Crashing on Your PC"
-date: 2024-11-04T21:33:48.043Z
-updated: 2024-11-10T21:48:08.087Z
+date: 2024-11-27T02:54:19.317Z
+updated: 2024-11-28T20:04:00.063Z
 tags:
   - win11
   - win10
@@ -51,10 +51,7 @@ When you’re playing the Witcher 3: Wild Hunt, you suddenly encounter the crash
 7. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Uninstall the driver
@@ -65,28 +62,8 @@ When you’re playing the Witcher 3: Wild Hunt, you suddenly encounter the crash
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/device-manager.png)
 2. Find NVIDIA driver and right-click on it. Click**Uninstall device** .  
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/uninstall-1.jpg)
 3. Relaunch the game.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Verify integrity of game files
 
@@ -98,13 +75,6 @@ When you’re playing the Witcher 3: Wild Hunt, you suddenly encounter the crash
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/verify-2.jpg)
 4. Close Steam and relaunch the Witcher 3\. You should be good to go.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Disable Vsync from the options
 
  Vsync is a display option in 3D computer games that allow the gamer to lower the frame rate and get a better stability. It is possible that the crash is caused by the Vsynec option, you can turn off Vsync setting and see if it resolves the crashing issue.
@@ -113,26 +83,21 @@ When you’re playing the Witcher 3: Wild Hunt, you suddenly encounter the crash
 2. Click**OPTIONS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option-1.jpg)
 3. Click**VIDEO** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option1.jpg)
 4. Click**GRAPHICS** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Turn off the**VSync** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/vSync.jpg)
 6. Relaunch the game and check the crash is resolved or not.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Run the game in Full Screen and low settings
 
@@ -149,9 +114,17 @@ When you’re playing the Witcher 3: Wild Hunt, you suddenly encounter the crash
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/window.jpg)
 6. Change other settings to**LOW** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Relaunch the game and check the crash is resolved or not.
 
 If this fix doesn’t help, you can move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Remove the frame rate cap
 
@@ -165,22 +138,13 @@ If this fix doesn’t help, you can move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option1.jpg)
 4. Click**GRAPHICS** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Change**Maximum Frames Per Second** into**Unlimited** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/frames.jpg)
 6. Relaunch the game and check the crash is resolved or not.
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Disable your third-party software
 
@@ -190,6 +154,10 @@ If this fix doesn’t help, you can move to the next fix.
  If there’s no crash, at least one of the software should be the reason for the crash. You can enable the third-party software one by one to find which one is the culprit.
 
 If the game is still crashing, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Update your graphics driver
 
@@ -221,6 +189,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Run the Witcher 3 and check the crash will appear or not.
 
@@ -243,22 +215,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-reviving-obs-sound-capture-steps/"><u>[New] 2024 Approved Reviving OBS Sound Capture Steps</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/mplify-your-youtubes-interaction-with-emojis-for-2024/"><u>[New] Amplify Your Youtubes' Interaction with Emojis for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-leveraging-video-technology-in-teaching-practices/"><u>[New] Leveraging Video Technology in Teaching Practices</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-maximizing-your-content-tips-for-rl-recording-and-editing-for-2024/"><u>[New] Maximizing Your Content Tips for RL Recording & Editing for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-pros-list-top-5-timelapse-software/"><u>[Updated] 2024 Approved Pro's List Top 5 Timelapse Software</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-cutting-edge-techniques-for-capturing-ps4-games-in-obs-for-2024/"><u>[Updated] Cutting-Edge Techniques for Capturing PS4 Games in OBS for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-10-premier-choices-for-no-cost-screen-recording-tools/"><u>[Updated] In 2024, 10 Premier Choices for No-Cost Screen Recording Tools</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-simplified-steps-to-successful-screenshotsrecording-on-imac/"><u>[Updated] In 2024, Simplified Steps to Successful Screenshots/Recording on iMac</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-ultimate-selection-of-6-pioneering-instagram-reel-apps-for-2024/"><u>[Updated] The Ultimate Selection of 6 Pioneering Instagram Reel Apps for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-unlocking-lenovos-full-potential-with-screen-recordings-for-2024/"><u>[Updated] Unlocking Lenovo's Full Potential with Screen Recordings for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-visual-victory-amd-radeon-evolution/"><u>[Updated] Visual Victory AMD Radeon Evolution</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/action-sequence-showdown-new-era-gopro-hero5-black-vs-old-guard-hero4-silver/"><u>Action Sequence Showdown New Era GoPro Hero5 Black Vs Old Guard Hero4 Silver</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-honor-magic5-ultimate-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-motorola-moto-g24-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Motorola Moto G24 FRP</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-yis-actioncam-the-innovation-leader-in-high-res-footage/"><u>In 2024, Yi's ActionCam The Innovation Leader in High-Res Footage</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-flip-and-spin-16-top-rated-free-avi-video-rotation-tools-you-need-to-know/"><u>New 2024 Approved Flip and Spin 16 Top-Rated Free AVI Video Rotation Tools You Need to Know</u></a></li>
-<li><a href="https://driver-error.techidaily.com/ultimate-fixes-to-get-your-qualcomm-atheros-devices-bluetooth-up-and-running-on-windows-11/"><u>Ultimate Fixes to Get Your Qualcomm Atheros Device's Bluetooth Up and Running on Windows 11</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-dslr-mastery-broadcasting-with-facebook-live-via-computer/"><u>[New] In 2024, DSLR Mastery Broadcasting with Facebook Live via Computer</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-maximizing-video-quality-in-zoom-conferences-on-win11/"><u>[New] In 2024, Maximizing Video Quality in Zoom Conferences on Win11</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-youtube-video-mastery-seizing-the-seo-opportunity/"><u>[New] In 2024, YouTube Video Mastery Seizing the SEO Opportunity</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-ultimate-guide-to-choosing-a-screen-recorder-tool-for-2024/"><u>[New] Ultimate Guide to Choosing a Screen Recorder Tool for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-master-fades-with-ease-4-methods-unveiled/"><u>[Updated] In 2024, Master Fades with Ease 4 Methods Unveiled</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-nes-switch-brawlers-the-ultimate-10-game-guide/"><u>[Updated] NES Switch Brawlers The Ultimate 10-Game Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-recording-your-mac-experience-for-free-for-2024/"><u>[Updated] Recording Your Mac Experience for FREE for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-elevating-edit-quality-the-ultimate-guide-for-obs-studios/"><u>2024 Approved Elevating Edit Quality The Ultimate Guide for OBS Studios</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/a-comprehensive-guide-to-instagrams-music-copyright-rules/"><u>A Comprehensive Guide to Instagram's Music Copyright Rules</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-facetime-made-simple-for-android-users/"><u>In 2024, FaceTime Made Simple for Android Users</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-selecting-optimal-frame-rate-30fps-vs-60fps-for-quality-recording/"><u>In 2024, Selecting Optimal Frame Rate 30Fps Vs. 60Fps for Quality Recording</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-lava-blaze-2-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Lava Blaze 2 5G Phone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-top-3g-networks-and-plans-for-gamers-on-a-budget/"><u>In 2024, Top 3G Networks & Plans for Gamers on a Budget</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/navigating-bandicam-a-must-read-guide/"><u>Navigating Bandicam - A Must-Read Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/supersonic-phenomenon-how-a-common-can-of-compressed-air-reaches-sonic-velocity/"><u>Supersonic Phenomenon: How a Common Can of Compressed Air Reaches Sonic Velocity</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tailoring-viewing-experience-with-custom-speeds-in-netflix/"><u>Tailoring Viewing Experience with Custom Speeds in Netflix</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-windows-10s-inability-to-detect-hdmi-display-connection/"><u>Troubleshooting Guide: Resolving Windows 10'S Inability to Detect HDMI Display Connection</u></a></li>
 </ul></div>
 
