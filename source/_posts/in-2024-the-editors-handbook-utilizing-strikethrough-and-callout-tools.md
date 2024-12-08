@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Editor's Handbook  Utilizing Strikethrough and Callout Tools\""
-date: 2024-11-22T02:29:27.103Z
-updated: 2024-11-28T20:55:14.876Z
+date: 2024-12-05T18:53:18.687Z
+updated: 2024-12-07T23:49:15.877Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,10 @@ Markers can be used during the video editing and after the screen recording to m
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * [Record desktop screen](https://tools.techidaily.com/wondershare/filmora/download/), voiceover, and webcam simultaneously
@@ -59,7 +63,7 @@ You can use them to mark a place in the screen recording you're not too happy wi
 ![Filmora Scrn Markers](https://images.wondershare.com/filmora/article-images/filmora-scrn-markers.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The **timeline markers**, on the other hand, can only be added to a project once you've completed the recording session, during the post-production period. You can utilize them to highlight the parts of the video clip you want to remove from the final version of your video or to mark the spots on the timeline where you'd like to switch from one take to another.
@@ -67,7 +71,7 @@ The **timeline markers**, on the other hand, can only be added to a project once
 This type of marker is immensely useful if you want to organize the timeline in your project better and to know exactly where every clip you want to use in your video is located at all times. Besides being a highly efficient tool for organizing vast amounts of footage, timeline markers can also help you denote the beats in the audio file and then sync the video clip perfectly to the beat of the tune you're using as a soundtrack to your video.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add Markers During Video Editing and After Screen Recording in Filmora?
@@ -101,25 +105,21 @@ Filmora lets you adjust your marker settings for your video. Right-click on the 
 
 ![access the modification option](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 3: Customize the Markers
 
 In the Marker Editor window, make relevant changes such as naming the marker, adding a comment in the **"Comment"** box, and changing the marker color.
 
 ![customize the markers](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **Method 2: Adding Markers through the Keyboard**
 
 After importing the clip into the timeline and identifying the points of error in your video, place the playhead on these points and press the **"M"** key on your keyboard to add a marker at the chosen timeframes.
 
 ![add maker through the keyboard](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **2\. How to Remove a Marker After Screen Recording**
 
@@ -128,7 +128,7 @@ Once you have finished editing your mistakes, it's important to remove the marke
 ![remove a marker](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -152,24 +152,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-prime-mac-gif-cutter/"><u>[New] 2024 Approved Prime Mac GIF Cutter</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-generate-10-official-travel-ready-passport-images-no-money-down-for-2024/"><u>[New] Generate 10 Official Travel-Ready Passport Images, No Money Down for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-harvest-happiness-best-agricultural-titles-to-play-with-friends/"><u>[New] Harvest Happiness Best Agricultural Titles to Play With Friends</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-how-to-choose-between-filmora-and-democreator/"><u>[New] In 2024, How to Choose Between Filmora and Democreator</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-is-luminances-hdr-suitable-for-production/"><u>[New] Is Luminance's HDR Suitable for Production?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-the-most-attractive-gaming-peripherals-for-under-100/"><u>[New] The Most Attractive Gaming Peripherals for Under $100</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-winning-ways-top-8-video-capture-applications-for-windows-for-2024/"><u>[New] Winning Ways Top 8 Video Capture Applications for Windows for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-choosing-the-right-fps-30-or-60-which-is-better-for-2024/"><u>[Updated] Choosing the Right FPS 30 or 60, Which Is Better for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-capturing-the-thrill-pro-gamers-guide-to-recordings/"><u>[Updated] In 2024, Capturing the Thrill Pro Gamer's Guide to Recordings</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-profit-potential-unveiled-making-money-via-youtube/"><u>[Updated] Profit Potential Unveiled Making Money via YouTube</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-samsung-galaxy-f14-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Samsung Galaxy F14 5G Activity | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-unleash-the-potential-of-your-webcam-for-slideshows/"><u>2024 Approved Unleash the Potential of Your Webcam for Slideshows</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-infinix-hot-30-5g-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Infinix Hot 30 5G</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-intel-ethernet-drivers-for-windows-versions-11-10-and-7-free-download/"><u>Get Your Intel Ethernet Drivers for Windows Versions: 11, 10, and 7 - Free Download</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-vivo-y27-4g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Vivo Y27 4G Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-how-to-harness-the-power-of-obs-on-android-gadgets/"><u>In 2024, How to Harness the Power of OBS on Android Gadgets</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/tricks-of-trade-remote-recording-mastery/"><u>Tricks of Trade Remote Recording Mastery</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/ultimate-selection-best-video-calling-tools-phonepc-for-2024/"><u>Ultimate Selection Best Video Calling Tools Phone/PC for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ai-mp4-movavi/"><u>ムリョウランオンライン AI MP4変換ツール - Movavi</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-best-green-screen-recorders-how-to-use-them-for-2024/"><u>[New] Best Green Screen Recorders How to Use Them for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-enabling-hearing-in-twitter-video-links/"><u>[New] Enabling Hearing in Twitter Video Links</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-time-lapse-video-techniques-for-ipad-users/"><u>[New] Time-Lapse Video Techniques for iPad Users</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-adding-joy-to-snaps-the-guide-to-cartoon-filters-for-2024/"><u>[Updated] Adding Joy to Snaps The Guide to Cartoon Filters for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-cutting-edge-techniques-recording-in-adobe-presenter-for-2024/"><u>[Updated] Cutting Edge Techniques Recording in Adobe Presenter for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-essential-blueprint-for-scheduling-success-with-slack-plus-filmora/"><u>[Updated] The Essential Blueprint for Scheduling Success with Slack + Filmora</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/capture-the-action-5-ways-to-record-windows-10-games/"><u>Capture the Action 5 Ways to Record Windows 10 Games</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/fixing-dropped-frames-a-complete-guide-for-obs-studio-users/"><u>Fixing Dropped Frames A Complete Guide for OBS Studio Users</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/o-buy-1-million-youtube-views-safely-from-trusted-providers/"><u>How to Buy 1 Million YouTube Views Safely From Trusted Providers</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-oppo-reno-10-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Oppo Reno 10 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-skype-recording-techniques-for-pc-mac-users/"><u>In 2024, Skype Recording Techniques for PC, Mac Users</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-spoken-word-unveiled-enhancing-expressiveness-on-slides/"><u>In 2024, The Spoken Word Unveiled Enhancing Expressiveness on Slides</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-cost-effective-alcatel-joy-tab-2-with-lte-connectivity/"><u>In-Depth Analysis of the Cost-Effective Alcatel Joy Tab 2 with LTE Connectivity</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/recording-google-voice-a-comprehensive-tutorial/"><u>Recording Google Voice A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/stealth-mode-abscond-with-taskview-icon/"><u>Stealth Mode: Abscond with TaskView Icon</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-diverse-template-online-for-2024/"><u>Updated Diverse Template | Online for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/what-are-facebooks-neighborhood-based-spaces-for-collaboration/"><u>What Are Facebook's Neighborhood-Based Spaces for Collaboration?</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/wiederherstellung-geloschter-bilder-von-einer-speicherkarte-anleitung-ohne-spezielle-software/"><u>Wiederherstellung Gelöschter Bilder Von Einer Speicherkarte - Anleitung Ohne Spezielle Software</u></a></li>
 </ul></div>
 
