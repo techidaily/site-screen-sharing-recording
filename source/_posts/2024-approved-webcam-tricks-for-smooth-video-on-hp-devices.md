@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Webcam Tricks for Smooth Video on HP Devices\""
-date: 2024-08-16T21:08:36.727Z
-updated: 2024-08-17T21:08:36.727Z
+date: 2024-12-09T04:45:50.537Z
+updated: 2024-12-13T16:10:01.763Z
 tags: 
   - screen-recording
   - ai video
@@ -46,10 +46,15 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use the HP Laptop Webcam to Record Video?
 
@@ -67,140 +72,6 @@ Adjust the webcam settings by selecting **Settings** on the right-hand side of t
 
 You can also use the **Advanced Settings** tab to make further adjustments. After you have made all your adjustments, click **OK** to save your settings.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![hp-webcam-recorder-settings.jpg](https://images.wondershare.com/filmora/article-images/hp-webcam-recorder-settings.jpg)
-
-#### 3. Record Webcam Videos
-
-HP’s MediaSmart webcam is easy to use. Click **Capture** to record a video and once you are finished click **Stop.** Audio will be automatically recorded if you set up capture with audio in **Advanced Settings**.
-
-Using the **Zoom Function Settings,** you can use **Face Tracking** to automatically track your face. Or, you can either **Disable Zoom** or use **Manual Zoom** to zoom in as you like.
-
-Click **OK** to save the adjustments and continue.
-
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![hp-webcam-recorder-zoom.jpg](https://images.wondershare.com/filmora/article-images/hp-webcam-recorder-zoom.jpg)
-
-#### 4.Add Effects and Filters
-
-There are also a series of special effect tools you can use to make your video recordings more fun. You can add frames and filters to the recorded webcam video or draw on the video. The MediaSmart webcam also provides avatars, emotions and distortion effects which are very popular for making creative videos. If you want to remove an effect from your recorded video, use the **Erase** function at the top of the window.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
-![hp-webcam-recorder-filters.jpg](https://images.wondershare.com/filmora/article-images/hp-webcam-recorder-filters.jpg)
-
-That’s it! Now, you can try the MediaSmart webcam recording software on your HP laptop to record your own webcam videos.
-
----
-
-The recording features in the HP MediaSmart webcam is limited, if you are want to record your desktop screen and the webcam at the same time with more advanced features like adding Markers during recording and editing the recorded video, we recommend you to try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## How to Record Video on HP Chromebooks?
-
-[Chromebook](https://tools.techidaily.com/wondershare/filmora/download/) have become increasingly popular over recent years. Google’s low-cost laptops have even come to dominate the education market in the US. Unfortunately, Chromebooks do not come with a pre-installed application for recording or streaming video. If you are using an HP Chromebook and want to record video you must visit the [Chrome Web Store](https://chrome.google.com/webstore/unsupported) and download a screen recording app. Now, here are a lot of potential apps to choose from. However, we recommend using [Screencast-O-Matic](https://screencast-o-matic.com/screen%5Frecorder).
-
-Screencast-O-Matic is the ideal combination of ease-of-use and powerful editing tools. You can make an unlimited number of recordings for no charge. Videos can also be published to YouTube or uploaded to Google Drive directly from the recorder.
-
-The following is a breakdown of how to record video on HP Chromebooks using Screencast-O-Matic:
-
-#### 1. Launch Screencast-O-Matic
-
-Download the app in the Chrome Web Store and then launch the application by double-clicking on the Screen-O-Matic icon. Getting started is easy, just click the **Start Recording** button to go to the screen recorder page.
-
-#### 2. Adjust Settings
-
-When the recorder opens there will be a black and white frame with a prominent taskbar. Using the options at the top of the taskbar you can choose to record your screen, webcam or both your screen and webcam. You can click the **Size** button to choose from standard HD sizes. Or, you can drag and resize the frame manually to create custom sizes.
-
-By default, the recorder will use your laptop’s built-in microphone. Click the **Narration** button to change your default microphone options.
-
-#### 3.Record Webcam Videos
-
-When you are ready, click the red **Record** button to record all the action within the frame. You can then pause, resume and preview the recording using the options below the frame. To finish the recording click the **Done** button.
-
-After you have clicked the **Done** button, a new window will appear. Here you can choose to either save the recording as a video file or upload it to Screencast-O-Matic.com or YouTube.
-
-Screencast-O-Matic have [a selection of other tutorials which can be accessed here](http://help.screencast-o-matic.com/). For $1.50 a month you can also upgrade to their Pro Recorder. With the Pro Recorder, you unlock unlimited recording time per video, enhanced editing capabilities, specialised mouse tracking and further uploading options, including Vimeo and Dropbox.
-
-To recap, if you are running an HP laptop on Windows 7, you will need to download the latest MediaSmart software to record videos for better experience. If you have an HP Chromebook, you will need to download a screen recording app from the Chrome Web Store.
-
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
-Most of us now take webcams for granted. Yet, webcams are fantastic tools that have quickly become essential components in our digital lives. They serve several purposes, from taking still images to sending or recording live videos. Most HP laptops have built-in webcams. However, a lot of people have difficulties accessing their webcams. Furthermore, if you are running on Windows 7, or using an HP Chromebook, there is no built-in webcam recording software.
-
-In this article, we will help you navigate these issues and learn how to record video on HP laptops running on Windows 7 and Chromebooks.
-
-![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### The All-in-One Screen Recorder & Video Editor
-
-* Record desktop screen, voiceover, and webcam simultaneously
-* Edit recorded clips quickly with a wide range of professional tools
-* Built-in plentiful templates and effects
-* Export to MP4, MOV, MKV, GIF and multiple formats
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
-
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## How to Use the HP Laptop Webcam to Record Video?
-
-To use the webcam built-in HP laptop, you need to make sure that you have the HP MediaSmart Software installed as well as the latest webcam driver.
-
-The MediaSmart software is pre-installed on most HP laptops. But we recommend you download and [install the most up-to-date version of the MediaSmart Software and the driver here](https://support.hp.com/gb-en/drivers) using your laptop’s model number which can be found on the product sticker at the bottom of your laptop. Remember to reboot the computer after installing the latest driver.
-
-#### 1. Enable HP MediaSmart Webcam Feature
-
-Launch the MediaSmart software webcam feature by double-clicking on the MediaSmart icon. Then select the webcam icon from the MediaSmart taskbar.
-
-#### 2. Adjust Settings
-
-Adjust the webcam settings by selecting **Settings** on the right-hand side of the MediaSmart Webcam window. Here you can adjust the display settings such as brightness and contrast, and video capture quality as well.
-
-You can also use the **Advanced Settings** tab to make further adjustments. After you have made all your adjustments, click **OK** to save your settings.
-
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![hp-webcam-recorder-settings.jpg](https://images.wondershare.com/filmora/article-images/hp-webcam-recorder-settings.jpg)
 
 #### 3. Record Webcam Videos
@@ -213,13 +84,14 @@ Click **OK** to save the adjustments and continue.
 
 ![hp-webcam-recorder-zoom.jpg](https://images.wondershare.com/filmora/article-images/hp-webcam-recorder-zoom.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 4.Add Effects and Filters
 
 There are also a series of special effect tools you can use to make your video recordings more fun. You can add frames and filters to the recorded webcam video or draw on the video. The MediaSmart webcam also provides avatars, emotions and distortion effects which are very popular for making creative videos. If you want to remove an effect from your recorded video, use the **Erase** function at the top of the window.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![hp-webcam-recorder-filters.jpg](https://images.wondershare.com/filmora/article-images/hp-webcam-recorder-filters.jpg)
 
 That’s it! Now, you can try the MediaSmart webcam recording software on your HP laptop to record your own webcam videos.
@@ -259,6 +131,10 @@ Screencast-O-Matic have [a selection of other tutorials which can be accessed he
 To recap, if you are running an HP laptop on Windows 7, you will need to download the latest MediaSmart software to record videos for better experience. If you have an HP Chromebook, you will need to download a screen recording app from the Chrome Web Store.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -309,9 +185,6 @@ Adjust the webcam settings by selecting **Settings** on the right-hand side of t
 
 You can also use the **Advanced Settings** tab to make further adjustments. After you have made all your adjustments, click **OK** to save your settings.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![hp-webcam-recorder-settings.jpg](https://images.wondershare.com/filmora/article-images/hp-webcam-recorder-settings.jpg)
 
 #### 3. Record Webcam Videos
@@ -337,6 +210,10 @@ That’s it! Now, you can try the MediaSmart webcam recording software on your H
 The recording features in the HP MediaSmart webcam is limited, if you are want to record your desktop screen and the webcam at the same time with more advanced features like adding Markers during recording and editing the recorded video, we recommend you to try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Record Video on HP Chromebooks?
 
@@ -366,10 +243,11 @@ Screencast-O-Matic have [a selection of other tutorials which can be accessed he
 
 To recap, if you are running an HP laptop on Windows 7, you will need to download the latest MediaSmart software to record videos for better experience. If you have an HP Chromebook, you will need to download a screen recording app from the Chrome Web Store.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -387,9 +265,6 @@ In this article, we will help you navigate these issues and learn how to record 
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -407,9 +282,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Use the HP Laptop Webcam to Record Video?
 
 To use the webcam built-in HP laptop, you need to make sure that you have the HP MediaSmart Software installed as well as the latest webcam driver.
@@ -442,9 +314,6 @@ Click **OK** to save the adjustments and continue.
 
 There are also a series of special effect tools you can use to make your video recordings more fun. You can add frames and filters to the recorded webcam video or draw on the video. The MediaSmart webcam also provides avatars, emotions and distortion effects which are very popular for making creative videos. If you want to remove an effect from your recorded video, use the **Erase** function at the top of the window.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![hp-webcam-recorder-filters.jpg](https://images.wondershare.com/filmora/article-images/hp-webcam-recorder-filters.jpg)
 
 That’s it! Now, you can try the MediaSmart webcam recording software on your HP laptop to record your own webcam videos.
@@ -456,8 +325,9 @@ The recording features in the HP MediaSmart webcam is limited, if you are want t
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Record Video on HP Chromebooks?
 
 [Chromebook](https://tools.techidaily.com/wondershare/filmora/download/) have become increasingly popular over recent years. Google’s low-cost laptops have even come to dominate the education market in the US. Unfortunately, Chromebooks do not come with a pre-installed application for recording or streaming video. If you are using an HP Chromebook and want to record video you must visit the [Chrome Web Store](https://chrome.google.com/webstore/unsupported) and download a screen recording app. Now, here are a lot of potential apps to choose from. However, we recommend using [Screencast-O-Matic](https://screencast-o-matic.com/screen%5Frecorder).
@@ -486,9 +356,123 @@ Screencast-O-Matic have [a selection of other tutorials which can be accessed he
 
 To recap, if you are running an HP laptop on Windows 7, you will need to download the latest MediaSmart software to record videos for better experience. If you have an HP Chromebook, you will need to download a screen recording app from the Chrome Web Store.
 
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+Most of us now take webcams for granted. Yet, webcams are fantastic tools that have quickly become essential components in our digital lives. They serve several purposes, from taking still images to sending or recording live videos. Most HP laptops have built-in webcams. However, a lot of people have difficulties accessing their webcams. Furthermore, if you are running on Windows 7, or using an HP Chromebook, there is no built-in webcam recording software.
+
+In this article, we will help you navigate these issues and learn how to record video on HP laptops running on Windows 7 and Chromebooks.
+
+![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
+
+### The All-in-One Screen Recorder & Video Editor
+
+* Record desktop screen, voiceover, and webcam simultaneously
+* Edit recorded clips quickly with a wide range of professional tools
+* Built-in plentiful templates and effects
+* Export to MP4, MOV, MKV, GIF and multiple formats
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## How to Use the HP Laptop Webcam to Record Video?
+
+To use the webcam built-in HP laptop, you need to make sure that you have the HP MediaSmart Software installed as well as the latest webcam driver.
+
+The MediaSmart software is pre-installed on most HP laptops. But we recommend you download and [install the most up-to-date version of the MediaSmart Software and the driver here](https://support.hp.com/gb-en/drivers) using your laptop’s model number which can be found on the product sticker at the bottom of your laptop. Remember to reboot the computer after installing the latest driver.
+
+#### 1. Enable HP MediaSmart Webcam Feature
+
+Launch the MediaSmart software webcam feature by double-clicking on the MediaSmart icon. Then select the webcam icon from the MediaSmart taskbar.
+
+#### 2. Adjust Settings
+
+Adjust the webcam settings by selecting **Settings** on the right-hand side of the MediaSmart Webcam window. Here you can adjust the display settings such as brightness and contrast, and video capture quality as well.
+
+You can also use the **Advanced Settings** tab to make further adjustments. After you have made all your adjustments, click **OK** to save your settings.
+
+![hp-webcam-recorder-settings.jpg](https://images.wondershare.com/filmora/article-images/hp-webcam-recorder-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+#### 3. Record Webcam Videos
+
+HP’s MediaSmart webcam is easy to use. Click **Capture** to record a video and once you are finished click **Stop.** Audio will be automatically recorded if you set up capture with audio in **Advanced Settings**.
+
+Using the **Zoom Function Settings,** you can use **Face Tracking** to automatically track your face. Or, you can either **Disable Zoom** or use **Manual Zoom** to zoom in as you like.
+
+Click **OK** to save the adjustments and continue.
+
+![hp-webcam-recorder-zoom.jpg](https://images.wondershare.com/filmora/article-images/hp-webcam-recorder-zoom.jpg)
+
+#### 4.Add Effects and Filters
+
+There are also a series of special effect tools you can use to make your video recordings more fun. You can add frames and filters to the recorded webcam video or draw on the video. The MediaSmart webcam also provides avatars, emotions and distortion effects which are very popular for making creative videos. If you want to remove an effect from your recorded video, use the **Erase** function at the top of the window.
+
+![hp-webcam-recorder-filters.jpg](https://images.wondershare.com/filmora/article-images/hp-webcam-recorder-filters.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+That’s it! Now, you can try the MediaSmart webcam recording software on your HP laptop to record your own webcam videos.
+
+---
+
+The recording features in the HP MediaSmart webcam is limited, if you are want to record your desktop screen and the webcam at the same time with more advanced features like adding Markers during recording and editing the recorded video, we recommend you to try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## How to Record Video on HP Chromebooks?
+
+[Chromebook](https://tools.techidaily.com/wondershare/filmora/download/) have become increasingly popular over recent years. Google’s low-cost laptops have even come to dominate the education market in the US. Unfortunately, Chromebooks do not come with a pre-installed application for recording or streaming video. If you are using an HP Chromebook and want to record video you must visit the [Chrome Web Store](https://chrome.google.com/webstore/unsupported) and download a screen recording app. Now, here are a lot of potential apps to choose from. However, we recommend using [Screencast-O-Matic](https://screencast-o-matic.com/screen%5Frecorder).
+
+Screencast-O-Matic is the ideal combination of ease-of-use and powerful editing tools. You can make an unlimited number of recordings for no charge. Videos can also be published to YouTube or uploaded to Google Drive directly from the recorder.
+
+The following is a breakdown of how to record video on HP Chromebooks using Screencast-O-Matic:
+
+#### 1. Launch Screencast-O-Matic
+
+Download the app in the Chrome Web Store and then launch the application by double-clicking on the Screen-O-Matic icon. Getting started is easy, just click the **Start Recording** button to go to the screen recorder page.
+
+#### 2. Adjust Settings
+
+When the recorder opens there will be a black and white frame with a prominent taskbar. Using the options at the top of the taskbar you can choose to record your screen, webcam or both your screen and webcam. You can click the **Size** button to choose from standard HD sizes. Or, you can drag and resize the frame manually to create custom sizes.
+
+By default, the recorder will use your laptop’s built-in microphone. Click the **Narration** button to change your default microphone options.
+
+#### 3.Record Webcam Videos
+
+When you are ready, click the red **Record** button to record all the action within the frame. You can then pause, resume and preview the recording using the options below the frame. To finish the recording click the **Done** button.
+
+After you have clicked the **Done** button, a new window will appear. Here you can choose to either save the recording as a video file or upload it to Screencast-O-Matic.com or YouTube.
+
+Screencast-O-Matic have [a selection of other tutorials which can be accessed here](http://help.screencast-o-matic.com/). For $1.50 a month you can also upgrade to their Pro Recorder. With the Pro Recorder, you unlock unlimited recording time per video, enhanced editing capabilities, specialised mouse tracking and further uploading options, including Vimeo and Dropbox.
+
+To recap, if you are running an HP laptop on Windows 7, you will need to download the latest MediaSmart software to record videos for better experience. If you have an HP Chromebook, you will need to download a screen recording app from the Chrome Web Store.
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -519,9 +503,26 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-what-makes-a-youtube-short-go-viral/"><u>[New] 2024 Approved What Makes a YouTube Short Go Viral?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-try-the-top-free-voice-modifier-for-an-edge-in-valorant-for-2024/"><u>[New] Try the Top Free Voice Modifier for an Edge in Valorant for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-creating-professional-podcasts-at-home/"><u>[Updated] 2024 Approved Creating Professional Podcasts at Home</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-at-the-forefront-haptic-enhanced-headgear/"><u>2024 Approved At the Forefront Haptic-Enhanced Headgear</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-how-to-enhance-your-page-posts-amidst-facebooks-shift/"><u>2024 Approved How to Enhance Your Page Posts Amidst Facebook's Shift</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-mastering-the-art-of-oral-explanitations-and-slides/"><u>2024 Approved Mastering the Art of Oral Explanitations & Slides</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-obs-studio-vs-fraps-top-screen-capture-software-showdown/"><u>2024 Approved OBS Studio Vs Fraps Top Screen Capture Software Showdown</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-ultimate-list-5-premium-live-stream-recorders/"><u>2024 Approved The Ultimate List 5 Premium Live Stream Recorders</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-unveiling-the-5-premier-android-ps2-emulation-tools/"><u>2024 Approved Unveiling the 5 Premier Android PS2 Emulation Tools</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/creating-a-seamless-virtual-workspace-slack-filmora-combo-for-teams/"><u>Creating a Seamless Virtual Workspace Slack-Filmora Combo for Teams</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/discover-and-set-up-vrecorder-in-minutes-148-characters-for-2024/"><u>Discover & Set Up VRecorder in Minutes (148 Characters) for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/easy-to-use-screen-recording-software-including-apowersoft-for-2024/"><u>Easy-to-Use Screen Recording Software, Including Apowersoft for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/excellent-pc-screen-grabbers-the-most-useful-1-5/"><u>Excellent PC Screen Grabbers The Most Useful #1-#5</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-high-fps-drop-in-titanfall-2-simple-troubleshooting-steps/"><u>Fix High FPS Drop in Titanfall 2 - Simple Troubleshooting Steps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/free-recording-tool-for-every-android-enthusiast-for-2024/"><u>Free Recording Tool for Every Android Enthusiast for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-expert-mac-system-for-high-definition-screen-plus-audio-recording/"><u>In 2024, Expert Mac System for High Definition Screen + Audio Recording</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-after-effects-vs-premiere-pro-understanding-their-unique-strengths-and-weaknesses/"><u>New After Effects vs Premiere Pro Understanding Their Unique Strengths and Weaknesses</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/quick-and-effortless-guide-transferring-your-entire-iphone-library-to-your-personal-computer/"><u>Quick and Effortless Guide: Transferring Your Entire iPhone Library to Your Personal Computer</u></a></li>
+<li><a href="https://article-tips.techidaily.com/top-taleshifters-academy-top-8-picks-for-2024/"><u>Top Taleshifters Academy - Top 8 Picks for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Ensuring Clear Sound with Proper OBS Configurations"
-date: 2024-12-03T02:44:43.146Z
-updated: 2024-12-07T23:33:40.222Z
+date: 2024-12-12T07:04:00.701Z
+updated: 2024-12-13T18:17:28.959Z
 tags: 
   - screen-recording
   - ai video
@@ -31,10 +31,6 @@ Edit system and microphone audio seperately
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solutions to Fix OBS Not Recording Audio
 
 All in all, to record desktop audio with OBS, you have to enter a third-party audio driver. To find out the intricacies of this solution, you may read the solutions as follow:
@@ -46,7 +42,7 @@ While using OBS studio, the users might experience the difficulties of OBS not c
 ![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **2\. Run it as Administrator**
@@ -60,7 +56,7 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **3\. Unmute OBS**
@@ -72,6 +68,10 @@ If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any deskto
 2) Click the speaker icon beneath OBS to unmute this program.
 
 ![unmute obs](https://images.wondershare.com/filmora/article-images/unmute-obs.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **4\. Check the sound settings**
 
@@ -94,11 +94,7 @@ Try recording with your speakers as the default playback device instead of headp
 ![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **6\. Update your audio driver**
@@ -121,7 +117,7 @@ If none of the techniques can assist you, your OBS is experiencing an undefined 
 ![reinstall obs](https://images.wondershare.com/filmora/article-images/reinstall-obs.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Use OBS Alternative
@@ -139,6 +135,10 @@ For macOS 10.12 or later
 After the above efficient approaches, we have utilized to cure the "OBS No Sound" problem on your PC. You may straight-away choose Filmora and erase the abnormalities hassle-free. . Filmora Screen Recorder is recognized as one of the most powerful screen record applications which are comparable to OBS, it has extremely amazing performance in screen recording. Case in case, you can capture a lossless video with lossless audio quality. It is an easy-to-use editor for both novices as well as pros. The program is available for Mac platforms and Windows for free. However, the exported video will have a watermark of Filmora that may be removed in the premium version. If you hanker to have a flexible recording, Filmora Screen Recorder will satisfy your desire as well. You may set the audio source and recording location manually with one easy click. No need to add that all the shortcuts, attributes of the output, and mouse motions are all configurable. Moreover, users may build dramatic titles by adding all sorts of colors and fonts to the contents.
 
 ![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Features Why You Should Go for Filmora:**
 
@@ -162,17 +162,24 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-xsplit-versus-obs-which-takes-live-streaming-to-the-next-level-in-2024/"><u>[New] XSplit versus OBS - Which Takes Live Streaming to the Next Level, In 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-closing-your-vlog-right-top-6-free-youtube-outro-tools-for-2024/"><u>[Updated] Closing Your Vlog Right Top 6 Free YouTube Outro Tools for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-game-on-everywhere-selecting-top-5-emulators-for-playing-gb-classics-on-windows-pcs/"><u>2024 Approved Game On Everywhere! - Selecting Top 5 Emulators for Playing GB Classics on Windows PCs</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-recording-made-simple-a-comprehensive-guide-to-archiving-roblox-games-on-your-macbook/"><u>2024 Approved Recording Made Simple A Comprehensive Guide to Archiving Roblox Games on Your MacBook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-initiate-a-fresh-start-in-windows-11/"><u>How to Initiate a Fresh Start in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-11-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 11 Pro without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-cutting-edge-screenrecord-a-compreraniary-examination/"><u>In 2024, Cutting-Edge ScreenRecord A Compreraniary Examination</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-itel-s23plus-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-top-5-ps1-emulation-software-on-modern-computers/"><u>In 2024, Top 5 PS1 Emulation Software on Modern Computers</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-nokia-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Nokia Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/spring-screens-reimagined-a-review-of-modern-tech/"><u>Spring Screens Reimagined A Review of Modern Tech</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-correcting-the-absence-of-vcruntime140dll-file-error/"><u>Troubleshooting Tips: Correcting the Absence of VCRUNTIME140.dll File Error</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-live-stream-audio-effective-recording-methods-for-the-digital-age/"><u>[New] 2024 Approved Live Stream Audio Effective Recording Methods for the Digital Age</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-ultimate-selection-the-10-best-apps-for-smartphone-video-calls/"><u>[New] In 2024, Ultimate Selection The 10 Best Apps for Smartphone Video Calls</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-kinemaster-edge-the-ultimate-transition-strategies/"><u>[New] Kinemaster Edge The Ultimate Transition Strategies</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-pivoting-from-srt-to-subtitle-format/"><u>[New] Pivoting From SRT to Subtitle Format</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-proven-techniques-for-captivating-viewers-with-live-video-graphics/"><u>[New] Proven Techniques for Captivating Viewers with Live Video Graphics</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-complete-package-of-top-zoom-capturing-gear-for-2024/"><u>[New] The Complete Package of Top Zoom Capturing Gear for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-the-ultimate-playbook-speaking-with-flair-on-slides/"><u>[Updated] 2024 Approved The Ultimate Playbook Speaking with Flair on Slides</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-elite-roundup-best-tools-mimicking-3ds-on-pc/"><u>[Updated] Elite Roundup Best Tools Mimicking 3Ds on PC</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-from-silence-to-sounds-recording-with-audacity-on-a-mac/"><u>[Updated] From Silence to Sounds Recording with Audacity on a Mac</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-pcs-best-of-breed-ps1-emulation-titles/"><u>[Updated] In 2024, PC's Best of Breed PS1 Emulation Titles</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-complete-powerdirector-2024-guide/"><u>[Updated] The Complete PowerDirector 2024 Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-a59-5g-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from A59 5G</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-screenstreamer-pro-cutting-edge-review-for-march-2023/"><u>In 2024, ScreenStreamer Pro Cutting-Edge Review for March 2023</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-subtlety-in-volume-reduction-for-audacity-projects/"><u>In 2024, Subtlety in Volume Reduction for Audacity Projects</u></a></li>
+<li><a href="https://fox-access.techidaily.com/optimize-periscope-broadcasts-for-maximum-velocity/"><u>Optimize Periscope Broadcasts for Maximum Velocity</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/overcoming-audio-glitches-with-obs-enhancements-for-2024/"><u>Overcoming Audio Glitches with OBS Enhancements for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ripristina-file-audio-m4a-a-formato-m4v-online-and-gratuitamente-con-convertitore-video-di-movavi/"><u>Ripristina File Audio M4A a Formato M4V OnLine & Gratuitamente Con Convertitore Video Di Movavi</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-ultimate-screenshotting-handbook-by-professionals-using-zd-softs-software/"><u>The Ultimate Screenshotting Handbook by Professionals Using ZD Soft’s Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-troubleshooting-tips-how-to-perform-a-fresh-start-on-samsung-audio-systems/"><u>Ultimate Troubleshooting Tips: How to Perform a Fresh Start on Samsung Audio Systems</u></a></li>
 </ul></div>
 
