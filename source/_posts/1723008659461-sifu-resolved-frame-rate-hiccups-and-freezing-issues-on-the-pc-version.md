@@ -1,7 +1,7 @@
 ---
 title: "'Sifu': Resolved Frame Rate Hiccups and Freezing Issues on the PC Version!"
-date: 2024-12-01T06:59:16.456Z
-updated: 2024-12-07T22:45:59.712Z
+date: 2024-12-18T03:42:56.698Z
+updated: 2024-12-22T18:07:57.743Z
 tags:
   - win11
   - win10
@@ -44,6 +44,10 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -59,16 +63,8 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-3.jpg)
 2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-4.jpg)
 3. Allow the checking to complete. Then you can start New World and see if it freezes again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If the problem persists, take a look at the next fix below.
 
@@ -81,12 +77,12 @@ If the problem persists, take a look at the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/devmgmt.msc_-1.png)
 3. Expand the **Display adapters**  branch. Right-click the Nvidia graphics card device and click **Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2700f19925.jpg)
 4. Click the **Driver** tab. Then click **Roll Back Driver** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a270830e0d8.png)
 5. Then you will get a pop-up window like below. Click the **Yes** button. Then the driver will be restored to the previously installed version.
@@ -94,10 +90,6 @@ If the problem persists, take a look at the next fix below.
 6. Restart your PC for the change to take effect.
 
 If this fix doesn’t bring luck, take a look at the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Underclock your GPU core
 
@@ -111,15 +103,15 @@ If this fix doesn’t bring luck, take a look at the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/msi-afterburner-featured.jpg)
 4. Because of the different PC environments, you may need to keep adjusting the Core Clock until you’re no longer freezing.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here we suggest underclocking your GPU Core Clock by 400 MHz and memory clock 500 MHz.
 5. In MSI Afterburner, change your power limit to 80%.
 6. Save the profile and relaunch New World to check.
 
 If it’s still not working, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Lower your graphics settings
 
@@ -130,6 +122,10 @@ If it’s still not working, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-1.jpg)
 2. In the left pane, select **Visuals** . Then set **Max FPS** 60 fps.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/cap.jpg)  
  In most cases, 60 fps is enough. But some gamer replies they’ve lower to 30 FPS.
 
@@ -138,7 +134,7 @@ If it’s still not working, try the next fix.
  If changing graphics settings don’t give you luck, continue to the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Reset your system without losing data
@@ -154,16 +150,20 @@ If it’s still not working, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
  Once you’ve finished the process, restart your PC and check if New World freezing again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Move the files to the SSD drive
 
@@ -190,22 +190,20 @@ If you haven’t tried it, give it a go it might help.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-deciphering-complete-fbm-call-transcripts-guide/"><u>[New] 2024 Approved Deciphering Complete FBM Call Transcripts Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-smart-shoppers-guide-to-cloud-services-cost/"><u>[New] The Smart Shopper's Guide to Cloud Services Cost</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-perfecting-fade-out-techniques-in-audacity/"><u>[Updated] 2024 Approved Perfecting Fade-Out Techniques in Audacity</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-techs-choice-best-online-screen-capturing-tools/"><u>[Updated] 2024 Approved Tech's Choice Best Online Screen Capturing Tools</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-zooming-out-your-guide-to-flawless-borders/"><u>[Updated] 2024 Approved Zooming Out Your Guide to Flawless Borders</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-halting-real-time-recordings-on-qt-player/"><u>[Updated] Halting Real-Time Recordings on QT Player</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-seamless-entry-into-google-meet-with-device-use-for-2024/"><u>[Updated] Seamless Entry Into Google Meet with Device Use for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-easy-recording-studio-for-win10-desktops/"><u>2024 Approved Easy Recording Studio for Win10 Desktops</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-transform-your-profile-into-an-instagram-powerhouse-with-these-verification-insights/"><u>2024 Approved Transform Your Profile Into an Instagram Powerhouse with These Verification Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guide-sending-and-receiving-imessages-from-your-pc-with-windows-insights/"><u>Guide: Sending & Receiving iMessages From Your PC with Windows - Insights</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-making-your-gifs-into-stickers-via-discordwhatsapp/"><u>In 2024, The Ultimate Guide Making Your GIFs Into Stickers via Discord/WhatsApp</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-linkedins-game-add-on-really-worth-your-time/"><u>Is LinkedIn's Game Add-On Really Worth Your Time?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/sweet-scene-capture-masterclass-in-freeze-dried-filmmaking/"><u>Sweet Scene Capture Masterclass in Freeze-Dried Filmmaking</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-xiaomi-14-ultra-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Xiaomi 14 Ultra Device</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/top-5-cost-effective-video-editing-software-for-gamers-for-2024/"><u>Top 5 Cost-Effective Video Editing Software (For Gamers) for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/virtual-space-clearing-perfecting-your-backdrop-in-zoom-and-google-meet/"><u>Virtual Space Clearing Perfecting Your Backdrop in Zoom & Google Meet</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-10-premier-ios-games-fully-enjoyable-without-wireless-connection/"><u>[New] 2024 Approved 10 Premier iOS Games, Fully Enjoyable without Wireless Connection</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-3-affordable-switch-game-duplicates/"><u>[New] Top 3 Affordable Switch Game Duplicates</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-sidestep-the-norm-alternatives-to-vidma-screen-record/"><u>[Updated] 2024 Approved Sidestep the Norm Alternatives to Vidma Screen Record</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-elevate-ps2-gameplay-on-ios-devices/"><u>[Updated] In 2024, Elevate PS2 Gameplay on iOS Devices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-parallel-audio-stream-mapping/"><u>[Updated] In 2024, Parallel Audio Stream Mapping</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-unlocking-composition-magic-with-blend-modes-techniques/"><u>2024 Approved Unlocking Composition Magic with Blend Modes Techniques</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-vivo-x100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-authorship-unleashed-techniques-for-crafting-your-personalized-ai-writer-with-chatgpt/"><u>AI Authorship Unleashed: Techniques for Crafting Your Personalized AI Writer with ChatGPT</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-lost-discdvdcd-drive-sense/"><u>Fix: Lost Disc/DVD/CD Drive Sense</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-iphone-6s-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your iPhone 6s From Your Apple ID</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-transforming-industries-via-vr/"><u>In 2024, Transforming Industries via VR</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/streaming-software-showdown-the-ultimate-guide-to-obs-vs-shadowplay/"><u>Streaming Software Showdown The Ultimate Guide to OBS Vs. ShadowPlay</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>The Best 8 VPN Hardware Devices Reviewed On Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-quintessential-new-wave-of-facebook-updates/"><u>The Quintessential New Wave of Facebook Updates</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/top-3ips-precision-audio-capture-solutions/"><u>Top 3iP's Precision Audio Capture Solutions</u></a></li>
 </ul></div>
 

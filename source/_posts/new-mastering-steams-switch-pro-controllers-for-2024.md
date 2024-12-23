@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Steam's Switch Pro Controllers for 2024"
-date: 2024-12-12T23:07:07.737Z
-updated: 2024-12-13T17:51:39.530Z
+date: 2024-12-16T05:46:07.985Z
+updated: 2024-12-22T17:26:55.781Z
 tags: 
   - screen-recording
   - ai video
@@ -57,10 +57,14 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 
 ![switch-pro-controller-connected-with-cable](https://images.wondershare.com/filmora/article-images/switch-pro-controller-connected-with-cable.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Wirelessly connect your Switch Pro controller to your PC**
@@ -71,10 +75,6 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-syncing-button](https://images.wondershare.com/filmora/article-images/switch-pro-controller-syncing-button.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Right-click the Bluetooth icon in the system tray.
 
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
@@ -82,6 +82,10 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 * To add a Bluetooth device, click "Add Bluetooth Device."
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
@@ -91,12 +95,16 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 * Once Steam is set up, you can begin using it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
 ![switch-pro-controller-steam-set-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Best Way to make sure your Pro Controller works properly with your PC game is to use Steam's Big Picture mode, which uses a comfortable lean-back system to allow you to navigate.
 
@@ -109,10 +117,6 @@ You should use the gamepad to navigate Big Picture if you have the Pro Controlle
 When configured through Steam, you should use the Pro Controller with any Steam game similar to an Xbox gamepad. Vibration can be enabled or disabled by selecting a controller from the "Detected Controllers" list in the same setup screen as before. It is possible to calibrate the analog sticks by clicking the Calibrate button manually. Also, the controller can be set to disconnect after a specified amount of time before going to sleep.
 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
 
@@ -132,10 +136,6 @@ This is how you can use your switch pro controller with your PC. Now you can eas
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -152,22 +152,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-record-your-google-meet-on-iphoneandroid-step-by-step/"><u>[New] 2024 Approved Record Your Google Meet on iPhone/Android Step-by-Step</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-pinterest-vid-extractor-guide-top-5-free-tools-summary/"><u>[New] Pinterest Vid Extractor Guide Top 5 FREE Tools Summary</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-the-ultimate-guide-zero-cost-seminar-capture/"><u>[New] The Ultimate Guide Zero-Cost Seminar Capture</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-expert-tips-on-adding-yt-playlists-to-your-website-content/"><u>[Updated] 2024 Approved Expert Tips on Adding YT Playlists to Your Website Content</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-audiocapture-studio-download-test-and-discussion/"><u>[Updated] AudioCapture Studio Download, Test & Discussion</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-expert-tips-for-effortless-screen-recording-on-android/"><u>[Updated] Expert Tips for Effortless Screen Recording on Android</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-most-innovative-voice-altering-mobile-apps/"><u>[Updated] In 2024, Most Innovative Voice-Altering Mobile Apps</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-acceleration-trendsetting-with-likes-and-videos/"><u>[Updated] Instagram Acceleration Trendsetting with Likes & Videos</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-supercharge-your-games-premium-top-10-drives/"><u>[Updated] Supercharge Your Games Premium Top 10 Drives</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-turn-off-youtubes-quick-video-buffering-feature/"><u>2024 Approved Turn Off YouTube's Quick Video Buffering Feature</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-enhanced-craftsmanship-top-ethical-strategies-for-writers-and-editors/"><u>AI-Enhanced Craftsmanship: Top Ethical Strategies for Writers & Editors</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigating-through-gopros-time-lapse-potential/"><u>Navigating Through GoPro's Time-Lapse Potential</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-vsdc-free-video-editor-for-mac-get-best-alternatives/"><u>New 2024 Approved VSDC Free Video Editor for Mac Get Best Alternatives</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/pinnacle-mac-studio-for-unparalleled-video-and-audio-recording/"><u>Pinnacle Mac Studio for Unparalleled Video & Audio Recording</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/quick-guide-to-alter-username-in-google-meet-sessions-for-2024/"><u>Quick Guide to Alter Username in Google Meet Sessions for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/synergizing-tasks-through-smart-chatbot-dialogues/"><u>Synergizing Tasks Through Smart Chatbot Dialogues</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-tier-snooze-gadgets-guaranteed-to-help-you-drift-off-effortlessly/"><u>Top-Tier Snooze Gadgets Guaranteed to Help You Drift Off Effortlessly</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-immersive-gameplay-capture-roblox-and-macos-synergy/"><u>[New] 2024 Approved Immersive Gameplay Capture Roblox & macOS Synergy</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-affordable-pc-display-recorder-apps-for-2024/"><u>[New] Affordable PC Display Recorder Apps for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/etailed-insights-into-youtubes-monthly-income-model/"><u>[New] Detailed Insights Into YouTube's Monthly Income Model</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-from-airwaves-to-archives-online-recording-strategies-for-tv-shows/"><u>[New] In 2024, From Airwaves to Archives Online Recording Strategies for TV Shows</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-parrot-ar-drone-evaluation-elite-edition/"><u>[New] Parrot AR Drone Evaluation - Elite Edition</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-ultimate-guide-to-gameplay-in-simulated-liquids/"><u>[New] Ultimate Guide to Gameplay in Simulated Liquids</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-unveiling-secrets-of-effortless-screen-sharing-in-meet-for-2024/"><u>[New] Unveiling Secrets of Effortless Screen Sharing in Meet for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-evaluating-every-aspect-of-du-recorder-design-and-function-for-2024/"><u>[Updated] Evaluating Every Aspect of Du Recorder Design & Function for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-flight-dynamics-unveiling-bebops-parrot-capabilities/"><u>2024 Approved Flight Dynamics Unveiling Bebop’s Parrot Capabilities</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/avoiding-mishaps-tips-to-enhance-google-meet-chats/"><u>Avoiding Mishaps Tips to Enhance Google Meet Chats</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-action-like-never-before-review-the-t5-eye-action-camera/"><u>In 2024, Action Like Never Before Review the T5 Eye Action Camera</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/live-gaming-strategies-for-capturing-moments-for-2024/"><u>Live Gaming Strategies for Capturing Moments for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-errors-in-connecting-printer-to-pc/"><u>No Errors in Connecting Printer to PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-low-sound-issues-on-iphones-a-step-by-step-guide/"><u>Solving Low Sound Issues on iPhones: A Step-by-Step Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1125965-9781609256685-the-practice-of-classical-palmistry/"><u>The Practice of Classical Palmistry | Free Book</u></a></li>
+<li><a href="https://driver-error.techidaily.com/winfix-reviving-defective-serial-cable-connections/"><u>Winfix: Reviving Defective Serial Cable Connections</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/youtubers-unleashed-a-guide-to-creating-memorable-music-reaction-vids/"><u>Youtubers Unleashed A Guide to Creating Memorable Music Reaction Vids</u></a></li>
 </ul></div>
 

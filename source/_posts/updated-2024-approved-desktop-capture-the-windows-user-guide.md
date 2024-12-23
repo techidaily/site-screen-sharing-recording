@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Desktop Capture  The Windows User Guide\""
-date: 2024-12-09T19:13:53.591Z
-updated: 2024-12-14T00:12:21.910Z
+date: 2024-12-17T00:51:43.825Z
+updated: 2024-12-22T22:40:16.214Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,10 @@ In this article, we are going to show you five different ways of creating screen
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -54,7 +58,7 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Using the Screen Sketch App to Take Screenshots on Windows 10
@@ -83,15 +87,15 @@ You can add annotations to the screenshots, by clicking on the bullet point pen,
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-editing-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Step 3. Saving and Exporting Screenshots
 
 Click on the Save icon, in the app's toolbar ribbon, and select the destination where the file will be stored. You can also copy the screenshot to the clipboard, by clicking on the icon located next to the Save option.
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-saving.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Share feature enables you to post the picture on social media or send it via email. PC owners who don't have the latest Windows update can use the Snipping Tool or some other method of creating a screenshot.
 
@@ -104,10 +108,6 @@ All versions of Windows 10 feature the Xbox app that offers the DVR support and 
 Select the 'Yes, this is a game' option if a dialogue box pops-up on the screen and click on the Camera icon or hold the Windows, Alt and PrintScreen keys to take a screenshot. A Screenshot Saved notification will appear on the screen and you should click on in order to access the picture you've just taken using the Xbox app. The file will be displayed in the Game DVR> On This PC menu. The Game Bar saves screenshots in the PNG file format and it stores them in C:\\Users\\\[your username\]\\Videos\\Captures.
 
 ![ Windows Game Bar Screenshot](https://images.wondershare.com/filmora/article-images/xbox-game-bar-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 3: Using the Snipping Tool to Take Flexible Screenshots
 
@@ -124,7 +124,7 @@ You can launch the app from the Start menu or by typing its name in the Search C
 ![ Windows snipping tool ](https://images.wondershare.com/filmora/article-images/snipping-tool-screenshot-new.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Afterward, you can just hold the left mouse button and drag the mouse to select the portion of the screen you'd like to capture. When ready to take the snapshot release the mouse key and wait for the app to display the image.
@@ -148,7 +148,7 @@ Hold the Window + C keys or use the mouse to access the Charms Bar and then clic
 ![ Windows 8 Screenshot tool ](https://images.wondershare.com/filmora/article-images/windows8-screenshot-share-charm.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Find the moment in the video you'd like to capture, and then select the Screenshot option from the Video app's menu. The screenshot will be automatically created, and afterward, you should open the Mail application if want to send it. Enter the email address and click on the Send button to complete the process.
@@ -156,7 +156,7 @@ Find the moment in the video you'd like to capture, and then select the Screensh
 The Share Charm offers a quick and easy way to take screenshots, but it lacks the tools for editing the images you create. However, it still provides powerful sharing options that enable you to send screenshots and other media files without having to invest too much time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 5: Take a Quick Screenshots with Print Screen
@@ -209,21 +209,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-step-by-step-guidehow-to-stream-on-discord/"><u>[New] 2024 Approved [Step-by-Step Guide]How to Stream on Discord</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-vct-pro-capture-assessment-full-review/"><u>[New] In 2024, VCT Pro Capture Assessment Full Review</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-step-by-step-guide-to-effective-screen-recording-with-mobizen-for-2024/"><u>[New] Step-by-Step Guide to Effective Screen Recording with Mobizen for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gearing-up-for-youtube-success-cross-platform-strategies/"><u>[Updated] 2024 Approved Gearing Up for YouTube Success Cross-Platform Strategies</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-shutter-speed-mastery-for-chromebook-users-method-4/"><u>[Updated] 2024 Approved Shutter Speed Mastery for Chromebook Users (Method #4)</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-xiaomis-new-smartphone-screenshot-tool-a-game-changer-in-recording-tech/"><u>[Updated] 2024 Approved Xiaomi's New Smartphone Screenshot Tool A Game Changer in Recording Tech</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-clearing-the-path-to-account-deactivation-on-linkedin/"><u>[Updated] Clearing the Path to Account Deactivation on LinkedIn</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-favorite-stock-photos-a-dive-into-memes-and-origins/"><u>[Updated] Favorite Stock Photos A Dive Into Memes & Origins</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-pixelhalve-critique-for-2024/"><u>[Updated] PixelHalve Critique for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-secure-and-document-your-zoom-conferences/"><u>[Updated] Secure & Document Your Zoom Conferences</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guia-completa-para-el-programa-de-afiliados-de-movavi-ganar-rentablemente-con-publicidad-en-linea/"><u>Guía Completa Para El Programa De Afiliados De Movavi: Ganar Rentablemente Con Publicidad en Línea</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-keep-sticky-notes-always-on-top-on-windows-10-and-11/"><u>How to Keep Sticky Notes Always on Top on Windows 10 & 11</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-visual-clarity-conundrum-ultrawide-vs-uhd-4k-monitors-decision/"><u>In 2024, Visual Clarity Conundrum UltraWide vs UHD 4K Monitors Decision</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/solutions-efficaces-pour-ameliorer-les-temps-dencodage-des-fichiers-h265-hevc-guide-pratique/"><u>Solutions Efficaces Pour Améliorer Les Temps D'Encodage Des Fichiers H.265 (HEVC) : Guide Pratique.</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/the-broadcasters-blueprint-step-by-step-windows-pc-guide-to-live-capture-for-2024/"><u>The Broadcaster's Blueprint Step-by-Step Windows PC Guide to Live Capture for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-w10-with-latest-thinkpad-device-drivers/"><u>Upgrade W10 with Latest ThinkPad Device Drivers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-beginners-guide-to-zoom-breakout-rooms-for-2024/"><u>[New] Beginners Guide to Zoom Breakout Rooms for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-effortless-streams-screening-netflix-on-mac-professionally/"><u>[New] Effortless Streams Screening Netflix on Mac Professionally</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-the-complete-mac-users-guide-to-capturing-roblox-gaming-sessions/"><u>[New] In 2024, The Complete Mac User's Guide to Capturing Roblox Gaming Sessions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-tranquility-techniques-how-to-mute-and-manage-gmeet-distractions/"><u>[New] Tranquility Techniques How to Mute and Manage GMeet Distractions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-experience-the-future-of-action-videos-sj7s-star-4k-review/"><u>[Updated] 2024 Approved Experience the Future of Action Videos SJ7's Star 4K Review</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-5-must-know-techniques-for-cutting-through-reddit-noise-and-gaining-traction/"><u>[Updated] 5 Must-Know Techniques for Cutting Through Reddit Noise and Gaining Traction</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-streammaster-showdown-obs-or-shadowplay/"><u>[Updated] In 2024, StreamMaster Showdown OBS or ShadowPlay?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-digital-audio-prowess-the-top-9-mic-recorders-for-23/"><u>2024 Approved Digital Audio Prowess The Top 9 Mic Recorders for '23</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/assessing-the-security-of-digital-assets-insights-from-yl-computings-expertise/"><u>Assessing the Security of Digital Assets: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beyond-reality-horizon-virtual-progress-and-upcoming-challenges/"><u>Beyond Reality Horizon Virtual Progress & Upcoming Challenges</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ejemplo-de-copia-de-seguridad-de-dvd-tutorial-para-windows-111087-y-sistemas-operativos-mac/"><u>Ejemplo De Copia De Seguridad De DVD: Tutorial Para Windows 11/10/8/7 Y Sistemas Operativos Mac</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-deciphering-your-pathway-to-youtubes-maker-land/"><u>In 2024, Deciphering Your Pathway to YouTube's Maker Land</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-world-of-digital-color-grading/"><u>In 2024, Exploring the World of Digital Color Grading</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-zte-blade-a73-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/streamlining-minecraft-recordings-on-apple-devices-for-2024/"><u>Streamlining Minecraft Recordings on Apple Devices for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/tech-tutorial-saving-screen-movies-from-your-gadgets-for-2024/"><u>Tech Tutorial Saving Screen Movies From Your Gadgets for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/turn-the-page-with-blocked-facebook-buddies/"><u>Turn the Page with Blocked Facebook Buddies</u></a></li>
 </ul></div>
 
