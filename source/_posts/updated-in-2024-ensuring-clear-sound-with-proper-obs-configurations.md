@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Ensuring Clear Sound with Proper OBS Configurations"
-date: 2024-12-15T21:42:10.809Z
-updated: 2024-12-23T09:45:12.969Z
+date: 2024-12-26T18:37:42.825Z
+updated: 2024-12-29T00:18:07.666Z
 tags: 
   - screen-recording
   - ai video
@@ -32,22 +32,22 @@ Edit system and microphone audio seperately
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solutions to Fix OBS Not Recording Audio
 
 All in all, to record desktop audio with OBS, you have to enter a third-party audio driver. To find out the intricacies of this solution, you may read the solutions as follow:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **1\. Close the OBS and Restart**
 
 While using OBS studio, the users might experience the difficulties of OBS not capturing mic audio. This problem arises because the program only captures mic audio, and it doesn't support the desktop audio or system sound. to repair the "OBS no sound" problem on your PC is simply to shut the OBS studio software and thereafter restart it once more.
 
 ![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **2\. Run it as Administrator**
 
@@ -73,6 +73,10 @@ If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any deskto
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **4\. Check the sound settings**
 
 Click the Desktop Audio Device drop-down option if the proper device is not chosen there. Then choose the correct desktop audio device.
@@ -82,6 +86,10 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 * Press the Apply button, then click OK to exit the window.
 
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **5\. Remove Other Programs for Audio Control**
 
@@ -93,10 +101,6 @@ Try recording with your speakers as the default playback device instead of headp
 
 ![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **6\. Update your audio driver**
 
 If the Desktop Audio stopped recording after the Windows Driver update, you may roll back the Windows to the prior version with no difficulty. If the audio driver is not up-to-date, the OS cannot connect with the audio output device. Hence, OBS will not detect any audio. To upgrade your audio driver, follow these procedures.
@@ -105,10 +109,6 @@ If the Desktop Audio stopped recording after the Windows Driver update, you may 
 * From there, expand the Sound, video, and game controller, then right-click the audio driver and Update.
 
 ![update your audio driver](https://images.wondershare.com/filmora/article-images/update-your-audio-driver.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **7\. Reinstall OBS**
 
@@ -119,6 +119,10 @@ If none of the techniques can assist you, your OBS is experiencing an undefined 
 * Click on OBS Studio and then pick “Uninstall”
 
 ![reinstall obs](https://images.wondershare.com/filmora/article-images/reinstall-obs.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Use OBS Alternative
 
@@ -135,10 +139,6 @@ For macOS 10.12 or later
 After the above efficient approaches, we have utilized to cure the "OBS No Sound" problem on your PC. You may straight-away choose Filmora and erase the abnormalities hassle-free. . Filmora Screen Recorder is recognized as one of the most powerful screen record applications which are comparable to OBS, it has extremely amazing performance in screen recording. Case in case, you can capture a lossless video with lossless audio quality. It is an easy-to-use editor for both novices as well as pros. The program is available for Mac platforms and Windows for free. However, the exported video will have a watermark of Filmora that may be removed in the premium version. If you hanker to have a flexible recording, Filmora Screen Recorder will satisfy your desire as well. You may set the audio source and recording location manually with one easy click. No need to add that all the shortcuts, attributes of the output, and mouse motions are all configurable. Moreover, users may build dramatic titles by adding all sorts of colors and fonts to the contents.
 
 ![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Features Why You Should Go for Filmora:**
 
@@ -162,22 +162,24 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-the-ultimate-farming-revamp-7-14-mod-comparison-guide/"><u>[New] 2024 Approved The Ultimate Farming Revamp #7-14 Mod Comparison Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-behind-the-scenes-of-gif-sharing-in-snapchat-steps-for-2024/"><u>[New] Behind the Scenes of Gif Sharing in Snapchat Steps for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-master-the-mix-incorporating-and-refining-music-into-canva-projects/"><u>[New] Master the Mix Incorporating & Refining Music Into Canva Projects</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-beyond-cyberlink-top-screen-capture-software-reviewed/"><u>[Updated] 2024 Approved Beyond Cyberlink Top Screen Capture Software Reviewed</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-how-to-reset-and-fix-obs-fullscreen-issue-for-2024/"><u>[Updated] How to Reset and Fix OBS Fullscreen Issue for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-iphone-screen-recording-made-simple/"><u>[Updated] In 2024, Iphone Screen Recording Made Simple</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-stepwise-blend-integrating-obs-and-zoom/"><u>[Updated] In 2024, Stepwise Blend Integrating OBS and Zoom</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-ultimate-disco-streaming-guide-3-essential-recording-methods/"><u>[Updated] In 2024, The Ultimate Disco Streaming Guide 3 Essential Recording Methods</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-zdsoft-video-recording/"><u>[Updated] In 2024, The Ultimate Guide to ZDSoft Video Recording</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-backwards-viewing-a-new-lens-for-analyzing-youtube-content/"><u>2024 Approved Backwards Viewing A New Lens for Analyzing YouTube Content</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-elevating-your-speech-to-text-experience-using-googles-tools/"><u>2024 Approved Elevating Your Speech to Text Experience Using Google's Tools</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-synchronizing-sequential-images-for-impactful-storytelling/"><u>2024 Approved Synchronizing Sequential Images for Impactful Storytelling</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/future-proof-your-home-network-with-these-premium-asus-routers/"><u>Future-Proof Your Home Network with These Premium ASUS Routers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-complete-examination-unboxing-logitechs-ultimate-4k-webcam/"><u>In 2024, Complete Examination Unboxing Logitech’s Ultimate 4K Webcam</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-v30-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme V30 to Outlook | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209460952-playstation-4-trouble-solve-the-mystery-of-error-code-ce-34878-0-today/"><u>PlayStation 4 Trouble? Solve the Mystery of Error Code CE-34878-0 Today!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-image-adjustment-on-your-pc-with-these-win-11-tips/"><u>Streamline Image Adjustment on Your PC with These Win 11 Tips</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-exclusive-apps-to-record-on-iphone-for-2024/"><u>[New] Exclusive Apps to Record on iPhone for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-make-a-buzz-on-tiktok-thematic-templates-for-viral-video-creation/"><u>[New] In 2024, Make a Buzz on TikTok Thematic Templates for Viral Video Creation</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-top-eco-friendly-filming-tech-mastery-guide/"><u>[New] In 2024, Top Eco-Friendly Filming Tech Mastery Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-spark-change-with-these-10-inspirational-classics/"><u>[New] Spark Change with These 10 Inspirational Classics</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-unlocking-the-secrets-of-swelling-youtube-supporters-for-2024/"><u>[New] Unlocking the Secrets of Swelling YouTube Supporters for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-heartstrings-plucked-essential-vocal-masterpieces-for-a-kiss/"><u>[Updated] 2024 Approved Heartstrings Plucked Essential Vocal Masterpieces for a Kiss</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-best-practices-for-archiving-youtube-livestream-content/"><u>[Updated] Best Practices for Archiving Youtube Livestream Content</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-best-quality-hd-screensaver-recorders/"><u>[Updated] In 2024, Best Quality HD Screensaver Recorders</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/blueprints-of-bliss-building-a-virtual-mc-village-home/"><u>Blueprints of Bliss Building a Virtual MC Village Home</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cross-service-playlist-exchange-simplified/"><u>Cross-Service Playlist Exchange Simplified</u></a></li>
+<li><a href="https://win-hot.techidaily.com/how-to-diagnose-and-fix-occasional-unresponsiveness-in-your-keyboard-tips-by-yl-software-experts/"><u>How to Diagnose and Fix Occasional Unresponsiveness in Your Keyboard: Tips by YL Software Experts</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-oneplus-12r-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to OnePlus 12R Phones? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-game-enhancement-select-top-hdds-for-xbox/"><u>In 2024, Game Enhancement Select Top HDDs for Xbox</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-greatest-war-themed-games-the-7-finest-total-war-experiences/"><u>In 2024, Greatest War-Themed Games The 7 Finest Total War Experiences</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-mycams-evolution-a-new-era-of-home-video-capture/"><u>In 2024, MyCam's Evolution A New Era of Home Video Capture</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/intuitive-mac-videographer-plus-voice-support-for-2024/"><u>Intuitive Mac Videographer + Voice Support for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-steady-shots-ahead-the-best-free-online-video-stabilizers-for-2024/"><u>New Steady Shots Ahead The Best Free Online Video Stabilizers for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/silent-blades-and-righteous-honor-your-next-game-adventure-awaits-in-2024/"><u>Silent Blades & Righteous Honor Your Next Game Adventure Awaits, In 2024</u></a></li>
+<li><a href="https://win-special.techidaily.com/unlocking-the-best-techniques-to-save-tiktok-videos-cleanly-and-quickly/"><u>Unlocking the Best Techniques to Save TikTok Videos Cleanly and Quickly</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Apeaksoft Scrutiny – Mastering the Art of Screen Capture Review"
-date: 2024-08-28T23:47:57.702Z
-updated: 2024-08-29T23:47:57.702Z
+date: 2024-12-23T20:44:42.836Z
+updated: 2024-12-29T00:24:53.443Z
 tags: 
   - screen-recording
   - ai video
@@ -29,9 +29,6 @@ Step 1\. Keeping Track of Screen Movements
 
 You may use this screen recording program on your PC once you've installed it. From the main interface, choose "Video Recorder." You should choose the accounting zone before recording continuous contact, Skype calls, online meetings, or real-time recordings with this screen capturing program.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![screen movement](https://images.wondershare.com/filmora/article-images/screen-movement.jpg)
 
 Step 2\. Change the Sound Settings
@@ -44,10 +41,11 @@ Step 3\. Record PC Screen
 
 To begin recording, click "REC" on the right side of this video screen recorder once you've adjusted the chronicle zone and sound. Furthermore, it will display the hotkeys. You may change it to suit your needs. By pressing the composing sign throughout the chronicle, you may construct a sketch or add explanations according on your needs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![record pc screen](https://images.wondershare.com/filmora/article-images/record-pc-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4\. Save the Recorded Video
 
@@ -89,6 +87,10 @@ This is very useful for making video introductions. You may utilize the mouse cu
 
 This ingredient is what makes this Screen Recorder unique. When you record a video, you have the option of recording the real video's speech using the framework sound or recording your own voice using amplifier voice. You should turn both of them on if you need to record a video conference.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3\. Apeaksoft Recorder In-Depth Review
 
 Apeaksoft Screen Recorder has its own media manager, which makes finding screenshots and recordings much more convenient than using Windows Explorer. You may also edit and convert the files, as well as transfer them to an iOS device, using the program, but you'll need to obtain and install other tools for these tasks. The program is simple to use and has a contemporary and appealing interface. It allows you to record video and audio, as well as capture separate screen photos if desired.
@@ -107,9 +109,6 @@ The application has different settings for video and audio recording, as well as
 
 You may use it to record a variety of media files, such as game play, video meetings, and so on. If you're a gamer, it can easily record your game play at a high frame rate, which you can then post on Twitter or Facebook. Additionally, you may use it to easily record your webcam. Apeaksoft Screen Recorder recognizes that having fun and playing games isn't everything. As a result, its characteristics make it excellent for shooting videos, taking images, and taking screenshots of any product or service you're selling.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4\. Alternative Way to Record Video
 
 Are you looking for a good Apeaksoft screen recorder replacement? Filmora is the best option. It's perfect for making web-based recordings and distributing them. If you like playing online games and want to share your skills and knowledge, then Filmora is the app for you. You may successfully record and capture high FPS recordings with this equipment. Clients may use the camera and microphone audios to screen record recordings and capture live recordings at up to 120 frames per second.
@@ -142,6 +141,10 @@ With the integrated options in Filmora's recorder, you may completely modify you
 
 ![launch the recorder](https://images.wondershare.com/filmora/guide/recording-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 4\.******Start/Stop Recording**
 
 Now is the time to start the recording, which you can do by pressing the red circular recording button, which will start the recording of your audio.
@@ -152,14 +155,52 @@ Now is the time to start the recording, which you can do by pressing the red cir
 
 After you've finished editing your recordings, click the Export option to save them to your selected place in the appropriate audio format. You may also immediately upload your audio files to your YouTube channel. To share your audios straight to your YouTube channel, just go to the YouTube navigation bar and pick the Sign-in option.
 
+![sign-in option](https://images.wondershare.com/filmora/article-images/sign-in-option.jpg)
+
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Conclusion
+
+There are many product toolkits that conduct screen recordings that look to follow a similar regular UI pattern, and Apeaksoft Screen Recorder free is no exception. The design is modest and built on top of the Windows 10 operating system, without being too stylish and remaining intuitive and straightforward. Despite the fact that Apeaksoft screen recorder free is the most expert method to recording any on the web and real-time video/sound in several mainstreams, it also has a standard cost of $47.96\. That's why we included the finest alternative to this toolbox in our Apeaksoft screen recorder review.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+### ****Steps to Record Audio with Filmora:**
+
+****Step 1.** **Download and install**
+
+The foremost thing you must get this software program from the following links. After the download is complete, you may install it on your computer and begin using it.
+
+****Step 2\.******Open Screen Recorder**
+
+The next step is to launch the software program so that you can begin recording audio without delay. To do so, go to the Start New Recording button in the start-up box, and the recorder will open as follows:
+
+![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
+
+****Step 3\.******Customize the Recording Source**
+
+With the integrated options in Filmora's recorder, you may completely modify your recordings. You may also choose your audio source, such as microphone, system sound, or both.
+
+![launch the recorder](https://images.wondershare.com/filmora/guide/recording-04.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+****Step 4\.******Start/Stop Recording**
+
+Now is the time to start the recording, which you can do by pressing the red circular recording button, which will start the recording of your audio.
+
+![recording start](https://images.wondershare.com/filmora/article-images/recording-start.jpg)
+
+****Step 5\.******Edit and Save the Recordings**
+
+After you've finished editing your recordings, click the Export option to save them to your selected place in the appropriate audio format. You may also immediately upload your audio files to your YouTube channel. To share your audios straight to your YouTube channel, just go to the YouTube navigation bar and pick the Sign-in option.
+
 ![sign-in option](https://images.wondershare.com/filmora/article-images/sign-in-option.jpg)
 
 ## Conclusion
@@ -180,9 +221,6 @@ The foremost thing you must get this software program from the following links. 
 
 The next step is to launch the software program so that you can begin recording audio without delay. To do so, go to the Start New Recording button in the start-up box, and the recorder will open as follows:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 ****Step 3\.******Customize the Recording Source**
@@ -191,14 +229,19 @@ With the integrated options in Filmora's recorder, you may completely modify you
 
 ![launch the recorder](https://images.wondershare.com/filmora/guide/recording-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 4\.******Start/Stop Recording**
 
 Now is the time to start the recording, which you can do by pressing the red circular recording button, which will start the recording of your audio.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![recording start](https://images.wondershare.com/filmora/article-images/recording-start.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 5\.******Edit and Save the Recordings**
 
@@ -214,56 +257,6 @@ There are many product toolkits that conduct screen recordings that look to foll
 
 For macOS 10.12 or later
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### ****Steps to Record Audio with Filmora:**
-
-****Step 1.** **Download and install**
-
-The foremost thing you must get this software program from the following links. After the download is complete, you may install it on your computer and begin using it.
-
-****Step 2\.******Open Screen Recorder**
-
-The next step is to launch the software program so that you can begin recording audio without delay. To do so, go to the Start New Recording button in the start-up box, and the recorder will open as follows:
-
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
-
-****Step 3\.******Customize the Recording Source**
-
-With the integrated options in Filmora's recorder, you may completely modify your recordings. You may also choose your audio source, such as microphone, system sound, or both.
-
-![launch the recorder](https://images.wondershare.com/filmora/guide/recording-04.png)
-
-****Step 4\.******Start/Stop Recording**
-
-Now is the time to start the recording, which you can do by pressing the red circular recording button, which will start the recording of your audio.
-
-![recording start](https://images.wondershare.com/filmora/article-images/recording-start.jpg)
-
-****Step 5\.******Edit and Save the Recordings**
-
-After you've finished editing your recordings, click the Export option to save them to your selected place in the appropriate audio format. You may also immediately upload your audio files to your YouTube channel. To share your audios straight to your YouTube channel, just go to the YouTube navigation bar and pick the Sign-in option.
-
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![sign-in option](https://images.wondershare.com/filmora/article-images/sign-in-option.jpg)
-
-## Conclusion
-
-There are many product toolkits that conduct screen recordings that look to follow a similar regular UI pattern, and Apeaksoft Screen Recorder free is no exception. The design is modest and built on top of the Windows 10 operating system, without being too stylish and remaining intuitive and straightforward. Despite the fact that Apeaksoft screen recorder free is the most expert method to recording any on the web and real-time video/sound in several mainstreams, it also has a standard cost of $47.96\. That's why we included the finest alternative to this toolbox in our Apeaksoft screen recorder review.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### ****Steps to Record Audio with Filmora:**
 
 ****Step 1.** **Download and install**
@@ -280,29 +273,31 @@ The next step is to launch the software program so that you can begin recording 
 
 With the integrated options in Filmora's recorder, you may completely modify your recordings. You may also choose your audio source, such as microphone, system sound, or both.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![launch the recorder](https://images.wondershare.com/filmora/guide/recording-04.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 4\.******Start/Stop Recording**
 
 Now is the time to start the recording, which you can do by pressing the red circular recording button, which will start the recording of your audio.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![recording start](https://images.wondershare.com/filmora/article-images/recording-start.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 5\.******Edit and Save the Recordings**
 
 After you've finished editing your recordings, click the Export option to save them to your selected place in the appropriate audio format. You may also immediately upload your audio files to your YouTube channel. To share your audios straight to your YouTube channel, just go to the YouTube navigation bar and pick the Sign-in option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![sign-in option](https://images.wondershare.com/filmora/article-images/sign-in-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -330,10 +325,26 @@ There are many product toolkits that conduct screen recordings that look to foll
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-8-unbeatable-zero-price-software-choices-for-online-media-makers/"><u>[New] 2024 Approved 8 Unbeatable Zero-Price Software Choices For Online Media Makers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-breakdown-fb-video-aspect-ratios-for-2024/"><u>[New] Breakdown FB Video Aspect Ratios for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-crop-companion-chronicles-best-agricultural-titles-with-pals-for-2024/"><u>[New] Crop Companion Chronicles Best Agricultural Titles with Pals for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-depth-look-at-voice-memo-features-on-your-ios-device-for-2024/"><u>[New] In-Depth Look at Voice Memo Features on Your iOS Device for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-prime-selections-of-maximum-digital-safekeeping/"><u>[New] Prime Selections of Maximum Digital Safekeeping</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-snap-protection-android-and-mac-app-recommendations-for-2024/"><u>[New] Snap Protection Android & Mac App Recommendations for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-recmaster-screen-recorder-review/"><u>[Updated] In 2024, Recmaster Screen Recorder Review</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-sharpen-your-zoom-skills-with-background-blur-expertise/"><u>[Updated] In 2024, Sharpen Your Zoom Skills with Background Blur Expertise</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-protecting-privacy-top-10-webcam-covers/"><u>[Updated] Protecting Privacy Top 10 Webcam Covers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-pull-off-professional-video-edits-with-ken-burns-effect/"><u>[Updated] Pull Off Professional Video Edits with Ken Burns Effect</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/achieving-clear-dialogue-in-google-hangouts-for-2024/"><u>Achieving Clear Dialogue in Google Hangouts for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-sync-your-fortnite-identities-into-one-account-expert-advice/"><u>How To Sync Your Fortnite Identities Into One Account – Expert Advice</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-nokia-150-2023-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Nokia 150 (2023) to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-crafting-a-cinematic-look-ken-burns-in-camtasa/"><u>In 2024, Crafting a Cinematic Look Ken Burns in Camtasa</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-elite-display-decoded-examining-samsungs-ue590-monitor/"><u>In 2024, Elite Display Decoded Examining Samsung's UE590 Monitor</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-oppo-a78-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Oppo A78 5G</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-splitcam-examination-camera-quality-showdown/"><u>In 2024, SplitCam Examination - Camera Quality Showdown?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/time-saving-tactics-for-saving-google-voice-speeches-for-2024/"><u>Time-Saving Tactics for Saving Google Voice Speeches for 2024</u></a></li>
+</ul></div>
 
