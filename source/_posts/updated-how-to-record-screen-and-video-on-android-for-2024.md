@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Record Screen and Video on Android for 2024"
-date: 2024-11-23T22:29:48.453Z
-updated: 2024-11-28T20:29:52.106Z
+date: 2025-01-04T16:06:01.808Z
+updated: 2025-01-07T16:05:37.939Z
 tags: 
   - screen-recording
   - ai video
@@ -63,6 +63,10 @@ Open the Google Play application on your phone and search for the Lollipop Scree
 
 ![ Lollipop Screen Recorder ](https://images.wondershare.com/filmora/article-images/lollipop-screen-recorder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lollipop Screen Recorder features only three settings, that let you choose whether you want to shoot in Landscape or Portrait mode, change the resolution of the video recording and enable the audio recording feature.
 
 It is important to pay attention to the size of the file you are producing, especially if you want to send it to someone because if you pick the maximum Recording Resolution, the video file of your screen recording is going to be huge. Tutorials in which you show how an app is used or how to fix a certain problem on an Android Phone can benefit from the Record Microphone Audio option because it will enable you to explain the steps with your voice.
@@ -70,6 +74,10 @@ It is important to pay attention to the size of the file you are producing, espe
 #### Step 3  Recording the screen of an Android device
 
 ![ Lollipop Screen Recorder ](https://images.wondershare.com/filmora/article-images/lollipop-screen-recorder-start-recording.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now that you've adjusted all the settings for a screen recording session, you should click on the circular icon located in the upper right corner of the app.
 
@@ -81,10 +89,6 @@ The app's notification bar is going to be located at the top of the Smartphone's
 
 ![ Lollipop Screen Recorder ](https://images.wondershare.com/filmora/article-images/lollipop-screen-recorder-recorded-file.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Go back to the Lollipop Screen Recorder and you'll be able to find the video file in the app's main window. You can play the video directly from the Lollipop Screen recorder or you can share it to your Gmail account directly from the app. If you don't like the screen recording you made, you can tap on the Delete button and start a new session.
 
 **Pros:** Amazingly easy to use and it lets you capture videos in Portrait and Landscape modes.
@@ -95,13 +99,13 @@ _[Find out more video recorders for Android Phones and Tablets](https://tools.te
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Connecting Your Android Devices to Windows PC or Mac to Capture Screen
 
 Using an app to record the screen of your Android smartphone is just one method in which this task can be accomplished. Let's have a look at a few other methods that can also be used to record an Android Smartphone screen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Capture your Android screen with ADB
 
@@ -119,10 +123,6 @@ Locate the SDK's installation folder on your PC, and click on the ADB option in 
 
 ![ Record Android Screen via Computer](https://images.wondershare.com/filmora/article-images/record-android-screen-via-computer-confirm.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Use the USB cable to connect your Android device to a computer, and before proceeding any further enable the USB Debugging and Developer features on your phone.
 
 A pop-up message should appear on your Smartphone's screen asking you if you'd like to allow debugging from the PC to which the device is connected. Click OK and head back to the ADB terminal you launched.
@@ -134,12 +134,16 @@ You should be able to see the terminal window on your computer's screen. Run tes
 ![ Record Android Screen via Computer](https://images.wondershare.com/filmora/article-images/record-android-screen-via-computer-command.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Inserting the following command into the terminal: adb shell screenrecord/sdcard/test.mp4 will start a new screen recording session.
 
 ![ Record Android Screen via Computer](https://images.wondershare.com/filmora/article-images/record-android-screen-via-computer-command-line.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The session cannot be longer than three minutes, but if you want to stop recording sooner than that, you can simply hold the CTRL+C while the terminal window is still active.
 
@@ -182,10 +186,6 @@ Sometimes you shouldn’t depend on installing apps. With the help of a ROM flas
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -201,24 +201,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-exploring-minecrafts-eastern-cottage-ideas/"><u>[New] 2024 Approved Exploring Minecraft's Eastern Cottage Ideas</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-transform-online-sales-with-these-premier-15-facebook-monitoring-tools/"><u>[New] 2024 Approved Transform Online Sales with These Premier 15 Facebook Monitoring Tools</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-discovering-the-joy-of-iphones-vr-video-sphere/"><u>[New] Discovering the Joy of iPhone's VR Video Sphere</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-effortless-timelapse-on-ipad-capturing/"><u>[New] In 2024, Effortless Timelapse on iPad Capturing</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-the-complete-screenrec-manual-for-laptops/"><u>[New] In 2024, The Complete ScreenRec Manual for Laptops</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-mac-audio-lab-a-comprehensive-guide/"><u>[New] Mac Audio Lab A Comprehensive Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-iphone-screen-recording-with-minimal-fuss-for-2024/"><u>[New] Mastering iPhone Screen Recording with Minimal Fuss for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-safekeeping-sensitive-visuals-from-public-eyes-for-2024/"><u>[New] Safekeeping Sensitive Visuals From Public Eyes for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-full-screen-pro-excellence-4-precise-pc-and-mac-tools/"><u>[Updated] In 2024, Full Screen Pro Excellence 4 Precise PC & Mac Tools</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-macs-screenflow-insights-complete-coverage/"><u>[Updated] In 2024, Mac's ScreenFlow Insights - Complete Coverage</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-premium-video-capture-without-extras-for-2024/"><u>[Updated] Premium Video Capture Without Extras for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/10-best-hash-monitoring-apps-for-major-social-platforms-fbtwitterinsta-for-2024/"><u>10 Best Hash Monitoring Apps for Major Social Platforms (FB/Twitter/Insta) for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-magix-media-editor/"><u>2024 Approved Exploring MAGIX Media Editor</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-how-to-make-macbook-pro-video-tutorials-easy/"><u>In 2024, How to Make Macbook Pro Video Tutorials Easy</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/live-streams-how-to-log-gh-sessions/"><u>Live Streams How to Log GH Sessions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/mastering-wireless-connectivity-an-authoritative-review-of-the-netgear-nighthawk-x4-wi-fi-range-extender/"><u>Mastering Wireless Connectivity: An Authoritative Review of the Netgear Nighthawk X4 Wi-Fi Range Extender</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/the-screens-sole-contender-software-or-hardware-triumph-in-2024/"><u>The Screen's Sole Contender Software or Hardware Triumph, In 2024</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/unveiling-the-writer-behind-aomei-meet-jasmin-our-esteemed-author/"><u>Unveiling the Writer Behind AOMEI - Meet Jasmin, Our Esteemed Author</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-gopro-video-editing-for-everyone-a-simple-free-and-fun-approach-for-2024/"><u>Updated GoPro Video Editing for Everyone A Simple, Free, and Fun Approach for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-field-fusion-top-10-agrarian-adventure-titles/"><u>[New] 2024 Approved Field Fusion Top 10 Agrarian Adventure Titles</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-maximize-your-spotify-campaign-roi-an-expert-guide/"><u>[New] 2024 Approved Maximize Your Spotify Campaign ROI - An Expert Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-perfecting-obs-output-common-fixes-explored-for-2024/"><u>[New] Perfecting OBS Output Common Fixes Explored for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-resolved-inaccessible-full-screen-obs/"><u>[New] Resolved Inaccessible Full Screen OBS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-secrets-to-saving-and-sharing-your-roblox-experience-on-a-mac/"><u>[New] Secrets to Saving & Sharing Your Roblox Experience on a Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-3d-gold-text-effect-sites-on-the-web/"><u>[New] Top 3D Gold Text Effect Sites on the Web</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-assessing-screen-recorder-excellence-in-action-for-2024/"><u>[Updated] Assessing Screen Recorder Excellence in Action for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-navigating-periscope-detailed-instruction-manual/"><u>[Updated] In 2024, Navigating Periscope Detailed Instruction Manual</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-screen-grab-specialists-top-apps-for-windows-10-users/"><u>[Updated] In 2024, Screen Grab Specialists Top Apps for Windows 10 Users</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-refined-zoom-sound-for-flawless-listening-experience/"><u>[Updated] Refined Zoom Sound for Flawless Listening Experience</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-ultimate-guide-to-preserving-itunes-content-for-2024/"><u>[Updated] The Ultimate Guide to Preserving iTunes Content for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-what-happens-to-your-facebook-live-if-its-flagged-for-copyright/"><u>[Updated] What Happens to Your Facebook Live if It’s Flagged for Copyright?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/mastering-the-art-of-vlog-script-creation-for-2024/"><u>Mastering the Art of Vlog Script Creation for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-working-through-the-details-of-imovie-slow-motion-video-making-100-effective/"><u>New 2024 Approved Working Through the Details of iMovie Slow Motion Video Making 100 Effective</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/step-by-step-installed-vrecorder-software-for-2024/"><u>Step-by-Step Installed VRecorder Software for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/top-10-mobile-photography-enhancers-ios-and-android-comparison/"><u>Top 10 Mobile Photography Enhancers IOS & Android Comparison</u></a></li>
 </ul></div>
 

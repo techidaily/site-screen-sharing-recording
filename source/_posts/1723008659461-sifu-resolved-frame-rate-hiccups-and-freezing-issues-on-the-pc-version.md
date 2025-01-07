@@ -1,7 +1,7 @@
 ---
 title: "'Sifu': Resolved Frame Rate Hiccups and Freezing Issues on the PC Version!"
-date: 2024-12-27T18:54:47.435Z
-updated: 2024-12-28T20:06:41.038Z
+date: 2025-01-04T16:01:02.329Z
+updated: 2025-01-07T16:46:21.087Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 6. [Reset your system without losing data](https://tools.techidaily.com/drivereasy/download/)
 7. [Move the files to the SSD drive](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your graphics driver
 
  The constant freezing might indicate a driver issue. If your driver is updated it might cause the freezing issue. We suggest you should always keep your driver up to date for the best in-game performance.  
@@ -45,8 +41,16 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -69,7 +73,7 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 If the problem persists, take a look at the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Rollback NVIDIA driver
@@ -81,22 +85,22 @@ If the problem persists, take a look at the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/devmgmt.msc_-1.png)
 3. Expand the **Display adapters**  branch. Right-click the Nvidia graphics card device and click **Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2700f19925.jpg)
 4. Click the **Driver** tab. Then click **Roll Back Driver** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a270830e0d8.png)
 5. Then you will get a pop-up window like below. Click the **Yes** button. Then the driver will be restored to the previously installed version.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Restart your PC for the change to take effect.
 
 If this fix doesn’t bring luck, take a look at the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Underclock your GPU core
@@ -111,15 +115,15 @@ If this fix doesn’t bring luck, take a look at the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/msi-afterburner-featured.jpg)
 4. Because of the different PC environments, you may need to keep adjusting the Core Clock until you’re no longer freezing.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Here we suggest underclocking your GPU Core Clock by 400 MHz and memory clock 500 MHz.
 5. In MSI Afterburner, change your power limit to 80%.
 6. Save the profile and relaunch New World to check.
 
 If it’s still not working, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Lower your graphics settings
 
@@ -132,10 +136,6 @@ If it’s still not working, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/cap.jpg)  
  In most cases, 60 fps is enough. But some gamer replies they’ve lower to 30 FPS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Play New World to check.
 
@@ -156,14 +156,14 @@ If it’s still not working, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
  Once you’ve finished the process, restart your PC and check if New World freezing again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Move the files to the SSD drive
 
@@ -190,18 +190,19 @@ If you haven’t tried it, give it a go it might help.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-mastering-instagrams-qanda-sticker-usage/"><u>[New] In 2024, Mastering Instagram's Q&A Sticker Usage</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-streamlining-presentations-webcam-recording-tips/"><u>[New] In 2024, Streamlining Presentations Webcam Recording Tips</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-unveiling-the-best-10-video-call-apps-for-iphone-and-android-users/"><u>[New] In 2024, Unveiling the Best 10 Video Call Apps for iPhone and Android Users</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/npacking-youtubes-financial-framework-shifts-for-2024/"><u>[New] Unpacking YouTube’s Financial Framework Shifts for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-how-to-angle-videos-for-improved-viewership/"><u>[Updated] How to Angle Videos for Improved Viewership</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-leading-free-software-for-quality-desktop-recording/"><u>[Updated] In 2024, The Leading Free Software for Quality Desktop Recording</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-premium-windows-10-screen-recording-software-for-2024/"><u>[Updated] Premium Windows 10 Screen Recording Software for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-the-art-of-visual-storytelling-for-online-platforms-for-2024/"><u>[Updated] The Art of Visual Storytelling for Online Platforms for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-discover-the-best-10-photo-sticker-boosters-for-iphoneandroid-users/"><u>2024 Approved Discover the Best 10 Photo Sticker Boosters for iPhone/Android Users</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Apple iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-spectral-perfection-program/"><u>In 2024, Spectral Perfection Program</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mov-to-galaxy-a05s-converter-convert-mov-files-for-galaxy-a05s-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Galaxy A05s converter-convert .mov files for Galaxy A05s</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-future-of-ai-with-open-source-the-smart-path-forward-insights-from-zdnet/"><u>Navigating the Future of AI with Open Source: The Smart Path Forward - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-grab-and-reel-the-essential-5-apps-for-social-media-video-capture/"><u>[New] Grab & Reel The Essential 5 Apps for Social Media Video Capture</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-8-steps-to-make-your-instagram-unboxing-reels-viral/"><u>[Updated] Top 8 Steps to Make Your Instagram Unboxing Reels Viral</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-camstudio-screen-recorder-review-2023/"><u>2024 Approved CamStudio Screen Recorder Review 2023</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-coordinating-zoom-meetings-with-iphone-android-and-computer-timelines/"><u>2024 Approved Coordinating Zoom Meetings with iPhone, Android, and Computer Timelines</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-microrecorder-assessment-onscreen-snaps/"><u>2024 Approved MicroRecorder Assessment Onscreen Snaps</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/command-the-room-effective-strategies-for-public-discourse/"><u>Command the Room: Effective Strategies for Public Discourse</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/essential-tactics-for-android-video-capture/"><u>Essential Tactics for Android Video Capture</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-expeditious-approaches-to-slide-storage/"><u>In 2024, Expeditious Approaches to Slide Storage</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-linux-users-guide-best-8-screenshot-apps/"><u>In 2024, Linux Users Guide Best 8 Screenshot Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-superior-on-screen-moment-documentation/"><u>In 2024, Superior On-Screen Moment Documentation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/innovative-tech-trick-how-to-code-a-multifunctional-home-remote-control/"><u>Innovative Tech Trick: How To Code A Multifunctional Home Remote Control</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/master-the-art-of-video-with-these-html5-platforms-for-2024/"><u>Master the Art of Video with These HTML5 Platforms for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/setting-up-audacity-for-effective-mac-based-sound-capture/"><u>Setting Up Audacity for Effective Mac-Based Sound Capture</u></a></li>
+<li><a href="https://video-capture.techidaily.com/top-picks-and-tips-for-thriving-in-valheim/"><u>Top Picks & Tips for Thriving in Valheim</u></a></li>
 </ul></div>
 
