@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Editor's Handbook  Utilizing Strikethrough and Callout Tools\""
-date: 2025-01-05T16:38:08.388Z
-updated: 2025-01-07T16:51:20.542Z
+date: 2025-01-12T16:17:33.268Z
+updated: 2025-01-13T21:29:45.760Z
 tags: 
   - screen-recording
   - ai video
@@ -32,7 +32,7 @@ Markers can be used during the video editing and after the screen recording to m
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -62,10 +62,6 @@ You can use them to mark a place in the screen recording you're not too happy wi
 
 ![Filmora Scrn Markers](https://images.wondershare.com/filmora/article-images/filmora-scrn-markers.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The **timeline markers**, on the other hand, can only be added to a project once you've completed the recording session, during the post-production period. You can utilize them to highlight the parts of the video clip you want to remove from the final version of your video or to mark the spots on the timeline where you'd like to switch from one take to another.
 
 This type of marker is immensely useful if you want to organize the timeline in your project better and to know exactly where every clip you want to use in your video is located at all times. Besides being a highly efficient tool for organizing vast amounts of footage, timeline markers can also help you denote the beats in the audio file and then sync the video clip perfectly to the beat of the tune you're using as a soundtrack to your video.
@@ -83,6 +79,10 @@ For macOS 10.12 or later
 * [1\. How to Add a Marker During Video Editing](#filmora1)
 * [2\. How to Remove a Marker After Screen Recording](#filmora2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. How to Add a Marker During Video Editing
 
 Adding Markers During Video Editing is essential for efficient editing process, as they help save time when reviewing the video. This section provides a detailed step-by-step guide on how to add markers before starting to edit a video with two methods:
@@ -95,25 +95,21 @@ To add markers, watch your video and find the mistake. Pause the video, then cli
 
 ![add marker from the timeline toolbar](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 2: Access the Modification Option
 
 Filmora lets you adjust your marker settings for your video. Right-click on the marker and select **"Modify Marker"** from the control panel.
 
 ![access the modification option](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 3: Customize the Markers
 
 In the Marker Editor window, make relevant changes such as naming the marker, adding a comment in the **"Comment"** box, and changing the marker color.
 
 ![customize the markers](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### **Method 2: Adding Markers through the Keyboard**
 
@@ -122,7 +118,7 @@ After importing the clip into the timeline and identifying the points of error i
 ![add maker through the keyboard](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **2\. How to Remove a Marker After Screen Recording**
@@ -130,6 +126,10 @@ After importing the clip into the timeline and identifying the points of error i
 Once you have finished editing your mistakes, it's important to remove the markers. To do this, right-click on the marker and select **"Delete"** from the options menu to remove a specific marker, or choose **"Delete All Markers"** to remove them collectively.
 
 ![remove a marker](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -152,18 +152,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/1716062744867-updated-vrecorder-how-to-download-and-install-for-2024/"><u>[Updated] VRecorder How to Download and Install for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-your-essential-list-of-free-high-quality-online-meeting-software/"><u>2024 Approved Your Essential List of Free, High-Quality Online Meeting Software</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-vivo-y17s-by-drfone-android/"><u>How to Show Wi-Fi Password on Vivo Y17s</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-10-free-recorder-apps-for-slack-meetings-and-video-conferencing/"><u>In 2024, 10 FREE Recorder Apps for Slack Meetings & Video Conferencing</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-a-comprehensive-overview-of-cost-free-cloud-communication-software/"><u>In 2024, A Comprehensive Overview of Cost-Free Cloud Communication Software</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-free-pc-sound-capturing-software-x-recorder-version/"><u>In 2024, Free Pc Sound Capturing Software - X-Recorder Version</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-investigating-actives-prowess-in-recording-technology/"><u>In 2024, Investigating Active's Prowess in Recording Technology</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-google-pixel-8-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Google Pixel 8 Location | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/prime-collection-best-10-apps-for-extracting-high-quality-vimeo-videos/"><u>Prime Collection Best 10 Apps for Extracting High-Quality Vimeo Videos</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/1728496367017-response/"><u>Response]:</u></a></li>
-<li><a href="https://article-tips.techidaily.com/simplified-path-to-viewing-popular-youtube-comments-for-2024/"><u>Simplified Path to Viewing Popular YouTube Comments for 2024</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-t2-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo T2 5G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/video-output-stabilized-22-resolved/"><u>Video Output Stabilized: #22 Resolved</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-bridging-gaps-using-markers-for-smooth-transition-sequences-for-2024/"><u>[New] Bridging Gaps Using Markers for Smooth Transition Sequences for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-creative-capture-of-sims-4-sagas-innovative-ways-to-record-your-journey-for-2024/"><u>[New] Creative Capture of Sims 4 Sagas Innovative Ways to Record Your Journey for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-htcs-immersive-revolution-a-deep-dive-into-vr-headset-magic-for-2024/"><u>[New] HTC's Immersive Revolution A Deep Dive Into VR Headset Magic for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-advanced-techniques-for-high-quality-gopro-videos/"><u>[New] In 2024, Advanced Techniques for High-Quality GoPro Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-durecorder-uncovered-features-and-analysis/"><u>[New] In 2024, DuRecorder Uncovered Features and Analysis</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-easy-process-to-turn-any-tiktok-sound-into-cellphone-alerts/"><u>[New] In 2024, Easy Process to Turn Any TikTok Sound Into Cellphone Alerts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-top-7-audio-capturers-2023-edition/"><u>[New] In 2024, Top 7 Audio Capturers 2023 Edition</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nveiled-youtubes-creme-de-la-creme-of-vr-videos-for-2024/"><u>[New] Unveiled YouTube's Crème De La Crème of VR Videos for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-capturing-your-gaming-adventures-best-practices-reviewed/"><u>[Updated] 2024 Approved Capturing Your Gaming Adventures Best Practices Reviewed</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-best-freefire-youtube-hashtags-and-tips-for-youtube-gaming-videos/"><u>[Updated] Best FreeFire YouTube Hashtags and Tips For YouTube Gaming Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-spectacular-gratis-switch-gaming-tools/"><u>[Updated] Spectacular Gratis Switch Gaming Tools</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-essential-online-tools-to-refine-your-music-with-superior-mp3-processing/"><u>2024 Approved Essential Online Tools to Refine Your Music with Superior MP3 Processing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-alternative-high-quality-gaming-video-recording-solutions/"><u>In 2024, Alternative High-Quality Gaming Video Recording Solutions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-essential-android-and-ios-tech-record-google-meet/"><u>In 2024, Essential Android & iOS Tech Record Google Meet</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-streamlining-your-approach-to-configuring-and-gauging-fb-instream-ads/"><u>In 2024, Streamlining Your Approach to Configuring & Gauging FB Instream Ads</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-ultimate-list-of-9-best-online-mic-recorder-hacks/"><u>In 2024, The Ultimate List of 9 Best Online Mic Recorder Hacks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/score-big-savings-premium-corsair-scimitar-rgb-elite-mmo-mouse-for-unbeatable-price-only-49-now/"><u>Score Big Savings: Premium Corsair Scimitar RGB Elite MMO Mouse for Unbeatable Price – Only $49 Now</u></a></li>
 </ul></div>
 
