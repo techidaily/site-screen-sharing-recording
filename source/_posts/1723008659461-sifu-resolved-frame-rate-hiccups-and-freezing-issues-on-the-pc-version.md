@@ -1,7 +1,7 @@
 ---
 title: "'Sifu': Resolved Frame Rate Hiccups and Freezing Issues on the PC Version!"
-date: 2025-01-11T19:40:39.621Z
-updated: 2025-01-13T16:32:46.109Z
+date: 2025-01-16T16:20:32.422Z
+updated: 2025-01-19T17:49:31.107Z
 tags:
   - win11
   - win10
@@ -41,16 +41,8 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -67,12 +59,12 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-3.jpg)
 2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-4.jpg)
 3. Allow the checking to complete. Then you can start New World and see if it freezes again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If the problem persists, take a look at the next fix below.
 
@@ -113,6 +105,10 @@ If this fix doesn’t bring luck, take a look at the next fix below.
 
 If it’s still not working, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Lower your graphics settings
 
  The freezing issue usually relates to the graphics settings, some players indicate after they capped their FPS and lower graphics settings, the freezing issue was gone.  
@@ -123,19 +119,19 @@ If it’s still not working, try the next fix.
 2. In the left pane, select **Visuals** . Then set **Max FPS** 60 fps.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/cap.jpg)  
  In most cases, 60 fps is enough. But some gamer replies they’ve lower to 30 FPS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Play New World to check.
 
  If changing graphics settings don’t give you luck, continue to the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Reset your system without losing data
 
@@ -148,14 +144,14 @@ If it’s still not working, try the next fix.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -164,6 +160,10 @@ If it’s still not working, try the next fix.
  Email: **<support@fortect.com>**
 
  Once you’ve finished the process, restart your PC and check if New World freezing again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Move the files to the SSD drive
 
@@ -190,16 +190,22 @@ If you haven’t tried it, give it a go it might help.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-expertly-curated-list-of-top-9-virtual-mic-recorder-systems-23/"><u>[New] 2024 Approved Expertly Curated List of Top 9 Virtual Mic Recorder Systems ('23)</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-premier-live-chat-platforms-for-virtual-gatherings/"><u>[New] 2024 Approved Premier Live-Chat Platforms for Virtual Gatherings</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-powerpoint-and-voice-a-seamless-journey-explored-for-2024/"><u>[New] PowerPoint and Voice A Seamless Journey Explored for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-best-bargains-comparing-cloud-storage-prices/"><u>[Updated] 2024 Approved Best Bargains Comparing Cloud Storage Prices</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-harnessing-success-with-freefire-hashtag-tips/"><u>[Updated] 2024 Approved Harnessing Success with FreeFire Hashtag Tips</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-detailed-process-of-saving-movies-on-various-os/"><u>2024 Approved Detailed Process of Saving Movies on Various OS</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/cutting-edge-3d-animations-made-easy-by-leading-applications/"><u>Cutting-Edge 3D Animations Made Easy by Leading Applications</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-samsung-galaxy-m14-4g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Samsung Galaxy M14 4G Through Google Earth?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/streamlining-meetings-on-win11-using-zoom-features-for-2024/"><u>Streamlining Meetings on Win11 Using Zoom Features for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/top-5-podcast-apps-for-listening-to-podcasts-on-an-iphone/"><u>Top 5 Podcast Apps for Listening to Podcasts on an iPhone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/what-is-instagram/"><u>What Is Instagram?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-locating-your-own-playlists-on-youtube/"><u>[New] In 2024, Locating Your Own Playlists on Youtube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-expert-advice-on-rl-gameplay-screen-sharing-for-2024/"><u>[Updated] Expert Advice on RL Gameplay Screen Sharing for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-rank-higher-on-youtube-essential-seo-tips-unveiled/"><u>[Updated] In 2024, Rank Higher on YouTube Essential SEO Tips Unveiled</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-offline-android-delights-9-most-addictive-mobile-games/"><u>[Updated] Offline Android Delights 9 Most Addictive Mobile Games</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-richer-imagery-enhancing-video-with-device-based-filters/"><u>[Updated] Richer Imagery Enhancing Video with Device-Based Filters</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-investigating-competitors-to-manycam-better-choices/"><u>2024 Approved Investigating Competitors to ManyCam Better Choices?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-windows-video-conferencing-excellence-8-1/"><u>2024 Approved Windows Video Conferencing Excellence #8-1</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/capture-the-thrill-mastering-4-techniques-of-xbox-screen-recording-for-2024/"><u>Capture the Thrill Mastering 4 Techniques of Xbox Screen-Recording for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dolby-desynchronization-deciphering-and-fixing-dolby-audio-driver-wont-start-on-your-windows-ebox/"><u>Dolby Desynchronization: Deciphering and Fixing 'Dolby Audio Driver Won't Start' On Your Windows Ebox</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/firecapture-extensions-for-ff-users-for-2024/"><u>FireCapture Extensions for FF Users for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-oneplus-nord-n30-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1715699759295-how-to-use-snap-camera-on-google-meet/"><u>How to Use Snap Camera on Google Meet</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-6s-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 6s? Learn All 4 Methods</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-itel-p55t-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Itel P55T Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-webcam-integration-in-gaming-setup-mastery/"><u>In 2024, Webcam Integration in Gaming Setup Mastery</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-your-display-dilemma-eliminating-color-issues-and-shape-deformities-from-pc-monitors/"><u>Solving Your Display Dilemma: Eliminating Color Issues & Shape Deformities From PC Monitors</u></a></li>
+<li><a href="https://article-tips.techidaily.com/understanding-and-complying-with-instagrams-audio-ownership-laws/"><u>Understanding and Complying with Instagram's Audio Ownership Laws</u></a></li>
 </ul></div>
 

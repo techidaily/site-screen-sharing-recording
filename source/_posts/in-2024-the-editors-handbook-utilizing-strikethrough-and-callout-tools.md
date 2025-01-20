@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Editor's Handbook  Utilizing Strikethrough and Callout Tools\""
-date: 2025-01-12T16:17:33.268Z
-updated: 2025-01-13T21:29:45.760Z
+date: 2025-01-15T18:36:09.905Z
+updated: 2025-01-19T16:08:52.209Z
 tags: 
   - screen-recording
   - ai video
@@ -30,10 +30,6 @@ The production of visually impressive videos, you'll be proud to share on your Y
 Markers can be used during the video editing and after the screen recording to make post-production, to help you mark the places in the footage where you've made a mistake, where the new take starts or to indicate a spot on the timeline where you would like to place a particular video clip. In this article, we are going to show you how to utilize markers during the screen capturing sessions or while you're [editing videos](https://tools.techidaily.com/wondershare/filmora/download/) with Filmora.
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
 
@@ -66,6 +62,10 @@ The **timeline markers**, on the other hand, can only be added to a project once
 
 This type of marker is immensely useful if you want to organize the timeline in your project better and to know exactly where every clip you want to use in your video is located at all times. Besides being a highly efficient tool for organizing vast amounts of footage, timeline markers can also help you denote the beats in the audio file and then sync the video clip perfectly to the beat of the tune you're using as a soundtrack to your video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add Markers During Video Editing and After Screen Recording in Filmora?
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -80,7 +80,7 @@ For macOS 10.12 or later
 * [2\. How to Remove a Marker After Screen Recording](#filmora2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. How to Add a Marker During Video Editing
@@ -95,15 +95,15 @@ To add markers, watch your video and find the mistake. Pause the video, then cli
 
 ![add marker from the timeline toolbar](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 2: Access the Modification Option
 
 Filmora lets you adjust your marker settings for your video. Right-click on the marker and select **"Modify Marker"** from the control panel.
 
 ![access the modification option](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step 3: Customize the Markers
 
@@ -118,7 +118,7 @@ After importing the clip into the timeline and identifying the points of error i
 ![add maker through the keyboard](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **2\. How to Remove a Marker After Screen Recording**
@@ -128,7 +128,7 @@ Once you have finished editing your mistakes, it's important to remove the marke
 ![remove a marker](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -152,22 +152,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-bridging-gaps-using-markers-for-smooth-transition-sequences-for-2024/"><u>[New] Bridging Gaps Using Markers for Smooth Transition Sequences for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-creative-capture-of-sims-4-sagas-innovative-ways-to-record-your-journey-for-2024/"><u>[New] Creative Capture of Sims 4 Sagas Innovative Ways to Record Your Journey for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-htcs-immersive-revolution-a-deep-dive-into-vr-headset-magic-for-2024/"><u>[New] HTC's Immersive Revolution A Deep Dive Into VR Headset Magic for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-advanced-techniques-for-high-quality-gopro-videos/"><u>[New] In 2024, Advanced Techniques for High-Quality GoPro Videos</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-durecorder-uncovered-features-and-analysis/"><u>[New] In 2024, DuRecorder Uncovered Features and Analysis</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-easy-process-to-turn-any-tiktok-sound-into-cellphone-alerts/"><u>[New] In 2024, Easy Process to Turn Any TikTok Sound Into Cellphone Alerts</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-top-7-audio-capturers-2023-edition/"><u>[New] In 2024, Top 7 Audio Capturers 2023 Edition</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nveiled-youtubes-creme-de-la-creme-of-vr-videos-for-2024/"><u>[New] Unveiled YouTube's Crème De La Crème of VR Videos for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-capturing-your-gaming-adventures-best-practices-reviewed/"><u>[Updated] 2024 Approved Capturing Your Gaming Adventures Best Practices Reviewed</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-best-freefire-youtube-hashtags-and-tips-for-youtube-gaming-videos/"><u>[Updated] Best FreeFire YouTube Hashtags and Tips For YouTube Gaming Videos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-spectacular-gratis-switch-gaming-tools/"><u>[Updated] Spectacular Gratis Switch Gaming Tools</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-essential-online-tools-to-refine-your-music-with-superior-mp3-processing/"><u>2024 Approved Essential Online Tools to Refine Your Music with Superior MP3 Processing</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-alternative-high-quality-gaming-video-recording-solutions/"><u>In 2024, Alternative High-Quality Gaming Video Recording Solutions</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-essential-android-and-ios-tech-record-google-meet/"><u>In 2024, Essential Android & iOS Tech Record Google Meet</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-streamlining-your-approach-to-configuring-and-gauging-fb-instream-ads/"><u>In 2024, Streamlining Your Approach to Configuring & Gauging FB Instream Ads</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-ultimate-list-of-9-best-online-mic-recorder-hacks/"><u>In 2024, The Ultimate List of 9 Best Online Mic Recorder Hacks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/score-big-savings-premium-corsair-scimitar-rgb-elite-mmo-mouse-for-unbeatable-price-only-49-now/"><u>Score Big Savings: Premium Corsair Scimitar RGB Elite MMO Mouse for Unbeatable Price – Only $49 Now</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-navigating-through-quantum-hdr-expertise/"><u>[New] 2024 Approved Navigating Through Quantum HDR Expertise</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-captivating-colors-in-photos-a-ps-masterclass-for-2024/"><u>[New] Captivating Colors in Photos A PS Masterclass for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-capturing-the-world-in-full-circle-experts-360-cams-review-2023/"><u>[New] Capturing the World in Full Circle - Expert's 360 Cams Review, 2023</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-speedy-steps-to-save-slideshows/"><u>[New] Speedy Steps to Save Slideshows</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-expert-level-workshop-programming-timer-functions-for-obs-productions/"><u>[Updated] Expert-Level Workshop Programming Timer Functions for OBS Productions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-simple-systems-a-step-by-step-guide-to-documenting-google-hangoutsmeet/"><u>[Updated] In 2024, Simple Systems A Step-by-Step Guide to Documenting Google Hangouts/Meet</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-mastering-internet-based-live-audio-capture-5-key-strategies/"><u>[Updated] Mastering Internet-Based Live Audio Capture 5 Key Strategies</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-overcoming-fixed-color-voids-in-recording-software-for-2024/"><u>[Updated] Overcoming Fixed Color Voids in Recording Software for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-checklist-for-growing-youtube-subscribers-for-2024/"><u>[Updated] The Ultimate Checklist for Growing YouTube Subscribers for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/warning-print-service-not-starting-correctly/"><u>[WARNING] Print Service Not Starting Correctly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-8-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 8 without Passcode or Face ID</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-gpu-glimpse-new-radeon-unleashed/"><u>In 2024, GPU Glimpse New Radeon Unleashed</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g23-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G23 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-most-streamed-hits-in-spotify-history/"><u>In 2024, Most Streamed Hits in Spotify History</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-recorder-royalty-best-premium-recording-software-on-pc-and-macos-free/"><u>In 2024, Recorder Royalty Best Premium Recording Software on PC & MacOS FREE</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimizing-cyberpunk-2077-how-to-fix-lag-and-enhance-frame-rate/"><u>Optimizing Cyberpunk 2077: How to Fix Lag and Enhance Frame Rate</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/stepwise-guide-to-ipad-time-lapse-mastery-for-2024/"><u>Stepwise Guide to iPad Time-Lapse Mastery for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/sync-zoom-meeting-times-across-mobile-and-desktop-calendars/"><u>Sync Zoom Meeting Times Across Mobile & Desktop Calendars</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ling-the-top-10-global-explorer-channels/"><u>Unveiling the Top 10 Global Explorer Channels</u></a></li>
 </ul></div>
 

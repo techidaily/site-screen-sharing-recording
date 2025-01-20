@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Steam's Switch Pro Controllers for 2024"
-date: 2025-01-08T23:05:03.044Z
-updated: 2025-01-13T23:29:24.283Z
+date: 2025-01-17T18:01:58.157Z
+updated: 2025-01-20T05:16:58.853Z
 tags: 
   - screen-recording
   - ai video
@@ -47,10 +47,6 @@ This article will tell you how to enable your Nintendo Switch Pro controller to 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Wired Connection for Switch Pro Controllers**
 
 Windows describe it as a DirectInput controller instead of an XInput controller, so getting it to work with PC games can prove tedious. However, thanks to Value-adding full Switch controller support to Steam, you will probably be able to play most of your favorite games.
@@ -61,7 +57,15 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 
 ![switch-pro-controller-connected-with-cable](https://images.wondershare.com/filmora/article-images/switch-pro-controller-connected-with-cable.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Wirelessly connect your Switch Pro controller to your PC**
 
@@ -75,10 +79,6 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * To add a Bluetooth device, click "Add Bluetooth Device."
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
@@ -88,15 +88,23 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-setting-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-setting-up.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Once Steam is set up, you can begin using it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
 ![switch-pro-controller-steam-set-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Best Way to make sure your Pro Controller works properly with your PC game is to use Steam's Big Picture mode, which uses a comfortable lean-back system to allow you to navigate.
 
@@ -110,15 +118,7 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **What To Do With Non-Steam Games?**
 
@@ -152,18 +152,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-best-webcams-for-streaming-elevate-your-viewer-experience-on-twitch/"><u>[New] 2024 Approved Best Webcams for Streaming Elevate Your Viewer Experience on Twitch</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-captivating-chats-with-animated-content-an-in-depth-guide-to-snapchats-gif-feature/"><u>[New] Captivating Chats with Animated Content An In-Depth Guide to Snapchat's GIF Feature</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-introduce-dynamic-blurring-to-pics-in-ps-for-2024/"><u>[New] Introduce Dynamic Blurring to Pics in PS for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-masterclass-elevate-obs-broadcasts-on-the-facebook-stage-for-2024/"><u>[New] Masterclass Elevate OBS Broadcasts on the Facebook Stage for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-premier-mc-village-residential-plans/"><u>[Updated] 2024 Approved Premier MC Village Residential Plans</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-infinix-smart-8-pro-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Infinix Smart 8 Pro? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/sting-hits-and-heads-how-to-profit-from-your-youtube-presence-without-ads/"><u>Harvesting Hits and Heads How to Profit From Your YouTube Presence Without Ads</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-realme-c67-4g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Realme C67 4G to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-top-fbx-capture-tools-beyond-traditional-recorders/"><u>In 2024, Top FBX Capture Tools Beyond Traditional Recorders</u></a></li>
-<li><a href="https://techidaily.com/solved-microsoft-excel-2023-file-error-the-document-cannot-be-saved-by-stellar-guide/"><u>Solved Microsoft Excel 2023 File Error The document cannot be saved</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/video-speed-mastery-selecting-premium-pc-monitor-controls-for-2024/"><u>Video Speed Mastery Selecting Premium PC Monitor Controls for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/vr-beyond-imagination-top-peripherals-and-tech-for-2024/"><u>VR Beyond Imagination - Top Peripherals & Tech for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-immersive-insight-amd-radeon-update/"><u>[New] In 2024, Immersive Insight AMD Radeon Update</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-cost-free-chromebook-video-capturing-leaders/"><u>[Updated] 2024 Approved Cost-Free Chromebook Video Capturing Leaders</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-how-to-perfectly-record-and-preserve-your-ps3-games-for-2024/"><u>[Updated] How to Perfectly Record and Preserve Your PS3 Games for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-filefixers-experts-evaluation/"><u>[Updated] In 2024, FileFixers Experts Evaluation</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/all-inclusive-iptv-delivery-systems-for-2024/"><u>All-Inclusive IPTV Delivery Systems for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevate-your-gameplay-videos-the-ultimate-collection-of-freefire-tags-for-2024/"><u>Elevate Your Gameplay Videos The Ultimate Collection of FreeFire Tags for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-lenovo-tab-4-an-affordable-android-solution-with-its-own-set-of-challenges/"><u>Exploring the Lenovo Tab 4 - An Affordable Android Solution With Its Own Set of Challenges</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-tecno-spark-20-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-unlocking-the-potential-of-aiseesoft-for-video-documentation/"><u>In 2024, Unlocking the Potential of Aiseesoft for Video Documentation</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-sealocus-55-outdoor-4k-tv-assessment-compact-stylish-design-for-your-backyard-viewing/"><u>In-Depth Sealocus 55 Outdoor 4K TV Assessment - Compact, Stylish Design for Your Backyard Viewing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-scoop-on-the-real-contrasts-between-apple-and-microsoft-devices/"><u>Inside Scoop on the Real Contrasts Between Apple and Microsoft Devices</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209588699-9781684033966-on-the-mystery-of-being/"><u>On the Mystery of Being | Free Book</u></a></li>
 </ul></div>
 
