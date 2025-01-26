@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Dark Realm Explorations  Do's & Don'ts of Nocturnal Shooting for 2024\""
-date: 2025-01-17T23:55:06.518Z
-updated: 2025-01-19T20:47:41.973Z
+date: 2025-01-22T00:57:25.101Z
+updated: 2025-01-26T04:32:54.985Z
 tags: 
   - screen-recording
   - ai video
@@ -28,10 +28,6 @@ Well, **night-mode portraits** can be such an opportunity. However, it can be a 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Must-Dos in Night Portraits
 
 Let's start this discussion by exploring the major dos related to **night portraits** photoshoots. Some dos that you should consider are:
@@ -43,7 +39,7 @@ One of the most difficult repercussions of **night mode portraits** is that ever
 This will also allow you to take advantage of clicking pictures during special hour lighting. Besides, it will also help you to know how changing list settings can affect the scene. Another important thing to consider here is styling your subject. You need to make sure that your subjects look professional and choose the right type of clothing. So, try to understand the purpose of your **night mode portraits.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Lighting your Subject
@@ -74,18 +70,30 @@ For better results, you can use a camera stabilizer. A camera stabilizer will of
 ![pexels marcelo dias 1970482](https://images.wondershare.com/filmora/article-images/2022/11/pexels-marcelo-dias-1970482.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Experts suggest using a sturdy camera tripod, and it will be better to get a remote release. With this, you can trigger the camera without touching the shutter button, and it will reduce the movement of the camera.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Don't-Dos in Night Portraits
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Don't dress in dark
 
 When it comes to wearing black for night portraits, experts suggest avoiding it unless you have proper light settings and you have your make-up done by an expert who can correct the color for shadows. Sometimes, dark clothes may create an aging effect on the subject. Besides, if the lighting condition is not good, the photos will become much darker due to your dark dress. So, wear light-colored dresses. Besides, don't use shirts that have visible text, brand names or logos.
 
 ![pexels nikolai ulltang 572463](https://images.wondershare.com/filmora/article-images/2022/11/pexels-nikolai-ulltang-572463.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Don't do a capture shoot
 
@@ -99,19 +107,11 @@ When you overuse the light, it can affect the scene's depth of field. Besides, t
 
 Talking about the shutter speed, for stationary subjects, you can go for 1/160s. If it is a moving subject, then 1/500s or above can work for you. Now, coming to the ISO, the default ISO value, i.e., ISO 100, is good for taking the highest-quality photos. If you think your portraits are overexposed, then increase the shutter speed to control the light.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Don't forget about white balance and Adjust It Before Shooting
 
 Speaking about white balance, it is a setting to make sure the colors in the photos are natural and accurate and the photos don't have unrealistic colors. If the subject appears white in real but blue or red in the photos, then you need to adjust the white balance. Daylight white balance will be very warm for night photos. That's why you need to go for cooler settings, around 3200 to 4800, based on your environment and location.
 
 ![pexels simon robben 473107](https://images.wondershare.com/filmora/article-images/2022/11/pexels-simon-robben-473107.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 For example, in city areas, a lower setting, i.e., 3400 to 3900k, can work great. On the other hand, for darker skies, white balance settings of 4000k and above will offer you the best results. Begin with the above suggestion and click some test photos while increasing 100k after every shot to find the right white balance settings.
 
@@ -119,13 +119,13 @@ However, you can also preset the white balance in your camera or edit the photos
 
 ## FAQs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How To Capture Good Portraits at Night?
 
 As per the experts, the lower the aperture, the more light your camera will receive. This can make your **night mode portraits** difficult. So, you need to go for a slower shutter speed and make sure that there will be subject or camera movement. All you need to do is control the light.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What Should You Need to Avoid in Portrait Photography?
 
@@ -165,24 +165,22 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-record-video-with-logitech-webcam-guide-for-2024/"><u>[New] Record Video with Logitech Webcam [Guide] for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-how-to-convert-pinterest-video-to-mp3-files-and-download-them/"><u>[Updated] 2024 Approved How to Convert Pinterest Video to MP3 Files and Download Them</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-capture-win10-ranking-the-best-video-grabbers/"><u>[Updated] Capture Win10 Ranking the Best Video Grabbers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-quickcapture-vs-recordify-comparative-recorder-analysis-2023/"><u>[Updated] In 2024, 'QuickCapture' Vs 'Recordify' Comparative Recorder Analysis 2023</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-pinnacle-screenshots-on-mac-a-deep-dive-into-top-apps/"><u>[Updated] In 2024, Pinnacle Screenshots on Mac A Deep Dive Into Top Apps</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-mastering-video-capture-on-your-laptop-with-screenrec/"><u>[Updated] Mastering Video Capture on Your Laptop with ScreenRec</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-novel-vlog-talk-points-everyday-for-2024/"><u>[Updated] Novel Vlog Talk Points Everyday for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-secure-mobile-messaging-made-simple-with-these-10-best-free-chat-services-on-iphoneandroid/"><u>[Updated] Secure Mobile Messaging Made Simple with These 10 Best Free Chat Services on iPhone/Android</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-5-web-streaming-recorders/"><u>[Updated] Top 5 Web Streaming Recorders</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-solutions-for-corsair-hs70-headphones-when-the-microphone-fails/"><u>DIY Solutions for Corsair HS70 Headphones When the Microphone Fails</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-oppo-a59-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Oppo A59 5G in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-oneplus-nord-3-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass OnePlus Nord 3 5G FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Honor 90? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-v30-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme V30 Device</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/learn-to-record-your-xbox-games-with-ease-for-2024/"><u>Learn to Record Your Xbox Games with Ease for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-s17e-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo S17e Device</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/perfecting-your-sims-4-live-action-for-2024/"><u>Perfecting Your Sims 4 Live Action for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-missing-windows-update-installation/"><u>Troubleshooting Missing Windows Update Installation</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-you-need-to-install-ios-153-right-now/"><u>Why You Need to Install iOS 15.3 Right Now</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-tech-savvy-approach-to-cutting-out-background-noise-in-google-meet/"><u>[New] Tech-Savvy Approach to Cutting Out Background Noise in Google Meet</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-explore-and-review-every-application-az-screenshotters-way/"><u>[Updated] 2024 Approved Explore & Review Every Application - AZ Screenshotter's Way</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-top-5-best-4k-gaming-monitors/"><u>[Updated] 2024 Approved Top 5 Best 4K Gaming Monitors</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-best-screenshots-programs-ranked-1-8/"><u>[Updated] Best Screenshots Programs Ranked #1-8</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-secure-and-sync-your-cinematic-recordings-across-platforms/"><u>[Updated] In 2024, Secure and Sync Your Cinematic Recordings Across Platforms</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-odyssey-of-gaming-the-ultimate-list-of-freeware-mmorpgs-for-2024/"><u>[Updated] Odyssey of Gaming The Ultimate List of Freeware MMORPGs for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-capture-the-past-with-your-camera-roll-snapchat-edition/"><u>2024 Approved Capture the Past with Your Camera Roll - Snapchat Edition</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/beginners-tutorial-adobe-capture-screen-sharing-techniques-for-2024/"><u>Beginner's Tutorial Adobe Capture Screen Sharing Techniques for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-step-by-step-walkthrough-incorporating-subtitles-in-mp4s/"><u>In 2024, Step-by-Step Walkthrough Incorporating Subtitles in MP4s</u></a></li>
+<li><a href="https://fox-access.techidaily.com/luminous-landscapes-designing-visuals-that-dazzle-viewers/"><u>Luminous Landscapes Designing Visuals that Dazzle Viewers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/mastery-in-mac-screen-capture-format-conversion-for-2024/"><u>Mastery in Mac Screen Capture Format Conversion for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/t5-thievery-hd-hands-on-review/"><u>T5 Thievery HD Hands-On Review</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-ultimate-7-fps-gaming-list/"><u>The Ultimate 7 FPS Gaming List</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-essential-upgrades-for-android-how-it-can-surpass-ios-as-the-preferred-choice-insights-from-zdnet/"><u>Top 5 Essential Upgrades for Android: How It Can Surpass iOS as the Preferred Choice - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-kindle-oasis-2019-assessment-nearly-indistinguishable-from-real-paper/"><u>Ultimate Kindle Oasis (2019) Assessment - Nearly Indistinguishable From Real Paper!</u></a></li>
 </ul></div>
 

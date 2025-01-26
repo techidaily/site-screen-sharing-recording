@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Compile Presentation Asset to Video"
-date: 2025-01-15T22:23:53.630Z
-updated: 2025-01-20T00:01:47.411Z
+date: 2025-01-21T21:35:32.061Z
+updated: 2025-01-25T22:53:19.508Z
 tags: 
   - screen-recording
   - ai video
@@ -58,6 +58,14 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1:How to Save a PowerPoint 2007 Presentation as a Video on Windows OS
 
 All versions of the PowerPoint that were released since 2010 allow its users to save their presentations as videos, but older versions of the software are still frequently used. The process of converting a PPT file into a video file in PowerPoint 2007 may not be as simple as on the latest version of the software, but it is far from being complicated. Please note that if you have a 2013 PowerPoint and you want to save a PPT file created on the 2007 version of the software you can do so by clicking on the Create a Video option. Here's how you can convert a PowerPoint presentation to video if you are still using PowerPoint 2007.
@@ -66,12 +74,16 @@ Before you proceed any further you'll have to make sure that you have [Windows M
 
 ![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/save-ppt-to-video-ms2007.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When all the slides are saved as images, you should launch the Windows Movie Maker and import all images you previously created in PowerPoint. If you want to include narration in your PowerPoint video, you can import the audio file directly into the Windows Movie Maker and add it to your project.
 
 ![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/save-ppt-to-video-ms2007-windows-movie-maker.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This method of saving a PowerPoint presentation as a video doesn't allow you to keep animations, transitions or multimedia files, because you have to convert all slides into image files.
@@ -85,7 +97,7 @@ After you create a presentation, save it as you normally would. You should then 
 ![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/save-ppt-to-video-ms2010.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 When the Save and Send menu appears on the screen you should find the Create a Video option and click on it.
@@ -104,11 +116,11 @@ Click on the Create Video icon once you've made all adjustments and go ahead to 
 
 ![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt2010-create-video.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The conversion process will take a while, but after it is over, you'll be able to share the PowerPoint presentation video on video sharing platforms or social media networks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Save a PowerPoint 2013 or 2016 Presentation as a video on Windows OS
 
@@ -118,16 +130,12 @@ Collapse the File menu and select the Export option, then click on the Create a 
 
 ![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/ppt-save-as-video.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Once the Create a Video window emerges on the screen, you should click on the Computer and HD Displays option, so you can adjust the video quality and size settings.
 
 ![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/ppt-save-as-video-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After fine-tuning the video settings, you can proceed to click on the Use Recorded Timings and Narrations menu. If you don't want to include narration or recorded timings in your video, you can set the duration of each slide individually with the Timings feature that is located at the bottom of the screen.
@@ -148,17 +156,9 @@ Click on the File menu and select the Save as Movie option. After the new window
 
 ![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/save-ppt-as-video-mac-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The Movie Options dialogue box will pop up, and you should click on the Movie Options icon to set slide durations, add transitions between slides, create a video loop or choose the size of the video and its quality.
 
 ![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/save-ppt-as-video-mac-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Hit OK to close the Movie Options, and then click Save to convert the PPT into a video file.
 
@@ -186,22 +186,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-conquer-business-the-top-12-tycoon-games-for-leaders-in-training/"><u>[New] 2024 Approved Conquer Business The Top 12 Tycoon Games for Leaders-in-Training</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-androids-photography-hub-is-pickup-at-the-top-of-its-class/"><u>[New] Android's Photography Hub Is PickUp at the Top of Its Class?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-directscreen-w11-instant-recording-on-windows-11/"><u>[New] DirectScreen W11 Instant Recording on Windows 11</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-the-complete-user-manual-how-to-use-screen-recording-on-mac/"><u>[New] In 2024, The Complete User Manual How To Use Screen Recording on Mac</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-precision-settings-for-obs-studio-on-android/"><u>[New] Precision Settings for OBS Studio on Android</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-unlocking-composite-power-with-blend-mode-knowledge/"><u>[New] Unlocking Composite Power with Blend Mode Knowledge</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-configure-storage-of-captured-mac-screen/"><u>[Updated] Configure Storage of Captured Mac Screen</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-the-creme-de-la-creme-live-streaming-services/"><u>[Updated] The Crème De La Créme Live Streaming Services</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-invisible-trail-hidden-steps-for-tracking-whatsapp-calls-for-2024/"><u>[Updated] The Invisible Trail Hidden Steps for Tracking WhatsApp Calls for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-top-8-live-video-enhancers-for-online-broadcasts/"><u>2024 Approved Top 8 Live Video Enhancers for Online Broadcasts</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-performance-at-a-glance-top-4k-laptops-for-2024/"><u>Best Performance at a Glance - Top 4K Laptops for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/data-phoenix-stellars-server-revival/"><u>Data Phoenix: Stellar's Server Revival</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-gionee-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Gionee FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-ideal-obs-preset-for-economical-machines/"><u>In 2024, Ideal OBS Preset for Economical Machines</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revolutionize-your-viewing-experience-with-affordable-200-inch-display-400-vr-headset-for-immersive-gaming-and-movie-marathons/"><u>Revolutionize Your Viewing Experience with Affordable 200-Inch Display - $400 VR Headset for Immersive Gaming & Movie Marathons</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-the-no-ping-from-data-centers-issue-in-halo-infinity/"><u>Solving the 'No Ping From Data Centers' Issue in Halo Infinity</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-iphone-6s-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and iPhone 6s</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-persistent-display-transcription/"><u>[New] 2024 Approved Persistent Display Transcription</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/reating-accessibility-your-guide-to-an-intuitive-youtube-signup-for-2024/"><u>[New] Creating Accessibility Your Guide to an Intuitive YouTube Signup for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-download-and-installation-101-your-pathway-to-mastering-ez-grabber-for-2024/"><u>[New] Download & Installation 101 Your Pathway to Mastering EZ Grabber for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-maximizing-impact-with-reddit-essential-tips-revealed/"><u>[New] Maximizing Impact with Reddit - Essential Tips Revealed</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-prime-motorsport-experiences-quintessential-list/"><u>[New] Prime Motorsport Experiences Quintessential List</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-video-frame-rates-explained-why-choose-30-or-60-in-2024/"><u>[New] Video Frame Rates Explained Why Choose 30 or 60, In 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-9-command-center-of-live-gaming-streams/"><u>[Updated] 2024 Approved 9 Command Center of Live Gaming Streams</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-purifying-audio-from-films-and-movies-cost-effective-methods/"><u>[Updated] 2024 Approved Purifying Audio From Films and Movies Cost-Effective Methods</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-easier-ways-to-document-your-youtube-videos/"><u>[Updated] Easier Ways to Document Your YouTube Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-revolutionize-video-crafting-mastering-the-integration-of-windows-11-and-storyremix/"><u>[Updated] In 2024, Revolutionize Video Crafting Mastering the Integration of Windows 11 & StoryRemix</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-livestream-excellence-unveiling-the-best-practices-for-facebook-recorders-for-2024/"><u>[Updated] Livestream Excellence Unveiling the Best Practices for Facebook Recorders for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-unifying-streams-simultaneous-capture-of-camplusscreen/"><u>2024 Approved Unifying Streams Simultaneous Capture of Cam+Screen</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95918390-9781782796961-fairies/"><u>Fairies: | Free Book</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016854851-fixing-auditory-glitches-while-playing-outriders-effective-strategies-inside/"><u>Fixing Auditory Glitches While Playing Outriders - Effective Strategies Inside</u></a></li>
+<li><a href="https://fox-links.techidaily.com/formula-field-report-game-reviews/"><u>FORMULA FIELD REPORT Game Reviews</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/los-top-free-streamers-de-video-con-h265-hevc-para-ultra-hd-en-windows-10-y-mac-opinion-de-los-mejores-en-2020/"><u>Los Top Free Streamers De Video Con H.265 HEVC Para Ultra HD en Windows 10 Y Mac: Opinión De Los Mejores en 2020</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/maximize-your-content-with-these-top-5-obs-tips-for-2024/"><u>Maximize Your Content with These Top 5 OBS Tips for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/non-networked-game-haven-top-screen-free-android-titles/"><u>Non-Networked Game Haven Top Screen-Free Android Titles</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/periscope-review-for-2024/"><u>Periscope Review for 2024</u></a></li>
 </ul></div>
 
