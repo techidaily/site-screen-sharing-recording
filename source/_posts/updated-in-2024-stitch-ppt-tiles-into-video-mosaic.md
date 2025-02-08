@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Stitch PPT Tiles Into Video Mosaic"
-date: 2025-01-16T18:39:39.934Z
-updated: 2025-01-20T04:13:50.625Z
+date: 2025-02-06T23:15:03.958Z
+updated: 2025-02-07T20:53:41.206Z
 tags: 
   - screen-recording
   - ai video
@@ -53,10 +53,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1:How to Save a PowerPoint 2007 Presentation as a Video on Windows OS
 
 All versions of the PowerPoint that were released since 2010 allow its users to save their presentations as videos, but older versions of the software are still frequently used. The process of converting a PPT file into a video file in PowerPoint 2007 may not be as simple as on the latest version of the software, but it is far from being complicated. Please note that if you have a 2013 PowerPoint and you want to save a PPT file created on the 2007 version of the software you can do so by clicking on the Create a Video option. Here's how you can convert a PowerPoint presentation to video if you are still using PowerPoint 2007.
@@ -69,11 +65,11 @@ When all the slides are saved as images, you should launch the Windows Movie Mak
 
 ![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/save-ppt-to-video-ms2007-windows-movie-maker.jpg)
 
-This method of saving a PowerPoint presentation as a video doesn't allow you to keep animations, transitions or multimedia files, because you have to convert all slides into image files.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+This method of saving a PowerPoint presentation as a video doesn't allow you to keep animations, transitions or multimedia files, because you have to convert all slides into image files.
 
 ## Part 2: Saving PowerPoint 2010 Presentation as Video
 
@@ -84,34 +80,38 @@ After you create a presentation, save it as you normally would. You should then 
 ![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/save-ppt-to-video-ms2010.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 When the Save and Send menu appears on the screen you should find the Create a Video option and click on it.
 
 ![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/save-ppt-to-video-ms2010-create-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Create a Video box that contains video settings will pop up on the screen and you should click on the Computer&HD Displays option in order to adjust the size and the quality of your video.
 
 ![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt2010-create-video-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In the next step, you can switch off the default timings and narration by clicking on the Don't Use Recorded Timings and Narration. Keep in mind that this step is only necessary if you want to adjust timings manually and use narration you recorded.
 
 ![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt2010-recorded-timings-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Click on the Create Video icon once you've made all adjustments and go ahead to select the destination on your hard drive where the video file will be saved and to insert a file name.
 
 ![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt2010-create-video.jpg)
 
 The conversion process will take a while, but after it is over, you'll be able to share the PowerPoint presentation video on video sharing platforms or social media networks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Save a PowerPoint 2013 or 2016 Presentation as a video on Windows OS
 
@@ -125,6 +125,10 @@ Once the Create a Video window emerges on the screen, you should click on the Co
 
 ![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/ppt-save-as-video-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After fine-tuning the video settings, you can proceed to click on the Use Recorded Timings and Narrations menu. If you don't want to include narration or recorded timings in your video, you can set the duration of each slide individually with the Timings feature that is located at the bottom of the screen.
 
 ![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt-save-as-video-timings-settings.jpg)
@@ -132,10 +136,6 @@ After fine-tuning the video settings, you can proceed to click on the Use Record
 Hitting the Create a Video button will bring up the Save As window that will enable you to name the video file, select the location of the folder where the video file will be saved and choose the file format to which you want to convert the PPT file. When ready, click on the Save button to start the conversion, and that's it, you've successfully turned a PPT file into a video.
 
 ![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt-save-as-video-2013.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: Saving PowerPoint Presentation as video on Mac OS
 
@@ -151,10 +151,6 @@ The Movie Options dialogue box will pop up, and you should click on the Movie Op
 
 ![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/save-ppt-as-video-mac-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Hit OK to close the Movie Options, and then click Save to convert the PPT into a video file.
 
 **Conclusion**
@@ -164,6 +160,10 @@ Converting PPT files into videos is a simple process on both Mac and Windows ope
 Which method of converting PPT to video files do you like to use the most? Would you use some [PPT to Video Converters](https://tools.techidaily.com/wondershare/filmora/download/) to save ppt files as videos? Let us know in the comments below.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -180,22 +180,15 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ecoding-digital-dollars-an-effective-way-to-understand-youtube-revenue-dynamics/"><u>[New] Decoding Digital Dollars An Effective Way to Understand YouTube Revenue Dynamics</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-enhancing-streaming-quality-using-obs-plus-zoom/"><u>[New] Enhancing Streaming Quality Using OBS + Zoom</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-soundscapes-from-social-media-videos/"><u>[New] In 2024, Soundscapes From Social Media Videos</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-resolving-fps-confusion-30vs60-for-high-quality-recordings/"><u>[New] Resolving FPS Confusion 30Vs.60 For High-Quality Recordings</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-the-invisible-trail-hidden-steps-for-tracking-whatsapp-calls-for-2024/"><u>[New] The Invisible Trail Hidden Steps for Tracking WhatsApp Calls for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-ultimate-steps-to-document-lol-encounters/"><u>[Updated] 2024 Approved Ultimate Steps to Document LOL Encounters</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-ending-grey-shades-in-live-stream-translations-for-2024/"><u>[Updated] Ending Grey Shades in Live Stream Translations for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-elevating-video-view-count-top-hashtag-trends-guide/"><u>2024 Approved Elevating Video View Count Top Hashtag Trends Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-mastering-ppt-a-comprehensive-voice-guidance-manual/"><u>2024 Approved Mastering PPT A Comprehensive Voice Guidance Manual</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/direct-to-streamer-duel-obs-vs-shadowtoolkit-for-2024/"><u>Direct-to-Streamer Duel OBS Vs. ShadowToolkit for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/effortless-video-recordings-of-google-meets-on-phones/"><u>Effortless Video Recordings of Google Meets on Phones</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-gionee-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Gionee FRP Without Computer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lenovo-x260-thinkpad-drivers-download-and-update-on-windows-11/"><u>Lenovo X260 (ThinkPad) Drivers Download & Update on Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-battery-savings-by-disabling-androids-background-processes/"><u>Mastering Battery Savings by Disabling Android's Background Processes</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/perpetual-screen-snapshot/"><u>Perpetual Screen Snapshot</u></a></li>
-<li><a href="https://fox-that.techidaily.com/stop-app-crash-frustration-10-proven-methods-for-stabilizing-iphone-software/"><u>Stop App Crash Frustration: 10 Proven Methods for Stabilizing iPhone Software</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-tecno-spark-10-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Tecno Spark 10 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-unlocking-the-power-of-visual-content-share-vids-on-facebook/"><u>[Updated] 2024 Approved Unlocking the Power of Visual Content Share Vids on Facebook</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-ballot-battlegrounds-prime-political-games-guide/"><u>2024 Approved Ballot Battlegrounds Prime Political Games Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unblemished-visuals-a-buyers-ultimate-guide/"><u>2024 Approved Unblemished Visuals A Buyer's Ultimate Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/macx-itunes-dvdmacitunesiphoneipod/"><u>無料MacX iTunes変換ソフト: DVDからMac上のiTunes・iPhone/iPodへ容易なデジタルコンバート</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/download-x-recorder-for-pc-for-2024/"><u>Download X-Recorder for PC for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/from-playtime-to-production-sims-4-video-capturing/"><u>From Playtime to Production Sims 4 Video Capturing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-crafting-countdowns-the-essentials-for-obs-users/"><u>In 2024, Crafting Countdowns The Essentials for OBS Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-strategies-for-improved-video-zoom-during-virtual-gatherings-google-meet/"><u>In 2024, Strategies for Improved Video Zoom During Virtual Gatherings (Google Meet)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/using-facebook-messenger-as-a-non-facebook-user-tips-and-tricks/"><u>Using Facebook Messenger as a Non-Facebook User: Tips & Tricks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Infinix Zero 30 5G? | Dr.fone</u></a></li>
 </ul></div>
 

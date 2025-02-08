@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Editor's Handbook  Utilizing Strikethrough and Callout Tools\""
-date: 2025-01-15T18:36:09.905Z
-updated: 2025-01-19T16:08:52.209Z
+date: 2025-02-01T21:21:10.227Z
+updated: 2025-02-07T19:27:20.179Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,10 @@ The production of visually impressive videos, you'll be proud to share on your Y
 Markers can be used during the video editing and after the screen recording to make post-production, to help you mark the places in the footage where you've made a mistake, where the new take starts or to indicate a spot on the timeline where you would like to place a particular video clip. In this article, we are going to show you how to utilize markers during the screen capturing sessions or while you're [editing videos](https://tools.techidaily.com/wondershare/filmora/download/) with Filmora.
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
 
@@ -62,10 +66,6 @@ The **timeline markers**, on the other hand, can only be added to a project once
 
 This type of marker is immensely useful if you want to organize the timeline in your project better and to know exactly where every clip you want to use in your video is located at all times. Besides being a highly efficient tool for organizing vast amounts of footage, timeline markers can also help you denote the beats in the audio file and then sync the video clip perfectly to the beat of the tune you're using as a soundtrack to your video.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Add Markers During Video Editing and After Screen Recording in Filmora?
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -78,10 +78,6 @@ For macOS 10.12 or later
 
 * [1\. How to Add a Marker During Video Editing](#filmora1)
 * [2\. How to Remove a Marker After Screen Recording](#filmora2)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. How to Add a Marker During Video Editing
 
@@ -102,7 +98,7 @@ Filmora lets you adjust your marker settings for your video. Right-click on the 
 ![access the modification option](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step 3: Customize the Markers
@@ -118,7 +114,7 @@ After importing the clip into the timeline and identifying the points of error i
 ![add maker through the keyboard](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **2\. How to Remove a Marker After Screen Recording**
@@ -128,7 +124,11 @@ Once you have finished editing your mistakes, it's important to remove the marke
 ![remove a marker](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -152,24 +152,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-navigating-through-quantum-hdr-expertise/"><u>[New] 2024 Approved Navigating Through Quantum HDR Expertise</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-captivating-colors-in-photos-a-ps-masterclass-for-2024/"><u>[New] Captivating Colors in Photos A PS Masterclass for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-capturing-the-world-in-full-circle-experts-360-cams-review-2023/"><u>[New] Capturing the World in Full Circle - Expert's 360 Cams Review, 2023</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-speedy-steps-to-save-slideshows/"><u>[New] Speedy Steps to Save Slideshows</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-expert-level-workshop-programming-timer-functions-for-obs-productions/"><u>[Updated] Expert-Level Workshop Programming Timer Functions for OBS Productions</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-simple-systems-a-step-by-step-guide-to-documenting-google-hangoutsmeet/"><u>[Updated] In 2024, Simple Systems A Step-by-Step Guide to Documenting Google Hangouts/Meet</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-mastering-internet-based-live-audio-capture-5-key-strategies/"><u>[Updated] Mastering Internet-Based Live Audio Capture 5 Key Strategies</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-overcoming-fixed-color-voids-in-recording-software-for-2024/"><u>[Updated] Overcoming Fixed Color Voids in Recording Software for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-checklist-for-growing-youtube-subscribers-for-2024/"><u>[Updated] The Ultimate Checklist for Growing YouTube Subscribers for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/warning-print-service-not-starting-correctly/"><u>[WARNING] Print Service Not Starting Correctly</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-8-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 8 without Passcode or Face ID</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-gpu-glimpse-new-radeon-unleashed/"><u>In 2024, GPU Glimpse New Radeon Unleashed</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g23-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G23 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-most-streamed-hits-in-spotify-history/"><u>In 2024, Most Streamed Hits in Spotify History</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-recorder-royalty-best-premium-recording-software-on-pc-and-macos-free/"><u>In 2024, Recorder Royalty Best Premium Recording Software on PC & MacOS FREE</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/optimizing-cyberpunk-2077-how-to-fix-lag-and-enhance-frame-rate/"><u>Optimizing Cyberpunk 2077: How to Fix Lag and Enhance Frame Rate</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/stepwise-guide-to-ipad-time-lapse-mastery-for-2024/"><u>Stepwise Guide to iPad Time-Lapse Mastery for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/sync-zoom-meeting-times-across-mobile-and-desktop-calendars/"><u>Sync Zoom Meeting Times Across Mobile & Desktop Calendars</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ling-the-top-10-global-explorer-channels/"><u>Unveiling the Top 10 Global Explorer Channels</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1715859884976-updated-essential-open-worlds-you-cant-ignore/"><u>[Updated] Essential Open Worlds You Can't Ignore!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-diverse-technology-scrutiny-easeus-edition/"><u>2024 Approved Diverse Technology Scrutiny EaseUS Edition</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-premier-sustainable-cinematography-gear/"><u>2024 Approved Premier Sustainable Cinematography Gear</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-rage-raid-and-rebel-without-a-gta-tale/"><u>2024 Approved Rage, Raid and Rebel Without a GTA Tale</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-screenflow-mastery-for-mac-users-a-critical-look/"><u>2024 Approved ScreenFlow Mastery for Mac Users – A Critical Look</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-ultra-screen-recorder-how-to-use/"><u>2024 Approved Ultra Screen Recorder - How to Use</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/efficient-steps-recording-on-apples-ipad/"><u>Efficient Steps Recording on Apple's iPad</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/evaluating-the-effectiveness-of-vidma-screen-recorders/"><u>Evaluating the Effectiveness of Vidma Screen Recorders</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/from-the-grave-to-gameplay-top-8-zombies-unleashed/"><u>From the Grave to Gameplay Top 8 Zombies Unleashed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-integration-share-your-zoom-conferences-with-a-televisual-display/"><u>Seamless Integration: Share Your Zoom Conferences with a Televisual Display</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-windows-11-experience-for-mac-using-parallels/"><u>Seamless Windows 11 Experience for Mac, Using Parallels</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/strategies-that-convert-followers-into-fortune-on-instagram-for-2024/"><u>Strategies That Convert Followers Into Fortune on Instagram for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-roborock-vacuum-models-featuring-in-depth-analysis-and-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Roborock Vacuum Models , Featuring In-Depth Analysis & Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-value-discover-the-mighty-power-of-affordable-micro-pcs-on-a-budget-insights-from-zdnet/"><u>Unbeatable Value: Discover the Mighty Power of Affordable Micro-PCs on a Budget - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-limitations-why-generative-ai-may-not-suit-messaging-services/"><u>Understanding the Limitations: Why Generative AI May Not Suit Messaging Services</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-generate-tones-with-ease-5-free-online-options/"><u>Updated 2024 Approved Generate Tones with Ease 5 Free Online Options</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-how-to-make-a-imovie-photo-slideshow-with-music-for-2024/"><u>Updated How to Make a iMovie Photo Slideshow with Music for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-against-printer-problems-a-detailed-guide-to-resolve-xerox-update-error-0x800f020b-in-windows/"><u>Winning Against Printer Problems: A Detailed Guide to Resolve Xerox Update Error 0X800f020b in Windows</u></a></li>
 </ul></div>
 
