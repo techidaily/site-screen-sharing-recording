@@ -1,7 +1,7 @@
 ---
 title: "'Sifu': Resolved Frame Rate Hiccups and Freezing Issues on the PC Version!"
-date: 2025-02-05T17:17:34.882Z
-updated: 2025-02-07T21:03:48.279Z
+date: 2025-02-16T16:20:32.016Z
+updated: 2025-02-17T16:06:08.008Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/75622c9aef94101b38b55f9079234e66e622d3109
 
 Amazon’s MMO New World has a very engaging and in-depth system that attracts gamers to play the game. But there’re bugs and technical mishaps such as constantly freezing that may frustrate you.  
  New World does have a support service, but they’re experiencing long wait times connecting to an associate for New World queries, but you’re not alone, there are fixes that we’ve gathered from gamers that may help you solve the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -51,10 +55,6 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 
  If the latest graphics driver doesn’t fix the problem, you can move to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Verify the integrity of game files
 
  New World is a large AAA title game that is easily freezing when there are missing or corrupted files. Therefore, verifying the integrity of your game files is a common fix for the freezing issue.
@@ -66,10 +66,14 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-4.jpg)
 3. Allow the checking to complete. Then you can start New World and see if it freezes again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If the problem persists, take a look at the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Rollback NVIDIA driver
@@ -81,6 +85,10 @@ If the problem persists, take a look at the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/devmgmt.msc_-1.png)
 3. Expand the **Display adapters**  branch. Right-click the Nvidia graphics card device and click **Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2700f19925.jpg)
 4. Click the **Driver** tab. Then click **Roll Back Driver** .  
 
@@ -88,16 +96,12 @@ If the problem persists, take a look at the next fix below.
 5. Then you will get a pop-up window like below. Click the **Yes** button. Then the driver will be restored to the previously installed version.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Restart your PC for the change to take effect.
 
 If this fix doesn’t bring luck, take a look at the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Underclock your GPU core
 
@@ -111,15 +115,15 @@ If this fix doesn’t bring luck, take a look at the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/msi-afterburner-featured.jpg)
 4. Because of the different PC environments, you may need to keep adjusting the Core Clock until you’re no longer freezing.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here we suggest underclocking your GPU Core Clock by 400 MHz and memory clock 500 MHz.
 5. In MSI Afterburner, change your power limit to 80%.
 6. Save the profile and relaunch New World to check.
 
 If it’s still not working, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Lower your graphics settings
 
@@ -132,10 +136,6 @@ If it’s still not working, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/cap.jpg)  
  In most cases, 60 fps is enough. But some gamer replies they’ve lower to 30 FPS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Play New World to check.
 
@@ -162,7 +162,7 @@ If it’s still not working, try the next fix.
  Once you’ve finished the process, restart your PC and check if New World freezing again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Move the files to the SSD drive
@@ -190,22 +190,16 @@ If you haven’t tried it, give it a go it might help.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/1716069362137-updated-in-2024-the-ultimate-user-friendly-guide-to-starting-an-effective-group-chat-on-skype-across-multiple-platforms/"><u>[Updated] In 2024, The Ultimate User-Friendly Guide to Starting an Effective Group Chat on Skype Across Multiple Platforms.</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-overwatch-the-ultimate-guide-to-recording-gameplay/"><u>2024 Approved Overwatch The Ultimate Guide to Recording Gameplay</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/definitive-top-ten-nintendo-switch-combat-apps-max-156/"><u>Definitive Top Ten Nintendo Switch Combat Apps (Max 156)</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/easy-steam-recordings-with-team-fortress-2s-latest-update/"><u>Easy Steam Recordings with Team Fortress 2'S Latest Update</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/game-changers-discovering-top-tier-gaming-webcam-technology/"><u>Game Changers Discovering Top-Tier Gaming Webcam Technology</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-iphone-14-pro-max-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From iPhone 14 Pro Max in the Best Ways</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/how-to-record-tv-shows-on-windows-with-free-video-recording-software-for-2024/"><u>How to Record TV Shows on Windows with Free Video Recording Software for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-xiaomi-redmi-k70-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Redmi K70 Pro Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-15-pro-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 15 Pro in Lost Mode</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-explore-5-pro-game-record-methods-in-windows-11/"><u>In 2024, Explore 5 Pro Game Record Methods in Windows 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-motorola-moto-g23-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Motorola Moto G23 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-perfectly-merged-clips-the-power-of-blending-modes/"><u>In 2024, Perfectly Merged Clips The Power of Blending Modes</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-techniques-for-setting-up-your-wd-ses-external-drive-with-updated-usb-drivers/"><u>Latest Techniques for Setting Up Your WD SES External Drive with Updated USB Drivers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mastering-video-conversion-switching-forward-and-backwards-between-original-and-webm-using-movavi-software/"><u>Mastering Video Conversion: Switching Forward and Backwards Between Original and WebM Using Movavi Software</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ps-gaming-audio-masterclass-vocal-tweaks/"><u>PS Gaming Audio Masterclass - Vocal Tweaks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-ranked-best-flashlights-choices-endorsed-by-tech-experts-zdnet/"><u>Top-Ranked Best Flashlights - Choices Endorsed by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-get-ready-for-the-big-screen-top-movie-trailer-apps-for-iphone-and-ipad-for-2024/"><u>Updated Get Ready for the Big Screen Top Movie Trailer Apps for iPhone and iPad for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-achieving-a-million-on-the-map-a-strategic-view-to-sub-guide-for-2024/"><u>[New] Achieving a Million on the Map A Strategic View-to-Sub Guide for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-lenovo-laptop-screen-logging-made-easy/"><u>[New] In 2024, Lenovo Laptop Screen Logging Made Easy</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-tech-savvy-ways-to-record-mac-lectures/"><u>[New] In 2024, Tech-Savvy Ways to Record Mac Lectures</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-10-best-online-learning-sites-like-udemy/"><u>[Updated] 10 Best Online Learning Sites Like Udemy</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-navigating-legalities-in-skype-call-audio-preservation/"><u>[Updated] In 2024, Navigating Legalities in Skype Call Audio Preservation</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-streamlining-zoom-sessions-through-effective-recording/"><u>[Updated] In 2024, Streamlining Zoom Sessions Through Effective Recording</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-pausecapture-stop-and-save-live-image/"><u>2024 Approved PauseCapture Stop & Save Live Image</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/dicas-oficiais-para-consertar-dvds-copiados-no-windows-11-e-macos-sem-perder-a-integridade-de-video/"><u>Dicas Oficiais Para Consertar DVDs Copiados No Windows 11 E macOS Sem Perder a Integridade De Vídeo</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-google-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Google Phone Screen?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-capturing-every-moment-in-motion-with-polaroids-new-release/"><u>In 2024, Capturing Every Moment in Motion with Polaroid's New Release</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-making-your-hidden-wi-fi-network-visible-again/"><u>Troubleshooting Guide: Making Your Hidden Wi-Fi Network Visible Again</u></a></li>
 </ul></div>
 

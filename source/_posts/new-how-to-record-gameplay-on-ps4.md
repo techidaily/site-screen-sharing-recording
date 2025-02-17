@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Record Gameplay on PS4"
-date: 2024-09-17T21:12:59.682Z
-updated: 2024-09-23T21:03:51.341Z
+date: 2025-02-14T11:27:45.886Z
+updated: 2025-02-16T20:52:38.564Z
 tags: 
   - screen-recording
   - ai video
@@ -65,13 +65,6 @@ Step 2: Open Wondershare Filmora and click on New Project option.
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: Go to Record and click on Record PC Screen option.
 
 Step 4: Set the screen size as per the screen size of your PS4 emulator. Similarly, select the audio sources appropriately. For more configurations and parameters, click on Gear icon in the bottom-right corner. You should make the frame rate as high and quality as best. Note the hotkeys as they will come handy.
@@ -83,13 +76,6 @@ Step 5: Click on the Record button to start recording the screen.
 ![filmora recording screen](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
 
 You will get a few seconds to go to PS4 emulator and start playing your game. Press F9 to stop recording when your gameplay is over.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Way 3\. How to Record Video on PS4 with Capture Card
 
@@ -192,10 +178,7 @@ Step 2: Under Sharing and Broadcasts, go to Length of Video Clip option. Here yo
 ![set recording duration ps4](https://images.wondershare.com/filmora/article-images/set-recording-duration-ps4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3: If you want to record your gameplay with your voice, go to Audio Sharing Settings option. Turn on "Include Mic in Video Clip" option.
@@ -205,6 +188,10 @@ Step 3: If you want to record your gameplay with your voice, go to Audio Sharing
 Step 4: Start your game and whenever you feel like you need to start recording, press the Share button two times on PS4\. The recording will start automatically in the background and as soon as the set duration limit is reached, the recording will stop. However, you can also stop the recording by pressing on Share button twice again.
 
 Step 5: You can go to the main menu and under Capture Gallery, you will find the recorded video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 2\. How to Screen Record on PS4 via PC
 
@@ -227,16 +214,7 @@ Step 2: Open Wondershare Filmora and click on New Project option.
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3: Go to Record and click on Record PC Screen option.
@@ -252,10 +230,7 @@ Step 5: Click on the Record button to start recording the screen.
 You will get a few seconds to go to PS4 emulator and start playing your game. Press F9 to stop recording when your gameplay is over.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Way 3\. How to Record Video on PS4 with Capture Card
@@ -278,13 +253,6 @@ Way 2. [How to Screen Record on PS4 via PC](#part2)
 
 Way 3. [Record Video on PS4 with Capture Card](#part3)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Way 1\. How to Record on PS4 with Built-in Tool
 
 The easiest way on how to record gameplay on PS4 is by using its default recording tool. However, there are certain limitations that you should be aware of. The default PS4 recording time is 15 minutes, and you can adjust the duration up to 60 minutes only. This means you cannot record a gameplay beyond 60 minutes. If you are good with the limitations, you can follow the simple steps on how to record PS4 gameplay for YouTube and Twitch below.
@@ -300,15 +268,16 @@ Step 3: If you want to record your gameplay with your voice, go to Audio Sharing
 ![ps4 record include audio](https://images.wondershare.com/filmora/article-images/include-microphone-audio-ps4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4: Start your game and whenever you feel like you need to start recording, press the Share button two times on PS4\. The recording will start automatically in the background and as soon as the set duration limit is reached, the recording will stop. However, you can also stop the recording by pressing on Share button twice again.
 
 Step 5: You can go to the main menu and under Capture Gallery, you will find the recorded video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 2\. How to Screen Record on PS4 via PC
 
@@ -330,6 +299,10 @@ Step 2: Open Wondershare Filmora and click on New Project option.
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Go to Record and click on Record PC Screen option.
 
 Step 4: Set the screen size as per the screen size of your PS4 emulator. Similarly, select the audio sources appropriately. For more configurations and parameters, click on Gear icon in the bottom-right corner. You should make the frame rate as high and quality as best. Note the hotkeys as they will come handy.
@@ -341,13 +314,14 @@ Step 5: Click on the Record button to start recording the screen.
 ![filmora recording screen](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You will get a few seconds to go to PS4 emulator and start playing your game. Press F9 to stop recording when your gameplay is over.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 3\. How to Record Video on PS4 with Capture Card
 
@@ -360,6 +334,10 @@ Step 2: The USB or data cable should go from Capture card to your computer. The 
 Step 3: Turn on PS4 and go to Settings on your TV screen. From Settings, go to System> System Information to check if PS4 software is updated. This is to ensure that what you see on your TV screen should also be on your laptop.
 
 Step 4: On your computer, you can use any online screen recorder. If you have any inbuilt screen recorder that comes with your capture card, you can use the same. Start your gameplay and start recording on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -387,5 +365,18 @@ Hopefully, you have understood how to record videos on PS4\. If your gameplay is
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-lightning-fast-retrieval-of-vanished-reddit-discussions/"><u>[New] 2024 Approved Lightning-Fast Retrieval of Vanished Reddit Discussions</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-a-dive-into-ar-sticker-technology-and-alternatives/"><u>[New] In 2024, A Dive Into AR Sticker Technology and Alternatives</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-effortless-webcam-recordings-on-hp-systems/"><u>[New] In 2024, Effortless Webcam Recordings on HP Systems</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-the-essential-guide-to-webcam-assisted-presentations/"><u>[New] In 2024, The Essential Guide to Webcam-Assisted Presentations</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-enhancing-gaming-experience-minecraft-recordings-made-easy/"><u>[Updated] 2024 Approved Enhancing Gaming Experience Minecraft Recordings Made Easy</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-best-online-audio-solutions-2023-guide/"><u>[Updated] Best Online Audio Solutions 2023 Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-pro-gamers-fbx-filming-techniques/"><u>[Updated] In 2024, Pro Gamers' FBX Filming Techniques</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-garmin-venu-analysis-your-ultimate-guide-for-247-wellness-monitoring/"><u>Comprehensive Garmin Venu Analysis - Your Ultimate Guide for 24/7 Wellness Monitoring</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-eliminate-lagging-while-gaming-fallout-4-essential-advice/"><u>How to Eliminate Lagging While Gaming Fallout 4 - Essential Advice</u></a></li>
+<li><a href="https://win-answers.techidaily.com/identifying-your-current-windows-10-os-build-and-version-a-comprehensive-guide/"><u>Identifying Your Current Windows 10 OS Build & Version: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-is-the-difference-between-an-ipad-and-a-tablet/"><u>What Is the Difference Between an iPad and a Tablet?</u></a></li>
+</ul></div>
 
