@@ -1,7 +1,7 @@
 ---
 title: "[New] Essential Tips for Recording PS4 Games with OBS"
-date: 2025-02-14T16:01:12.212Z
-updated: 2025-02-17T16:04:05.557Z
+date: 2025-02-27T19:13:49.960Z
+updated: 2025-03-05T19:55:23.917Z
 tags: 
   - screen-recording
   - ai video
@@ -50,10 +50,6 @@ Step 2: Download and install PS4 Remote Play application from “remoteplay.dl.p
 
 ![download and install ps4 remote play](https://images.wondershare.com/filmora/article-images/download-and-install-ps4-remote-play.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 PS4 Remote Play is responsible for connecting your PS4 to your computer so that you can control any game with PS4.
 
 Step 3: Connect your PS4 to your computer and launch PS4 Remote Play. Sign in with your PS4 account and go to Settings and make sure that the resolution is set high to better recording quality.
@@ -65,10 +61,6 @@ Step 4: Launch the game you want to play and make sure that PS4 is working with 
 Step 5: Launch OBS Studio now. From Sources tab located at the bottom, click on “+” icon. Select Display Capture so that you can record your screen while playing the video game with PS4 on your computer.
 
 ![obs launch display cature](https://images.wondershare.com/filmora/article-images/obs-launch-display-cature.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 6: You can go to Settings under Controls tab and go to Video tab to ensure all the configuration parameters are perfectly set.
 
@@ -126,10 +118,6 @@ Step 2: Download and install PS4 Remote Play application from “remoteplay.dl.p
 
 ![download and install ps4 remote play](https://images.wondershare.com/filmora/article-images/download-and-install-ps4-remote-play.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 PS4 Remote Play is responsible for connecting your PS4 to your computer so that you can control any game with PS4.
 
 Step 3: Connect your PS4 to your computer and launch PS4 Remote Play. Sign in with your PS4 account and go to Settings and make sure that the resolution is set high to better recording quality.
@@ -149,10 +137,6 @@ Step 7: When you are ready, click on Start Recording button under Controls tab. 
 ![obs start streaming](https://images.wondershare.com/filmora/article-images/obs-start-streaming.jpg)
 
 Step 8: Once you are done playing, come back to OBS and click on Stop Recording button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. OBS Alternative To Record Gameplay
 
@@ -202,19 +186,11 @@ Step 2: Download and install PS4 Remote Play application from “remoteplay.dl.p
 
 ![download and install ps4 remote play](https://images.wondershare.com/filmora/article-images/download-and-install-ps4-remote-play.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 PS4 Remote Play is responsible for connecting your PS4 to your computer so that you can control any game with PS4.
 
 Step 3: Connect your PS4 to your computer and launch PS4 Remote Play. Sign in with your PS4 account and go to Settings and make sure that the resolution is set high to better recording quality.
 
 ![remote play sign in your account](https://images.wondershare.com/filmora/article-images/remote-play-sign-in-your-account.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4: Launch the game you want to play and make sure that PS4 is working with the game.
 
@@ -227,10 +203,6 @@ Step 6: You can go to Settings under Controls tab and go to Video tab to ensure 
 Step 7: When you are ready, click on Start Recording button under Controls tab. Switch to your game and start playing with PS4\. The recording is going on in the background.
 
 ![obs start streaming](https://images.wondershare.com/filmora/article-images/obs-start-streaming.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 8: Once you are done playing, come back to OBS and click on Stop Recording button.
 
@@ -256,10 +228,6 @@ Step 2: Open Filmora and click on PC Screen option to record your gameplay that 
 
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3: Select the recording screen size. For gameplay recording, full screen is preferable. You can select the external microphone if you want to record your live commentary. Make sure the system audio is correctly selected so that the game audio is captured. You can turn on Record the Camera Stream option if you want webcam as overlay.
 
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
@@ -267,10 +235,6 @@ Step 3: Select the recording screen size. For gameplay recording, full screen is
 Step 4: Once you are ready, click on Record button. You will get a few buffer seconds to switch to your game screen before the recording starts. To stop recording, you can press F9 key.
 
 You can then trim the video, add video effects and transitions, add audio effects, and export it in any desired file format.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -331,10 +295,6 @@ Step 1: Download and install Wondershare Filmora. Filmora is available for Windo
 Step 2: Open Filmora and click on PC Screen option to record your gameplay that you play on your computer with PS4.
 
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3: Select the recording screen size. For gameplay recording, full screen is preferable. You can select the external microphone if you want to record your live commentary. Make sure the system audio is correctly selected so that the game audio is captured. You can turn on Record the Camera Stream option if you want webcam as overlay.
 
@@ -372,22 +332,16 @@ If you want to record your gameplay on your computer when you play with PS4, you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flair-and-finesse-in-your-gaming-youtube-channel/"><u>[New] In 2024, Flair and Finesse in Your Gaming YouTube Channel</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-the-art-of-recording-facebook-lives-discover-4-key-strategies-for-2024/"><u>[New] The Art of Recording Facebook Lives Discover 4 Key Strategies for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-the-pinnacle-of-new-zooids-in-panzoids/"><u>[New] The Pinnacle of New Zooids in Panzoids</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-top-tools-and-techniques-for-adding-frames-to-images-online/"><u>[New] Top Tools & Techniques for Adding Frames to Images Online</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-mac-techniques-for-capturing-your-minecraft-adventures/"><u>[Updated] 2024 Approved Mac Techniques for Capturing Your Minecraft Adventures</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-the-complete-breakdown-of-game-capture-in-overwatch/"><u>[Updated] 2024 Approved The Complete Breakdown of Game Capture in Overwatch</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-commonplace-phones-to-cutting-edge-vr-headsets/"><u>[Updated] From Commonplace Phones to Cutting-Edge VR Headsets</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-discover-top-browser-screen-recording-software-audiences/"><u>[Updated] In 2024, Discover Top Browser Screen Recording Software Audiences</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-webcam-users-guide-for-quality-recordings-for-2024/"><u>[Updated] The Ultimate WebCam User's Guide for Quality Recordings for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagram-perfection-on-ios-and-android-choose-the-top-8-schedulers/"><u>2024 Approved Instagram Perfection on iOS & Android - Choose the Top 8 Schedulers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/comprehensive-mp4-video-downloader-review/"><u>Comprehensive MP4 Video Downloader Review</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/extract-and-save-video-previews-free-and-easy-for-2024/"><u>Extract and Save Video Previews, Free & Easy for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-laggard-to-lightning-pick-8-apps-now/"><u>From Laggard to Lightning Pick 8 Apps Now</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oppo-find-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Oppo Find X6 | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-a-complete-guide-to-utilizing-ios-screenshot-feature/"><u>In 2024, A Complete Guide to Utilizing IO's Screenshot Feature</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-ios-leading-edge-psp-emulators-top-5-lists/"><u>In 2024, IOS Leading Edge PSP Emulators, Top 5 Lists</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/optimizing-video-capture-with-mov-on-windows-10-for-2024/"><u>Optimizing Video Capture with MOV on Windows 10 for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-amalgamate-ppts-for-video-creation/"><u>[Updated] 2024 Approved Amalgamate PPTs for Video Creation</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-meme-mayhem-the-ultimate-list-of-crazy-tiktok-challenges/"><u>2024 Approved Meme Mayhem The Ultimate List of Crazy TikTok Challenges</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/affordable-and-agile-in-depth-analysis-of-the-propella-7s-4-paddleboard-reviews/"><u>Affordable & Agile: In-Depth Analysis of the Propella 7S 4 Paddleboard Reviews</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/beyond-facetime-transformative-webcam-uses-for-2024/"><u>Beyond FaceTime Transformative Webcam Uses for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/building-confidence-with-second-language-education/"><u>Building Confidence with Second Language Education</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-xr-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-quick-click-compilation-top-10-fastest-phone-and-pc-apps/"><u>In 2024, Quick Click Compilation Top 10 Fastest Phone & PC Apps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/instructor-insights-choosing-the-prime-video-capturing-technology-for-2024/"><u>Instructor Insights Choosing the Prime Video Capturing Technology for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-best-lego-stop-motion-makers-for-2024/"><u>New Best Lego Stop Motion Makers for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-ultimate-guide-to-screen-and-video-recording/"><u>The Ultimate Guide to Screen and Video Recording</u></a></li>
+<li><a href="https://techidaily.com/top-iphone-15-message-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top iPhone 15 Message Recovery Software | Stellar</u></a></li>
 </ul></div>
 

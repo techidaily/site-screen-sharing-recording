@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Unlocking Fullscreen Footage  Screen Recording Made Simple for Mac Users\""
-date: 2025-02-12T16:08:00.027Z
-updated: 2025-02-17T16:13:34.759Z
+date: 2025-03-04T19:03:53.221Z
+updated: 2025-03-05T23:30:51.225Z
 tags: 
   - screen-recording
   - ai video
@@ -25,10 +25,6 @@ Well, in this scenario using the graphical GUI might seem easy but it's not pret
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: Use Keyboard Shortcuts
 
@@ -81,17 +77,9 @@ Click on the start recording button and you will see a new window will pop up to
 
 ![quicktime drag and drop on screen](https://images.wondershare.com/filmora/article-images/quicktime-drag-and-drop-on-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Finally, if you are needed to stop recording, all you have to do is click on the QuickTime player icon in the application bar and select stop recording as shown. After doing so, you will be left with the untitled video of your recording that you can play through the player.
 
 ![quicktime stop screen recording option](https://images.wondershare.com/filmora/article-images/quicktime-stop-screen-recording-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Use Filmora
 
@@ -109,10 +97,6 @@ First of all, you will need to have Filmora 9 on your Macbook Air. Assuming that
 
 ![filmora record screen](https://images.wondershare.com/filmora/guide/create-a-project-mac.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Inside the Filmora application, go to the file in the menu, then hover on the “record media” and then click on the “Record PC Screen”.
 
 ![filmora record media pc screen](https://images.wondershare.com/filmora/guide/recording-for-mac-1.png)
@@ -122,10 +106,6 @@ After following the above steps, you will see the Filmora recorder has been laun
 Before starting your recording it's important to have a look at the detailed recording settings. To access those settings just click on the settings icon on the GUI of the recorder as can be seen in the above picture. Once you have clicked on it, you will see a new window of settings as shown.
 
 ![set audio](https://images.wondershare.com/filmora/guide/recording-for-mac-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You can choose the destination folder for your recording from the “Save To” filed in the newly launched window. You can also set frame rates, and the quality of your video and start the recorder timer before starting recording. If you want to record the webcam footage or some other camera module attached to your PC too. All you need to check the Camera field and it will simultaneously record your camera feed too.
 
@@ -157,10 +137,6 @@ Finally, if you are needed to stop recording, all you have to do is click on the
 
 ![quicktime stop screen recording option](https://images.wondershare.com/filmora/article-images/quicktime-stop-screen-recording-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: Use Filmora
 
 Another cool way to [record your screen](https://tools.techidaily.com/wondershare/filmora/download/) on Macbook Air is using Filmora. Filmora comes with many updated versions, the latest one is Filmora 11\. The good thing is, that this method is similar to all of its versions. We will be using Filmora 9 to show how you can use its screen recorder on your MacBook Air to screen record like a pro.
@@ -180,10 +156,6 @@ First of all, you will need to have Filmora 9 on your Macbook Air. Assuming that
 Inside the Filmora application, go to the file in the menu, then hover on the “record media” and then click on the “Record PC Screen”.
 
 ![filmora record media pc screen](https://images.wondershare.com/filmora/guide/recording-for-mac-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After following the above steps, you will see the Filmora recorder has been launched as shown. You can select different capturing modes for your screen recording using the “Full Screen” options. Moreover, the frame size of your capturing can also be adjusted using custom values for size. Choose microphone input for your video through mic settings and enable/disable system audio anytime in this window. The recording can be started with the circular icon on this window as shown in the figure.
 
@@ -209,17 +181,9 @@ First, you will need to look into your applications row on your desktop screen. 
 
 ![quicktime player row on desktop screen](https://images.wondershare.com/filmora/article-images/quicktime-player-row-on-desktop-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Once you are done with launching the GUI of the application, it's time to learn how can you start recording now. Before starting your recording with the red icon of the start button as shown it is important to choose whether you want microphone input to be recorded or not. You can easily do it by enabling the internal microphone in the settings as shown in the figure. Once you are done with the settings it's time to start your recording.
 
 ![quciktime internal microphone](https://images.wondershare.com/filmora/article-images/quciktime-internal-microphone.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Click on the start recording button and you will see a new window will pop up to choose the screen recording mode from it as shown in the figure below. To record in the full-screen recording mode you just need to click randomly on the screen once and it will start recording the whole screen. Otherwise, drag and select a particular area on the screen and click start recording once shown and you will have the recording of the particular screen area.
 
@@ -248,10 +212,6 @@ First of all, you will need to have Filmora 9 on your Macbook Air. Assuming that
 Inside the Filmora application, go to the file in the menu, then hover on the “record media” and then click on the “Record PC Screen”.
 
 ![filmora record media pc screen](https://images.wondershare.com/filmora/guide/recording-for-mac-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After following the above steps, you will see the Filmora recorder has been launched as shown. You can select different capturing modes for your screen recording using the “Full Screen” options. Moreover, the frame size of your capturing can also be adjusted using custom values for size. Choose microphone input for your video through mic settings and enable/disable system audio anytime in this window. The recording can be started with the circular icon on this window as shown in the figure.
 
@@ -349,24 +309,18 @@ There may be other tools and screen recorders in the market available for your M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-expand-your-gameplay-leading-xbox-drives-reviewed/"><u>[New] 2024 Approved Expand Your Gameplay Leading Xbox Drives Reviewed</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-the-definitive-guide-to-live-streaming-platforms-obs-edition/"><u>[New] 2024 Approved The Definitive Guide to Live Streaming Platforms - OBS Edition</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/1715860569505-new-activating-built-in-screen-recorders-mate-1020-and-p-series-devices-p20-p10/"><u>[New] Activating Built-In Screen Recorders Mate 10/20 & P-Series Devices (P20, P10).</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-clan-combat-chronicles-top-10-games-inspired-by-ghost-of-tsushima-for-2024/"><u>[New] Clan Combat Chronicles Top 10 Games Inspired by Ghost of Tsushima for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-best-webp-converter-how-to-convert-webp-to-jpg/"><u>[New] In 2024, Best WebP Converter How to Convert WebP to JPG</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-an-impactful-waterway-teaser/"><u>[New] In 2024, Crafting an Impactful Waterway Teaser</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-pro-tech-reviews-sharex-and-more/"><u>[New] In 2024, Pro Tech Reviews ShareX & More</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-skypes-leading-audio-devices-ranked-and-reviewed-for-2024/"><u>[New] Skype's Leading Audio Devices Ranked & Reviewed for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-effortless-audio-extraction-best-youtube-to-mp3-tools-list/"><u>[Updated] 2024 Approved Effortless Audio Extraction Best YouTube to MP3 Tools List</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-how-to-stream-on-youtube-and-twitch-with-obs/"><u>[Updated] In 2024, How to Stream on YouTube & Twitch with OBS</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-instagram-and-youtube-synergy-sharing-video-links-in-stories/"><u>[Updated] Instagram and YouTube Synergy Sharing Video Links in Stories</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-time-saving-tips-for-documenting-virtual-meeting-events/"><u>2024 Approved Time-Saving Tips for Documenting Virtual Meeting Events</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-decoded-mastering-language-translation-with-artificnial-intelligence/"><u>ChatGPT Decoded: Mastering Language Translation with Artificnial Intelligence</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-html-display-issues-in-windows-11-email-client/"><u>Correcting HTML Display Issues in Windows 11 Email Client</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/essential-guide-to-spanish-salutations-and-greeting-phrases-top-10-must-know-expressions/"><u>Essential Guide to Spanish Salutations & Greeting Phrases: Top 10 Must-Know Expressions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/free-online-converter-transform-mxf-files-into-avi-format-with-easy-to-use-tools/"><u>Free Online Converter: Transform MXF Files Into AVI Format with Easy-to-Use Tools</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-methods-for-amending-silent-obs-recordings/"><u>In 2024, Methods for Amending Silent OBS Recordings</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/spark-ar-graphics-mastering-the-art-with-downloadable-color-lookups/"><u>Spark AR Graphics Mastering the Art with Downloadable Color Lookups</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unveiling-the-mystery-scriptwriting-for-documentaries/"><u>Unveiling the Mystery Scriptwriting for Documentaries</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-the-essential-guide-to-using-vsdc-and-comparing-it-with-others/"><u>[New] 2024 Approved The Essential Guide to Using VSDC & Comparing It with Others</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-your-portal-into-creation-easy-metaverse-personas/"><u>[New] 2024 Approved Your Portal Into Creation Easy Metaverse Personas</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-architectural-wonders-from-the-sandbox/"><u>[New] In 2024, Architectural Wonders From the Sandbox</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-overcoming-low-resolution-output-in-obs/"><u>[New] Overcoming Low-Resolution Output in OBS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-achieve-professionalism-in-sims-4-videography/"><u>[Updated] In 2024, Achieve Professionalism in Sims 4 Videography</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-exploring-8-top-tier-free-video-communication-tools-for-enterprises/"><u>[Updated] In 2024, Exploring 8 Top-Tier Free Video Communication Tools for Enterprises</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-art-of-audio-alteration-for-stories-and-reels-on-ig/"><u>[Updated] In 2024, The Art of Audio Alteration For Stories and Reels on IG</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-skyrocket-your-channels-with-these-essential-freegame-tags-for-youtube/"><u>[Updated] Skyrocket Your Channels with These Essential FreeGame Tags for YouTube</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-the-social-networks-roadmap-making-the-most-of-daily-use/"><u>2024 Approved The Social Network's Roadmap Making the Most of Daily Use</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/effortless-webcam-recordings-on-hp-systems/"><u>Effortless Webcam Recordings on HP Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-pillars-of-profitable-digital-marketing-for-2024/"><u>The Pillars of Profitable Digital Marketing for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-the-potential-advanced-techniques-for-podcast-editing-in-garageband/"><u>Unlock the Potential Advanced Techniques for Podcast Editing in GarageBand</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-and-resolving-0x800704cf-error-in-windows-store/"><u>Unraveling and Resolving 0X800704CF Error in Windows' Store</u></a></li>
 </ul></div>
 

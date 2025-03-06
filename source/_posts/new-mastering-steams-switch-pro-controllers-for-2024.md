@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Steam's Switch Pro Controllers for 2024"
-date: 2025-02-10T16:08:24.542Z
-updated: 2025-02-17T16:10:42.853Z
+date: 2025-02-27T16:51:17.775Z
+updated: 2025-03-06T00:14:05.664Z
 tags: 
   - screen-recording
   - ai video
@@ -47,10 +47,6 @@ This article will tell you how to enable your Nintendo Switch Pro controller to 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Wired Connection for Switch Pro Controllers**
 
 Windows describe it as a DirectInput controller instead of an XInput controller, so getting it to work with PC games can prove tedious. However, thanks to Value-adding full Switch controller support to Steam, you will probably be able to play most of your favorite games.
@@ -71,10 +67,6 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-syncing-button](https://images.wondershare.com/filmora/article-images/switch-pro-controller-syncing-button.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Right-click the Bluetooth icon in the system tray.
 
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
@@ -82,10 +74,6 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 * To add a Bluetooth device, click "Add Bluetooth Device."
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
@@ -112,10 +100,6 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **What To Do With Non-Steam Games?**
 
 Using the methods discussed above, you can easily use a switch pro controller with your pc, but it only works with steam games. But what if you want to play a non-steam game using a switch pro controller? What will you do now? The switch pro controller hardware support will run out of luck in this scenario.
@@ -125,10 +109,6 @@ The main problem here now is how windows will detect your switch pro controller 
 **Solution1:** The first solution is to use an external Bluetooth adapter that is specifically designed for different types of gamepads. You will find plenty of them out there for switch pro controllers.
 
 **Solution2:** The second method is to use a software-based XInput Wrapper. There is plenty of software out there that provides this functionality. Just configure your switch pro controller with them, and you can easily use it on non-steam games.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Final Verdict**
 
@@ -152,19 +132,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-high-octane-recordings-top-7-camcorder-picks/"><u>[New] 2024 Approved High-Octane Recordings Top 7 Camcorder Picks</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-the-verdict-on-actives-place-among-best-recorders/"><u>[New] In 2024, The Verdict on Active's Place Among Best Recorders</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-master-your-movie-recording-pc-mac-and-mobile-devices-for-2024/"><u>[New] Master Your Movie Recording PC, Mac & Mobile Devices for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-maximizing-mobile-video-quality-your-phone-as-a-webcam/"><u>[New] Maximizing Mobile Video Quality Your Phone as a Webcam</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-essential-free-templates-greatest-slide-shows-of-the-year/"><u>[Updated] 2024 Approved Essential Free Templates Greatest Slide Shows of the Year</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-kickstart-your-webinar-skills-with-easy-to-follow-zoom-steps/"><u>[Updated] In 2024, Kickstart Your Webinar Skills with Easy-to-Follow Zoom Steps</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-windows-11-gamers-guide-to-stunning-game-recordings/"><u>2024 Approved Windows 11 Gamers' Guide to Stunning Game Recordings</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-plus-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Plus to an Older Version? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Honor Magic 5 Lite? | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-obs-upgrade-tips-clearer-footage/"><u>In 2024, OBS Upgrade Tips Clearer Footage</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/online-vrijetend-konvertissemijboek-veelvoudig-m1v-in-mp4-bij-movavi-gratis/"><u>Online Vrijetend Konvertissemijboek: Veelvoudig M1V in MP4 Bij Movavi Gratis</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/premier-selection-the-best-11-soundstreamer-devices/"><u>Premier Selection The Best 11 Soundstreamer Devices</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/simplified-methods-for-recording-successful-online-classes-and-meets/"><u>Simplified Methods for Recording Successful Online Classes & Meets</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-repairing-disk-errors-with-the-chkdsk-tool-in-windows/"><u>Step-by-Step Tutorial: Repairing Disk Errors with the Chkdsk Tool in Windows</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-clean-cut-windows-10-screen-logger-for-2024/"><u>[New] Clean-Cut Windows 10 Screen Logger for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-efficient-video-storing-in-google-chat/"><u>[New] Efficient Video Storing in Google Chat</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-elevate-your-farm-the-top-7-stardew-modifications-for-2024/"><u>[New] Elevate Your Farm The Top 7 Stardew Modifications for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-winning-windows-wisdom-quick-photo-mastery/"><u>[New] In 2024, Winning Window's Wisdom Quick Photo Mastery</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-fast-lane-to-sharing-playlists-online-for-2024/"><u>[New] The Fast Lane to Sharing Playlists Online for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-unlocking-mov-recording-potential-win-11s-top-six-methods/"><u>[New] Unlocking .MOV Recording Potential Win 11'S Top Six Methods</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-transform-slide-show-into-video-format/"><u>[Updated] In 2024, Transform Slide Show Into Video Format</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-joyful-jams-the-funniest-musical-mashups/"><u>[Updated] Joyful Jams The Funniest Musical Mashups</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-ultimate-fraps-experience-for-game-capture/"><u>[Updated] The Ultimate Fraps Experience for Game Capture</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-uniting-visuals-a-pc-and-web-overlay-method/"><u>[Updated] Uniting Visuals A PC & Web Overlay Method</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-vigor-in-voice-assessment-version-8/"><u>[Updated] Vigor in Voice Assessment Version 8</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-deep-dive-into-acid-pro-functionality-and-alternatives/"><u>2024 Approved Deep Dive Into ACID Pro Functionality & Alternatives</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-nokia-105-classic-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-hevc-files-on-motorola-moto-g-stylus-5g-2023-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Failed to play HEVC files on Motorola Moto G Stylus 5G (2023)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/from-basic-to-brilliant-top-100plus-biographies-that-captivate-audiences-for-2024/"><u>From Basic to Brilliant Top 100+ Biographies that Captivate Audiences for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intel-unveils-upcoming-z890-chipset-compatible-core-ultra-arrow-lake-processors-leaked-images-reveal-new-desktop-cpu-names/"><u>Intel Unveils Upcoming Z890 Chipset-Compatible Core Ultra Arrow Lake Processors – Leaked Images Reveal New Desktop CPU Names</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/tips-for-high-quality-vr-gametime-recordings-for-2024/"><u>Tips for High-Quality VR Gametime Recordings for 2024</u></a></li>
 </ul></div>
 
